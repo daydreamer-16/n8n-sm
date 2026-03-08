@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/recette-molly-cake-moelleux</loc>
+  <lastmod>2026-03-08T06:58:00+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/erreurs-a-eviter-vietnam/</loc>
   <lastmod>2026-03-07T07:25:00+00:00</lastmod>
   <loc>https://gourmetbag.fr/peut-on-congeler-de-la-pate-brisee-maison-sans-perdre-sa-texture/</loc>
@@ -43,19 +45,4 @@
   </image:image>
   <loc>https://www.st-claire.eu/arrozais-rizieres-culture-monde</loc>
   <lastmod>2026-03-06T07:04:00+00:00</lastmod>
-  <loc>https://mapatisserie.fr/recette/classiques-faciles/recette-cake-mabre/</loc>
-  <lastmod>2026-03-06T06:00:05+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-04-e1736957903475.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-01-e1736024568361.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0730.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0728.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0727.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0732.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0740.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0736.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0735.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0734.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-cake-marbre-IMG_0733.jpg</image:loc>
-  </image:image>
 </data>
