@@ -22,19 +22,8 @@
     <news:keywords>MS, Multiple Sclerosis, Everclear, Art Alexakis </news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/glp1-drugs-may-reduce-migraine-symptom-severity</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-6</news:publication_date>
-    <news:title>GLP-1 Drugs Like Ozempic May Help Reduce Migraine Symptom Severity</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-07T14:53:43.334Z</lastmod>
+  <lastmod>2026-03-08T06:25:25.173Z</lastmod>
   <loc>https://www.naturitas.es/blog/menopausia/dia-internacional-de-la-mujer-menopausia-bienestar-y-autocuidado-femenino</loc>
   <lastmod>2026-03-05T09:39:06Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/hinchazon-abdominal-y-mindful-eating-habitos-sencillos-que-pueden-ayudarte</loc>
@@ -47,4 +36,6 @@
   <lastmod>2026-03-01T18:15:56Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/claves-naturales-para-mantener-la-vitalidad-en-meses-de-frio</loc>
   <lastmod>2026-02-20T10:12:41Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/sopa-cremosa-de-brocoli-y-espinacas-con-leche-de-coco</loc>
+  <lastmod>2026-02-19T09:00:06Z</lastmod>
 </data>
