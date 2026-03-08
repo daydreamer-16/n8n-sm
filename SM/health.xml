@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/collagen-supplements-skin-health-myths-debunked</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-8</news:publication_date>
+    <news:title>Can Collagen Really Improve Your Skin Health? What the Research Says</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/menopause-mental-health-effects-depression-bipolar-disorder</loc>
   <news:news>
     <news:publication>
@@ -11,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/everclear-frontman-art-alexakis-ms</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-6</news:publication_date>
-    <news:title>Why Everclear Frontman Art Alexakis Says His Multiple Sclerosis Diagnosis Was a ‘Blessing’</news:title>
-    <news:keywords>MS, Multiple Sclerosis, Everclear, Art Alexakis </news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-08T06:25:25.173Z</lastmod>
+  <lastmod>2026-03-08T21:46:32.038Z</lastmod>
   <loc>https://www.naturitas.es/blog/menopausia/dia-internacional-de-la-mujer-menopausia-bienestar-y-autocuidado-femenino</loc>
   <lastmod>2026-03-05T09:39:06Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/hinchazon-abdominal-y-mindful-eating-habitos-sencillos-que-pueden-ayudarte</loc>
