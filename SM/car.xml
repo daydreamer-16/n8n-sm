@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.auto-mechanic-info.com/vehicules-autorises-a-circuler-avec-une-plaque-dimmatriculation-verte/</loc>
+  <lastmod>2026-03-08T08:50:16+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/generated_8721406130599050310.png</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/generated_9702010866247414813.png</image:loc>
+  </image:image>
   <loc>https://www.planete-auto.fr/les-bmw-des-annees-quatre-vingt-dix/</loc>
   <lastmod>2026-03-07T16:35:51+00:00</lastmod>
   <image:image>
@@ -13,34 +19,55 @@
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/BMW-Z8.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/BMW-X5-E53.webp</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/789273/bmw-ai-robot-manufacturing-motorcycles-motorrad/</loc>
-  <lastmod>2026-03-07T13:18:50Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/789020/honda-cb1000f-coming-usa-soon/</loc>
-  <lastmod>2026-03-06T14:58:24Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/789132/tvs-motor-company-bigger-than-yamaha-third-largest-company/</loc>
-  <lastmod>2026-03-06T13:42:55Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/789116/middle-east-iran-war-qatar-motogp-races-postponed-ezpeleta/</loc>
-  <lastmod>2026-03-06T13:01:37Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/789019/ktm-refinance-loan-bajaj/</loc>
-  <lastmod>2026-03-06T12:48:10Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/788644/hel-performance-acquires-harrison-billet-meaning/</loc>
-  <lastmod>2026-03-06T12:35:52Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/789007/bmw-r1300-r-daytona-superhooligan-custom-motorcycle/</loc>
-  <lastmod>2026-03-06T12:16:58Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/788971/alpinestars-sr-7-specs-features-price/</loc>
-  <lastmod>2026-03-06T12:02:53Z</lastmod>
-  <priority>0.5</priority>
   <loc>https://www.planete-auto.fr/comment-anticiper-et-gerer-les-risques-routiers-au-quotidien/</loc>
   <lastmod>2026-03-06T10:28:41+00:00</lastmod>
   <image:image>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Conduite-sous-pluie.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Conduire-sous-la-pluie.webp</image:loc>
+  </image:image>
+  <loc>https://www.planete-auto.fr/comment-prendre-soin-du-moteur-de-sa-voiture/</loc>
+  <lastmod>2026-03-04T21:56:32+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Vue-sur-un-moteur-de-vehicule-a-travers-le-capot.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Mecanicien-qui-fait-le-diagnostic-dun-moteur.webp</image:loc>
+  </image:image>
+  <loc>https://www.etoilecollections.fr/fiabilite-moteur-bmw-b37/</loc>
+  <lastmod>2026-03-04T16:52:52+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/fiabilite-moteur-bmw-b37.jpg</image:loc>
+  </image:image>
+  <loc>https://www.etoilecollections.fr/conseils-dentretien/</loc>
+  <lastmod>2026-03-04T16:25:43+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/Les-conseils-dentretien-que-chaque-proprietaire-de-voiture-devrait-connaitre.jpg</image:loc>
+  </image:image>
+  <loc>https://www.etoilecollections.fr/voitures-en-e/</loc>
+  <lastmod>2026-03-03T17:49:37+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/voiture-en-e.jpg</image:loc>
+  </image:image>
+  <loc>https://www.etoilecollections.fr/jeunes-adultes-les-demarches-cles-pour-prendre-rendez-vous-pour-le-permis-de-conduire-et-optimiser-ses-chances-le-jour-j/</loc>
+  <lastmod>2026-03-03T16:32:36+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/Jeunes-adultes-les-demarches-cles-pour-prendre-rendez-vous-pour-le-permis-de-conduire-et-optimiser-ses-chances-le-jour-J.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/assurance-auto-pour-conducteurs-malusses-ou-resilies-les-meilleurs-choix-a-faire/</loc>
+  <lastmod>2026-03-02T12:02:35+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/image-1024x683.webp</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/image-1-1024x683.webp</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/image-2-1024x683.webp</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/unsplash-YsutjEqmLWo.jpg</image:loc>
+  </image:image>
+  <loc>https://www.planete-auto.fr/bmw-des-annees-soixante-dix/</loc>
+  <lastmod>2026-02-27T21:30:58+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-annee-90.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-2002.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-E9.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-E12.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-E21.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-E23.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-M1.webp</image:loc>
   </image:image>
 </data>
