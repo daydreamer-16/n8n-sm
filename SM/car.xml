@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.auto-mechanic-info.com/vehicules-autorises-a-circuler-avec-une-plaque-dimmatriculation-verte/</loc>
-  <lastmod>2026-03-08T08:50:16+00:00</lastmod>
+  <loc>https://www.planete-auto.fr/les-bmw-des-annees-deux-mille/</loc>
+  <lastmod>2026-03-08T21:14:06+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/generated_8721406130599050310.png</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/generated_9702010866247414813.png</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/bmw-2000.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/serie-3-e46.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Serie-5-E39.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/bmw-Serie-5-E60.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/X5-E53.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Z4-E85.webp</image:loc>
   </image:image>
+  <loc>https://www.planete-auto.fr/comment-prendre-soin-du-moteur-de-sa-voiture/</loc>
+  <lastmod>2026-03-08T20:07:29+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Vue-sur-un-moteur-de-vehicule-a-travers-le-capot.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Mecanicien-qui-fait-le-diagnostic-dun-moteur.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/789247/barry-sheene-championship-winning-suzuki-motorcycle-auction/</loc>
+  <lastmod>2026-03-08T12:12:29Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.planete-auto.fr/les-bmw-des-annees-quatre-vingt-dix/</loc>
   <lastmod>2026-03-07T16:35:51+00:00</lastmod>
   <image:image>
@@ -24,12 +37,6 @@
   <image:image>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Conduite-sous-pluie.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Conduire-sous-la-pluie.webp</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/comment-prendre-soin-du-moteur-de-sa-voiture/</loc>
-  <lastmod>2026-03-04T21:56:32+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Vue-sur-un-moteur-de-vehicule-a-travers-le-capot.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Mecanicien-qui-fait-le-diagnostic-dun-moteur.webp</image:loc>
   </image:image>
   <loc>https://www.etoilecollections.fr/fiabilite-moteur-bmw-b37/</loc>
   <lastmod>2026-03-04T16:52:52+00:00</lastmod>
@@ -58,16 +65,5 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/image-1-1024x683.webp</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/image-2-1024x683.webp</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/unsplash-YsutjEqmLWo.jpg</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/bmw-des-annees-soixante-dix/</loc>
-  <lastmod>2026-02-27T21:30:58+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-annee-90.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-2002.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-E9.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-E12.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-E21.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-E23.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/02/BMW-M1.webp</image:loc>
   </image:image>
 </data>
