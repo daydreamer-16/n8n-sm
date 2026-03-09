@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/la-nouvelle-ere-mercedes-commence-aujourdhui/</loc>
+  <lastmod>2026-03-09T12:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/6-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/7.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/conduite-accompagnee-ou-supervisee-quelle-formule-choisir/</loc>
+  <lastmod>2026-03-09T11:17:13+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/69a7eb53292ca.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/789140/revit-motorcycle-gear-ditching-pfas-sustainable-future/</loc>
+  <lastmod>2026-03-09T11:08:32Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/reviews/789249/2026-triumph-trident-660-review-first-ride/</loc>
+  <lastmod>2026-03-09T11:01:14Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/road-trip-autour-de-montpellier-une-escapade-en-occitanie/</loc>
+  <lastmod>2026-03-09T08:46:10+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/generated_11813234205925641674.webp</image:loc>
+  </image:image>
   <loc>https://www.planete-auto.fr/les-bmw-des-annees-deux-mille/</loc>
   <lastmod>2026-03-08T21:14:06+00:00</lastmod>
   <image:image>
@@ -16,9 +38,6 @@
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Vue-sur-un-moteur-de-vehicule-a-travers-le-capot.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Mecanicien-qui-fait-le-diagnostic-dun-moteur.webp</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/789247/barry-sheene-championship-winning-suzuki-motorcycle-auction/</loc>
-  <lastmod>2026-03-08T12:12:29Z</lastmod>
-  <priority>0.5</priority>
   <loc>https://www.planete-auto.fr/les-bmw-des-annees-quatre-vingt-dix/</loc>
   <lastmod>2026-03-07T16:35:51+00:00</lastmod>
   <image:image>
@@ -42,28 +61,5 @@
   <lastmod>2026-03-04T16:52:52+00:00</lastmod>
   <image:image>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/fiabilite-moteur-bmw-b37.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/conseils-dentretien/</loc>
-  <lastmod>2026-03-04T16:25:43+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/Les-conseils-dentretien-que-chaque-proprietaire-de-voiture-devrait-connaitre.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/voitures-en-e/</loc>
-  <lastmod>2026-03-03T17:49:37+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/voiture-en-e.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/jeunes-adultes-les-demarches-cles-pour-prendre-rendez-vous-pour-le-permis-de-conduire-et-optimiser-ses-chances-le-jour-j/</loc>
-  <lastmod>2026-03-03T16:32:36+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/Jeunes-adultes-les-demarches-cles-pour-prendre-rendez-vous-pour-le-permis-de-conduire-et-optimiser-ses-chances-le-jour-J.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/assurance-auto-pour-conducteurs-malusses-ou-resilies-les-meilleurs-choix-a-faire/</loc>
-  <lastmod>2026-03-02T12:02:35+01:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/image-1024x683.webp</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/image-1-1024x683.webp</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/image-2-1024x683.webp</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/unsplash-YsutjEqmLWo.jpg</image:loc>
   </image:image>
 </data>
