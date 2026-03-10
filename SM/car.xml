@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.planete-auto.fr/feux-de-remorque-rouler-visible-rouler-serein/</loc>
-  <lastmod>2026-03-09T21:23:58+00:00</lastmod>
+  <loc>https://www.roadstr.fr/blog/articles/dacia-striker/</loc>
+  <lastmod>2026-03-10T12:00:00+01:00</lastmod>
   <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Feux-arriere-dun-camion-en-mouvement.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/Feux-arriere-dune-remorque.webp</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/14-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/13-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/15.jpg</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/byd-seal-07/</loc>
-  <lastmod>2026-03-09T18:00:00+01:00</lastmod>
+  <loc>https://www.rideapart.com/news/789412/offline-campers-ryder-dirt-bike-rooftoptent-trailer/</loc>
+  <lastmod>2026-03-10T11:21:10Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/789324/arctic-cat-2027-snowmobile-lineup-unveiled/</loc>
+  <lastmod>2026-03-10T11:13:18Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/les-situations-dans-lesquelles-un-avocat-specialise-en-permis-de-conduire-peut-intervenir/</loc>
+  <lastmod>2026-03-10T02:51:34+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/8.jpg</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/out-0-47-scaled.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/6791727bed055.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/comment-personnaliser-sa-voiture-avec-des-accessoires-uniques-comme-les-caches-plaque-dimmatriculation/</loc>
+  <lastmod>2026-03-10T00:26:04+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/f6cbcaa3-0130-4732-8b38-2fb3c20d44cd.png</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/66a18d6515d11.jpg</image:loc>
+  </image:image>
+  <loc>https://www.planete-auto.fr/feux-de-remorque-rouler-visible-rouler-serein/</loc>
+  <lastmod>2026-03-10T00:08:18+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/feu-arriere-dune-remorque-basse.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/03/voiture-tirant-remorque.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/lelegance-automobile-dans-la-poche-les-coques-de-telephone-pour-les-passionnes-de-voitures/</loc>
+  <lastmod>2026-03-09T23:51:56+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/241811-2.jpg</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/241811-1-scaled.jpg</image:loc>
   </image:image>
   <loc>https://www.rideapart.com/news/789279/cfmoto-side-by-side-patent-polaris-xpedition-clone/</loc>
   <lastmod>2026-03-09T13:09:09Z</lastmod>
@@ -19,22 +45,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/789262/scout-motors-range-extended-ev-truck-towing-capacity/</loc>
   <lastmod>2026-03-09T12:19:32Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/789141/las-vegas-cops-motorcycles-crash-dumb-reason/</loc>
-  <lastmod>2026-03-09T11:44:18Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/789254/damon-motorcycles-ceo-cfo-board-resign-quit-ev/</loc>
-  <lastmod>2026-03-09T11:39:13Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.auto-mechanic-info.com/conduite-accompagnee-ou-supervisee-quelle-formule-choisir/</loc>
-  <lastmod>2026-03-09T11:17:13+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/69a7eb53292ca.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/789140/revit-motorcycle-gear-ditching-pfas-sustainable-future/</loc>
-  <lastmod>2026-03-09T11:08:32Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/reviews/789249/2026-triumph-trident-660-review-first-ride/</loc>
-  <lastmod>2026-03-09T11:01:14Z</lastmod>
   <priority>0.5</priority>
 </data>
