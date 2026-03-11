@@ -1,55 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/leconomie-circulaire-des-voitures-sportives/</loc>
+  <lastmod>2026-03-11T18:01:35+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/22.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/pires-resultats-volkswagen/</loc>
+  <lastmod>2026-03-11T17:35:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/16.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/le-patron-de-peugeot-lache-laveu-que-des-milliers-de-clients-attendaient/</loc>
+  <lastmod>2026-03-11T16:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/17.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/audi-rs3-competition-limited-le-cadeau-danniversaire-des-50-ans-du-5-cylindres/</loc>
+  <lastmod>2026-03-11T14:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/20-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/19-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/21.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/789581/trans-america-trail-founder-passed-away/</loc>
+  <lastmod>2026-03-11T13:13:58Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/789607/yamaha-r1m-rescue-graves-motorsports/</loc>
+  <lastmod>2026-03-11T12:52:19Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/789572/ktm-premium-warranty-coverage-2025-motorcycles-new-old/</loc>
+  <lastmod>2026-03-11T12:18:02Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/byd-veut-entrer-en-f1/</loc>
   <lastmod>2026-03-11T12:00:00+01:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/18.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/features/789459/cfmoto-500sr-coming-soon-specs-features/</loc>
-  <lastmod>2026-03-11T11:13:36Z</lastmod>
+  <loc>https://www.rideapart.com/news/789458/polaris-2027-lineup-unveiled-specs-features/</loc>
+  <lastmod>2026-03-11T11:57:35Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/789457/pulsejet-ski-trike-on-ice/</loc>
-  <lastmod>2026-03-11T11:03:20Z</lastmod>
+  <loc>https://www.rideapart.com/news/789565/airoh-j110-modular-motorcycle-helmet/</loc>
+  <lastmod>2026-03-11T11:36:11Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.jvoiture.fr/pourquoi-choisir-une-voiture-hybride/</loc>
-  <lastmod>2026-03-11T02:27:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/electric-car-1458836_1280.jpg</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/ce-quil-faut-faire-si-votre-vehicule-est-en-fourriere/</loc>
-  <lastmod>2026-03-11T02:27:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/dans-quelles-conditions-votre-vehicule-peut-il-etre-mis-en-fourriere-1.jpg</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/tant-que-le-vehicule-n-est-pas-charge-sur-le-panier-le-proprietaire-peut-le-recuperer-a-condition-de-payer-la-somme-forfaitaire-de-15-20-apres-c-est-plus-cher-photo-armand-flohr-1523460260.jpg</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/quel-est-le-prix-moyen-de-lassurance-moto-500cc-en-france/</loc>
-  <lastmod>2026-03-11T02:27:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/assurance-moto-1200x900-1.jpg</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/yamaha-mt-07.png</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/quelles-sont-les-differences-entre-les-chevaux-fiscaux-et-reels/</loc>
-  <lastmod>2026-03-11T02:27:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/ab08e67178_108016_puissance-moteur-chevaux-1-scaled.jpg</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/8e2gal_gie8-750x375@2x-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/assurance-auto-moins-chere-en-2020/</loc>
-  <lastmod>2026-03-11T02:27:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/assurance-scaled.jpg</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/ASSUANCE2-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/guide-dachat-du-velo-electrique-yamaha/</loc>
-  <lastmod>2026-03-11T02:27:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/yamaha-lance-trois-vae-sous-son-propre-pavillon-24945-1-P-scaled.jpg</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/essai-yamaha-crosscore-rc-0001-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/comment-choisir-une-transmission-automatique-pour-votre-voiture/</loc>
-  <lastmod>2026-03-11T02:27:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/20458816_l-scaled-1-scaled.jpg</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/longtemps-delaissees-en-france-les-boites-automatiques-equipent-desormais-plus-d-un-tiers-des-voitures-neuves-vendues-dans-l-hexagone-photo-dr-1618566091-scaled.jpg</image:loc>
-  </image:image>
 </data>
