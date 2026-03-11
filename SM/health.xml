@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/wegovy-higher-risk-eye-stroke-vision-loss-study</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-11</news:publication_date>
+    <news:title>Wegovy May Have Higher Risk of 'Eye Stroke,' Vision Loss Than Ozempic</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/daily-multivitamin-slows-biological-aging</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-11</news:publication_date>
+    <news:title>Daily Multivitamin May Slow Biological Aging in Older Adults</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/boy-kibble-high-protein-meal-trend</loc>
   <news:news>
     <news:publication>
@@ -22,30 +44,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/maintain-weight-loss-fewer-glp1-injections</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-9</news:publication_date>
-    <news:title>Can You Maintain Weight Loss With Fewer Injections of Ozempic, Wegovy?</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/obesity-driving-cancer-diagnoses-jama-study</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-9</news:publication_date>
-    <news:title>Obesity Driving 10% of Cancer Diagnoses, Review Finds. How to Lower Your Risk</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-11T09:47:34.008Z</lastmod>
+  <lastmod>2026-03-11T11:38:21.224Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
   <lastmod>2026-03-11T08:21:50Z</lastmod>
   <loc>https://www.naturitas.es/blog/menopausia/dia-internacional-de-la-mujer-menopausia-bienestar-y-autocuidado-femenino</loc>
