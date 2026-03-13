@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://gourmetbag.fr/par-quoi-remplacer-la-moutarde-dans-vos-recettes-de-cuisine/</loc>
-  <lastmod>2026-03-12T15:36:49+00:00</lastmod>
-  <loc>https://www.lateliergourmand.fr/raffinement-chocolat-maison-caffet/</loc>
-  <lastmod>2026-03-12T09:23:36+00:00</lastmod>
-  <loc>https://www.st-claire.eu/parodontite-aliments-a-eviter</loc>
-  <lastmod>2026-03-12T06:53:00+00:00</lastmod>
+  <loc>https://chefdodo.com/gratin-de-chou-fleur-pomme-de-terre/</loc>
+  <lastmod>2026-03-13T11:00:37+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/03/output1-7.png</image:loc>
+  </image:image>
+  <loc>https://www.lateliergourmand.fr/comment-cuire-lentilles/</loc>
+  <lastmod>2026-03-13T07:12:00+00:00</lastmod>
   <loc>https://chefdodo.com/steak-vegetal/</loc>
   <lastmod>2026-03-11T11:00:29+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/03/output1-6.png</image:loc>
-  </image:image>
-  <loc>https://chefdodo.com/recette-cookies-sans-oeuf/</loc>
-  <lastmod>2026-03-09T11:00:52+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/03/output1-5.png</image:loc>
   </image:image>
   <loc>https://mapatisserie.fr/recette/classiques-faciles/recette-gateau-au-chocolat/</loc>
   <lastmod>2026-03-12T22:24:56+00:00</lastmod>
@@ -68,5 +64,25 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_234853.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_234841.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_234425-e1493646355917.jpg</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/decoration/recette-glacage-miroir-rouge/</loc>
+  <lastmod>2026-03-12T21:38:19+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/11/Glacage-rouge-miroir-20171124_000001.jpeg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/11/Glacage-rouge-miroir-20171124_000001.jpeg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-glacage-miroir-rouge_2020-05-03_22-01-39.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-glacage-miroir-rouge_2020-05-03_22-03-23.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-glacage-miroir-rouge_2020-05-02_23-01-24.png</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-glacage-miroir-rouge_2020-05-02_23-01-47.png</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-glacage-miroir-rouge_2020-05-02_23-02-07.png</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-glacage-miroir-rouge_2020-05-02_23-02-49.png</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-glacage-miroir-rouge_2020-05-02_23-04-16.png</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-glacage-miroir-rouge_2020-05-02_23-05-29.png</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/decoration/recette-glacage-miroir/</loc>
+  <lastmod>2026-03-12T21:37:58+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/05/IMG_20160425_073459.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/05/IMG_20160425_073459-1.jpg</image:loc>
   </image:image>
 </data>
