@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://chefdodo.com/gratin-de-chou-fleur-pomme-de-terre/</loc>
-  <lastmod>2026-03-13T11:00:37+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/03/output1-7.png</image:loc>
-  </image:image>
   <loc>https://www.lateliergourmand.fr/comment-cuire-lentilles/</loc>
   <lastmod>2026-03-13T07:12:00+00:00</lastmod>
-  <loc>https://chefdodo.com/steak-vegetal/</loc>
-  <lastmod>2026-03-11T11:00:29+01:00</lastmod>
+  <loc>https://mapatisserie.fr/recette/macarons/recette-de-macaron-meringue-francaise/</loc>
+  <lastmod>2026-03-13T06:00:05+00:00</lastmod>
   <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/03/output1-6.png</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2015/11/recette-macaron-meringue-italienne_20160722_092601.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2015/09/IMG_20140704_231217-e1442834442812-300x229.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2014/12/wpid-wp-14198874905881-300x225.jpeg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2014/12/IMG_20141218_0605271.jpg</image:loc>
   </image:image>
   <loc>https://mapatisserie.fr/recette/classiques-faciles/recette-gateau-au-chocolat/</loc>
   <lastmod>2026-03-12T22:24:56+00:00</lastmod>
@@ -84,5 +82,11 @@
   <image:image>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/05/IMG_20160425_073459.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/05/IMG_20160425_073459-1.jpg</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/decoration/recette-glacage-miroir-jaune/</loc>
+  <lastmod>2026-03-12T21:37:12+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-glacage-miroir-jaune-brillant-img_20180127_184219-016626387302027824754-scaled.jpeg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-glacage-miroir-jaune-brillant-img_20180127_184219-016626387302027824754-scaled.jpeg</image:loc>
   </image:image>
 </data>
