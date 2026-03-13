@@ -22,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/daily-multivitamin-slows-biological-aging</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-11</news:publication_date>
-    <news:title>Daily Multivitamin May Slow Biological Aging in Older Adults</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-12T13:04:20.495Z</lastmod>
+  <lastmod>2026-03-13T03:17:10.350Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
   <lastmod>2026-03-11T12:27:59Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
@@ -47,4 +36,6 @@
   <lastmod>2026-03-03T09:00:09Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/todo-lo-que-necesitas-saber-sobre-el-acido-folico-y-sus-beneficios</loc>
   <lastmod>2026-03-01T18:30:31Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/batch-cooking-saludable-para-toda-la-semana</loc>
+  <lastmod>2026-03-01T18:30:24Z</lastmod>
 </data>
