@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/fda-approves-leucovorin-neurological-disorder-not-autism</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-13</news:publication_date>
+    <news:title>FDA Doesn’t Endorse Leucovorin for Autism, OKs It for Rare Brain Disorder</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/stressful-people-make-you-age-faster-study</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-13</news:publication_date>
+    <news:title>Why That 'Drama Queen' in Your Life Could Make You Age Faster</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/psilocybin-cbt-more-effective-than-nicotine-patch-quit-smoking</loc>
   <news:news>
     <news:publication>
@@ -11,19 +33,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/wegovy-higher-risk-eye-stroke-vision-loss-study</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-11</news:publication_date>
-    <news:title>Wegovy May Have Higher Risk of 'Eye Stroke,' Vision Loss Than Ozempic</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-13T03:17:10.350Z</lastmod>
+  <lastmod>2026-03-13T23:38:21.151Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
   <lastmod>2026-03-11T12:27:59Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
@@ -36,6 +47,4 @@
   <lastmod>2026-03-03T09:00:09Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/todo-lo-que-necesitas-saber-sobre-el-acido-folico-y-sus-beneficios</loc>
   <lastmod>2026-03-01T18:30:31Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/batch-cooking-saludable-para-toda-la-semana</loc>
-  <lastmod>2026-03-01T18:30:24Z</lastmod>
 </data>
