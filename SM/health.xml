@@ -11,19 +11,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/doja-cat-lipedemia-symptoms-treatment</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-14</news:publication_date>
-    <news:title>Doja Cat Reveals She May Have Lipedema: What Are the Signs, Symptoms?</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-15T16:58:46.595Z</lastmod>
+  <lastmod>2026-03-16T04:21:46.212Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
   <lastmod>2026-03-11T12:27:59Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
@@ -38,4 +27,6 @@
   <lastmod>2026-03-01T18:30:31Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/batch-cooking-saludable-para-toda-la-semana</loc>
   <lastmod>2026-03-01T18:30:24Z</lastmod>
+  <loc>https://www.naturitas.es/blog/sostenibilidad/10-gestos-sencillos-para-un-hogar-mas-eco-en-2026</loc>
+  <lastmod>2026-03-01T18:15:56Z</lastmod>
 </data>
