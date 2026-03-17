@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/excess-belly-fat-inflammation-heart-failure-risk</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-17</news:publication_date>
+    <news:title>Extra Belly Fat, Not BMI, a Stronger Predictor of Heart Failure Risk</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/judge-blocks-rfk-jr-child-vaccine-policies</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-17</news:publication_date>
+    <news:title>Judge Blocks RFK Jr.’s Child Vaccine Policies, Says They Disregard Science</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/aha-updated-cholesterol-guidelines-early-intervention</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-17</news:publication_date>
+    <news:title>New AHA Cholesterol Guidelines Emphasize Earlier Screening, Treatment</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/healthgrades-2026-patient-safety-excellence-awards</loc>
   <news:news>
     <news:publication>
@@ -11,19 +44,10 @@
     <news:keywords>healthgrades, patient safety awards, best hospitals</news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/older-adults-desire-sexual-intimacy</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-15</news:publication_date>
-    <news:title>Despite Popular Belief, Many Adults Over 60 Still Desire Intimacy</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-16T15:17:06.984Z</lastmod>
+  <lastmod>2026-03-17T18:38:09.095Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
+  <lastmod>2026-03-12T09:00:03Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
   <lastmod>2026-03-11T12:27:59Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
@@ -32,10 +56,4 @@
   <lastmod>2026-03-05T09:39:06Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/bowl-de-quinoa-curcuma-y-manzana</loc>
   <lastmod>2026-03-05T09:03:03Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/hinchazon-abdominal-y-mindful-eating-habitos-sencillos-que-pueden-ayudarte</loc>
-  <lastmod>2026-03-03T09:00:09Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/todo-lo-que-necesitas-saber-sobre-el-acido-folico-y-sus-beneficios</loc>
-  <lastmod>2026-03-01T18:30:31Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/batch-cooking-saludable-para-toda-la-semana</loc>
-  <lastmod>2026-03-01T18:30:24Z</lastmod>
 </data>
