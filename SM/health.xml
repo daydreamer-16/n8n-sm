@@ -33,19 +33,10 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/healthgrades-2026-patient-safety-excellence-awards</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-16</news:publication_date>
-    <news:title>Healthgrades Names Top U.S. Hospitals for Patient Safety in 2026</news:title>
-    <news:keywords>healthgrades, patient safety awards, best hospitals</news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-17T18:38:09.095Z</lastmod>
+  <lastmod>2026-03-18T11:14:03.698Z</lastmod>
+  <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
+  <lastmod>2026-03-17T09:00:07Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
   <lastmod>2026-03-12T09:00:03Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
