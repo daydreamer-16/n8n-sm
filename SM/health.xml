@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/new-resistance-training-guidelines-emphasize-consistency</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-19</news:publication_date>
+    <news:title>New Resistance Training Guidelines Say Consistency Is Key for Stronger Results</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/hospital-worker-survived-3-heart-attacks-4-days</loc>
   <news:news>
     <news:publication>
@@ -22,47 +33,18 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/excess-belly-fat-inflammation-heart-failure-risk</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-17</news:publication_date>
-    <news:title>Extra Belly Fat, Not BMI, a Stronger Predictor of Heart Failure Risk</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/judge-blocks-rfk-jr-child-vaccine-policies</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-17</news:publication_date>
-    <news:title>Judge Blocks RFK Jr.’s Child Vaccine Policies, Says They Disregard Science</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/aha-updated-cholesterol-guidelines-early-intervention</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-17</news:publication_date>
-    <news:title>New Cholesterol Guidelines Emphasize Earlier Screening, Treatment</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-18T23:38:23.118Z</lastmod>
+  <lastmod>2026-03-19T14:59:12.181Z</lastmod>
+  <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
+  <lastmod>2026-03-19T07:58:18Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
+  <lastmod>2026-03-19T07:44:18Z</lastmod>
+  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
+  <lastmod>2026-03-19T07:41:26Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-e-inmunidad-como-potenciar-tus-defensas-de-forma-natural</loc>
   <lastmod>2026-03-18T09:04:52Z</lastmod>
-  <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
-  <lastmod>2026-03-17T09:00:07Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
-  <lastmod>2026-03-12T09:00:03Z</lastmod>
-  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
-  <lastmod>2026-03-11T12:27:59Z</lastmod>
+  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
+  <lastmod>2026-03-11T08:21:50Z</lastmod>
+  <loc>https://www.naturitas.es/blog/menopausia/dia-internacional-de-la-mujer-menopausia-bienestar-y-autocuidado-femenino</loc>
+  <lastmod>2026-03-05T09:39:06Z</lastmod>
 </data>
