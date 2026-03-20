@@ -1,40 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/vente-rm-sothebys-avril26-monaco/</loc>
+  <lastmod>2026-03-20T18:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/18-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/19-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/lamborghini-bat-son-record-de-ventes/</loc>
+  <lastmod>2026-03-20T16:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/17-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/16-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/bentley-rolls-royce-font-marche-arriere-electrique/</loc>
+  <lastmod>2026-03-20T14:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/15-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.jvoiture.fr/pourquoi-des-jantes-neuves-permettent-une-meilleure-revente-de-la-voiture/</loc>
+  <lastmod>2026-03-20T13:53:07+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/homme-voiture-alloy-wheels.jpg</image:loc>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/femme-voiture-dealer.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/790538/triumph-scrambler-400xc-fcr-original-packshot-escape-custom/</loc>
+  <lastmod>2026-03-20T13:16:44Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/790463/mv-agusta-dhl-partnership-spare-parts/</loc>
+  <lastmod>2026-03-20T12:53:02Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/790513/tissot-limited-edition-motogp-watches-2026/</loc>
+  <lastmod>2026-03-20T12:31:40Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/waze-en-estonie-autoroutes/</loc>
   <lastmod>2026-03-20T12:00:00+01:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/14-1.jpg</image:loc>
   </image:image>
+  <loc>https://www.rideapart.com/reviews/790369/watch-2026-triumph-tiger-sport-660-launch-review/</loc>
+  <lastmod>2026-03-20T11:45:40Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.rideapart.com/features/790450/matter-claims-ai-defined-motorcycle/</loc>
   <lastmod>2026-03-20T11:10:06Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790443/lamborghini-power-wheels-ev-motorcycle-swap/</loc>
-  <lastmod>2026-03-20T11:04:50Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790534/brazil-motogp-race-possible-cancellation-rain-flooding-goiania/</loc>
-  <lastmod>2026-03-20T10:56:59Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.jvoiture.fr/catalyseur-auto-reussir-son-controle-technique-antipollution/</loc>
-  <lastmod>2026-03-20T08:10:05+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/228139.jpg</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/228140.jpg</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/quelle-formule-dassurance-auto-choisir-selon-votre-usage-reel/</loc>
-  <lastmod>2026-03-19T14:03:25+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/quelle-formule-dassurance-auto-choisir-selon-votre-usage-reel-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/features/790339/harley-davidson-diminshing-sales-time-to-adapt/</loc>
-  <lastmod>2026-03-19T13:09:43Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790352/stark-enters-fim-endurogp-world-championship/</loc>
-  <lastmod>2026-03-19T12:38:25Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790329/cfmoto-sidecar-patent-ural-motorcycles-china-russia/</loc>
-  <lastmod>2026-03-19T12:26:13Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790183/bmw-s1000rr-turn-signal-recall/</loc>
-  <lastmod>2026-03-19T11:45:13Z</lastmod>
   <priority>0.5</priority>
 </data>
