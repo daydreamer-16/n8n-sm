@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/stopping-glp-1-drugs-reverse-cardiovascular-benefits</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-20</news:publication_date>
+    <news:title>Stopping Ozempic, Wegovy May Reverse Cardiovascular Benefits</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/new-resistance-training-guidelines-emphasize-consistency</loc>
   <news:news>
     <news:publication>
@@ -11,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/hospital-worker-survived-3-heart-attacks-4-days</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-18</news:publication_date>
-    <news:title>This Hospital Worker Had 3 Attacks in 4 Days. ‘Listening’ to His Body May Have Saved His Life</news:title>
-    <news:keywords>heart attack</news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-20T05:53:15.420Z</lastmod>
+  <lastmod>2026-03-20T16:27:33.152Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
   <lastmod>2026-03-19T07:58:18Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
