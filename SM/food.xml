@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/reglementation-ventilation-cuisine-professionnelle/</loc>
+  <lastmod>2026-03-20T10:31:29+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/comment-nettoyer-cuisine-apres-grand-repas/</loc>
   <lastmod>2026-03-19T11:11:27+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/rattraper-mayonnaise-ratee/</loc>
@@ -109,17 +111,5 @@
   <image:image>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/04/recette-sable-maison-01.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/04/recette-sable-maison-01-275x275.webp</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/cremes/recette-creme-amande/</loc>
-  <lastmod>2026-03-17T11:29:52+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Recette_Creme_Amande_09.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Recette_Creme_Amande_07.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Recette_Creme_Amande_08.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Recette_Creme_Amande_01.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Recette_Creme_Amande_02.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Recette_Creme_Amande_04.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Recette_Creme_Amande_03.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Recette_Creme_Amande_05.jpg</image:loc>
   </image:image>
 </data>
