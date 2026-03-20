@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/waze-en-estonie-autoroutes/</loc>
+  <lastmod>2026-03-20T12:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/14-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/features/790450/matter-claims-ai-defined-motorcycle/</loc>
+  <lastmod>2026-03-20T11:10:06Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/790443/lamborghini-power-wheels-ev-motorcycle-swap/</loc>
+  <lastmod>2026-03-20T11:04:50Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/790534/brazil-motogp-race-possible-cancellation-rain-flooding-goiania/</loc>
+  <lastmod>2026-03-20T10:56:59Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.jvoiture.fr/catalyseur-auto-reussir-son-controle-technique-antipollution/</loc>
+  <lastmod>2026-03-20T08:10:05+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/228139.jpg</image:loc>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/228140.jpg</image:loc>
+  </image:image>
   <loc>https://www.auto-mechanic-info.com/quelle-formule-dassurance-auto-choisir-selon-votre-usage-reel/</loc>
   <lastmod>2026-03-19T14:03:25+00:00</lastmod>
   <image:image>
@@ -17,24 +37,4 @@
   <loc>https://www.rideapart.com/news/790183/bmw-s1000rr-turn-signal-recall/</loc>
   <lastmod>2026-03-19T11:45:13Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790338/bmw-advx-gs-tour-coming-canada/</loc>
-  <lastmod>2026-03-19T11:14:22Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790313/harley-davidson-pan-america-used-prices-are-great-deals/</loc>
-  <lastmod>2026-03-19T11:04:51Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790427/snowmobile-racer-memorial-cains-quest/</loc>
-  <lastmod>2026-03-19T10:48:46Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/koenigsegg-entree-en-bourse/</loc>
-  <lastmod>2026-03-18T15:00:00+01:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/2-1.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/brevet-porsche-boite-manuelle/</loc>
-  <lastmod>2026-03-18T15:00:00+01:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/1-1-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/3-1.jpg</image:loc>
-  </image:image>
 </data>
