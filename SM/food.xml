@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/chocolats-paques-cadeau-gourmand/</loc>
+  <lastmod>2026-03-20T15:40:30+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/reglementation-ventilation-cuisine-professionnelle/</loc>
   <lastmod>2026-03-20T10:31:29+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/comment-nettoyer-cuisine-apres-grand-repas/</loc>
@@ -105,11 +107,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/creme-mousseline-007-275x206.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/creme-mousseline-009-275x206.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/creme-mousseline-010-275x206.webp</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/biscuits/recette-sable/</loc>
-  <lastmod>2026-03-17T11:32:45+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/04/recette-sable-maison-01.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/04/recette-sable-maison-01-275x275.webp</image:loc>
   </image:image>
 </data>
