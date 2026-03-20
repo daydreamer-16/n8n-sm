@@ -22,19 +22,8 @@
     <news:keywords>heart attack</news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/type-2-diabetes-risk-varies-widely-young-adults-prediabetes</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-18</news:publication_date>
-    <news:title>Type 2 Diabetes Risk Varies Widely in Young Adults. How GLP-1s Can Help</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-19T14:59:12.181Z</lastmod>
+  <lastmod>2026-03-20T05:53:15.420Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
   <lastmod>2026-03-19T07:58:18Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
@@ -47,4 +36,6 @@
   <lastmod>2026-03-11T08:21:50Z</lastmod>
   <loc>https://www.naturitas.es/blog/menopausia/dia-internacional-de-la-mujer-menopausia-bienestar-y-autocuidado-femenino</loc>
   <lastmod>2026-03-05T09:39:06Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/bowl-de-quinoa-curcuma-y-manzana</loc>
+  <lastmod>2026-03-05T09:03:03Z</lastmod>
 </data>
