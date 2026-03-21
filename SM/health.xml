@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/early-menopause-higher-risk-cardiovascular-disease</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-21</news:publication_date>
+    <news:title>Early Menopause Linked to 40% Higher Risk of Cardiovascular Disease</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/stopping-glp-1-drugs-reverse-cardiovascular-benefits</loc>
   <news:news>
     <news:publication>
@@ -11,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/new-resistance-training-guidelines-emphasize-consistency</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-19</news:publication_date>
-    <news:title>New Resistance Training Guidelines Say Consistency Is Key for Stronger Results</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-20T23:38:21.507Z</lastmod>
+  <lastmod>2026-03-21T23:37:35.916Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
   <lastmod>2026-03-19T07:58:18Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
