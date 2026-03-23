@@ -11,19 +11,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/early-menopause-higher-risk-cardiovascular-disease</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-21</news:publication_date>
-    <news:title>Early Menopause Linked to 40% Higher Risk of Cardiovascular Disease</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-22T18:16:28.713Z</lastmod>
+  <lastmod>2026-03-22T23:38:21.298Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
   <lastmod>2026-03-19T07:58:18Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
@@ -38,4 +27,6 @@
   <lastmod>2026-03-05T09:39:06Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/bowl-de-quinoa-curcuma-y-manzana</loc>
   <lastmod>2026-03-05T09:03:03Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/hinchazon-abdominal-y-mindful-eating-habitos-sencillos-que-pueden-ayudarte</loc>
+  <lastmod>2026-03-03T09:00:09Z</lastmod>
 </data>
