@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.roadstr.fr/blog/articles/tesla-roadster-encore-reportee/</loc>
-  <lastmod>2026-03-23T12:00:00+01:00</lastmod>
+  <loc>https://www.auto-moto-pneu.net/les-avantages-de-lassurance-pour-moto/</loc>
+  <lastmod>2026-03-23T16:21:24+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/1-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/2-2.jpg</image:loc>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/160442.1-scaled.jpg</image:loc>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/160442.2-scaled.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/790580/strix-hard-enduro-electric-motorcycle/</loc>
-  <lastmod>2026-03-23T11:11:52Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/790559/mint-400-offroad-race-experience/</loc>
-  <lastmod>2026-03-23T11:00:06Z</lastmod>
-  <priority>0.5</priority>
   <loc>https://www.etoilecollections.fr/moteurs-suzuki-a-eviter/</loc>
   <lastmod>2026-03-17T18:24:20+00:00</lastmod>
   <image:image>
@@ -46,5 +40,15 @@
   <lastmod>2026-03-10T21:58:52+00:00</lastmod>
   <image:image>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/2014-porsche-baby-boxster_800x0w.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-actu.org/porsche-911-r-2-0-coupe/</loc>
+  <lastmod>2026-03-10T21:58:52+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/porsche-911-991-r-103373.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-actu.org/la-porsche-918-coupe-presentee-a-detroit/</loc>
+  <lastmod>2026-03-10T21:58:52+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/BA1_2528.jpg</image:loc>
   </image:image>
 </data>
