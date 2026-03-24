@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.auto-moto-pneu.net/les-avantages-de-lassurance-pour-moto/</loc>
-  <lastmod>2026-03-23T16:21:24+00:00</lastmod>
+  <loc>https://www.roadstr.fr/blog/articles/max-verstappen-amg-gt3-nurburgring/</loc>
+  <lastmod>2026-03-24T12:00:00+01:00</lastmod>
   <image:image>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/160442.1-scaled.jpg</image:loc>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/160442.2-scaled.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/11-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/10-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/9-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/790697/ducati-werideasone-global-ride-may/</loc>
+  <lastmod>2026-03-24T11:17:38Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/790754/bimota-bx450-specs-features/</loc>
+  <lastmod>2026-03-24T11:03:42Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/apprendre-a-lire-les-panneaux-de-zone-de-circulation/</loc>
+  <lastmod>2026-03-24T02:59:53+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-femme-zone-traffic.jpg</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/papa-fille-signature.jpg</image:loc>
   </image:image>
   <loc>https://www.etoilecollections.fr/moteurs-suzuki-a-eviter/</loc>
   <lastmod>2026-03-17T18:24:20+00:00</lastmod>
@@ -35,20 +48,5 @@
   <lastmod>2026-03-10T21:58:52+00:00</lastmod>
   <image:image>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/2017-Porsche-911-Carrera-GTS-Coupe-rear-three-quarter-02.jpg</image:loc>
-  </image:image>
-  <loc>https://www.auto-actu.org/porsche-baby-speedster/</loc>
-  <lastmod>2026-03-10T21:58:52+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/2014-porsche-baby-boxster_800x0w.jpg</image:loc>
-  </image:image>
-  <loc>https://www.auto-actu.org/porsche-911-r-2-0-coupe/</loc>
-  <lastmod>2026-03-10T21:58:52+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/porsche-911-991-r-103373.jpg</image:loc>
-  </image:image>
-  <loc>https://www.auto-actu.org/la-porsche-918-coupe-presentee-a-detroit/</loc>
-  <lastmod>2026-03-10T21:58:52+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/BA1_2528.jpg</image:loc>
   </image:image>
 </data>
