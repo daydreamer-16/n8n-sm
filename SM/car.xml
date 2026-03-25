@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/velo-bugatti-25000-euros/</loc>
+  <lastmod>2026-03-25T12:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/04-2603-BUGATTI-Factor-Bike-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/24-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/22-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/25-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/23.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/790743/livewire-depreciates-resale-value-of-bikes/</loc>
+  <lastmod>2026-03-25T11:11:51Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/790839/powersports-offroading-economic-impact-multiple-use-public-lands/</loc>
+  <lastmod>2026-03-25T11:01:28Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.etoilecollections.fr/mercedes-glb-modeles-a-eviter/</loc>
   <lastmod>2026-03-24T18:02:31+00:00</lastmod>
   <image:image>
@@ -36,18 +51,5 @@
   </image:image>
   <loc>https://www.rideapart.com/news/790707/2026-bimota-kb399-specs-features-price/</loc>
   <lastmod>2026-03-24T13:09:22Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790691/honda-eclutch-cb400-cb400r-concept/</loc>
-  <lastmod>2026-03-24T12:38:19Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/max-verstappen-amg-gt3-nurburgring/</loc>
-  <lastmod>2026-03-24T12:00:00+01:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/11-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/10-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/9-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/790759/honda-manufacturing-expansion-india/</loc>
-  <lastmod>2026-03-24T11:38:41Z</lastmod>
   <priority>0.5</priority>
 </data>
