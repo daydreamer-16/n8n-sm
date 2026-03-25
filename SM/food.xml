@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/remplacer-thym-frais-par-seche/</loc>
+  <lastmod>2026-03-25T06:51:00+00:00</lastmod>
   <loc>https://mapatisserie.fr/recette/classiques-faciles/recette-cake-au-citron/</loc>
   <lastmod>2026-03-24T21:41:01+00:00</lastmod>
   <image:image>
@@ -164,11 +166,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/06/recette-brioche-mousseline-20200323_213244.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/06/recette-brioche-mousseline-20200323_220728.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/06/recette-brioche-mousseline-20200323_220907.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/classiques-faciles/recette-rocher-coco/</loc>
-  <lastmod>2026-03-23T20:04:44+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/10/recette_rocher_coco_5.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/10/recette_rocher_coco_6.jpg</image:loc>
   </image:image>
 </data>
