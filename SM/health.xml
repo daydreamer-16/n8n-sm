@@ -11,19 +11,10 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/morning-exercise-lowers-obesity-diabetes-risk</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-24</news:publication_date>
-    <news:title>Morning Exercise May Help Lower Your Risk of Obesity, Type 2 Diabetes</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-25T14:19:36.044Z</lastmod>
+  <lastmod>2026-03-26T11:38:22.583Z</lastmod>
+  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/todo-lo-que-necesitas-saber-sobre-el-reishi-propiedades-beneficios-y-como-consumirlo</loc>
+  <lastmod>2026-03-25T09:00:04Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/cambio-de-hora-tips-para-dormir-bien-y-recibir-la-primavera-con-energia</loc>
   <lastmod>2026-03-24T09:00:04Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/crepes-de-remolacha-y-cacao-sin-gluten</loc>
