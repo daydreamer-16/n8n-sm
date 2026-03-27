@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/ravage-tarmac-master/</loc>
+  <lastmod>2026-03-27T16:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/49-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/48-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/50.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/jugement-crash-ferrari-monaco/</loc>
+  <lastmod>2026-03-27T14:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/53.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/791007/jonathan-rea-returns-worldsbk-honda-2026/</loc>
+  <lastmod>2026-03-27T13:34:27Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/bugatti-la-voiture-noire-en-vente/</loc>
   <lastmod>2026-03-27T12:00:00+01:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/51-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/52.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/791124/suzuki-10-years-warranty-france-catch/</loc>
-  <lastmod>2026-03-27T11:18:42Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/791243/johnson-valley-usmc-king-of-the-hammers-takeover-agreement/</loc>
-  <lastmod>2026-03-27T11:03:36Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/madring-monumental/</loc>
-  <lastmod>2026-03-26T18:00:00+01:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/38-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/39.jpg</image:loc>
   </image:image>
   <loc>https://www.etoilecollections.fr/moteur-ford-1-5-ecoblue-120-fiabilite/</loc>
   <lastmod>2026-03-26T17:41:45+00:00</lastmod>
@@ -34,19 +37,19 @@
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/Les-ligues-europeennes-a-travers-les-joueurs-congolais-1024x683.jpg</image:loc>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/Football-en-RDC.jpg</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/boutons-tactiles-volkswagen/</loc>
-  <lastmod>2026-03-26T16:00:00+01:00</lastmod>
+  <loc>https://www.etoilecollections.fr/mercedes-glb-modeles-a-eviter/</loc>
+  <lastmod>2026-03-24T18:02:31+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/41.jpg</image:loc>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/mercedes-glb-modeles-a-eviter.jpg</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/bentley-et-boodles-sassocient/</loc>
-  <lastmod>2026-03-26T14:00:00+01:00</lastmod>
+  <loc>https://www.etoilecollections.fr/meilleurs-comparateurs-assurance-auto/</loc>
+  <lastmod>2026-03-24T17:39:44+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/47-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/46-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/45.jpg</image:loc>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/03/meilleurs-comparateurs-assurance-auto.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/791003/triumph-speed-twin-1200-cafe-racer-dgr-edition-grand-prize/</loc>
-  <lastmod>2026-03-26T13:57:58Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.roadstr.fr/blog/articles/lelectrique-en-entreprise-seduit-surtout-ceux-qui-nen-ont-pas-besoin/</loc>
+  <lastmod>2026-03-18T14:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/4-1.jpg</image:loc>
+  </image:image>
 </data>
