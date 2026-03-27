@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/bugatti-la-voiture-noire-en-vente/</loc>
+  <lastmod>2026-03-27T12:00:00+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/51-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/03/52.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/791124/suzuki-10-years-warranty-france-catch/</loc>
+  <lastmod>2026-03-27T11:18:42Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/791243/johnson-valley-usmc-king-of-the-hammers-takeover-agreement/</loc>
+  <lastmod>2026-03-27T11:03:36Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/madring-monumental/</loc>
   <lastmod>2026-03-26T18:00:00+01:00</lastmod>
   <image:image>
@@ -36,14 +48,5 @@
   </image:image>
   <loc>https://www.rideapart.com/news/791003/triumph-speed-twin-1200-cafe-racer-dgr-edition-grand-prize/</loc>
   <lastmod>2026-03-26T13:57:58Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/791010/roxen-electric-pwc-specs-features-price/</loc>
-  <lastmod>2026-03-26T13:15:41Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/791009/nolan-x904-quin-technology/</loc>
-  <lastmod>2026-03-26T12:42:32Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/790999/2004-ski-doo-elite-side-by-side-snowmobile/</loc>
-  <lastmod>2026-03-26T12:06:52Z</lastmod>
   <priority>0.5</priority>
 </data>
