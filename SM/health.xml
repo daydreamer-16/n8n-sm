@@ -11,19 +11,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/fda-approves-higher-dose-wegovy-shot-weight-loss</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-25</news:publication_date>
-    <news:title>Higher Dose Wegovy Shot Could Help People Lose More Weight With GLP-1s</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-26T23:38:21.540Z</lastmod>
+  <lastmod>2026-03-27T10:43:28.305Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/todo-lo-que-necesitas-saber-sobre-el-reishi-propiedades-beneficios-y-como-consumirlo</loc>
   <lastmod>2026-03-25T09:00:04Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/cambio-de-hora-tips-para-dormir-bien-y-recibir-la-primavera-con-energia</loc>
@@ -38,4 +27,6 @@
   <lastmod>2026-03-19T07:41:26Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-e-inmunidad-como-potenciar-tus-defensas-de-forma-natural</loc>
   <lastmod>2026-03-18T09:04:52Z</lastmod>
+  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
+  <lastmod>2026-03-11T08:21:50Z</lastmod>
 </data>
