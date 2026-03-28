@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/kim-kardashian-new-caffeine-free-energy-drink-paraxanthine</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-28</news:publication_date>
+    <news:title>Kim Kardashian's New Energy Drink Promises No Jitters. Does It Live Up to the Hype?</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/eating-same-meals-may-help-with-weight-loss</loc>
   <news:news>
     <news:publication>
@@ -12,7 +23,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-27T23:38:36.142Z</lastmod>
+  <lastmod>2026-03-28T11:38:36.002Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/todo-lo-que-necesitas-saber-sobre-el-reishi-propiedades-beneficios-y-como-consumirlo</loc>
   <lastmod>2026-03-25T09:00:04Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/cambio-de-hora-tips-para-dormir-bien-y-recibir-la-primavera-con-energia</loc>
@@ -27,6 +38,4 @@
   <lastmod>2026-03-19T07:41:26Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-e-inmunidad-como-potenciar-tus-defensas-de-forma-natural</loc>
   <lastmod>2026-03-18T09:04:52Z</lastmod>
-  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
-  <lastmod>2026-03-11T08:21:50Z</lastmod>
 </data>
