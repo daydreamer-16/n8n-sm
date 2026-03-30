@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/daily-coffee-may-lower-stress-improve-mental-health</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-30</news:publication_date>
+    <news:title>2 to 3 Cups of Coffee Daily May Help Lower Stress, Improve Mental Health</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/mind-body-practices-qigong-yoga-help-lower-blood-pressure</loc>
   <news:news>
     <news:publication>
@@ -12,7 +23,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-30T08:21:01.633Z</lastmod>
+  <lastmod>2026-03-30T10:38:36.049Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/todo-lo-que-necesitas-saber-sobre-el-reishi-propiedades-beneficios-y-como-consumirlo</loc>
   <lastmod>2026-03-25T09:00:04Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/cambio-de-hora-tips-para-dormir-bien-y-recibir-la-primavera-con-energia</loc>
@@ -27,6 +38,4 @@
   <lastmod>2026-03-19T07:41:26Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-e-inmunidad-como-potenciar-tus-defensas-de-forma-natural</loc>
   <lastmod>2026-03-18T09:04:52Z</lastmod>
-  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/como-optimizar-tu-compra-y-crear-tu-rutina-de-bienestar</loc>
-  <lastmod>2026-03-11T08:21:50Z</lastmod>
 </data>
