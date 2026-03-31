@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.jvoiture.fr/comment-choisir-la-couverture-ideale-grace-a-un-comparateur-dassurance-voiture/</loc>
+  <lastmod>2026-03-31T06:06:25+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/comment-choisir-la-couverture-ideale-grace-a-un-comparateur-dassurance-voiture-scaled.jpg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/791264/airoh-h21-specs-features-price/</loc>
   <lastmod>2026-03-30T13:12:47Z</lastmod>
   <priority>0.5</priority>
@@ -31,11 +36,5 @@
   <image:image>
     <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-souriant-smartphone-voiture.webp</image:loc>
     <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-rurale-voiture-licence.webp</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/logos-hyundai-chromes-noirs-ou-satines-quel-rendu-pour-votre-modele/</loc>
-  <lastmod>2026-03-29T08:30:00+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/homme-logo-hyundai.webp</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/jeune-femme-showroom.webp</image:loc>
   </image:image>
 </data>
