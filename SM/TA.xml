@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/new-york-unveils-new-in-house-mta-app/</loc>
+  <lastmod>2026-03-30T12:37:55+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/03/dreamstime_s_140157325.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/sunderland-aims-to-lead-uk-on-digital-inclusion/</loc>
   <lastmod>2026-03-27T11:11:33+00:00</lastmod>
   <image:image>
@@ -49,11 +54,5 @@
   <lastmod>2026-03-16T08:13:25+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/03/dreamstime_s_269200465.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/port-authority-deploys-asl-and-navigation-tools-across-transit-system/</loc>
-  <lastmod>2026-03-13T13:37:55+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/03/dreamstime_s_335291458.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/03/karmonaitis-headshot.jpg</image:loc>
   </image:image>
 </data>
