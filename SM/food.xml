@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/prix-mcflurry-mcdonalds/</loc>
+  <lastmod>2026-03-31T13:27:26+00:00</lastmod>
+  <loc>https://www.lateliergourmand.fr/pate-feuilletee-perimee/</loc>
+  <lastmod>2026-03-31T13:25:16+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/visiter-vientiane-guide-conseils/</loc>
   <lastmod>2026-03-31T06:30:00+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/cuisson-chou-fleur-cocotte/</loc>
@@ -109,42 +113,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-entremet-fraise_2020-05-03_22-05-44-275x206.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-entremet-fraise_2020-05-03_22-06-29-275x206.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-entremet-fraise_2020-05-03_22-07-29-275x206.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/dessert/recette-gaufres-croustillantes/</loc>
-  <lastmod>2026-03-26T20:39:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-03.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-06-275x275.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-09-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-10-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-11-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-12-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-14-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-15-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-13-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-14-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-16-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-08-275x206.webp</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/viennoiseries/recette-brioche-nanterre/</loc>
-  <lastmod>2026-03-26T18:37:52+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/11/brioche-nanterre-04-carre.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/09/brioche-nanterre-20200323_103710-02-scaled.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/06/Video_Recette_Brioche.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/06/recette-brioche-mousseline-20180701_084333.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/06/recette-brioche-mousseline-20180701_091046.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-brioche-20190301_174658-scaled.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-brioche-20190301_174601-scaled.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-brioche-20190221_150508-scaled.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-brioche-20190221_150448-scaled.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/02/recette-brioche-tressee-20190221_151919.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-brioche-20180701_093512-scaled.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-brioche-20180701_092500-scaled.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-brioche-20180701_093801-scaled.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-brioche-20180701_093755-scaled.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/09/recette-brioche-nanterre-20190616_200109.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/09/recette-brioche-nanterre-20190616_195913.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/09/recette-brioche-nanterre-20190616_220610.jpg</image:loc>
   </image:image>
 </data>
