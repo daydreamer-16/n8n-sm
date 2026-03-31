@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/staying-active-middle-age-cuts-early-death-risk-women</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-3-31</news:publication_date>
+    <news:title>Women Who Stay Active During Midlife Have 50% Lower Risk of Early Death</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/daily-coffee-may-lower-stress-improve-mental-health</loc>
   <news:news>
     <news:publication>
@@ -11,19 +22,10 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/mind-body-practices-qigong-yoga-help-lower-blood-pressure</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-29</news:publication_date>
-    <news:title>Mind-Body Practices Like Qigong, Yoga May Help Treat Hypertension</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-30T22:38:35.913Z</lastmod>
+  <lastmod>2026-03-31T22:38:36.286Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/falafels-de-lenteja-roja-con-salsa-tahin</loc>
+  <lastmod>2026-03-26T09:00:04Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/todo-lo-que-necesitas-saber-sobre-el-reishi-propiedades-beneficios-y-como-consumirlo</loc>
   <lastmod>2026-03-25T09:00:04Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/cambio-de-hora-tips-para-dormir-bien-y-recibir-la-primavera-con-energia</loc>
@@ -36,6 +38,4 @@
   <lastmod>2026-03-19T07:44:18Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
   <lastmod>2026-03-19T07:41:26Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-e-inmunidad-como-potenciar-tus-defensas-de-forma-natural</loc>
-  <lastmod>2026-03-18T09:04:52Z</lastmod>
 </data>
