@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/exercise-harder-reduce-disease-risk</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-1</news:publication_date>
+    <news:title>Exercising Harder, Not Just Longer, May Lower Your Type 2 Diabetes Risk</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/staying-active-middle-age-cuts-early-death-risk-women</loc>
   <news:news>
     <news:publication>
@@ -12,7 +23,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-01T09:40:38.188Z</lastmod>
+  <lastmod>2026-04-01T21:19:10.643Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/superalimentos-de-primavera-y-como-integrarlos-en-tu-dia-a-dia</loc>
   <lastmod>2026-04-01T08:15:00Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/falafels-de-lenteja-roja-con-salsa-tahin</loc>
@@ -27,6 +38,4 @@
   <lastmod>2026-03-19T09:00:10Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
   <lastmod>2026-03-19T07:58:18Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
-  <lastmod>2026-03-19T07:44:18Z</lastmod>
 </data>
