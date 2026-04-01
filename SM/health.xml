@@ -11,23 +11,16 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/daily-coffee-may-lower-stress-improve-mental-health</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-30</news:publication_date>
-    <news:title>2 to 3 Cups of Coffee Daily May Help Lower Stress, Improve Mental Health</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-03-31T22:38:36.286Z</lastmod>
+  <lastmod>2026-04-01T09:40:38.188Z</lastmod>
+  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/superalimentos-de-primavera-y-como-integrarlos-en-tu-dia-a-dia</loc>
+  <lastmod>2026-04-01T08:15:00Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/falafels-de-lenteja-roja-con-salsa-tahin</loc>
-  <lastmod>2026-03-26T09:00:04Z</lastmod>
+  <lastmod>2026-04-01T08:09:05Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/todo-lo-que-necesitas-saber-sobre-el-reishi-propiedades-beneficios-y-como-consumirlo</loc>
-  <lastmod>2026-03-25T09:00:04Z</lastmod>
+  <lastmod>2026-04-01T08:07:31Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-e-inmunidad-como-potenciar-tus-defensas-de-forma-natural</loc>
+  <lastmod>2026-04-01T07:52:42Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/cambio-de-hora-tips-para-dormir-bien-y-recibir-la-primavera-con-energia</loc>
   <lastmod>2026-03-24T09:00:04Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/crepes-de-remolacha-y-cacao-sin-gluten</loc>
@@ -36,6 +29,4 @@
   <lastmod>2026-03-19T07:58:18Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/tres-recetas-faciles-con-kimchi</loc>
   <lastmod>2026-03-19T07:44:18Z</lastmod>
-  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/dale-la-bienvenida-a-la-primavera-con-mas-energia-y-vitalidad</loc>
-  <lastmod>2026-03-19T07:41:26Z</lastmod>
 </data>
