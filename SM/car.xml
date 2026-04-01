@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/lola-t70s-t70sgt/</loc>
+  <lastmod>2026-04-01T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/4.jpg</image:loc>
+  </image:image>
   <loc>https://www.etoilecollections.fr/fiabilite-clio-5/</loc>
   <lastmod>2026-03-31T16:28:46+00:00</lastmod>
   <image:image>
@@ -50,10 +58,5 @@
   <lastmod>2026-03-31T14:28:27+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2024/09/Vehicle-Identification-Number.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/quand-faire-la-carte-grise/</loc>
-  <lastmod>2026-03-31T14:28:27+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2024/09/Carte-grise.jpg</image:loc>
   </image:image>
 </data>
