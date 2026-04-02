@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/lynk-and-co-en-concession/</loc>
+  <lastmod>2026-04-02T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/22-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/23.jpg</image:loc>
+  </image:image>
   <loc>https://www.auto-mechanic-info.com/lelegance-automobile-dans-la-poche-les-coques-de-telephone-pour-les-passionnes-de-voitures/</loc>
   <lastmod>2026-04-01T19:44:56+00:00</lastmod>
   <image:image>
@@ -45,10 +51,4 @@
   <loc>https://www.rideapart.com/news/791604/kymco-cv3-575-three-wheeled-scooter/</loc>
   <lastmod>2026-04-01T12:25:28Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.auto-moto-pneu.net/les-avantages-de-lassurance-pour-moto/</loc>
-  <lastmod>2026-04-01T12:04:37+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/160442.1-scaled.jpg</image:loc>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/160442.2-scaled.jpg</image:loc>
-  </image:image>
 </data>
