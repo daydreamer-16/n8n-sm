@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/diet-key-steps-reduce-heart-disease</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-2</news:publication_date>
+    <news:title>New Dietary Guidelines Highlight 9 Simple Ways to Lower Heart Disease Risk</news:title>
+    <news:keywords>diet, heart disease, cardiovascular disease</news:keywords>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/walking-more-effective-combined-strength-training</loc>
   <news:news>
     <news:publication>
@@ -23,7 +34,9 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-01T22:38:35.843Z</lastmod>
+  <lastmod>2026-04-02T10:38:36.426Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/descanso-y-bienestar-emocional-consejos-y-rutinas-para-sentirte-mejor</loc>
+  <lastmod>2026-04-01T08:20:21Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/superalimentos-de-primavera-y-como-integrarlos-en-tu-dia-a-dia</loc>
   <lastmod>2026-04-01T08:15:00Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/falafels-de-lenteja-roja-con-salsa-tahin</loc>
@@ -34,8 +47,4 @@
   <lastmod>2026-04-01T07:52:42Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/cambio-de-hora-tips-para-dormir-bien-y-recibir-la-primavera-con-energia</loc>
   <lastmod>2026-03-24T09:00:04Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/crepes-de-remolacha-y-cacao-sin-gluten</loc>
-  <lastmod>2026-03-19T09:00:10Z</lastmod>
-  <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
-  <lastmod>2026-03-19T07:58:18Z</lastmod>
 </data>
