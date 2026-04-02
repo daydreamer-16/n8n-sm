@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/walking-more-effective-combined-strength-training</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-1</news:publication_date>
+    <news:title>Walking May Be More Effective When Combined With Strength Training, Other Activities</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/exercise-harder-reduce-disease-risk</loc>
   <news:news>
     <news:publication>
@@ -11,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/staying-active-middle-age-cuts-early-death-risk-women</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-3-31</news:publication_date>
-    <news:title>Women Who Stay Active During Midlife Have 50% Lower Risk of Early Death</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-01T21:19:10.643Z</lastmod>
+  <lastmod>2026-04-01T22:38:35.843Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/superalimentos-de-primavera-y-como-integrarlos-en-tu-dia-a-dia</loc>
   <lastmod>2026-04-01T08:15:00Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/falafels-de-lenteja-roja-con-salsa-tahin</loc>
