@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/porsche-garde-le-moteur-essence/</loc>
+  <lastmod>2026-04-03T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/30.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/mercedes-gle-2026-restyle/</loc>
   <lastmod>2026-04-02T18:00:00+02:00</lastmod>
   <image:image>
@@ -40,8 +45,5 @@
   </image:image>
   <loc>https://www.rideapart.com/news/791870/japanese-vintage-dual-sport-video/</loc>
   <lastmod>2026-04-02T11:51:35Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/791841/cardo-packdog-april-fools-day/</loc>
-  <lastmod>2026-04-02T11:32:35Z</lastmod>
   <priority>0.5</priority>
 </data>
