@@ -22,19 +22,8 @@
     <news:keywords>Crohn's disease</news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/parasite-cleanses-detox-safety-effectiveness</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-3</news:publication_date>
-    <news:title>No, That Viral 'Parasite Cleanse' Won't Actually Detox Your Body. Here's Why</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-04T10:38:36.590Z</lastmod>
+  <lastmod>2026-04-04T22:38:35.883Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descanso-y-bienestar-emocional-consejos-y-rutinas-para-sentirte-mejor</loc>
   <lastmod>2026-04-01T08:20:21Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/superalimentos-de-primavera-y-como-integrarlos-en-tu-dia-a-dia</loc>
@@ -47,4 +36,6 @@
   <lastmod>2026-04-01T07:52:42Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/cambio-de-hora-tips-para-dormir-bien-y-recibir-la-primavera-con-energia</loc>
   <lastmod>2026-03-24T09:00:04Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/crepes-de-remolacha-y-cacao-sin-gluten</loc>
+  <lastmod>2026-03-19T09:00:10Z</lastmod>
 </data>
