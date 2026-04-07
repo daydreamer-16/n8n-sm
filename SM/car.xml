@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/prochaine-safety-car-de-la-formule-1/</loc>
+  <lastmod>2026-04-07T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/1-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/2-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.jvoiture.fr/securite-individuelle-utilisez-une-couverture-anti-feu-pour-vehicules-electriques/</loc>
+  <lastmod>2026-04-07T07:10:40+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/securite-individuelle-utilisez-une-couverture-anti-feu-pour-vehicules-electriques-scaled.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/schema-sous-capot-megane-3-pour-localiser-rapidement-chaque-fusible/</loc>
+  <lastmod>2026-04-06T22:00:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-consultant-fuse-diagram-megane.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-pointant-fuse-chart-megane.webp</image:loc>
+  </image:image>
+  <loc>https://www.jvoiture.fr/ou-se-garer-pres-de-la-route-de-thonon-a-thonon-les-bains/</loc>
+  <lastmod>2026-04-06T22:00:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/femme-velo-parking-route-thonon.webp</image:loc>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/jeune-homme-voiture-stationnement.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-moto-pneu.net/renault-twingo-a-99-euros-par-mois-sans-apport-la-solution-pour-passer-a-lelectrique-sans-se-ruiner/</loc>
+  <lastmod>2026-04-06T22:00:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/jeune-femme-voiture-electrique-urbaine.webp</image:loc>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/homme-conducteur-voiture-electrique.webp</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/792075/energica-experia-ev-water-crossing/</loc>
   <lastmod>2026-04-06T12:59:47Z</lastmod>
   <priority>0.5</priority>
@@ -15,28 +44,4 @@
   <loc>https://www.rideapart.com/news/792042/triumph-official-motorcycle-partner-james-bond-007-first-light-game/</loc>
   <lastmod>2026-04-06T11:25:01Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/791983/royal-enfield-himalayan-mana-black-coming-usa/</loc>
-  <lastmod>2026-04-06T11:06:28Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/792051/ducati-factory-museum-open-house/</loc>
-  <lastmod>2026-04-05T13:49:39Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.auto-mechanic-info.com/scooter-50cc-neuf-prix-et-credit-bonnes-et-mauvaises-idees-pour-etaler-le-paiement/</loc>
-  <lastmod>2026-04-04T22:00:00+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-femme-scooter-deux-roues.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-lecture-contrat-financement.webp</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/bmw-in-1990-pour-la-piste-versions-a-privilegier-et-a-fuir/</loc>
-  <lastmod>2026-04-04T22:00:00+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/voiture-sport-annees-90-homme.webp</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/jeune-femme-coupe-annees-90.webp</image:loc>
-  </image:image>
-  <loc>https://www.auto-moto-pneu.net/radar-jumelle-sans-arrestation-police-que-regardent-vraiment-les-agents-sur-les-photos/</loc>
-  <lastmod>2026-04-04T22:00:00+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/agent-police-verification-vitesse.webp</image:loc>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/jeune-femme-police-lecture-documents.webp</image:loc>
-  </image:image>
 </data>
