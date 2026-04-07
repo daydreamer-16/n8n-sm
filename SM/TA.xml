@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/micromobility-use-rises-as-fuel-costs-reshape-short-trips/</loc>
+  <lastmod>2026-04-07T08:28:11+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/04/dreamstime_s_427453039.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-09.27.13.png</image:loc>
+  </image:image>
   <loc>https://cities-today.com/new-york-unveils-new-in-house-mta-app/</loc>
   <lastmod>2026-03-30T12:37:55+00:00</lastmod>
   <image:image>
@@ -49,10 +55,5 @@
   <lastmod>2026-03-17T09:31:32+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/03/dreamstime_s_47446180.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/subscription-model-targets-cheaper-e-bike-trips/</loc>
-  <lastmod>2026-03-16T08:13:25+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/03/dreamstime_s_269200465.jpg</image:loc>
   </image:image>
 </data>
