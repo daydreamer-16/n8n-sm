@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/quest-ce-que-google-sait-vraiment-de-vous-vos-donnees-et-bien-plus-encore</loc>
+  <lastmod>2026-01-12T14:00:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/ce-que-Google-connait-de-vous-il-vous-a-a-loeil-2.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/ce-que-Google-connait-de-vos-activites-numeriques-1.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/ce-que-Google-connait-de-vous-Larry-Page.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/course-aux-puces-ia-ou-en-sont-les-puces-huawei-ascend</loc>
+  <lastmod>2026-01-11T14:00:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Huawei-Ascend-guerre-des-puces.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Huawei-Ascend-locaux-1.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Huawei-Ascend-technologie-1.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Huawei-Ascend-910-1.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/nouveau-smartphone-voici-la-configuration-recommandee-pour-arreter-dy-toucher</loc>
   <lastmod>2026-01-10T14:00:00+00:00</lastmod>
   <image:image>
@@ -16,6 +31,16 @@
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Meta-donnees.jpg</image:loc>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/robot-instagram.png</image:loc>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Meta-applis-donnees-desactiver-Meta-AI-3.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/ces-2026-pourquoi-cette-poupee-sexuelle-fait-rougir-tout-le-monde</loc>
+  <lastmod>2026-01-09T08:21:40+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Poupee-sexuelle.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/ia-devait-booster-les-ventes-de-pc-dell-avoue-que-le-grand-public-sen-fiche</loc>
+  <lastmod>2026-01-09T07:15:44+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/DELL-PC-IA.png</image:loc>
   </image:image>
   <loc>https://www.lebigdata.fr/gmail-vient-de-changer-depoque-lia-gemini-debarque-dans-votre-boite-mail</loc>
   <lastmod>2026-01-09T07:01:00+00:00</lastmod>
@@ -55,26 +80,5 @@
   <lastmod>2026-01-08T21:22:32+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Alphabet.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/nintendo-switch-2-le-premier-coloris-de-joy-con-enfin-devoile</loc>
-  <lastmod>2026-01-08T19:30:41+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Coloris-Joy-Con.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/deepseek-etait-cense-remplacer-nvidia-1-an-plus-tard-pourquoi-la-startup-est-oubliee</loc>
-  <lastmod>2026-01-08T19:08:04+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Deepseek.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/ces-2026-roborock-lance-un-aspirateur-robot-avec-des-jambes</loc>
-  <lastmod>2026-01-08T18:44:32+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Roborock-Saros-Rover.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/Roborock-Saros-20-sonic.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/prompt-citation-cette-nouvelle-technique-rend-chatgpt-beaucoup-plus-puissant</loc>
-  <lastmod>2026-01-08T18:37:17+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/technique-ChatGPT.png</image:loc>
   </image:image>
 </data>
