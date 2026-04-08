@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/nouvelle-porsche-911-14-avril/</loc>
+  <lastmod>2026-04-08T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/10-1.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/chat-gpt-debarque-sur-carplay/</loc>
   <lastmod>2026-04-07T18:00:00+02:00</lastmod>
   <image:image>
@@ -41,7 +46,4 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/1-2-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/2-1.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/features/792163/motorcycle-commuting-fuel-costs-mental-health/</loc>
-  <lastmod>2026-04-07T11:58:03Z</lastmod>
-  <priority>0.5</priority>
 </data>
