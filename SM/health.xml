@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/worst-cities-spring-allergies</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-8</news:publication_date>
+    <news:title>These Are the Worst U.S Cities for Spring Allergies in 2026, Ranked</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/artificially-sweetened-drinks-may-promote-weight-loss</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-8</news:publication_date>
+    <news:title>Artificially-Sweetened Drinks Help Promote Weight Loss, but Water Is Best</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/16-year-old-navigate-dad-colon-cancer-diagnosis</loc>
   <news:news>
     <news:publication>
@@ -22,19 +44,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/adhd-autism-videos-tiktok-inaccurate</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-6</news:publication_date>
-    <news:title>Around Half the ADHD and Autism Content You See on TikTok May Be Misleading</news:title>
-    <news:keywords>ADHD, Autism</news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-08T10:14:58.277Z</lastmod>
+  <lastmod>2026-04-08T22:30:32.309Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/dia-mundial-de-la-salud-prevencion-y-autocuidado-para-una-vida-saludable</loc>
   <lastmod>2026-04-07T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/torrijas-saludables-al-horno</loc>
@@ -45,6 +56,4 @@
   <lastmod>2026-04-01T08:15:00Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/falafels-de-lenteja-roja-con-salsa-tahin</loc>
   <lastmod>2026-04-01T08:09:05Z</lastmod>
-  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/todo-lo-que-necesitas-saber-sobre-el-reishi-propiedades-beneficios-y-como-consumirlo</loc>
-  <lastmod>2026-04-01T08:07:31Z</lastmod>
 </data>
