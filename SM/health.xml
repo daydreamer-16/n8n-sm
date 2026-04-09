@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/new-osteoarthritis-therapies-heal-joints-research</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-9</news:publication_date>
+    <news:title>Is a Cure for Osteoarthritis on the Horizon? New Therapies Show Promise</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/abortion-pill-mifepristone-remains-available-by-mail-federal-judge-says</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-9</news:publication_date>
+    <news:title>Abortion Pill Mifepristone Still Available By Mail (For Now), Federal Judge Says</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/worst-cities-spring-allergies</loc>
   <news:news>
     <news:publication>
@@ -23,7 +45,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-09T09:36:42.389Z</lastmod>
+  <lastmod>2026-04-09T10:38:37.800Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/tipos-de-proteina-guia-para-elegir-la-mas-adecuada</loc>
   <lastmod>2026-04-09T05:00:10Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/como-recuperar-el-equilibrio-digestivo-despues-de-las-vacaciones</loc>
@@ -34,8 +56,4 @@
   <lastmod>2026-04-02T08:02:22Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descanso-y-bienestar-emocional-consejos-y-rutinas-para-sentirte-mejor</loc>
   <lastmod>2026-04-01T08:20:21Z</lastmod>
-  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/superalimentos-de-primavera-y-como-integrarlos-en-tu-dia-a-dia</loc>
-  <lastmod>2026-04-01T08:15:00Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/falafels-de-lenteja-roja-con-salsa-tahin</loc>
-  <lastmod>2026-04-01T08:09:05Z</lastmod>
 </data>
