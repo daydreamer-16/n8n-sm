@@ -22,30 +22,12 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/16-year-old-navigate-dad-colon-cancer-diagnosis</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-7</news:publication_date>
-    <news:title>How This 16-Year-Old Helped His Family Thrive After Dad’s Colon Cancer Diagnosis</news:title>
-    <news:keywords>Colon Cancer</news:keywords>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/fda-approves-foundayo-glp-1-weightloss-pill</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-7</news:publication_date>
-    <news:title>FDA Approves Foundayo, a Wegovy Alternative GLP-1 Pill for Weight Loss</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-08T22:30:32.309Z</lastmod>
+  <lastmod>2026-04-09T09:36:42.389Z</lastmod>
+  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/tipos-de-proteina-guia-para-elegir-la-mas-adecuada</loc>
+  <lastmod>2026-04-09T05:00:10Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/como-recuperar-el-equilibrio-digestivo-despues-de-las-vacaciones</loc>
+  <lastmod>2026-04-08T08:00:03Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/dia-mundial-de-la-salud-prevencion-y-autocuidado-para-una-vida-saludable</loc>
   <lastmod>2026-04-07T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/torrijas-saludables-al-horno</loc>
