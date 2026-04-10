@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/chevrolet-camaro-2027-gm-donne-le-feu-vert/</loc>
+  <lastmod>2026-04-10T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/29-1.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/connaissez-vous-marcos-la-petite-marque-anglaise-renait/</loc>
   <lastmod>2026-04-09T18:00:00+02:00</lastmod>
   <image:image>
@@ -39,8 +44,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/792308/suzuki-burgman-street-125-launch-india-fuel-prices/</loc>
   <lastmod>2026-04-09T11:32:46Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/792201/2026-triumph-off-road-demo-dirt-bike-tour/</loc>
-  <lastmod>2026-04-09T11:13:55Z</lastmod>
   <priority>0.5</priority>
 </data>
