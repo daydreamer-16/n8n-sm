@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/accompagnement-filet-mignon/</loc>
+  <lastmod>2026-04-10T06:22:00+00:00</lastmod>
+  <loc>https://www.lateliergourmand.fr/comment-manger-du-caviar-avec-des-blinis/</loc>
+  <lastmod>2026-04-09T05:07:00+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/reglementation-ventilation-cuisine-professionnelle/</loc>
   <lastmod>2026-04-08T13:39:34+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/cuisson-artichaut-cocotte/</loc>
@@ -68,12 +72,4 @@
   </image:image>
   <loc>https://www.lateliergourmand.fr/details-changent-diners-entre-amis/</loc>
   <lastmod>2026-04-06T17:36:31+00:00</lastmod>
-  <loc>https://www.lateliergourmand.fr/cuire-chapon-moelleux/</loc>
-  <lastmod>2026-04-06T05:38:00+00:00</lastmod>
-  <loc>https://mapatisserie.fr/recette/decoration/recette-glacage-miroir/</loc>
-  <lastmod>2026-04-06T05:00:05+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/05/IMG_20160425_073459.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/05/IMG_20160425_073459-1.jpg</image:loc>
-  </image:image>
 </data>
