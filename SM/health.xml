@@ -22,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/metformin-similar-benefits-exercise-prostate-cancer</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-10</news:publication_date>
-    <news:title>Metformin May Offer Similar Benefits as Exercise for Those With Prostate Cancer</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-11T18:55:53.792Z</lastmod>
+  <lastmod>2026-04-11T22:38:36.034Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/sopa-cremosa-de-brocoli-y-espinacas-con-leche-de-coco</loc>
   <lastmod>2026-04-09T15:14:47Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/como-recuperar-el-equilibrio-digestivo-despues-de-las-vacaciones</loc>
@@ -47,4 +36,6 @@
   <lastmod>2026-04-02T08:02:22Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descanso-y-bienestar-emocional-consejos-y-rutinas-para-sentirte-mejor</loc>
   <lastmod>2026-04-01T08:20:21Z</lastmod>
+  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/superalimentos-de-primavera-y-como-integrarlos-en-tu-dia-a-dia</loc>
+  <lastmod>2026-04-01T08:15:00Z</lastmod>
 </data>
