@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.auto-moto-pneu.net/schema-sous-capot-megane-3-detaille-pour-identifier-chaque-boitier/</loc>
+  <lastmod>2026-04-13T05:23:28+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/mecanicien-voiture-renault-megane.webp</image:loc>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-lecture-schema-moteur.webp</image:loc>
+  </image:image>
+  <loc>https://www.jvoiture.fr/verification-permis-pdf-avec-corriges-detailles-comprendre-plutot-que-reciter/</loc>
+  <lastmod>2026-04-13T05:08:50+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/jeune-femme-etude-pdf.webp</image:loc>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/homme-revision-permis.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/cb-boldor-900-que-vaut-vraiment-cette-honda-face-aux-sportives-modernes/</loc>
+  <lastmod>2026-04-13T05:00:48+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/motard-montagne-aventure.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-moto-urbain.webp</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/792671/nerpa-travel-ten-day-electric-motorcycle-tour-vietnam/</loc>
   <lastmod>2026-04-12T15:04:29Z</lastmod>
   <priority>0.5</priority>
@@ -30,13 +48,4 @@
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/homme-ville-voiture-verte.webp</image:loc>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-urbaine-voiture-verte.webp</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/792539/2026-triumph-trident-800-headlight-recall/</loc>
-  <lastmod>2026-04-10T13:25:28Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/792559/ktm-390-throttle-recall-expanded/</loc>
-  <lastmod>2026-04-10T12:55:02Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/792430/benchmade-triage-pocket-knife-specs-features-price/</loc>
-  <lastmod>2026-04-10T12:39:52Z</lastmod>
-  <priority>0.5</priority>
 </data>
