@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/fluoride-drinking-water-no-effect-iq-brain-function-study</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-15</news:publication_date>
+    <news:title>Fluoride in Drinking Water Has No Effect on IQ or Brain Function, Study Finds</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/menopause-estrogen-patch-shortage-after-fda-endorsement</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-15</news:publication_date>
+    <news:title>Menopause Estrogen Patches Are in Short Supply. What Are the Alternatives?</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/glp-1-effectiveness-ozempic-wegovy-varies-based-on-genetics</loc>
   <news:news>
     <news:publication>
@@ -22,19 +44,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/amazon-glp-1-pill-foundayo-kiosks-same-day-delivery</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-13</news:publication_date>
-    <news:title>Amazon Offering GLP-1 Pill, Foundayo, via Kiosks, Same-Day Delivery</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-15T10:33:59.698Z</lastmod>
+  <lastmod>2026-04-15T20:38:19.979Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/el-papel-del-colageno-en-la-preparacion-de-la-piel-para-el-sol</loc>
   <lastmod>2026-04-14T14:07:23Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/sopa-cremosa-de-brocoli-y-espinacas-con-leche-de-coco</loc>
@@ -45,6 +56,4 @@
   <lastmod>2026-04-09T13:42:48Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/tipos-de-proteina-guia-para-elegir-la-mas-adecuada</loc>
   <lastmod>2026-04-09T05:00:10Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/dia-mundial-de-la-salud-prevencion-y-autocuidado-para-una-vida-saludable</loc>
-  <lastmod>2026-04-07T08:00:01Z</lastmod>
 </data>
