@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/lucy-liu-unnecessary-breast-cancer-surgery</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-16</news:publication_date>
+    <news:title>Lucy Liu’s Breast Cancer Misdiagnosis Lead to Unnecessary Surgery: ‘Get a Second Opinion’</news:title>
+    <news:keywords>Lucy Liu, breast cancer</news:keywords>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/drug-resistant-diarrhea-causing-superbug-infections-rising-cdc</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-16</news:publication_date>
+    <news:title>Diarrhea-Causing 'Superbug' on the Rise, CDC Says. Should You Be Worried?</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/fluoride-drinking-water-no-effect-iq-brain-function-study</loc>
   <news:news>
     <news:publication>
@@ -22,30 +44,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/glp-1-effectiveness-ozempic-wegovy-varies-based-on-genetics</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-14</news:publication_date>
-    <news:title>Effectiveness of GLP-1s Like Ozempic, Wegovy May Depend on Your Genetics</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/ultraprocessed-foods-impact-muscle-bone-health-fertility</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-14</news:publication_date>
-    <news:title>3 Lesser-Known Health Risks of Ultraprocessed Foods to Put on Your Radar</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-16T10:38:37.585Z</lastmod>
+  <lastmod>2026-04-16T17:12:17.094Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descubre-naturitas-essentials-innovacion-y-eficacia-en-cada-formula</loc>
   <lastmod>2026-04-15T08:02:50Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/el-papel-del-colageno-en-la-preparacion-de-la-piel-para-el-sol</loc>
