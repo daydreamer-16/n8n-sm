@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/saint-martin-ile-dangereuse/</loc>
+  <lastmod>2026-04-16T05:41:00+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/coq-au-vin-recette-grand-mere/</loc>
   <lastmod>2026-04-14T06:25:00+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/gateau-diabetique-moelleux/</loc>
@@ -51,21 +53,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/dacquoise-02-275x204.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/dacquoise-04-275x204.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/dacquoise-05-275x204.webp</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/biscuits/recette-biscuit-pain-de-genes/</loc>
-  <lastmod>2026-04-07T19:25:54+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-20180603_170527-01.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-20180603_170527-01-275x275.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_154420-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_133623-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_154920-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_160116-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_160526-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_134146-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_134552-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_134851-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_135051-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-20180603_170527-01-275x275.jpeg</image:loc>
   </image:image>
 </data>
