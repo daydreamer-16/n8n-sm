@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.jvoiture.fr/optimisez-la-gestion-de-votre-flotte-grace-a-la-geolocalisation/</loc>
+  <lastmod>2026-04-16T09:04:57+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/optimisez-la-gestion-de-votre-flotte-grace-a-la-geolocalisation-scaled.jpg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/792866/honda-red-dot-awards-wn7-prelude-miimo-uni-one/</loc>
   <lastmod>2026-04-15T14:39:34Z</lastmod>
   <priority>0.5</priority>
@@ -32,11 +37,5 @@
   <image:image>
     <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/couple-versailles-balade.webp</image:loc>
     <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/amis-versailles-restaurant.webp</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/auto-moto-guide-fr-la-boite-a-outils-digitale-des-automobilistes-presses/</loc>
-  <lastmod>2026-04-15T04:10:46+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/femme-professionnelle-voiture-numerique.webp</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/homme-service-voiture-tablet.webp</image:loc>
   </image:image>
 </data>
