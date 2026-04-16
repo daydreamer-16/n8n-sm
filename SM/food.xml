@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/cuisiner-ensemble-renforce-relations/</loc>
+  <lastmod>2026-04-16T13:02:31+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/saint-martin-ile-dangereuse/</loc>
   <lastmod>2026-04-16T05:41:00+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/coq-au-vin-recette-grand-mere/</loc>
@@ -43,15 +45,5 @@
   <lastmod>2026-04-07T19:32:32+00:00</lastmod>
   <image:image>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/11/bonbon-au-chocolat-01-e1764153357848.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/biscuits/recette-dacquoise/</loc>
-  <lastmod>2026-04-07T19:28:22+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/recette-dacquoise-03.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/recette-dacquoise-03-275x275.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/dacquoise-01-275x204.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/dacquoise-02-275x204.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/dacquoise-04-275x204.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/dacquoise-05-275x204.webp</image:loc>
   </image:image>
 </data>
