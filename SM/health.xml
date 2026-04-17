@@ -22,30 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/fluoride-drinking-water-no-effect-iq-brain-function-study</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-15</news:publication_date>
-    <news:title>Fluoride in Drinking Water Has No Effect on IQ or Brain Function, Study Finds</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/menopause-estrogen-patch-shortage-after-fda-endorsement</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-15</news:publication_date>
-    <news:title>Menopause Estrogen Patches Are in Short Supply. What Are the Alternatives?</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-16T17:12:17.094Z</lastmod>
+  <lastmod>2026-04-16T22:38:11.856Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descubre-naturitas-essentials-innovacion-y-eficacia-en-cada-formula</loc>
   <lastmod>2026-04-15T08:02:50Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/el-papel-del-colageno-en-la-preparacion-de-la-piel-para-el-sol</loc>
@@ -56,4 +34,8 @@
   <lastmod>2026-04-09T13:44:08Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/como-recuperar-el-equilibrio-digestivo-despues-de-las-vacaciones</loc>
   <lastmod>2026-04-09T13:42:48Z</lastmod>
+  <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/tipos-de-proteina-guia-para-elegir-la-mas-adecuada</loc>
+  <lastmod>2026-04-09T05:00:10Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/dia-mundial-de-la-salud-prevencion-y-autocuidado-para-una-vida-saludable</loc>
+  <lastmod>2026-04-07T08:00:01Z</lastmod>
 </data>
