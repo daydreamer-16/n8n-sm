@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.jvoiture.fr/transport-de-votre-vehicule-camion-plateau-ou-convoyage/</loc>
+  <lastmod>2026-04-17T07:05:03+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/229709.jpg</image:loc>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/229710.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/haynes-pro-workshop-data-business-pack-pour-reseaux-de-garages-quels-gains-reels/</loc>
+  <lastmod>2026-04-17T04:27:21+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/technicien-auto-bureau.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/gestionnaires-atelier.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-moto-pneu.net/condensateur-sur-moteur-electrique-bruyant-ou-qui-chauffe-que-faire/</loc>
+  <lastmod>2026-04-17T04:21:46+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/electricien-moteur-industriel.webp</image:loc>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/technicien-test-capaciteur.webp</image:loc>
+  </image:image>
+  <loc>https://www.jvoiture.fr/cb-boldor-900-de-collection-jusquou-peut-monter-la-valeur-en-2026/</loc>
+  <lastmod>2026-04-17T03:54:22+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/homme-polissant-moto-classique.webp</image:loc>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/jeune-femme-exposition-motos.webp</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/793065/kansas-motorsports-venue-protection-act-hoa-noise-complaints-housing/</loc>
   <lastmod>2026-04-16T13:50:33Z</lastmod>
   <priority>0.5</priority>
@@ -17,19 +41,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/792964/gm-colorado-zr2-isvu/</loc>
   <lastmod>2026-04-16T11:32:04Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/792981/canam-origin-brake-caliper-recall/</loc>
-  <lastmod>2026-04-16T11:04:33Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.jvoiture.fr/optimisez-la-gestion-de-votre-flotte-grace-a-la-geolocalisation/</loc>
-  <lastmod>2026-04-16T09:04:57+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/optimisez-la-gestion-de-votre-flotte-grace-a-la-geolocalisation-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/792866/honda-red-dot-awards-wn7-prelude-miimo-uni-one/</loc>
-  <lastmod>2026-04-15T14:39:34Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/792845/3d-print-hoses-tpu-filament-testing-video/</loc>
-  <lastmod>2026-04-15T13:03:59Z</lastmod>
   <priority>0.5</priority>
 </data>
