@@ -11,30 +11,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/sibling-stem-cell-transplant-rare-hiv-remission-oslo-patient</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-17</news:publication_date>
-    <news:title>Norway Man ‘Likely Cured’ of HIV After Stem Cell Transplant From Brother</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/fda-approves-onclarity-at-home-cervical-cancer-screening-kit</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-17</news:publication_date>
-    <news:title>FDA OKs Another At‑Home Cervical Cancer Screening Kit, Further Expanding Access</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-18T10:38:11.113Z</lastmod>
+  <lastmod>2026-04-18T22:38:11.570Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descubre-naturitas-essentials-innovacion-y-eficacia-en-cada-formula</loc>
   <lastmod>2026-04-15T08:02:50Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/el-papel-del-colageno-en-la-preparacion-de-la-piel-para-el-sol</loc>
@@ -47,4 +25,8 @@
   <lastmod>2026-04-09T13:42:48Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/tipos-de-proteina-guia-para-elegir-la-mas-adecuada</loc>
   <lastmod>2026-04-09T05:00:10Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/dia-mundial-de-la-salud-prevencion-y-autocuidado-para-una-vida-saludable</loc>
+  <lastmod>2026-04-07T08:00:01Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/torrijas-saludables-al-horno</loc>
+  <lastmod>2026-04-02T08:02:22Z</lastmod>
 </data>
