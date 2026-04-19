@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/pesticides-healthy-foods-lung-cancer-risk-people-under-50</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-19</news:publication_date>
+    <news:title>Pesticides in Healthy Foods Linked to Higher Lung Cancer Risk in People Under 50</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/marriage-lower-cancer-risk-not-prevention</loc>
   <news:news>
     <news:publication>
@@ -12,7 +23,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-18T22:38:11.570Z</lastmod>
+  <lastmod>2026-04-19T11:14:20.832Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descubre-naturitas-essentials-innovacion-y-eficacia-en-cada-formula</loc>
   <lastmod>2026-04-15T08:02:50Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/el-papel-del-colageno-en-la-preparacion-de-la-piel-para-el-sol</loc>
@@ -27,6 +38,4 @@
   <lastmod>2026-04-09T05:00:10Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/dia-mundial-de-la-salud-prevencion-y-autocuidado-para-una-vida-saludable</loc>
   <lastmod>2026-04-07T08:00:01Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/torrijas-saludables-al-horno</loc>
-  <lastmod>2026-04-02T08:02:22Z</lastmod>
 </data>
