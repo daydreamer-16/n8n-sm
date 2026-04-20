@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/porsche-911-gt3-sc/</loc>
+  <lastmod>2026-04-20T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/5-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/6-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/4-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/moto-en-ville-5-erreurs-qui-facilitent-le-vol/</loc>
+  <lastmod>2026-04-20T11:34:16+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/pexels-33203545.jpeg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/reviews/793106/first-ride-review-2026-honda-cb1000-hornet-sp/</loc>
   <lastmod>2026-04-19T14:05:11Z</lastmod>
   <priority>0.5</priority>
@@ -11,6 +23,13 @@
   <image:image>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/homme-voiture-impala-port.webp</image:loc>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-interieur-impala.webp</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/linfo-en-temps-reel-sur-209-fr-change-t-elle-vraiment-votre-quotidien/</loc>
+  <lastmod>2026-04-19T04:08:38+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-cuisine-lecture-news-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/homme-tram-lecture-smartphone.webp</image:loc>
   </image:image>
   <loc>https://www.auto-mechanic-info.com/regime-moteur-a-130-kmh-consommer-moins-sans-perdre-en-vitesse/</loc>
   <lastmod>2026-04-19T04:05:04+00:00</lastmod>
@@ -26,23 +45,5 @@
   </image:image>
   <loc>https://www.rideapart.com/reviews/793084/watch-2026-triumph-trident-660-review/</loc>
   <lastmod>2026-04-18T14:00:02Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/793108/triumph-bonneville-350-testing-india-coming-soon/</loc>
-  <lastmod>2026-04-18T13:44:08Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.auto-moto-pneu.net/permisexpert-fr-pour-le-code-de-la-route-bonne-ou-mauvaise-idee/</loc>
-  <lastmod>2026-04-18T08:07:34+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-etude-voiture-ecole.webp</image:loc>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/jeune-homme-ecole-conduite.webp</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/kereta-nissan-skyline-gt-r-une-icone-du-drift-japonais/</loc>
-  <lastmod>2026-04-18T08:06:22+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/out-0-25-scaled.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/674fb0fa2ad44.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/793087/travis-pastrana-suzuki-hayabusa-powered-mini-truck-liam-doran-video/</loc>
-  <lastmod>2026-04-17T13:17:59Z</lastmod>
   <priority>0.5</priority>
 </data>
