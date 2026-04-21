@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.healthline.com/health-news/pesticides-healthy-foods-lung-cancer-risk-people-under-50</loc>
+  <loc>https://www.healthline.com/health-news/eye-drop-recall-2026-fda-flags-over-3-million-bottles</loc>
   <news:news>
     <news:publication>
       <news:name>Healthline</news:name>
       <news:language>en</news:language>
     </news:publication>
-    <news:publication_date>2026-4-19</news:publication_date>
-    <news:title>Pesticides in Healthy Foods Linked to Higher Lung Cancer Risk in People Under 50</news:title>
+    <news:publication_date>2026-4-20</news:publication_date>
+    <news:title>FDA Flags Over 3 Million Bottles of Eye Drops. Is Yours Affected?</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/hidden-side-effects-glp-1-drugs-ozempic-reddit-study</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-20</news:publication_date>
+    <news:title>Hidden Side Effects of GLP-1 Drugs: Ozempic Chills, Hot Flashes, and More</news:title>
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-20T06:30:08.435Z</lastmod>
+  <lastmod>2026-04-21T10:38:12.881Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descubre-naturitas-essentials-innovacion-y-eficacia-en-cada-formula</loc>
-  <lastmod>2026-04-15T08:02:50Z</lastmod>
+  <lastmod>2026-04-21T06:43:56Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/granola-casera-crujiente</loc>
+  <lastmod>2026-04-16T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/el-papel-del-colageno-en-la-preparacion-de-la-piel-para-el-sol</loc>
   <lastmod>2026-04-14T14:07:23Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/sopa-cremosa-de-brocoli-y-espinacas-con-leche-de-coco</loc>
@@ -25,8 +38,4 @@
   <lastmod>2026-04-09T13:42:48Z</lastmod>
   <loc>https://www.naturitas.es/blog/nutricion-y-dietetica/tipos-de-proteina-guia-para-elegir-la-mas-adecuada</loc>
   <lastmod>2026-04-09T05:00:10Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/dia-mundial-de-la-salud-prevencion-y-autocuidado-para-una-vida-saludable</loc>
-  <lastmod>2026-04-07T08:00:01Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/torrijas-saludables-al-horno</loc>
-  <lastmod>2026-04-02T08:02:22Z</lastmod>
 </data>
