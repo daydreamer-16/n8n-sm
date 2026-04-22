@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/lamborghini-miura-sv-polo-storico-roma/</loc>
+  <lastmod>2026-04-22T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/19-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/18-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/17-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/15-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/16-2.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/scandale-voitures-fantomes/</loc>
   <lastmod>2026-04-21T18:00:00+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/pixabay-6969346.jpg</image:loc>
   </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/trouver-des-pieces-de-moto-exactes-pour-chaque-marque/</loc>
+  <lastmod>2026-04-22T06:20:21+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/mecanicien-moto-atelier-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-march-moto.webp</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/lynkco-prepare-une-gt-deux-portes/</loc>
   <lastmod>2026-04-21T16:00:00+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/14-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/</loc>
-  <loc>https://www.auto-actu.org/trouver-des-pieces-de-moto-exactes-pour-chaque-marque/</loc>
-  <lastmod>2026-04-21T16:15:55+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/mecanicien-moto-atelier-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-march-moto.webp</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/articles/ce-moteur-legendaire-audi-devait-disparaitre/</loc>
   <lastmod>2026-04-21T14:00:00+02:00</lastmod>
@@ -36,7 +45,4 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/12-2.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/793477/ai-slop-chinese-three-row-sidebyside-utv-can-am-maverick/</loc>
-  <lastmod>2026-04-21T11:52:56Z</lastmod>
-  <priority>0.5</priority>
 </data>
