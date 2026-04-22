@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/low-dose-aspirin-colorectal-cancer-risk</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-22</news:publication_date>
+    <news:title>Aspirin Doesn't Prevent Colorectal Cancer, Review Says. Here's What Helps Instead</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/time-poop-stays-in-your-body-affects-your-health</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-22</news:publication_date>
+    <news:title>The Longer Poop Stays in Your Body, the More It Can Affect Your Health</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/avocado-mango-combo-lowers-blood-pressure-prediabetes</loc>
   <news:news>
     <news:publication>
@@ -22,17 +44,6 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/eye-drop-recall-2026-fda-flags-over-3-million-bottles</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-20</news:publication_date>
-    <news:title>FDA Flags Over 3 Million Bottles of Eye Drops. Is Yours Affected?</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
   <lastmod>2026-04-22T10:33:50.059Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/ritmos-circadianos-en-primavera-como-afecta-la-luz-a-tu-sueno</loc>
@@ -45,6 +56,4 @@
   <lastmod>2026-04-14T14:07:23Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/sopa-cremosa-de-brocoli-y-espinacas-con-leche-de-coco</loc>
   <lastmod>2026-04-09T15:14:47Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/menu-menu-asiatico-saludable-facil-y-lleno-de-sabor</loc>
-  <lastmod>2026-04-09T13:44:08Z</lastmod>
 </data>
