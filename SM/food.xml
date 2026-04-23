@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/maison-vacances-landes/</loc>
+  <lastmod>2026-04-23T15:22:42+00:00</lastmod>
+  <loc>https://www.lateliergourmand.fr/chicago-ville-dangereuse/</loc>
+  <lastmod>2026-04-23T13:55:05+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/et-si-cuisiner-etait-le-nouveau-yoga/</loc>
   <lastmod>2026-04-22T13:19:11+00:00</lastmod>
   <loc>https://mapatisserie.fr/recette/dessert/recette-paris-brest/</loc>
@@ -131,18 +135,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/11/recette-ganache-montee-02-275x206.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/11/recette-ganache-montee-03-275x206.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/11/recette-ganache-montee-06-275x206.webp</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/autres/comment-creer-un-site-web-pour-votre-boulangerie-artisanale-ou-restaurant/</loc>
-  <lastmod>2026-04-21T08:58:55+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/patisserie-traditionnelle-espagnole-01.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/biscuits/recette-pate-amande/</loc>
-  <lastmod>2026-04-21T08:32:38+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/02/recette-pate-amande-02.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/02/recette-pate-amande-02-275x275.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/05/IMG_20160522_154420-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_154920-275x206.jpg</image:loc>
   </image:image>
 </data>
