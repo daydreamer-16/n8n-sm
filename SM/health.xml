@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/xanax-recall-anxiety-fda-viatris</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-23</news:publication_date>
+    <news:title>Taking Xanax XR? FDA Recalls Batch Over Effectiveness Concerns</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/egg-coffee-drink-tiktok-health-risk</loc>
   <news:news>
     <news:publication>
@@ -7,7 +18,7 @@
       <news:language>en</news:language>
     </news:publication>
     <news:publication_date>2026-4-23</news:publication_date>
-    <news:title>Egg Coffee Is Percolating on TikTok, but May Pose Serious Health Risk</news:title>
+    <news:title>Egg Coffee Is Percolating on TikTok, but May Pose Serious Health Risks</news:title>
     <news:keywords>egg coffee, Salmonella</news:keywords>
     <news:stock_tickers/>
   </news:news>
@@ -45,6 +56,4 @@
   <lastmod>2026-04-16T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/el-papel-del-colageno-en-la-preparacion-de-la-piel-para-el-sol</loc>
   <lastmod>2026-04-14T14:07:23Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/sopa-cremosa-de-brocoli-y-espinacas-con-leche-de-coco</loc>
-  <lastmod>2026-04-09T15:14:47Z</lastmod>
 </data>
