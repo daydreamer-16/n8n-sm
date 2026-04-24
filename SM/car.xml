@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/640-ch-1-100-kg-et-des-bandes-martini-la-kimera-evo38-qui-reecrit-les-regles/</loc>
+  <lastmod>2026-04-24T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/24-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/23-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-moto-pneu.net/comment-choisir-et-entretenir-sa-moto-pour-une-utilisation-quotidienne-securisee/</loc>
+  <lastmod>2026-04-24T08:18:53+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/69ea2fa1377af-download-scaled.png</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/793753/morbidelli-n125v-single-sided-swingarm/</loc>
   <lastmod>2026-04-23T13:27:34Z</lastmod>
   <priority>0.5</priority>
@@ -26,17 +37,5 @@
   <image:image>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/homme-voiture-neighborhood.webp</image:loc>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-voiture-urbaine.webp</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/estimer-cout-trajet-voiture-avant-de-partir-le-reflexe-pour-eviter-les-mauvaises-surprises/</loc>
-  <lastmod>2026-04-23T03:58:48+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-femme-voiture-smartphone.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-rural-voiture-plein-air.webp</image:loc>
-  </image:image>
-  <loc>https://www.jvoiture.fr/permis-probatoire-perte-de-points-comprendre-la-lettre-48n-pas-a-pas/</loc>
-  <lastmod>2026-04-23T03:36:33+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/jeune-femme-lecture-lettre-cuisine.webp</image:loc>
-    <image:loc>https://www.jvoiture.fr/wp-content/uploads/jeune-homme-stationnement-voiture.webp</image:loc>
   </image:image>
 </data>
