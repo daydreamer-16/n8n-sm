@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/choucroute-grand-mere-recette-traditionnelle/</loc>
+  <lastmod>2026-04-24T09:04:31+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2025/01/recette_ancestrale_de_choucroute_9204.jpg</image:loc>
+  </image:image>
   <loc>https://www.lateliergourmand.fr/cassoulet-maison-grand-mere/</loc>
   <lastmod>2026-04-24T05:32:00+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/maison-vacances-landes/</loc>
@@ -97,30 +102,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/creme-diplomate-05-275x206.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/12/recette-mousse-orange-20201205_165439-275x206.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/05/recette-tiramisu_2020-05-09_09-27-56-275x206.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/pain/recette-pain-maison/</loc>
-  <lastmod>2026-04-21T19:56:15+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/recette-pain-maison-05.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/recette-pain-maison-07-275x275.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190329_170638-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190329_170741-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190329_172950-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_201804-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_190748-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_190904-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_211027-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_201707-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_210857-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/06/recette-pain-de-campagne-20200603_064312-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190401_192321-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190401_192937-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190401_194409-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190401_194535-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190401_211943-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190401_212135-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190401_212450-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190401_215454-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190723_073837-275x206.jpg</image:loc>
   </image:image>
 </data>
