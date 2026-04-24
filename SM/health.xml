@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/trump-reclassifies-medical-cannabis-as-less-dangerous-drug</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-24</news:publication_date>
+    <news:title>Trump Reclassifies State-Licensed Medical Cannabis, but It’s Not Legal Just Yet</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/tirzepatide-reduces-risk-major-cardiovascular-events</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-24</news:publication_date>
+    <news:title>Mounjaro, Zepbound Lower Death Risk for People With Serious Heart Conditions</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/xanax-recall-anxiety-fda-viatris</loc>
   <news:news>
     <news:publication>
@@ -22,19 +44,10 @@
     <news:keywords>egg coffee, Salmonella</news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/low-dose-aspirin-colorectal-cancer-risk</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-22</news:publication_date>
-    <news:title>Aspirin Doesn't Prevent Colorectal Cancer, Review Says. Here's What Helps Instead</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-24T01:11:15.887Z</lastmod>
+  <lastmod>2026-04-24T16:33:54.172Z</lastmod>
+  <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
+  <lastmod>2026-04-24T11:03:27Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
   <lastmod>2026-04-22T08:03:24Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/ritmos-circadianos-en-primavera-como-afecta-la-luz-a-tu-sueno</loc>
@@ -43,8 +56,4 @@
   <lastmod>2026-04-21T06:43:56Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/granola-casera-crujiente</loc>
   <lastmod>2026-04-16T08:00:01Z</lastmod>
-  <loc>https://www.naturitas.es/blog/cosmética-y-belleza/el-papel-del-colageno-en-la-preparacion-de-la-piel-para-el-sol</loc>
-  <lastmod>2026-04-14T14:07:23Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/sopa-cremosa-de-brocoli-y-espinacas-con-leche-de-coco</loc>
-  <lastmod>2026-04-09T15:14:47Z</lastmod>
 </data>
