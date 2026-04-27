@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/bugatti-volkswagen-fin-dune-ere/</loc>
+  <lastmod>2026-04-27T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/6-3.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-moto-pneu.net/vehicule-neuf-5000-euros-pour-jeune-conducteur-bonnes-et-mauvaises-idees/</loc>
+  <lastmod>2026-04-27T07:07:33+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/jeune-homme-voiture-departement.webp</image:loc>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/jeune-femme-voiture-urbaine.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/yamaha-125-tzr-comment-verifier-le-kilometrage-et-lusure-reelle/</loc>
+  <lastmod>2026-04-27T07:06:02+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/mecanicien-moto-yamaha-odometre.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-femme-verification-pneu-moto.webp</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/793895/supercharger-drag-race-triumph-suzuki-ariel/</loc>
   <lastmod>2026-04-26T13:16:20Z</lastmod>
   <priority>0.5</priority>
@@ -30,13 +47,4 @@
     <image:loc>https://www.jvoiture.fr/wp-content/uploads/homme-ukrainien-voiture-plateau.webp</image:loc>
     <image:loc>https://www.jvoiture.fr/wp-content/uploads/femme-ukrainienne-papiers-voiture.webp</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/793788/dab-motors-brabus-electric-motorcycle-collab/</loc>
-  <lastmod>2026-04-24T14:21:44Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/793785/sxs-utv-tire-came-off-crash-prevention-sidebyside/</loc>
-  <lastmod>2026-04-24T13:08:52Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/793781/2026-ktm-1390-super-duke-track-only-special-edition/</loc>
-  <lastmod>2026-04-24T12:11:49Z</lastmod>
-  <priority>0.5</priority>
 </data>
