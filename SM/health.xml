@@ -11,19 +11,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/fructose-ultra-processed-foods-drives-obesity-metabolic-disease</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-25</news:publication_date>
-    <news:title>A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-26T18:12:33.818Z</lastmod>
+  <lastmod>2026-04-27T10:16:41.159Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
   <lastmod>2026-04-24T11:03:27Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
@@ -38,4 +27,6 @@
   <lastmod>2026-04-14T14:07:23Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/sopa-cremosa-de-brocoli-y-espinacas-con-leche-de-coco</loc>
   <lastmod>2026-04-09T15:14:47Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/menu-menu-asiatico-saludable-facil-y-lleno-de-sabor</loc>
+  <lastmod>2026-04-09T13:44:08Z</lastmod>
 </data>
