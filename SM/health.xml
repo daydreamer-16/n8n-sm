@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/nicole-kidman-death-doula-training</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-4-30</news:publication_date>
+    <news:title>Nicole Kidman Says She's Training to Become a Death Doula After Mom’s Passing</news:title>
+    <news:keywords>Nicole Kidman, death doula, end of life care</news:keywords>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/male-infertility-colorectal-thyroid-cancer-risk</loc>
   <news:news>
     <news:publication>
@@ -11,29 +22,18 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/coffee-reshapes-gut-brain-reduce-stress</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-4-28</news:publication_date>
-    <news:title>Coffee May Alter Gut Microbiome to Reduce Stress (Yes, Even Decaf)</news:title>
-    <news:keywords>coffee, stress, </news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-04-30T10:38:13.456Z</lastmod>
+  <lastmod>2026-04-30T22:38:13.293Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/energia-y-sistema-nervioso-como-la-ashwagandha-y-la-gelatina-pueden-ayudarte-en-primavera</loc>
-  <lastmod>2026-04-28T08:24:41Z</lastmod>
+  <lastmod>2026-04-30T14:13:01Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
+  <lastmod>2026-04-30T14:01:01Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/ritmos-circadianos-en-primavera-como-afecta-la-luz-a-tu-sueno</loc>
+  <lastmod>2026-04-30T13:46:37Z</lastmod>
   <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
   <lastmod>2026-04-24T11:03:27Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
   <lastmod>2026-04-23T08:00:01Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
-  <lastmod>2026-04-22T08:03:24Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/ritmos-circadianos-en-primavera-como-afecta-la-luz-a-tu-sueno</loc>
-  <lastmod>2026-04-21T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descubre-naturitas-essentials-innovacion-y-eficacia-en-cada-formula</loc>
   <lastmod>2026-04-21T06:43:56Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/granola-casera-crujiente</loc>
