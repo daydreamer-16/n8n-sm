@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.auto-mechanic-info.com/pourquoi-la-difference-camera-et-radar-feu-rouge-change-votre-facon-de-conduire/</loc>
+  <lastmod>2026-05-01T04:11:06+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-conducteur-voiture-urbaine.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-femme-bicyclette-rue.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-moto-pneu.net/musique-de-la-pub-peugeot-5008-musique-comment-lecouter-en-entier-legalement/</loc>
+  <lastmod>2026-05-01T03:39:12+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-ecoute-musique-domicile.webp</image:loc>
+    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/jeune-homme-streaming-voiture.webp</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/794357/hyosing-gv250-cruiser-launch-japan/</loc>
   <lastmod>2026-04-30T13:26:57Z</lastmod>
   <priority>0.5</priority>
@@ -23,11 +35,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/794326/sidebyside-sxs-utv-airbags-autoliv-sweden/</loc>
   <lastmod>2026-04-29T13:59:39Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/794228/harley-davidson-europe-spring-rally/</loc>
-  <lastmod>2026-04-29T13:06:46Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/794226/ducati-superleggera-v4-centenario-tricolore/</loc>
-  <lastmod>2026-04-29T12:56:17Z</lastmod>
   <priority>0.5</priority>
 </data>
