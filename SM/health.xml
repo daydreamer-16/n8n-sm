@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/dreams-influence-your-morning-mood</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-2</news:publication_date>
+    <news:title>Do You Dream in Fear or Joy? The Answer Could Affect Your Morning Mood</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/ckm-syndrome-higher-cancer-risk</loc>
   <news:news>
     <news:publication>
@@ -23,7 +34,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-02T02:08:52.307Z</lastmod>
+  <lastmod>2026-05-02T20:38:14.900Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/energia-y-sistema-nervioso-como-la-ashwagandha-y-la-gelatina-pueden-ayudarte-en-primavera</loc>
   <lastmod>2026-04-30T14:13:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
@@ -36,6 +47,4 @@
   <lastmod>2026-04-23T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/descubre-naturitas-essentials-innovacion-y-eficacia-en-cada-formula</loc>
   <lastmod>2026-04-21T06:43:56Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/granola-casera-crujiente</loc>
-  <lastmod>2026-04-16T08:00:01Z</lastmod>
 </data>
