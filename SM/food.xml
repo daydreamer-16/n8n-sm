@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.lateliergourmand.fr/quels-legumes-avec-encornets/</loc>
-  <lastmod>2026-05-02T06:14:00+00:00</lastmod>
-  <loc>https://chefdodo.com/recette-pate-a-cookie-cru/</loc>
-  <lastmod>2026-05-01T10:00:04+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/05/output1.png</image:loc>
-  </image:image>
-  <loc>https://chefdodo.com/smoothie-banane-kiwi/</loc>
-  <lastmod>2026-04-29T10:00:28+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/04/output1-16.png</image:loc>
-  </image:image>
   <loc>https://mapatisserie.fr/recette/glaces-cremes-glacees-et-sorbets/recette-sorbet-citron/</loc>
   <lastmod>2026-05-02T08:36:35+00:00</lastmod>
   <image:image>
@@ -138,5 +126,74 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/09/recette-brioche-nanterre-20190616_200109.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/09/recette-brioche-nanterre-20190616_195913.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/09/recette-brioche-nanterre-20190616_220610.jpg</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/epiphanie/recette-brioche-rois/</loc>
+  <lastmod>2026-05-02T08:29:34+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-brioche-des-rois-03-e1736958154180.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/01/recette-brioche-des-rois-03-e1736958154180.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_081549.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_082113.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_084816.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_084845.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_085406.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_085446.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_085448.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_085603.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/recette-fouace-20210820_154127.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/01/brioche-rois-20210109_164622.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/01/brioche-rois-20210109_164415.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/01/brioche-rois-20210109_164309.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/01/brioche-rois-20210109_164253.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/01/brioche-rois-20210109_164157.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/01/brioche-rois-20210109_164128.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/01/brioche-rois-20210109_164118.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/01/brioche-rois-20210109_164058.jpg</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/viennoiseries/recette-croissant/</loc>
+  <lastmod>2026-05-02T08:28:51+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/10/recette-croissant-01.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/10/recette-croissant-01-275x275.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_134443-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_135444-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/recette-croissant-02-275x206.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170115_090238-e1579992291584-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_153547-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_181155-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/01/recette-pate-feuilletee_2020-05-09_12-07-35-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_181452-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_181543-e1574108298332-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Tours_pate_feuilletees-237x275.png</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_182441-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/recette-croissant-04-275x206.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170114_102053-e1486902850486-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170114_103754-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170114_102941-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170115_180006-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/recette-croissant-03-e1769455250836-275x206.webp</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/viennoiseries/recette-pain-au-chocolat/</loc>
+  <lastmod>2026-05-02T08:28:24+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/04/pain-au-chocolat-03.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/04/pain-au-chocolat-07-275x275.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_134443-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_135444-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/recette-croissant-02-275x206.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170115_090238-e1579992291584-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_153547-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_181155-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/01/recette-pate-feuilletee_2020-05-09_12-07-35-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_181452-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_181543-e1574108298332-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/Tours_pate_feuilletees-237x275.png</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_182441-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_201535-e1486912170346-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170114_102313-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170108_203304-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170114_102941-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170115_180006-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/recette-croissant-03-e1769455250836-275x206.webp</image:loc>
   </image:image>
 </data>
