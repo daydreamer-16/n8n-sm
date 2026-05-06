@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/comment-faire-oeufs-durs/</loc>
+  <lastmod>2026-05-06T05:30:00+00:00</lastmod>
   <loc>https://mapatisserie.fr/recette/classiques-faciles/recette-gateau-aux-pommes/</loc>
   <lastmod>2026-05-05T21:44:51+00:00</lastmod>
   <image:image>
@@ -174,11 +176,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/02/IMG_20170219_150704.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/02/IMG_20170219_150137.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/02/IMG_20170219_150334.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/divers/recette-praline-noix-de-pecan/</loc>
-  <lastmod>2026-05-05T21:25:54+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/02/recette-praline-pecan-01.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/02/recette-praline-pecan-02.jpg</image:loc>
   </image:image>
 </data>
