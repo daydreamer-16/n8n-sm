@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/mercedes-amg-one-reingrun/</loc>
+  <lastmod>2026-05-06T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/4-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/1.jpg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/794707/royal-enfield-guerrilla-450-apex-edition/</loc>
   <lastmod>2026-05-05T13:01:00Z</lastmod>
   <priority>0.5</priority>
@@ -34,7 +42,4 @@
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-organisateur-suv.webp</image:loc>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/homme-folding-suv.webp</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/794654/ripsaw-m1-ugv-atv-modern-day-marine-expo/</loc>
-  <lastmod>2026-05-04T13:19:00Z</lastmod>
-  <priority>0.5</priority>
 </data>
