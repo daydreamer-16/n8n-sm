@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/dolly-parton-health-update-cancels-las-vegas-shows</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-6</news:publication_date>
+    <news:title>Dolly Parton Shares Good and ‘a Little Bad News’ About Her Health</news:title>
+    <news:keywords>dolly parton</news:keywords>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/office-air-theory-skin-hair</loc>
   <news:news>
     <news:publication>
@@ -11,30 +22,10 @@
     <news:keywords>office air theory</news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/novo-nordisk-ozempic-pill-diabetes-treatment</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-5</news:publication_date>
-    <news:title>New Ozempic Pill Could Revolutionize Type 2 Diabetes Treatment. Here's How</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/hantavirus-outbreak-atlantic-cruise-ship</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-5</news:publication_date>
-    <news:title>3 Dead in Hantavirus Outbreak on Cruise Ship, but Risk to Public Is Low</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-06T21:08:52.179Z</lastmod>
+  <lastmod>2026-05-07T09:04:43.117Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
+  <lastmod>2026-05-06T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
   <lastmod>2026-05-05T13:52:21Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/el-impacto-real-de-la-celiaquia-mas-alla-de-una-dieta-sin-gluten</loc>
