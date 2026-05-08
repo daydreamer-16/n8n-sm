@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/fda-blocks-publication-covid-shingles-vaccine-safety-studies</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-8</news:publication_date>
+    <news:title>FDA Blocks Publication of Vaccine Safety Studies. Why Experts Are Concerned</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/ultra-processed-foods-heart-disease-healthy-swaps</loc>
   <news:news>
     <news:publication>
@@ -11,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/dolly-parton-health-update-cancels-las-vegas-shows</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-6</news:publication_date>
-    <news:title>Dolly Parton Shares Good and ‘a Little Bad News’ About Her Health</news:title>
-    <news:keywords>dolly parton</news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-08T10:07:50.643Z</lastmod>
+  <lastmod>2026-05-08T22:38:56.644Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
   <lastmod>2026-05-06T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
