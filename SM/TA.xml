@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/seattle-approves-copilot-for-city-staff/</loc>
+  <lastmod>2026-05-09T03:46:19+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_298942916.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-13.43.16.png</image:loc>
+  </image:image>
+  <loc>https://cities-today.com/cincinnati-sees-revenue-rise-after-removing-parking-gates/</loc>
+  <lastmod>2026-05-09T00:31:53+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_116847112.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/21-P1050048.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/newcastle-wi-fi-moves-from-launch-to-everyday-city-service/</loc>
   <lastmod>2026-05-08T00:32:36+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_161443472.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-10.24.07.png</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/cincinnati-sees-revenue-rise-after-removing-parking-gates/</loc>
-  <lastmod>2026-05-06T23:54:10+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_116847112.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/21-P1050048.jpg</image:loc>
   </image:image>
   <loc>https://cities-today.com/how-cities-are-using-data-to-analyse-the-impact-of-mega-events/</loc>
   <lastmod>2026-05-05T00:39:58+00:00</lastmod>
@@ -52,12 +58,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/04/IMG_20240113_0743392-scaled.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/04/Secretaria-VV-1-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/why-cities-are-entering-a-new-phase-of-innovation-maturity/</loc>
-  <lastmod>2026-04-23T11:19:02+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/04/Rikesh-Shah-City-Innovation-Network-scaled.jpeg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/04/CLF-Conference-Dublin-053.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/04/CLF-Conference-Dublin-002.jpg</image:loc>
   </image:image>
 </data>
