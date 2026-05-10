@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/barbara-roberts-hiv-30-year-journey</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-10</news:publication_date>
+    <news:title>She Was Diagnosed with HIV in 1996 and Still Thriving Today at 74</news:title>
+    <news:keywords>HIV, Idvynso</news:keywords>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/new-breast-density-treatment-fewer-side-effects-cancer-prevention</loc>
   <news:news>
     <news:publication>
@@ -23,7 +34,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-09T21:29:08.700Z</lastmod>
+  <lastmod>2026-05-10T06:28:37.710Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
   <lastmod>2026-05-06T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
@@ -36,6 +47,4 @@
   <lastmod>2026-04-30T14:13:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
   <lastmod>2026-04-30T14:01:01Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/ritmos-circadianos-en-primavera-como-afecta-la-luz-a-tu-sueno</loc>
-  <lastmod>2026-04-30T13:46:37Z</lastmod>
 </data>
