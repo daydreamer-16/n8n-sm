@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/weight-loss-surgeries-decline-glp-drugs-increase-study</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-11</news:publication_date>
+    <news:title>Weight Loss Surgeries Decline as GLP-1 Use Skyrockets. Why This Matters</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/barbara-roberts-hiv-30-year-journey</loc>
   <news:news>
     <news:publication>
@@ -12,7 +23,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-11T08:46:12.532Z</lastmod>
+  <lastmod>2026-05-11T20:28:13.557Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
   <lastmod>2026-05-06T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
@@ -27,6 +38,4 @@
   <lastmod>2026-04-30T14:01:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/ritmos-circadianos-en-primavera-como-afecta-la-luz-a-tu-sueno</loc>
   <lastmod>2026-04-30T13:46:37Z</lastmod>
-  <loc>https://www.naturitas.es/blog/cosmética-y-belleza/como-conseguir-una-piel-mas-luminosa-en-primavera</loc>
-  <lastmod>2026-04-24T11:03:27Z</lastmod>
 </data>
