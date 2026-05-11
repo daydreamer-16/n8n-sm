@@ -1,55 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/nissan-skyline-r34-gt-r-villa-deste/</loc>
+  <lastmod>2026-05-11T18:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/7-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/kimera-k39/</loc>
+  <lastmod>2026-05-11T16:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/2-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/4-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/golf-r-nurburgring/</loc>
+  <lastmod>2026-05-11T14:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/5-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/6-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/795258/any-luv1-electric-motorcycle-features/</loc>
+  <lastmod>2026-05-11T13:11:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/795253/2027-honda-fourtrax-atv-specs-features-price/</loc>
+  <lastmod>2026-05-11T12:37:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/795222/australian-honda-full-6-year-warranty/</loc>
+  <lastmod>2026-05-11T12:05:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/alpina-grand-coupe-villa-deste/</loc>
   <lastmod>2026-05-11T12:00:00+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/1-1.jpg</image:loc>
   </image:image>
-  <loc>https://www.auto-moto-pneu.net/restaurer-une-chevy-impala-4-door-1967-budget-pieces-pieges/</loc>
-  <lastmod>2026-05-10T18:49:58+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/restauration-chevy-impala-1967-atelier-fr.webp</image:loc>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/pieces-detachees-impala-1967-restauration-fr.webp</image:loc>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/caisse-impala-1967-rotisserie-restauration-fr.webp</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/fiabilite-moteur-gpl-a-eviter/</loc>
-  <lastmod>2026-04-28T15:49:39+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/04/fiabilite-moteur-GPL-a-eviter.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/fiabilite-moteur-nissan-1-2-dig-t/</loc>
-  <lastmod>2026-04-28T15:46:52+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2025/05/fiabilite-moteur-nissan-1.2-DIG-t.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/moteurs-dacia-a-eviter/</loc>
-  <lastmod>2026-04-28T15:46:35+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/01/moteurs-dacia-a-eviter.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/fiabilite-moteur-eco-g-100/</loc>
-  <lastmod>2026-04-28T15:46:14+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2025/08/fiabilite-moteur-eco-g-100.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/comment-fonctionne-un-epaviste/</loc>
-  <lastmod>2026-04-28T15:30:06+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/04/comment-fonctionne-un-epaviste-.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/remorquage-voiture-en-france/</loc>
-  <lastmod>2026-04-28T15:26:05+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/04/Remorquage-voiture-en-France.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/fiabilite-moteur-2-5-duratec/</loc>
-  <lastmod>2026-04-20T16:39:57+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2025/08/Fiabilite-moteur-2.5-Duratec.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/moteurs-tdci-a-eviter/</loc>
-  <lastmod>2026-04-20T16:39:41+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2025/10/Moteurs-TDCi-a-eviter.jpg</image:loc>
-  </image:image>
+  <loc>https://www.rideapart.com/news/795226/ev-electric-trike-pedal-operated-vigoz/</loc>
+  <lastmod>2026-05-11T11:44:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/795212/arai-rx7x-ai-ogura-trackhouse-replica-helmet-specs-features/</loc>
+  <lastmod>2026-05-11T11:12:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/795213/kawasaki-teryx-h2-sidebyside-utv-recall-stop-sale-update-cvt/</loc>
+  <lastmod>2026-05-11T11:05:00Z</lastmod>
+  <priority>0.5</priority>
 </data>
