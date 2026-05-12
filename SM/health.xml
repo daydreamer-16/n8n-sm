@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/hantavirus-cruise-ship-outbreak-next-pandemic-unlikely</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-12</news:publication_date>
+    <news:title>Hantavirus-Exposed Americans Return to U.S. — Why Experts Say Your Risk Is Low</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/weight-loss-surgeries-decline-glp-drugs-increase-study</loc>
   <news:news>
     <news:publication>
@@ -12,7 +23,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-12T10:38:56.627Z</lastmod>
+  <lastmod>2026-05-12T13:14:08.297Z</lastmod>
   <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
   <lastmod>2026-05-07T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
@@ -27,6 +38,4 @@
   <lastmod>2026-04-30T14:13:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
   <lastmod>2026-04-30T14:01:01Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/ritmos-circadianos-en-primavera-como-afecta-la-luz-a-tu-sueno</loc>
-  <lastmod>2026-04-30T13:46:37Z</lastmod>
 </data>
