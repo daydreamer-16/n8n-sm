@@ -11,19 +11,10 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/barbara-roberts-hiv-30-year-journey</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-10</news:publication_date>
-    <news:title>She Was Diagnosed with HIV in 1996 and Still Thriving Today at 74</news:title>
-    <news:keywords>HIV, Idvynso</news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-11T20:28:13.557Z</lastmod>
+  <lastmod>2026-05-12T10:38:56.627Z</lastmod>
+  <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
+  <lastmod>2026-05-07T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
   <lastmod>2026-05-06T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
