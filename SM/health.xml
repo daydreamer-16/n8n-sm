@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/ballmaxxing-more-dangerous-than-you-think</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-14</news:publication_date>
+    <news:title>Why 'Ballmaxxing' May Be More Dangerous Than You Think</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/how-many-daily-steps-best-for-weight-management</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-14</news:publication_date>
+    <news:title>8,500 Daily Steps Can Help You Lose Weight and Keep It Off</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/pcos-renamed-pmos-improve-diagnosis-care-multisystem-disease</loc>
   <news:news>
     <news:publication>
@@ -22,19 +44,8 @@
     <news:keywords>Healthgrades Patient Experience Awards 2026</news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/hantavirus-cruise-ship-outbreak-next-pandemic-unlikely</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-12</news:publication_date>
-    <news:title>Hantavirus-Exposed Americans Return to U.S. — Why Experts Say Your Risk Is Low</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-14T00:13:09.079Z</lastmod>
+  <lastmod>2026-05-14T16:09:08.241Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
   <lastmod>2026-05-12T08:00:15Z</lastmod>
   <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
@@ -45,6 +56,4 @@
   <lastmod>2026-05-05T13:52:21Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/el-impacto-real-de-la-celiaquia-mas-alla-de-una-dieta-sin-gluten</loc>
   <lastmod>2026-05-05T13:40:07Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/3-meriendas-faciles-de-preparar-para-el-dia-a-dia</loc>
-  <lastmod>2026-05-05T08:56:38Z</lastmod>
 </data>
