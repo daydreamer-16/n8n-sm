@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/antidepressants-during-pregnancy-not-linked-autism-adhd-review</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-15</news:publication_date>
+    <news:title>Antidepressants During Pregnancy Not Linked to Autism, ADHD. Here’s Why</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
+  <loc>https://www.healthline.com/health-news/glp-1-drugs-improve-breast-cancer-survival-rates</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-15</news:publication_date>
+    <news:title>GLP-1 Drugs May Improve Breast Cancer Survival, Lower Risk of Recurrence</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/ballmaxxing-more-dangerous-than-you-think</loc>
   <news:news>
     <news:publication>
@@ -23,7 +45,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-15T10:09:01.210Z</lastmod>
+  <lastmod>2026-05-15T10:38:55.926Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
   <lastmod>2026-05-12T08:00:15Z</lastmod>
   <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
@@ -34,8 +56,4 @@
   <lastmod>2026-05-05T13:52:21Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/el-impacto-real-de-la-celiaquia-mas-alla-de-una-dieta-sin-gluten</loc>
   <lastmod>2026-05-05T13:40:07Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/3-meriendas-faciles-de-preparar-para-el-dia-a-dia</loc>
-  <lastmod>2026-05-05T08:56:38Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/energia-y-sistema-nervioso-como-la-ashwagandha-y-la-gelatina-pueden-ayudarte-en-primavera</loc>
-  <lastmod>2026-04-30T14:13:01Z</lastmod>
 </data>
