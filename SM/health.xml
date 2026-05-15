@@ -22,30 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/pcos-renamed-pmos-improve-diagnosis-care-multisystem-disease</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-13</news:publication_date>
-    <news:title>PCOS Is Now PMOS: Doctors Say Name Change Will Improve Diagnosis, Care</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
-  <loc>https://www.healthline.com/health-news/healthgrades-top-hospitals-patient-experience-2026</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-13</news:publication_date>
-    <news:title>Healthgrades Names America’s Top Hospitals for Patient Experience in 2026</news:title>
-    <news:keywords>Healthgrades Patient Experience Awards 2026</news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-14T16:09:08.241Z</lastmod>
+  <lastmod>2026-05-15T10:09:01.210Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
   <lastmod>2026-05-12T08:00:15Z</lastmod>
   <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
@@ -56,4 +34,8 @@
   <lastmod>2026-05-05T13:52:21Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/el-impacto-real-de-la-celiaquia-mas-alla-de-una-dieta-sin-gluten</loc>
   <lastmod>2026-05-05T13:40:07Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/3-meriendas-faciles-de-preparar-para-el-dia-a-dia</loc>
+  <lastmod>2026-05-05T08:56:38Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/energia-y-sistema-nervioso-como-la-ashwagandha-y-la-gelatina-pueden-ayudarte-en-primavera</loc>
+  <lastmod>2026-04-30T14:13:01Z</lastmod>
 </data>
