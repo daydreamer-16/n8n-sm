@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/real-housewives-star-guerdy-abraira-breast-cancer</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-17</news:publication_date>
+    <news:title>Real Housewives Star Says Breast Cancer Gave Her a ‘Different Type of Strength’</news:title>
+    <news:keywords>breast cancer, real housewives, Guerdy Abraira</news:keywords>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/sleep-duration-associated-with-faster-biological-aging</loc>
   <news:news>
     <news:publication>
@@ -22,19 +33,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/glp-1-drugs-improve-breast-cancer-survival-rates</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-15</news:publication_date>
-    <news:title>GLP-1 Drugs May Improve Breast Cancer Survival, Lower Risk of Recurrence</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-16T18:30:51.498Z</lastmod>
+  <lastmod>2026-05-16T22:38:55.418Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
   <lastmod>2026-05-12T08:00:15Z</lastmod>
   <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
