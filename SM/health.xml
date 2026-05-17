@@ -22,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/antidepressants-during-pregnancy-not-linked-autism-adhd-review</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-15</news:publication_date>
-    <news:title>Antidepressants During Pregnancy Not Linked to Autism, ADHD. Here’s Why</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-16T22:38:55.418Z</lastmod>
+  <lastmod>2026-05-17T19:49:02.537Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
   <lastmod>2026-05-12T08:00:15Z</lastmod>
   <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
@@ -47,4 +36,6 @@
   <lastmod>2026-05-05T13:40:07Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/3-meriendas-faciles-de-preparar-para-el-dia-a-dia</loc>
   <lastmod>2026-05-05T08:56:38Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/energia-y-sistema-nervioso-como-la-ashwagandha-y-la-gelatina-pueden-ayudarte-en-primavera</loc>
+  <lastmod>2026-04-30T14:13:01Z</lastmod>
 </data>
