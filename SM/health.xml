@@ -11,19 +11,8 @@
     <news:keywords>breast cancer, real housewives, Guerdy Abraira</news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/sleep-duration-associated-with-faster-biological-aging</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-16</news:publication_date>
-    <news:title>Want to Slow Your Biological Aging? Sleeping 6.4 to 7.8 Hours a Night May Help</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-17T19:49:02.537Z</lastmod>
+  <lastmod>2026-05-17T22:38:55.699Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
   <lastmod>2026-05-12T08:00:15Z</lastmod>
   <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
@@ -38,4 +27,6 @@
   <lastmod>2026-05-05T08:56:38Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/energia-y-sistema-nervioso-como-la-ashwagandha-y-la-gelatina-pueden-ayudarte-en-primavera</loc>
   <lastmod>2026-04-30T14:13:01Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
+  <lastmod>2026-04-30T14:01:01Z</lastmod>
 </data>
