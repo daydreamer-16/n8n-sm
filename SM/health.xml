@@ -11,19 +11,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/real-housewives-star-guerdy-abraira-breast-cancer</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-17</news:publication_date>
-    <news:title>Real Housewives Star Says Breast Cancer Gave Her a ‘Different Type of Strength’</news:title>
-    <news:keywords>breast cancer, real housewives, Guerdy Abraira</news:keywords>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-18T19:40:05.430Z</lastmod>
+  <lastmod>2026-05-19T02:37:54.673Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
   <lastmod>2026-05-12T08:00:15Z</lastmod>
   <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
@@ -38,4 +27,6 @@
   <lastmod>2026-05-05T08:56:38Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/energia-y-sistema-nervioso-como-la-ashwagandha-y-la-gelatina-pueden-ayudarte-en-primavera</loc>
   <lastmod>2026-04-30T14:13:01Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/astenia-primaveral-consejos-para-mantener-tu-vitalidad-en-primavera</loc>
+  <lastmod>2026-04-30T14:01:01Z</lastmod>
 </data>
