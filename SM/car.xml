@@ -1,43 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/796161/ducati-hypermotard-698-nera-specs-features/</loc>
-  <lastmod>2026-05-19T13:01:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/796220/honda-grom-new-colors-europe/</loc>
-  <lastmod>2026-05-19T12:46:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/796101/2027-ktm-xc-range-revealed/</loc>
-  <lastmod>2026-05-19T12:23:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/796203/big-bend-national-park-texas-border-wall-contract-award/</loc>
-  <lastmod>2026-05-19T12:06:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/796100/mv-agusta-brutale-1000-abt-specs-features-price/</loc>
-  <lastmod>2026-05-19T11:58:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/796210/gopro-company-for-sale-action-camera/</loc>
-  <lastmod>2026-05-19T11:49:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/796064/sea-doo-lake-havasu-sightseeing-experience/</loc>
-  <lastmod>2026-05-19T11:01:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/fors-mustang-dark-horse-sc-2026/</loc>
-  <lastmod>2026-04-22T15:30:00+02:00</lastmod>
+  <loc>https://www.roadstr.fr/blog/articles/2026-bmw-alpina-vision/</loc>
+  <lastmod>2026-05-20T11:00:00+02:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/21-2.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/6-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/4-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/5-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/7-2.jpg</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/jensen-interceptor-gtx/</loc>
-  <lastmod>2026-04-22T14:00:00+02:00</lastmod>
+  <loc>https://www.roadstr.fr/blog/articles/mercedes-amg-gt-4-portes-electrique/</loc>
+  <lastmod>2026-05-20T11:00:00+02:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/22-2.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/1-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/3-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/2-2.jpg</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/lamborghini-miura-sv-polo-storico-roma/</loc>
-  <lastmod>2026-04-22T12:00:00+02:00</lastmod>
+  <loc>https://www.autoblog.it/post/renault-kadjar-tre-varianti-per-la-nuova-generazione</loc>
+  <lastmod>2026-05-20T09:25:33+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/19-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/18-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/17-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/15-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/16-2.jpg</image:loc>
+    <image:loc>https://www.autoblog.it/app/uploads/2020/10/renault-kadjar-restyling-05.jpg</image:loc>
+  </image:image>
+  <loc>https://www.autoblog.it/post/935/nuova-lancia-delta-nel-2007</loc>
+  <lastmod>2026-05-20T09:25:33+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.autoblog.it/app/uploads/2005/06/lancia-delta-2007.jpg</image:loc>
+  </image:image>
+  <loc>https://www.autoblog.it/post/1034711/nuove-opel-mokka-ultimate-e-gs-line-al-debutto-i-nuovi-allestimenti-top-di-gamma</loc>
+  <lastmod>2026-05-20T09:25:33+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.autoblog.it/app/uploads/2020/11/opel-mokka-opel-mokka-e-512758-0.jpg</image:loc>
+  </image:image>
+  <loc>https://www.autoblog.it/post/land-rover-defender-works-v8-trophy-rinasce-liconico-off-road</loc>
+  <lastmod>2026-05-20T09:25:33+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.autoblog.it/app/uploads/2021/02/cop-8.jpg</image:loc>
+  </image:image>
+  <loc>https://www.autoblog.it/post/1302/il-topolino-rampante-la-500-da-200-cavalli</loc>
+  <lastmod>2026-05-20T09:25:33+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.autoblog.it/app/uploads/2005/08/hartham-logo.gif</image:loc>
+  </image:image>
+  <loc>https://www.autoblog.it/post/toyota-highlander-primo-contatto-dotazioni-e-prezzi-del-suv-full-hybrid</loc>
+  <lastmod>2026-05-20T09:25:33+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.autoblog.it/app/uploads/2021/01/icp-3888-4-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.autoblog.it/post/lexus-e-toyota-le-novita-per-il-salone-di-shanghai-2021</loc>
+  <lastmod>2026-05-20T09:25:33+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.autoblog.it/app/uploads/2021/04/toyota-lexus-shanghai-2021.png</image:loc>
+    <image:loc>https://www.autoblog.it/app/uploads/2021/04/captura-de-pantalla-2021-04-13-a-las-93039.png</image:loc>
+  </image:image>
+  <loc>https://www.autoblog.it/post/polizia-di-stato-un-incontro-emozionante-fra-due-alfa-romeo-video</loc>
+  <lastmod>2026-05-20T09:25:33+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.autoblog.it/app/uploads/2021/04/polizia-di-stato.jpg</image:loc>
   </image:image>
 </data>
