@@ -11,19 +11,12 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/glp-1-drugs-ozempic-wegovy-help-lower-blood-pressure</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-18</news:publication_date>
-    <news:title>GLP-1 Drugs Like Ozempic, Wegovy May Help Lower Blood Pressure</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-19T21:33:19.341Z</lastmod>
+  <lastmod>2026-05-20T10:38:57.394Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-y-energia-en-primavera-como-influyen-en-tu-bienestar-diario</loc>
+  <lastmod>2026-05-20T08:00:00Z</lastmod>
+  <loc>https://www.naturitas.es/blog/salud-y-bienestar/todo-lo-que-necesitas-saber-sobre-la-histamina-y-su-relacion-con-las-alergias</loc>
+  <lastmod>2026-05-20T06:22:30Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/concentracion-y-bienestar-mental-como-potenciar-tu-enfoque-de-manera-natural</loc>
   <lastmod>2026-05-13T08:00:02Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
@@ -36,6 +29,4 @@
   <lastmod>2026-05-05T13:52:21Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/el-impacto-real-de-la-celiaquia-mas-alla-de-una-dieta-sin-gluten</loc>
   <lastmod>2026-05-05T13:40:07Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/3-meriendas-faciles-de-preparar-para-el-dia-a-dia</loc>
-  <lastmod>2026-05-05T08:56:38Z</lastmod>
 </data>
