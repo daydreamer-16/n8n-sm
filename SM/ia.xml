@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/californiens-supprimer-leurs-donnees-web</loc>
+  <lastmod>2026-05-20T01:41:49+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/10/cycyb.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/ia-ameliorer-cybersecurite</loc>
+  <lastmod>2026-05-20T01:41:46+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/03/ia-cybersecurite1.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/03/ia-cybersecurite2.jpg</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/google-keen-reseau-social-ia</loc>
   <lastmod>2026-05-20T01:41:43+00:00</lastmod>
   <image:image>
@@ -40,15 +51,5 @@
   <lastmod>2026-05-20T01:40:33+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/07/Open-Source-Visual-Cloud.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/coded-bias-film-racisme-ia</loc>
-  <lastmod>2026-05-20T01:40:24+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/03/presentation-film-coded-bias1-e1616583097883.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/ce-celebre-club-de-foot-frappe-par-un-ransomware-les-donnees-des-supporters-en-fuite</loc>
-  <lastmod>2026-05-20T01:40:20+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/12/publithings_seo_photo_of_a_tense_cyber-themed_composition_showi_a9efd36e-0e3d-46b6-8331-abaf98f247ef.png</image:loc>
   </image:image>
 </data>
