@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/menopause-plant-forward-diets-weight-management</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-21</news:publication_date>
+    <news:title>Menopause: Plant-Forward Diets Can Help With Weight Management</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/glp-1-drugs-ozempic-quiet-food-noise-weight-loss</loc>
   <news:news>
     <news:publication>
@@ -27,6 +38,4 @@
   <lastmod>2026-05-07T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
   <lastmod>2026-05-06T08:00:01Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
-  <lastmod>2026-05-05T13:52:21Z</lastmod>
 </data>
