@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/more-aerobic-exercise-needed-cardiovascular-disease-prevention</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-22</news:publication_date>
+    <news:title>How Much Exercise Do You Need to Lower Your Risk of Cardiovascular Disease?</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/menopause-plant-forward-diets-weight-management</loc>
   <news:news>
     <news:publication>
@@ -12,7 +23,7 @@
     <news:stock_tickers/>
   </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-22T10:22:08.193Z</lastmod>
+  <lastmod>2026-05-22T22:27:50.884Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/lasana-de-trigo-sarraceno-y-calabacin</loc>
   <lastmod>2026-05-20T10:00:00Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-y-energia-en-primavera-como-influyen-en-tu-bienestar-diario</loc>
@@ -27,6 +38,4 @@
   <lastmod>2026-05-07T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
   <lastmod>2026-05-06T08:00:01Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
-  <lastmod>2026-05-05T13:52:21Z</lastmod>
 </data>
