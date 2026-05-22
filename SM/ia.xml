@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/langage-programmation-julia</loc>
+  <lastmod>2026-05-20T01:41:52+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/12/programmation-langage-Julia.jpg</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/californiens-supprimer-leurs-donnees-web</loc>
   <lastmod>2026-05-20T01:41:49+00:00</lastmod>
   <image:image>
@@ -46,10 +51,5 @@
   <lastmod>2026-05-20T01:40:49+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/12/Gemini_Generated_Image_n6jxbjn6jxbjn6jx-Photoroom.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/defis-cloud-colocation-2022</loc>
-  <lastmod>2026-05-20T01:40:46+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/02/istockphoto-1310129219-612x612-1.jpg</image:loc>
   </image:image>
 </data>
