@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.etoilecollections.fr/fiabilite-moteur-mini-cooper-1-6-essence/</loc>
+  <lastmod>2026-05-21T16:27:41+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/05/fiabilite-moteur-mini-cooper-1.6-essence.jpg</image:loc>
+  </image:image>
+  <loc>https://www.planete-auto.fr/radars-au-portugal-fonctionnement-types-de-controles-et-amendes/</loc>
+  <lastmod>2026-05-23T14:38:27+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/autoroute.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/radar.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/limitation-de-vitesse.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/police-routiere-1.webp</image:loc>
+  </image:image>
+  <loc>https://www.planete-auto.fr/conduire-au-portugal-examen-systeme-a-points-et-regles-du-permis-portugais/</loc>
+  <lastmod>2026-05-23T14:25:58+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/conduire-au-portugal.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/examen-de-conduite.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/permis-conduire-moto.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/police-routiere.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/796763/triumph-thruxton-tracker-400-video-review-specs-features-price/</loc>
+  <lastmod>2026-05-23T14:00:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/796547/iom-tt-2027-2028-provisional-dates-revealed/</loc>
   <lastmod>2026-05-22T14:24:00Z</lastmod>
   <priority>0.5</priority>
@@ -18,24 +42,4 @@
   <loc>https://www.rideapart.com/features/796507/norton-atlas-adventure-bike-made-in-india/</loc>
   <lastmod>2026-05-22T11:18:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/796506/radian-exr-electric-dirt-bike-enduro-battery-swap/</loc>
-  <lastmod>2026-05-22T11:04:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.auto-mechanic-info.com/feux-diurnes-feux-de-jour-et-codes-comment-sy-retrouver-sur-sa-voiture/</loc>
-  <lastmod>2026-05-22T04:20:00+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/feux-diurnes-led-berline-moderne-fr.jpg</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/technicien-inspection-feux-optique-voiture-fr.jpg</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/tableau-de-bord-voyants-feux-codes-voiture-fr.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/fiabilite-moteur-mini-cooper-1-6-essence/</loc>
-  <lastmod>2026-05-21T16:27:41+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/05/fiabilite-moteur-mini-cooper-1.6-essence.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/top-10-meilleures-solutions-de-gestion-de-flotte/</loc>
-  <lastmod>2026-05-21T15:41:28+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/05/Top-10-Meilleures-Solutions-de-Gestion-de-Flotte.jpg</image:loc>
-  </image:image>
 </data>
