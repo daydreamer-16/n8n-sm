@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/new-pilot-helps-cities-procure-ai-cooperatively/</loc>
+  <lastmod>2026-05-24T13:53:37+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_19293398.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/how-cities-are-scaling-ai-into-operations/</loc>
   <lastmod>2026-05-22T03:41:31+00:00</lastmod>
   <image:image>
@@ -53,11 +58,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_298942916.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-13.43.16.png</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/newcastle-wi-fi-moves-from-launch-to-everyday-city-service/</loc>
-  <lastmod>2026-05-08T00:32:36+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_161443472.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-10.24.07.png</image:loc>
   </image:image>
 </data>
