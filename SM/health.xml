@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.healthline.com/health-news/dairy-farmer-misdiagnosed-lyme-disease-lupus</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-5-24</news:publication_date>
+    <news:title>This Dairy Farmer Was Misdiagnosed with Lyme Disease for Years. It Was Lupus</news:title>
+    <news:keywords>Lupus, Lyme disease</news:keywords>
+    <news:stock_tickers/>
+  </news:news>
   <loc>https://www.healthline.com/health-news/perimenopause-heart-disease-prevention-women</loc>
   <news:news>
     <news:publication>
@@ -11,19 +22,8 @@
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/more-aerobic-exercise-needed-cardiovascular-disease-prevention</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-22</news:publication_date>
-    <news:title>How Much Exercise Do You Need to Lower Your Risk of Cardiovascular Disease?</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-23T22:38:55.300Z</lastmod>
+  <lastmod>2026-05-24T20:42:42.084Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/lasana-de-trigo-sarraceno-y-calabacin</loc>
   <lastmod>2026-05-20T10:00:00Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-y-energia-en-primavera-como-influyen-en-tu-bienestar-diario</loc>
