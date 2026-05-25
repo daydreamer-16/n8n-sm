@@ -11,19 +11,8 @@
     <news:keywords>Lupus, Lyme disease</news:keywords>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/perimenopause-heart-disease-prevention-women</loc>
-  <news:news>
-    <news:publication>
-      <news:name>Healthline</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:publication_date>2026-5-23</news:publication_date>
-    <news:title>Perimenopause May Be the Ideal Time for Cardiovascular Risk Prevention</news:title>
-    <news:keywords/>
-    <news:stock_tickers/>
-  </news:news>
   <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-24T20:42:42.084Z</lastmod>
+  <lastmod>2026-05-25T07:19:21.859Z</lastmod>
   <loc>https://www.naturitas.es/blog/recetas/lasana-de-trigo-sarraceno-y-calabacin</loc>
   <lastmod>2026-05-20T10:00:00Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-y-energia-en-primavera-como-influyen-en-tu-bienestar-diario</loc>
@@ -38,4 +27,6 @@
   <lastmod>2026-05-07T08:00:01Z</lastmod>
   <loc>https://www.naturitas.es/blog/salud-y-bienestar/belleza-integral-habitos-naturales-para-cuerpo-y-mente</loc>
   <lastmod>2026-05-06T08:00:01Z</lastmod>
+  <loc>https://www.naturitas.es/blog/recetas/alcachofas-en-tempura-de-azafran-crujiente</loc>
+  <lastmod>2026-05-05T13:52:21Z</lastmod>
 </data>
