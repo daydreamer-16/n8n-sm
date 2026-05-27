@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/voiture-electrique-et-voyage-longue-distance-mission-possible/</loc>
+  <lastmod>2026-05-27T12:32:51+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/16-1.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/15-1.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/17-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/la-ferrari-luce-se-fait-tacler-par-di-montezemolo/</loc>
+  <lastmod>2026-05-27T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/11-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/ferrari-luce-presentation/</loc>
+  <lastmod>2026-05-27T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/4-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/5-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/3-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/2-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/1-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/6-3.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/796993/channing-tatum-spotted-isle-of-man-tt-filming-at-race/</loc>
+  <lastmod>2026-05-27T10:34:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.auto-mechanic-info.com/jeune-conducteur-a-moto-quelles-garanties-privilegier/</loc>
   <lastmod>2026-05-26T22:00:06+00:00</lastmod>
   <image:image>
@@ -19,21 +44,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/796664/motogp-vmoto-partnership-announcement/</loc>
   <lastmod>2026-05-26T12:29:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/reviews/796665/2026-yamaha-yfz450r-first-ride-review/</loc>
-  <lastmod>2026-05-26T11:54:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/796662/lil-pick-up-sierra-125u-atv-recall/</loc>
-  <lastmod>2026-05-26T11:22:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.auto-moto-pneu.net/quand-remplacer-le-feu-arriere-de-sa-compacte-ancienne-generation/</loc>
-  <lastmod>2026-05-26T03:14:00+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/remplacement-feu-arriere-compacte-ancienne-mecanicien-fr.jpg</image:loc>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-feu-arriere-endommage-compacte-parking-fr.jpg</image:loc>
-    <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/comparaison-feu-arriere-ancien-neuf-compacte-etabli-fr.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/reviews/796667/2026-honda-pioneer-1000-deluxe-utv-review-specs-price-features/</loc>
-  <lastmod>2026-05-25T11:01:00Z</lastmod>
   <priority>0.5</priority>
 </data>
