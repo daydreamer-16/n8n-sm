@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/new-ai-tool-helps-cities-explain-spending-decisions/</loc>
+  <lastmod>2026-05-27T13:56:19+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Where-did-my-money-go_122x627.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-08.52.58.png</image:loc>
+  </image:image>
   <loc>https://cities-today.com/how-cities-are-scaling-ai-into-operations/</loc>
   <lastmod>2026-05-26T07:44:09+00:00</lastmod>
   <image:image>
@@ -52,11 +58,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_116847112.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/21-P1050048.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/seattle-approves-copilot-for-city-staff/</loc>
-  <lastmod>2026-05-11T07:05:47+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_298942916.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-13.43.16.png</image:loc>
   </image:image>
 </data>
