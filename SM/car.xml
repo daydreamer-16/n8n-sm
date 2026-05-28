@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/796997/motogp-ross-brawn-pramac-yamaha-advisor/</loc>
-  <lastmod>2026-05-27T14:42:00Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.roadstr.fr/blog/articles/brabus-bodo-la-voiture-quun-homme-a-reve-toute-sa-vie-sans-jamais-la-voir-naitre/</loc>
+  <lastmod>2026-05-28T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/23-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/21-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/24-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/22.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/road-trip-suisse/</loc>
+  <lastmod>2026-05-28T11:45:17+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/pexels-16624911-1024x683.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/pexels-36343876-1024x768.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/pexels-18332458-1024x683.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/unsplash-58uZCE8zrdk.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/master-l2h2-hauteur-ideale-pour-transformation-en-camping-car-ou-fourgon-loisir/</loc>
+  <lastmod>2026-05-28T07:55:10+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/master-l2h2-atelier-conversion-camping-car-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/interieur-amenagement-fourgon-master-l2h2-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/master-l2h2-camping-car-foret-voyage-fr.webp</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/indemnite-carburant-grands-rouleurs/</loc>
   <lastmod>2026-05-27T14:30:01+02:00</lastmod>
   <image:image>
@@ -27,12 +47,6 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/12-2-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/13-1.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/797002/fly-wing-snake-250-efi-recall-brake-failure/</loc>
-  <lastmod>2026-05-27T13:38:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/796770/top-gear-richard-hammond-long-way-charley-boorman-abr-festival/</loc>
-  <lastmod>2026-05-27T12:54:00Z</lastmod>
-  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/voiture-electrique-et-voyage-longue-distance-mission-possible/</loc>
   <lastmod>2026-05-27T12:32:51+02:00</lastmod>
   <image:image>
@@ -40,12 +54,19 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/15-1.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/17-1.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/796811/zxmoto-mx250-dirt-bike-specs-features-launch-price-china/</loc>
-  <lastmod>2026-05-27T12:17:00Z</lastmod>
-  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/la-ferrari-luce-se-fait-tacler-par-di-montezemolo/</loc>
   <lastmod>2026-05-27T12:00:00+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/11-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/ferrari-luce-presentation/</loc>
+  <lastmod>2026-05-27T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/4-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/5-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/3-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/2-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/1-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/05/6-3.jpg</image:loc>
   </image:image>
 </data>
