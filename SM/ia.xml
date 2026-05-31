@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/nouveau-malware-silver-sparrow-macos</loc>
+  <lastmod>2026-05-20T01:46:05+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/02/malware-silver-sparrow-mac1.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/02/malware-silver-sparrow-mac2.jpg</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/nvidia-securite-ia</loc>
   <lastmod>2026-05-20T01:45:58+00:00</lastmod>
   <image:image>
@@ -48,12 +54,5 @@
   <lastmod>2026-05-20T01:44:27+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2018/11/bluzelle-airbnb-data.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/nextgen-geo-overit-gestion-actifs</loc>
-  <lastmod>2026-05-20T01:44:23+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/06/DALL%C2%B7E-2024-06-07-07.48.53-An-illustration-of-OverITs-NextGen-Geo-product-revolutionizing-the-management-of-linear-assets.-The-image-shows-a-futuristic-control-center-with-adva.webp</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/06/DALL%C2%B7E-2024-06-07-07.49.12-An-illustration-of-OverITs-NextGen-Geo-technology-in-use-for-urban-planning.-The-image-shows-urban-planners-using-advanced-geospatial-data-on-large-s.webp</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/06/DALL%C2%B7E-2024-06-07-07.49.23-An-illustration-of-OverITs-NextGen-Geo-technology-in-the-oil-and-gas-industry.-The-image-shows-engineers-managing-pipeline-networks-with-advanced-geo.webp</image:loc>
   </image:image>
 </data>
