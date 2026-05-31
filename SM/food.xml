@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/recette-civet-de-sanglier/</loc>
+  <lastmod>2026-05-31T09:59:53+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/05/output1-17.png</image:loc>
+  </image:image>
   <loc>https://chefdodo.com/pop-corn-micro-onde/</loc>
   <lastmod>2026-05-29T10:00:43+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/05/output1-16.png</image:loc>
   </image:image>
-  <loc>https://chefdodo.com/longe-de-thon/</loc>
-  <lastmod>2026-05-27T10:00:11+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/05/output1-15.png</image:loc>
-  </image:image>
+  <loc>https://www.st-claire.eu/tomates-farcies-riz-grand-mere</loc>
+  <lastmod>2026-05-31T05:50:00+00:00</lastmod>
+  <loc>https://www.st-claire.eu/salade-pomme-terre-recette-grand-mere</loc>
+  <lastmod>2026-05-30T09:07:10+00:00</lastmod>
+  <loc>https://www.st-claire.eu/parmentier-canard-grand-mere</loc>
+  <lastmod>2026-05-29T09:09:38+00:00</lastmod>
   <loc>https://www.st-claire.eu/fort-boyard-comment-visiter</loc>
   <lastmod>2026-05-29T06:05:00+00:00</lastmod>
   <loc>https://mapatisserie.fr/recette/tartes/recette-tarte-tropezienne/</loc>
@@ -95,13 +101,4 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-pate-amande-tarte-20190903_203512.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/09/recette-pate-amande-tarte-20190903_211435.jpg</image:loc>
   </image:image>
-  <loc>https://www.st-claire.eu/bali-pays-dangereux</loc>
-  <lastmod>2026-05-27T10:28:43+00:00</lastmod>
-  <loc>https://www.st-claire.eu/comment-confire-cuisses-canard</loc>
-  <lastmod>2026-05-27T10:28:41+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.st-claire.eu/wp-content/uploads/2024/12/confiture_de_canard_expliquee_5159.jpg</image:loc>
-  </image:image>
-  <loc>https://www.st-claire.eu/creme-brulee-foie-gras-recette</loc>
-  <lastmod>2026-05-27T10:28:40+00:00</lastmod>
 </data>
