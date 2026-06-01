@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/lisbon-to-test-data-driven-mobility-interventions/</loc>
+  <lastmod>2026-06-01T13:40:37+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/06/dreamstime_s_31086193.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/new-european-index-launched-for-shared-micromobility/</loc>
   <lastmod>2026-05-28T07:33:52+00:00</lastmod>
   <image:image>
@@ -54,10 +59,5 @@
   <lastmod>2026-05-15T02:55:36+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_127363046.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/us-bill-to-expand-shared-micromobility-funding/</loc>
-  <lastmod>2026-05-15T02:54:19+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_72031624.jpg</image:loc>
   </image:image>
 </data>
