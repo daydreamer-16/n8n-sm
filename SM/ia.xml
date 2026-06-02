@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/sage-pilotage-transformation-digitale-data-dsi</loc>
+  <lastmod>2026-05-20T01:46:32+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/01/Sage-V2.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/01/Visuel-pour-Landing-Page.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/lasse-de-dependre-de-google-meta-cree-son-propre-moteur-pour-son-ia</loc>
+  <lastmod>2026-05-20T01:46:28+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/10/0-53.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/signature-ai-edition-m750</loc>
   <lastmod>2026-05-20T01:46:24+00:00</lastmod>
   <image:image>
@@ -62,15 +73,5 @@
   <lastmod>2026-05-20T01:45:58+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/05/nvidia-ia.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/voici-le-premier-ecran-750hz-meme-votre-portefeuille-va-etre-choque</loc>
-  <lastmod>2026-05-20T01:45:40+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/08/ecran-gaming-a-750-Hz.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/xhelper-malware-android</loc>
-  <lastmod>2026-05-20T01:45:25+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2020/04/malware-xhelper.jpg</image:loc>
   </image:image>
 </data>
