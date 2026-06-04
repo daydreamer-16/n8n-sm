@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/utah-protection-vie-privee</loc>
+  <lastmod>2026-05-20T01:48:36+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/03/protection-vie-privee-utah.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/snowflake-nvidia-ia-generatives</loc>
+  <lastmod>2026-05-20T01:48:30+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/06/NVID.jpg</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/technologie-blockchain-influence-depasse-crypto</loc>
   <lastmod>2026-05-20T01:48:26+00:00</lastmod>
   <image:image>
@@ -41,15 +51,5 @@
   <lastmod>2026-05-20T01:47:10+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2019/09/deepfake-vol-entreprise.jpeg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/tout-savoir-sur-youtube-kids-ses-fonctions-son-algorithme-et-son-education</loc>
-  <lastmod>2026-05-20T01:46:57+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/09/publithings_seo_Photo_of_children_and_their_parents_looking_at__f2b0100a-d608-42b7-84b9-7c6cd216b2c0.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/les-competences-incontournables-pour-les-developpeurs-en-2025</loc>
-  <lastmod>2026-05-20T01:46:55+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/11/0_3-17.png</image:loc>
   </image:image>
 </data>
