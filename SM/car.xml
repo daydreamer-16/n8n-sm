@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/top-5-circuits-stage-monoplace/</loc>
+  <lastmod>2026-06-06T14:13:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/langfr-1920px-Circuit_Paul_Armagnac_Nogaro.svg_-1024x845.png</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/1280px-Coupes_de_Paques_2017_Nogaro_11_33384275703_cropped-1024x576.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/Circuit_Ledenon-1-1024x746.png</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/Circuit_de_vitesse_du_Vigeant-1024x554.png</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/Circuit-Pau-Arnos-826x1024.png</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/Circuit_de_Linas-Montlhery.png</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/unsplash-M5s9Ffs1KqU.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/797887/zero-lompico-ev-motorcycle-coming-soon/</loc>
+  <lastmod>2026-06-06T11:22:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.etoilecollections.fr/huile-moteur-peugeot-208/</loc>
   <lastmod>2026-06-05T16:20:13+00:00</lastmod>
   <image:image>
@@ -29,11 +43,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/797528/nitrous-powered-re-guerrilla-450-autologue-design/</loc>
   <lastmod>2026-06-05T11:54:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/797749/sena-outlander-adventure-dual-sport-helmet-integratted-communications/</loc>
-  <lastmod>2026-06-05T11:22:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/797617/aldo-leopold-foundation-doug-duren-sharing-the-land-conservation-land-ethic/</loc>
-  <lastmod>2026-06-05T11:01:00Z</lastmod>
   <priority>0.5</priority>
 </data>
