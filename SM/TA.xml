@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/how-european-cities-are-making-ai-work-for-people/</loc>
+  <lastmod>2026-06-05T14:03:56+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/06/AI-in-cities_Eurocities-Digital-Forum-Sofia_April-2026_Photo1.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/06/AI-in-cities_Eurocities-Digital-Forum-Sofia_April-2026.png</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/06/AI-in-cities_Eurocities-Digital-Forum-Sofia_April-2026_Photo2.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/la-metro-launches-app-and-contactless-fares-before-world-cup/</loc>
   <lastmod>2026-06-04T13:53:46+00:00</lastmod>
   <image:image>
@@ -53,10 +60,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_44917226.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Screenshot-2025-05-30-at-12.59.46-749x600-1.png</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/free-fares-boost-public-transport-ridership-in-australia/</loc>
-  <lastmod>2026-05-18T03:10:15+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/dreamstime_s_63366107.jpg</image:loc>
   </image:image>
 </data>
