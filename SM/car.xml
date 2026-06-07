@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.rideapart.com/news/797941/indian-motorcycle-influencer-campaign-brad-parscale/</loc>
+  <lastmod>2026-06-07T11:02:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/top-5-circuits-stage-monoplace/</loc>
   <lastmod>2026-06-06T14:13:00+02:00</lastmod>
   <image:image>
@@ -24,6 +27,13 @@
   <image:image>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/06/moteur-1.4-vti-fiabilite.jpg</image:loc>
   </image:image>
+  <loc>https://www.planete-auto.fr/retrouver-le-code-autoradio-d-une-renault-captur/</loc>
+  <lastmod>2026-06-07T16:23:12+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur-II.jpg</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur-I.jpg</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur.jpg</image:loc>
+  </image:image>
   <loc>https://www.etoilecollections.fr/pourquoi-bien-choisir-son-assurance-auto-avant-dacheter-une-voiture-doccasion/</loc>
   <lastmod>2026-06-05T15:40:57+00:00</lastmod>
   <image:image>
@@ -42,13 +52,6 @@
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/autoradio-308.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/personne-en-ligne.webp</image:loc>
   </image:image>
-  <loc>https://www.planete-auto.fr/retrouver-le-code-autoradio-d-une-renault-captur/</loc>
-  <lastmod>2026-06-03T23:51:32+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur-II.jpg</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur-I.jpg</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur.jpg</image:loc>
-  </image:image>
   <loc>https://www.etoilecollections.fr/mercedes-classe-c-modeles-a-eviter/</loc>
   <lastmod>2026-06-03T10:47:28+00:00</lastmod>
   <image:image>
@@ -57,12 +60,5 @@
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2024/11/mercedes-classe-c-3-modele-a-eviter-1024x536.jpg</image:loc>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2024/11/mercedes-classe-c-4-modele-a-eviter-1024x536.jpg</image:loc>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2024/11/mercedes-classe-c-modele-a-eviter.jpg</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/achat-dune-voiture-doccasion-cheque-de-banque-ou-virement-quelle-solution-choisir/</loc>
-  <lastmod>2026-06-02T22:03:32+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/voiture-d-occations.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/virement-bancaire.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/cheque.webp</image:loc>
   </image:image>
 </data>
