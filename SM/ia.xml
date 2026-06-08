@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/mit-cree-ia-liquides</loc>
+  <lastmod>2026-05-20T01:53:27+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/02/mit-cree-ia-liquide1.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/02/mit-cree-ia-liquide2.jpeg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/computer-vision-et-deep-learning-detecter-cybermenaces</loc>
+  <lastmod>2026-05-20T01:53:22+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/09/computer-vision-deep-learning-detecter-cybermenace1.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/09/computer-vision-deep-learning-detecter-cybermenace2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/les-revenus-chatgpt-en-fleche-grace-a-gpt-4o-decouvrez-pourquoi</loc>
+  <lastmod>2026-05-20T01:53:19+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/05/Gpt-4o-et-ses-revenus.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/trump-accuse-kamala-harris-davoir-truque-son-meeting-avec-lia-est-ce-vrai</loc>
   <lastmod>2026-05-20T01:52:39+00:00</lastmod>
   <image:image>
@@ -38,21 +55,5 @@
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/08/demande-acces-aux-donnees.jpg</image:loc>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/08/demande-acces-aux-donnees-1.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/rouen-lance-sa-collection-de-nft</loc>
-  <lastmod>2026-05-20T01:51:42+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/02/NFT.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/02/ZOK.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/ai-pin-devait-remplacer-le-smartphone-il-se-contente-de-bruler-en-chargeant</loc>
-  <lastmod>2026-05-20T01:51:33+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/06/Design-sans-titre-24.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/pourquoi-lia-reveille-les-vieilles-rancoeurs-entre-microsoft-et-apple</loc>
-  <lastmod>2026-05-20T01:51:28+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/05/Combat-de-geants.png</image:loc>
   </image:image>
 </data>
