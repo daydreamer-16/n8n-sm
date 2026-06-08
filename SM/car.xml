@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.auto-mechanic-info.com/capcar-vu-par-un-acheteur-mefiant-retour-dexperience-et-conseils-pratiques/</loc>
-  <lastmod>2026-06-08T10:21:21+00:00</lastmod>
+  <loc>https://www.rideapart.com/news/798111/indian-motorcycle-harley-davidson-political-attack-ad-pr-company/</loc>
+  <lastmod>2026-06-08T19:01:23Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/ferrari-origine-ce-que-la-premiere-scuderia-revele-sur-la-marque/</loc>
+  <lastmod>2026-06-08T15:24:08+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/acheteur-mefiant-recherche-voiture-occasion-capcar-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/inspection-carrosserie-voiture-occasion-acheteur-capcar-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/verification-historique-vehicule-achat-voiture-occasion-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/garage-course-italien-vintage-scuderia-ferrari-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/badge-cheval-cabrant-voiture-course-historique-ferrari-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/voiture-course-rouge-campagne-italienne-origines-scuderia-fr.webp</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/articles/top-5-circuits-stage-monoplace/</loc>
   <lastmod>2026-06-06T14:13:00+02:00</lastmod>
@@ -27,6 +30,13 @@
   <lastmod>2026-06-05T16:18:55+00:00</lastmod>
   <image:image>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/06/moteur-1.4-vti-fiabilite.jpg</image:loc>
+  </image:image>
+  <loc>https://www.planete-auto.fr/carte-grise-italienne-la-comprendre-pour-immatriculer-un-vehicule-en-france/</loc>
+  <lastmod>2026-06-08T19:50:55+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Carte-grise-italienne.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/lecture-Carte-grise-italienne.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/argent-liquide.webp</image:loc>
   </image:image>
   <loc>https://www.planete-auto.fr/gerez-votre-parc-vo-depuis-une-seule-interface-sans-friction/</loc>
   <lastmod>2026-06-08T10:10:03+00:00</lastmod>
@@ -51,21 +61,5 @@
   <image:image>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/berline-mercedes-montagne.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Berline-en-circulation.webp</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/retrouver-le-code-autoradio-d-une-peugeot-methodes-pour-le-recuperer-facilement/</loc>
-  <lastmod>2026-06-04T09:11:49+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Peugeot-5008.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/autoradio-308.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/05/personne-en-ligne.webp</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/mercedes-classe-c-modeles-a-eviter/</loc>
-  <lastmod>2026-06-03T10:47:28+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2024/11/mercedes-classe-c-1-modele-a-eviter-1024x536.jpg</image:loc>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2024/11/mercedes-classe-c-2-modele-a-eviter-1024x536.jpg</image:loc>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2024/11/mercedes-classe-c-3-modele-a-eviter-1024x536.jpg</image:loc>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2024/11/mercedes-classe-c-4-modele-a-eviter-1024x536.jpg</image:loc>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2024/11/mercedes-classe-c-modele-a-eviter.jpg</image:loc>
   </image:image>
 </data>
