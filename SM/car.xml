@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/assurance-auto-voiture-occasion/</loc>
+  <lastmod>2026-06-09T10:12:43+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/assurance-auto-occasion-1-576x1024.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/assurance-voiture-auto-occxasion.jpg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/798111/indian-motorcycle-harley-davidson-political-attack-ad-pr-company/</loc>
   <lastmod>2026-06-08T19:01:23Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.auto-mechanic-info.com/ferrari-origine-ce-que-la-premiere-scuderia-revele-sur-la-marque/</loc>
-  <lastmod>2026-06-08T15:24:08+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/garage-course-italien-vintage-scuderia-ferrari-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/badge-cheval-cabrant-voiture-course-historique-ferrari-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/voiture-course-rouge-campagne-italienne-origines-scuderia-fr.webp</image:loc>
-  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/top-5-circuits-stage-monoplace/</loc>
   <lastmod>2026-06-06T14:13:00+02:00</lastmod>
   <image:image>
@@ -21,6 +20,21 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/Circuit_de_Linas-Montlhery.png</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/unsplash-M5s9Ffs1KqU.jpg</image:loc>
   </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/voyant-sur-206-allume-mais-aucune-panne-visible-comment-ne-pas-se-tromper/</loc>
+  <lastmod>2026-06-08T15:24:04+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/voyant-allume-peugeot-206-mecanicien-garage-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/conductrice-voyant-tableau-bord-206-rue-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/gros-plan-voyant-moteur-scanner-obd-peugeot-206-fr.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-actu.org/renault-1525f3-check-list-complete-avant-de-changer-le-calculateur/</loc>
+  <lastmod>2026-06-08T09:24:23+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/diagnostic-obd2-renault-calculateur-1525f3-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/remplacement-calculateur-ecu-renault-moteur-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/checklist-diagnostic-calculateur-renault-1525f3-fr.webp</image:loc>
+  </image:image>
   <loc>https://www.etoilecollections.fr/huile-moteur-peugeot-208/</loc>
   <lastmod>2026-06-05T16:20:13+00:00</lastmod>
   <image:image>
@@ -31,35 +45,17 @@
   <image:image>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/06/moteur-1.4-vti-fiabilite.jpg</image:loc>
   </image:image>
+  <loc>https://www.planete-auto.fr/gerez-votre-parc-vo-depuis-une-seule-interface-sans-friction/</loc>
+  <lastmod>2026-06-09T08:31:41+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Gerer-un-parc-VO.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Gestionnaire-de-parc-VO-vehicules-concessionnaire.webp</image:loc>
+  </image:image>
   <loc>https://www.planete-auto.fr/carte-grise-italienne-la-comprendre-pour-immatriculer-un-vehicule-en-france/</loc>
   <lastmod>2026-06-08T19:50:55+00:00</lastmod>
   <image:image>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Carte-grise-italienne.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/lecture-Carte-grise-italienne.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/argent-liquide.webp</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/gerez-votre-parc-vo-depuis-une-seule-interface-sans-friction/</loc>
-  <lastmod>2026-06-08T10:10:03+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/237045.jpg</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/237046.jpg</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/retrouver-le-code-autoradio-d-une-renault-captur/</loc>
-  <lastmod>2026-06-07T16:23:12+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur-II.jpg</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur-I.jpg</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/renault-captur.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/pourquoi-bien-choisir-son-assurance-auto-avant-dacheter-une-voiture-doccasion/</loc>
-  <lastmod>2026-06-05T15:40:57+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/06/Pourquoi-bien-choisir-son-assurance-auto-avant-dacheter-une-voiture-doccasion-.jpg</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/comment-choisir-une-berline-premium-d-occasion-sans-se-tromper/</loc>
-  <lastmod>2026-06-04T14:50:29+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/berline-mercedes-montagne.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Berline-en-circulation.webp</image:loc>
   </image:image>
 </data>
