@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/malware-joker-application-squid-game</loc>
+  <lastmod>2026-05-20T01:56:24+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/10/malware-joker-squid-game-app1.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/10/malware-joker-squid-game-app2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/malware-espionne-sour</loc>
+  <lastmod>2026-05-20T01:56:12+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/11/malware-souris.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/russie-attaques-ddos</loc>
+  <lastmod>2026-05-20T01:56:12+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/03/istockphoto-1185282377-612x612-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/malware-anatsa</loc>
+  <lastmod>2026-05-20T01:56:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/02/Anatsa.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/02/Anatsa-1.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/chatgpt-deep-research-se-connecte-a-github-revolution-pour-le-coding</loc>
   <lastmod>2026-05-20T01:55:28+00:00</lastmod>
   <image:image>
@@ -37,29 +59,5 @@
   <lastmod>2026-05-20T01:53:53+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/11/cyberattaque-russie-parlement.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/covid-19-vaccin-dark-web-kaspersky</loc>
-  <lastmod>2026-05-20T01:53:47+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/03/pfizer-covid-vaccin-scaled.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/03/coronavirus-pfizer.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/03/pass-sanitaire-covid.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/mit-cree-ia-liquides</loc>
-  <lastmod>2026-05-20T01:53:27+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/02/mit-cree-ia-liquide1.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/02/mit-cree-ia-liquide2.jpeg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/computer-vision-et-deep-learning-detecter-cybermenaces</loc>
-  <lastmod>2026-05-20T01:53:22+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/09/computer-vision-deep-learning-detecter-cybermenace1.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/09/computer-vision-deep-learning-detecter-cybermenace2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/les-revenus-chatgpt-en-fleche-grace-a-gpt-4o-decouvrez-pourquoi</loc>
-  <lastmod>2026-05-20T01:53:19+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/05/Gpt-4o-et-ses-revenus.png</image:loc>
   </image:image>
 </data>
