@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/the-gaps-we-need-to-close-in-our-mobility-strategies/</loc>
+  <lastmod>2026-06-09T09:05:18+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/06/IMG_20260514_1935031-Copy-Copy.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/06/IMG_20260513_094821_1-Copy.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/new-google-backed-ai-tool-aids-climate-planning/</loc>
   <lastmod>2026-06-08T19:49:10+00:00</lastmod>
   <image:image>
@@ -51,14 +57,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Where-did-my-money-go_122x627.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-08.52.58.png</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/how-cities-are-scaling-ai-into-operations/</loc>
-  <lastmod>2026-05-26T07:44:09+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/william-zhang-6En4WYsNYXM-unsplash-2-scaled-e1779295909255.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Nadeem-Ullah-705x705-1.jpeg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Shin-pei-Tsay-Copy.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Petr-Suska-Copy-700x705-1.jpeg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/05/Naomi-Hutchinson.jpeg</image:loc>
   </image:image>
 </data>
