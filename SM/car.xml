@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.rideapart.com/news/798239/harley-davidson-revolution-max-engine-american-production/</loc>
+  <lastmod>2026-06-09T15:51:54Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798126/team-if-omnipro-wrench-3-multitool/</loc>
+  <lastmod>2026-06-09T13:52:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798140/2027-yamaha-atv-model-lineup-unveiled/</loc>
+  <lastmod>2026-06-09T13:08:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798016/qj-motor-srv600-automatic-transmission/</loc>
+  <lastmod>2026-06-09T12:37:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798139/iomtt-2026-red-flag-senior-tt-dean-harrison/</loc>
+  <lastmod>2026-06-09T12:17:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798130/gopro-bankrupt-sec-filing-2026/</loc>
+  <lastmod>2026-06-09T11:48:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798106/buell-super-cruiser-cafe-racer-concept-vtwin/</loc>
+  <lastmod>2026-06-09T11:22:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798008/electrogenic-restomods-jason-momoa-customs/</loc>
+  <lastmod>2026-06-09T11:03:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/assurance-auto-voiture-occasion/</loc>
   <lastmod>2026-06-09T10:12:43+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/assurance-auto-occasion-1-576x1024.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/assurance-voiture-auto-occxasion.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/798111/indian-motorcycle-harley-davidson-political-attack-ad-pr-company/</loc>
-  <lastmod>2026-06-08T19:01:23Z</lastmod>
-  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/top-5-circuits-stage-monoplace/</loc>
   <lastmod>2026-06-06T14:13:00+02:00</lastmod>
   <image:image>
@@ -19,43 +40,5 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/Circuit-Pau-Arnos-826x1024.png</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/Circuit_de_Linas-Montlhery.png</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/unsplash-M5s9Ffs1KqU.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/</loc>
-  <loc>https://www.auto-actu.org/voyant-sur-206-allume-mais-aucune-panne-visible-comment-ne-pas-se-tromper/</loc>
-  <lastmod>2026-06-08T15:24:04+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/voyant-allume-peugeot-206-mecanicien-garage-fr.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/conductrice-voyant-tableau-bord-206-rue-fr.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/gros-plan-voyant-moteur-scanner-obd-peugeot-206-fr.webp</image:loc>
-  </image:image>
-  <loc>https://www.auto-actu.org/renault-1525f3-check-list-complete-avant-de-changer-le-calculateur/</loc>
-  <lastmod>2026-06-08T09:24:23+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/diagnostic-obd2-renault-calculateur-1525f3-fr.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/remplacement-calculateur-ecu-renault-moteur-fr.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/checklist-diagnostic-calculateur-renault-1525f3-fr.webp</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/huile-moteur-peugeot-208/</loc>
-  <lastmod>2026-06-05T16:20:13+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2025/10/huile-moteur-peugeot-208.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/moteur-1-4-vti-fiabilite/</loc>
-  <lastmod>2026-06-05T16:18:55+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/06/moteur-1.4-vti-fiabilite.jpg</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/gerez-votre-parc-vo-depuis-une-seule-interface-sans-friction/</loc>
-  <lastmod>2026-06-09T08:31:41+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Gerer-un-parc-VO.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Gestionnaire-de-parc-VO-vehicules-concessionnaire.webp</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/carte-grise-italienne-la-comprendre-pour-immatriculer-un-vehicule-en-france/</loc>
-  <lastmod>2026-06-08T19:50:55+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Carte-grise-italienne.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/lecture-Carte-grise-italienne.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/argent-liquide.webp</image:loc>
   </image:image>
 </data>
