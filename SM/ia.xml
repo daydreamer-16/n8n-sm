@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/ue-libre-circulation-donnees</loc>
+  <lastmod>2026-05-20T01:58:48+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2018/10/ue-libre-circulation-donnees.jpeg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2018/10/open-data-europe.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/ia-faux-portraits-propagande</loc>
+  <lastmod>2026-05-20T01:58:39+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2020/07/intelligence-artificielle-robot-masque.jpg</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/ia-pubs-super-bowl-2024</loc>
   <lastmod>2026-05-20T01:58:19+00:00</lastmod>
   <image:image>
@@ -42,16 +53,5 @@
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2016/09/matt-mills-ceo-mapr.jpg</image:loc>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2016/09/Mills-Schroeder-compressed.jpg</image:loc>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2016/09/mapr.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/systemes-de-caisse-lobligation-dutiliser-un-logiciel-certifie</loc>
-  <lastmod>2026-05-20T01:56:27+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/07/unnamed-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/malware-joker-application-squid-game</loc>
-  <lastmod>2026-05-20T01:56:24+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/10/malware-joker-squid-game-app1.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/10/malware-joker-squid-game-app2.jpg</image:loc>
   </image:image>
 </data>
