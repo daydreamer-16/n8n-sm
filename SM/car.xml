@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/798239/harley-davidson-revolution-max-engine-american-production/</loc>
-  <lastmod>2026-06-09T15:51:54Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/798126/team-if-omnipro-wrench-3-multitool/</loc>
-  <lastmod>2026-06-09T13:52:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/798140/2027-yamaha-atv-model-lineup-unveiled/</loc>
-  <lastmod>2026-06-09T13:08:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/798016/qj-motor-srv600-automatic-transmission/</loc>
-  <lastmod>2026-06-09T12:37:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/798139/iomtt-2026-red-flag-senior-tt-dean-harrison/</loc>
-  <lastmod>2026-06-09T12:17:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/798130/gopro-bankrupt-sec-filing-2026/</loc>
-  <lastmod>2026-06-09T11:48:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/798106/buell-super-cruiser-cafe-racer-concept-vtwin/</loc>
-  <lastmod>2026-06-09T11:22:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/798008/electrogenic-restomods-jason-momoa-customs/</loc>
-  <lastmod>2026-06-09T11:03:00Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.jvoiture.fr/et-si-remettre-a-neuf-ses-phares-de-golf-changeait-vraiment-le-look-de-la-voiture/</loc>
+  <lastmod>2026-06-10T03:54:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/restauration-phare-golf-homme-allee-fr.jpg</image:loc>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/comparaison-phares-golf-avant-apres-fr.jpg</image:loc>
+    <image:loc>https://www.jvoiture.fr/wp-content/uploads/golf-phares-restaures-rue-urbaine-crepuscule-fr.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/assurance-auto-voiture-occasion/</loc>
   <lastmod>2026-06-09T10:12:43+02:00</lastmod>
   <image:image>
@@ -41,4 +24,31 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/Circuit_de_Linas-Montlhery.png</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/unsplash-M5s9Ffs1KqU.jpg</image:loc>
   </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/defaut-systeme-esp-asr-faites-reparer-la-voiture-mais-est-ce-vraiment-urgent/</loc>
+  <lastmod>2026-06-10T05:06:59+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/voyant-esp-asr-allume-tableau-de-bord-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/technicien-diagnostic-defaut-esp-asr-atelier-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/conductrice-inquiete-defaut-esp-voiture-garee-fr-scaled.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/code-autoradio-avec-vin-gratuit-differences-entre-vin-numero-de-serie-et-code-poste/</loc>
+  <lastmod>2026-06-10T03:03:21+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-autoradio-garage-code-serie-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-documents-vin-code-autoradio-gratuit-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/mecanicien-numero-serie-autoradio-boite-gants-fr.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/798239/harley-davidson-revolution-max-engine-american-production/</loc>
+  <lastmod>2026-06-09T15:51:54Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798126/team-if-omnipro-wrench-3-multitool/</loc>
+  <lastmod>2026-06-09T13:52:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798140/2027-yamaha-atv-model-lineup-unveiled/</loc>
+  <lastmod>2026-06-09T13:08:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/798016/qj-motor-srv600-automatic-transmission/</loc>
+  <lastmod>2026-06-09T12:37:00Z</lastmod>
+  <priority>0.5</priority>
 </data>
