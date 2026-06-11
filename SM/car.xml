@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/798390/indian-motorcycle-statement-harley-davidson-controversy/</loc>
-  <lastmod>2026-06-10T22:08:15Z</lastmod>
-  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/assurance-auto-voiture-occasion/</loc>
   <lastmod>2026-06-09T10:12:43+02:00</lastmod>
   <image:image>
@@ -21,6 +18,11 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/unsplash-M5s9Ffs1KqU.jpg</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/declaration-dachat-dun-vehicule-le-guide/</loc>
+  <lastmod>2026-06-11T06:24:16+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/generated_2041539031870471380-scaled.webp</image:loc>
+  </image:image>
   <loc>https://www.auto-actu.org/verifications-permis-2026-pdf-corrige-entrainement-express-avant-le-jour-j/</loc>
   <lastmod>2026-06-10T14:54:36+00:00</lastmod>
   <image:image>
@@ -28,23 +30,35 @@
     <image:loc>https://www.auto-actu.org/wp-content/uploads/homme-voiture-revision-examen-permis-fr-scaled.webp</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/etudiants-revision-permis-tablette-cafe-fr-scaled.webp</image:loc>
   </image:image>
-  <loc>https://www.auto-mechanic-info.com/keryado-conduite-a-lorient-une-auto-ecole-de-quartier-proche-de-ses-eleves/</loc>
-  <lastmod>2026-06-10T14:54:36+00:00</lastmod>
+  <loc>https://www.auto-actu.org/defaut-systeme-esp-asr-faites-reparer-la-voiture-mais-est-ce-vraiment-urgent/</loc>
+  <lastmod>2026-06-10T05:06:59+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/moniteur-auto-ecole-lecon-conduite-keryado-lorient-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/eleve-auto-ecole-keryado-conduite-lorient-facade-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/monitrice-explication-code-route-bureau-auto-ecole-lorient-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/voyant-esp-asr-allume-tableau-de-bord-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/technicien-diagnostic-defaut-esp-asr-atelier-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/conductrice-inquiete-defaut-esp-voiture-garee-fr-scaled.webp</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/798259/cmra-cota-amateur-motorcycle-race-july-4th-weekend/</loc>
-  <lastmod>2026-06-10T14:16:08Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/798148/jawa-sport-1000-concept-revealed-specs/</loc>
-  <lastmod>2026-06-10T12:22:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/798255/stark-future-erzbergrodeo-results-2026/</loc>
-  <lastmod>2026-06-10T12:04:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/798260/livewire-s4-honcho-specs-pricing-street-trail/</loc>
-  <lastmod>2026-06-10T11:49:00Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.auto-actu.org/voyant-sur-206-allume-mais-aucune-panne-visible-comment-ne-pas-se-tromper/</loc>
+  <lastmod>2026-06-08T15:24:04+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/voyant-allume-peugeot-206-mecanicien-garage-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/conductrice-voyant-tableau-bord-206-rue-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/gros-plan-voyant-moteur-scanner-obd-peugeot-206-fr.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-actu.org/renault-1525f3-check-list-complete-avant-de-changer-le-calculateur/</loc>
+  <lastmod>2026-06-08T09:24:23+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/diagnostic-obd2-renault-calculateur-1525f3-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/remplacement-calculateur-ecu-renault-moteur-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/checklist-diagnostic-calculateur-renault-1525f3-fr.webp</image:loc>
+  </image:image>
+  <loc>https://www.etoilecollections.fr/huile-moteur-peugeot-208/</loc>
+  <lastmod>2026-06-05T16:20:13+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2025/10/huile-moteur-peugeot-208.jpg</image:loc>
+  </image:image>
+  <loc>https://www.etoilecollections.fr/moteur-1-4-vti-fiabilite/</loc>
+  <lastmod>2026-06-05T16:18:55+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/06/moteur-1.4-vti-fiabilite.jpg</image:loc>
+  </image:image>
 </data>
