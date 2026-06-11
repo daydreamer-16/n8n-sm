@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.rideapart.com/news/798488/kawasaki-teryx4-teryx5-teryx-h2-utv-recall-fix/</loc>
+  <lastmod>2026-06-11T17:56:48Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/assurance-auto-voiture-occasion/</loc>
   <lastmod>2026-06-09T10:12:43+02:00</lastmod>
   <image:image>
@@ -18,6 +21,13 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/04/unsplash-M5s9Ffs1KqU.jpg</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/questions-permis-de-conduire-2026-pdf-les-erreurs-qui-font-rater-lexamen/</loc>
+  <lastmod>2026-06-11T10:55:36+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-etude-questions-permis-conduire-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/etudiant-revision-code-route-bibliotheque-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/moniteur-auto-ecole-cours-permis-conduire-fr-scaled.webp</image:loc>
+  </image:image>
   <loc>https://www.auto-actu.org/declaration-dachat-dun-vehicule-le-guide/</loc>
   <lastmod>2026-06-11T06:24:16+00:00</lastmod>
   <image:image>
@@ -50,15 +60,5 @@
     <image:loc>https://www.auto-actu.org/wp-content/uploads/diagnostic-obd2-renault-calculateur-1525f3-fr.webp</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/remplacement-calculateur-ecu-renault-moteur-fr.webp</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/checklist-diagnostic-calculateur-renault-1525f3-fr.webp</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/huile-moteur-peugeot-208/</loc>
-  <lastmod>2026-06-05T16:20:13+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2025/10/huile-moteur-peugeot-208.jpg</image:loc>
-  </image:image>
-  <loc>https://www.etoilecollections.fr/moteur-1-4-vti-fiabilite/</loc>
-  <lastmod>2026-06-05T16:18:55+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/06/moteur-1.4-vti-fiabilite.jpg</image:loc>
   </image:image>
 </data>
