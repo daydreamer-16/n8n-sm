@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/meta-nouveau-ia-tout-savoir</loc>
+  <lastmod>2026-05-20T02:01:09+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/05/met.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/05/PUCE.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/meta-mark-zuckerberg-va-laisser-un-agent-ia-diriger-lentreprise-a-sa-place</loc>
   <lastmod>2026-05-20T02:00:57+00:00</lastmod>
   <image:image>
@@ -45,10 +51,5 @@
   <lastmod>2026-05-20T01:59:17+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/09/publithings_seo_A_man_chats_with_a_chicken_f1360c06-6b3c-47c7-a4f6-8561320edaab.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/incendie-ovh-catastrophe-cloud-computing</loc>
-  <lastmod>2026-05-20T01:59:10+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/03/ovhcloud_sdis_3.2e16d0ba.fill-1200x630-1.jpg</image:loc>
   </image:image>
 </data>
