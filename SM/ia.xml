@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/big-data-adopter-pme</loc>
+  <lastmod>2026-05-20T02:02:44+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/05/big-data.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2016/05/cloud-2016-tendances.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/metavers-mckinsey-billions</loc>
+  <lastmod>2026-05-20T02:02:24+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/06/metavers-mckinsey.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/openai-global-illumination</loc>
+  <lastmod>2026-05-20T02:02:14+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/08/chatgpt-global-illumination.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/metavers-capteurs-nanomateriaux</loc>
+  <lastmod>2026-05-20T02:02:13+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/10/metavers-capteurs-nanomatariaux.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/meta-nouveau-ia-tout-savoir</loc>
   <lastmod>2026-05-20T02:01:09+00:00</lastmod>
   <image:image>
@@ -31,25 +52,5 @@
   <lastmod>2026-05-20T02:00:05+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/11/REALM-55.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/malware-fritzfrog-revient</loc>
-  <lastmod>2026-05-20T01:59:45+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/02/malware-fritzfrog-revient.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/meta-a-telecharge-82tb-de-livres-pour-entrainer-son-ia-est-ce-du-vol</loc>
-  <lastmod>2026-05-20T01:59:37+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/02/publithings_seo_Photo_illustring_this_topic__Meta_staff_torrent_02c99156-7087-4489-a536-c14bd251ca84.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/frida-bras-robot-dall-e</loc>
-  <lastmod>2026-05-20T01:59:30+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/02/frida-bras-robot-ia.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/cette-ia-traduit-ce-que-les-poulets-disent-en-langage-humain</loc>
-  <lastmod>2026-05-20T01:59:17+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/09/publithings_seo_A_man_chats_with_a_chicken_f1360c06-6b3c-47c7-a4f6-8561320edaab.png</image:loc>
   </image:image>
 </data>
