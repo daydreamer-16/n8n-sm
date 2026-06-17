@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/carpaccio-de-tomates/</loc>
+  <lastmod>2026-06-17T10:00:44+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-9.png</image:loc>
+  </image:image>
+  <loc>https://chefdodo.com/creme-de-marrons-recette/</loc>
+  <lastmod>2026-06-15T09:59:51+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-8.png</image:loc>
+  </image:image>
   <loc>https://www.st-claire.eu/recette-creme-caramel-grand-mere</loc>
   <lastmod>2026-06-16T12:00:00+00:00</lastmod>
   <loc>https://www.st-claire.eu/baccarat-banque-punto-banco</loc>
   <lastmod>2026-06-16T10:41:18+00:00</lastmod>
   <loc>https://www.st-claire.eu/recette-gateau-pommes-grand-mere</loc>
   <lastmod>2026-06-16T08:29:11+00:00</lastmod>
-  <loc>https://www.st-claire.eu/vacances-tenerife-plutot-que-thailande</loc>
-  <lastmod>2026-06-15T14:40:20+00:00</lastmod>
-  <loc>https://www.st-claire.eu/5-bonnes-raisons-de-passer-ses-vacances-a-tenerife-plutot-quen-thailande</loc>
-  <lastmod>2026-06-15T14:14:08+00:00</lastmod>
-  <loc>https://chefdodo.com/creme-de-marrons-recette/</loc>
-  <lastmod>2026-06-15T09:59:51+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-8.png</image:loc>
-  </image:image>
   <loc>https://mapatisserie.fr/recette/tartes/recette-tarte-abricot/</loc>
   <lastmod>2026-06-16T05:00:05+00:00</lastmod>
   <image:image>
@@ -48,6 +49,10 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210703_174433.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210703_174307.jpg</image:loc>
   </image:image>
+  <loc>https://www.st-claire.eu/vacances-tenerife-plutot-que-thailande</loc>
+  <lastmod>2026-06-15T14:40:20+00:00</lastmod>
+  <loc>https://www.st-claire.eu/5-bonnes-raisons-de-passer-ses-vacances-a-tenerife-plutot-quen-thailande</loc>
+  <lastmod>2026-06-15T14:14:08+00:00</lastmod>
   <loc>https://mapatisserie.fr/recette/classiques-faciles/recette-banoffee/</loc>
   <lastmod>2026-06-15T05:00:05+00:00</lastmod>
   <image:image>
@@ -76,6 +81,4 @@
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-7.png</image:loc>
   </image:image>
-  <loc>https://www.st-claire.eu/dangers-chemin-de-compostelle</loc>
-  <lastmod>2026-06-14T08:22:28+00:00</lastmod>
 </data>
