@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/industrie-ia-hunger-game</loc>
+  <lastmod>2026-05-20T02:06:14+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/02/hypo.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/02/xokk.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/europe-donnees-smartphones-migrants</loc>
+  <lastmod>2026-05-20T02:05:57+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2018/07/migrants-smartphones.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2018/07/parcours-migrants.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/noms-de-produits-amazon-generes-par-chatgpt</loc>
+  <lastmod>2026-05-20T02:05:48+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/01/publithings_seo_jeff_bezos_confronting_an_AI_with_the_Amazon_lo_06e46e1c-e01f-4e75-ba8f-7db739eb7683.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/01/publithings_seo_a_salesman_crying_while_looking_at_the_chatGPT__72381052-23f5-4338-851d-4caa116ffe17.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/microsoft-rachete-cloud-5g-att</loc>
   <lastmod>2026-05-20T02:05:43+00:00</lastmod>
   <image:image>
@@ -37,21 +55,5 @@
   <lastmod>2026-05-20T02:02:55+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/securiser-agent-IA.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/big-data-adopter-pme</loc>
-  <lastmod>2026-05-20T02:02:44+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/05/big-data.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2016/05/cloud-2016-tendances.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/metavers-mckinsey-billions</loc>
-  <lastmod>2026-05-20T02:02:24+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/06/metavers-mckinsey.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/openai-global-illumination</loc>
-  <lastmod>2026-05-20T02:02:14+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/08/chatgpt-global-illumination.png</image:loc>
   </image:image>
 </data>
