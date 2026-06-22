@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/visiter-crete-en-avril</loc>
+  <lastmod>2026-06-22T11:33:00+00:00</lastmod>
   <loc>https://chefdodo.com/cuisson-cote-de-boeuf-au-barbecue/</loc>
   <lastmod>2026-06-22T10:00:04+01:00</lastmod>
   <image:image>
@@ -16,6 +18,20 @@
   <lastmod>2026-06-19T09:59:52+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-10.png</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/eclairs/recette-eclairs-gianduja-citron/</loc>
+  <lastmod>2026-06-19T05:00:06+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/04/eclairs-gianduja-citron-1.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/04/eclairs-gianduja-citron-1.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/02/IMG_20170122_165537.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/04/IMG_20170122_170854.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/IMG_20151002_211535.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/IMG_20151002_205625.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/IMG_20151002_212211.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/IMG_20151002_211640.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/IMG_20151002_212132-e1574801766517.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/01/IMG_20151002_211613.jpg</image:loc>
   </image:image>
   <loc>https://www.st-claire.eu/recette-saucisse-lentille-grand-mere</loc>
   <lastmod>2026-06-18T11:43:00+00:00</lastmod>
@@ -64,20 +80,4 @@
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-9.png</image:loc>
   </image:image>
-  <loc>https://mapatisserie.fr/recette/pates/recette-pate-brisee/</loc>
-  <lastmod>2026-06-17T05:00:05+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_182451-1.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_182451-1.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_182436.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_182451-e1646339371917.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_182152-e1646338808859.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_182137.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_182025.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_181545.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_181947.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/recette-pate-brisee-20220301_181527.jpg</image:loc>
-  </image:image>
-  <loc>https://www.st-claire.eu/recette-creme-caramel-grand-mere</loc>
-  <lastmod>2026-06-16T12:00:00+00:00</lastmod>
 </data>
