@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.auto-mechanic-info.com/pub-peugeot-5008-musique-pourquoi-ce-titre-reste-en-tete-longtemps-apres-le-spot/</loc>
-  <lastmod>2026-06-21T17:24:39+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-musique-interieur-suv-peugeot-5008-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/peugeot-5008-route-cotiere-crepuscule-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-casque-audio-suv-peugeot-5008-parking-fr.webp</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/799200/ktm-850-motogp-test-bike-fduct-intake-misano/</loc>
-  <lastmod>2026-06-21T12:18:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/799276/pedro-acosta-explains-top-speed/</loc>
-  <lastmod>2026-06-20T11:59:00Z</lastmod>
+  <loc>https://www.rideapart.com/news/799209/ducati-desmo250-mx-motocross-racer-unveiled/</loc>
+  <lastmod>2026-06-22T13:02:00Z</lastmod>
   <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/stage-de-pilotage-gt-rallye-monoplace-ou-bapteme-passager-lequel-choisir/</loc>
   <lastmod>2026-06-19T07:58:55+02:00</lastmod>
@@ -60,5 +50,17 @@
     <image:loc>https://www.auto-actu.org/wp-content/uploads/proprietaire-maison-sinistree-assurance-fr-scaled.webp</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/agent-gardiennage-batiment-sinistre-incendie-fr-scaled.webp</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/expert-assurance-degats-eaux-expertise-sinistre-fr-scaled.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-actu.org/6-petites-citadines-electriques-au-rapport-qualite-prix-imbattable-en-2026/</loc>
+  <lastmod>2026-06-18T08:07:58+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/6a314c8606317-6a313c480f169-Nissan-Micra061-scaled.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-actu.org/pourquoi-le-challenger-two-fascine-autant-les-amateurs-de-chars/</loc>
+  <lastmod>2026-06-18T03:54:10+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/challenger-2-char-britannique-terrain-entrainement-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/passionne-maquette-char-challenger-2-atelier-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/challenger-2-musee-militaire-exposition-visiteurs-fr-scaled.webp</image:loc>
   </image:image>
 </data>
