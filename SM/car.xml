@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/799209/ducati-desmo250-mx-motocross-racer-unveiled/</loc>
-  <lastmod>2026-06-22T13:02:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/stage-de-pilotage-gt-rallye-monoplace-ou-bapteme-passager-lequel-choisir/</loc>
-  <lastmod>2026-06-19T07:58:55+02:00</lastmod>
+  <loc>https://www.roadstr.fr/blog/articles/porsche-en-crise/</loc>
+  <lastmod>2026-06-23T12:00:00+02:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/f6c280fde331fe161257ebce5cc4a2aa-1.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/f62148715f95c6c9056bb2c15589b9e1-1.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/458f83e184e82889961d4a9a037b7a38-1.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/62980c7e4191a81929428476a7519037-1.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/ba827d3f3888d14b4cc5d8bba13c5e08-1.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/financement-automobile-tout-savoir-sur-la-loa/</loc>
+  <lastmod>2026-06-23T07:59:43+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/image1-1.jpeg</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/image2-1.jpeg</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/image3.jpeg</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/articles/top-5-circuits-stage-monoplace/</loc>
   <lastmod>2026-06-06T14:13:00+02:00</lastmod>
@@ -35,6 +35,15 @@
     <image:loc>https://www.auto-actu.org/wp-content/uploads/Capture-decran-2026-06-19-121542.png</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/Capture-decran-2026-06-19-121531.png</image:loc>
   </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/stage-de-pilotage-gt-rallye-monoplace-ou-bapteme-passager-lequel-choisir/</loc>
+  <lastmod>2026-06-19T07:58:55+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/f6c280fde331fe161257ebce5cc4a2aa-1.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/f62148715f95c6c9056bb2c15589b9e1-1.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/458f83e184e82889961d4a9a037b7a38-1.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/62980c7e4191a81929428476a7519037-1.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/ba827d3f3888d14b4cc5d8bba13c5e08-1.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/stage-de-pilotage-lequel-choisir/</loc>
   <lastmod>2026-06-19T07:58:33+02:00</lastmod>
   <image:image>
@@ -55,12 +64,5 @@
   <lastmod>2026-06-18T08:07:58+00:00</lastmod>
   <image:image>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/6a314c8606317-6a313c480f169-Nissan-Micra061-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://www.auto-actu.org/pourquoi-le-challenger-two-fascine-autant-les-amateurs-de-chars/</loc>
-  <lastmod>2026-06-18T03:54:10+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/challenger-2-char-britannique-terrain-entrainement-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/passionne-maquette-char-challenger-2-atelier-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/challenger-2-musee-militaire-exposition-visiteurs-fr-scaled.webp</image:loc>
   </image:image>
 </data>
