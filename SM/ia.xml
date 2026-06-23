@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/ce-robot-a-un-visage-en-peau-vivante-et-cest-cauchemardesque</loc>
+  <lastmod>2026-05-20T02:13:32+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/06/robot-peau-vivante.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/06/robot-peau-vivante-tokyo.webp</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/pubs-dans-chatgpt-le-ceo-de-deepmind-clash-severement-openai</loc>
+  <lastmod>2026-05-20T02:13:06+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/pubs-DeepMind.jpg</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/netflix-house-un-parc-dattractions-stranger-things-mercredi-squid-game</loc>
   <lastmod>2026-05-20T02:12:57+00:00</lastmod>
   <image:image>
@@ -39,23 +50,5 @@
   <lastmod>2026-05-20T02:10:38+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/deploiement-de-lIA.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/meilleurs-outils-ia-pour-les-createurs</loc>
-  <lastmod>2026-05-20T02:10:37+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/outils-IA-createurs-.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/outils-IA-createurs-2-1.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/outils-IA-createurs-1-1.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/outils-IA-createurs-1.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/Submagic.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/outils-IA-createurs-2.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/Descript.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/outils-IA-createurs-3.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/09/SubtitleBee.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/ce-courrier-du-fisc-que-vous-devez-absolument-lire-pour-sauver-vos-finances</loc>
-  <lastmod>2026-05-20T02:10:28+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/04/Image-01-Bigdata-CourierDuFisc.jpg</image:loc>
   </image:image>
 </data>
