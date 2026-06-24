@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/quels-legumes-avec-des-encornets</loc>
+  <lastmod>2026-06-24T12:26:00+00:00</lastmod>
   <loc>https://chefdodo.com/clafoutis-a-la-framboise/</loc>
   <lastmod>2026-06-24T10:00:22+01:00</lastmod>
   <image:image>
@@ -36,9 +38,4 @@
   </image:image>
   <loc>https://www.st-claire.eu/quartiers-nice-a-eviter</loc>
   <lastmod>2026-06-20T12:24:00+00:00</lastmod>
-  <loc>https://chefdodo.com/recette-potato/</loc>
-  <lastmod>2026-06-19T09:59:52+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-10.png</image:loc>
-  </image:image>
 </data>
