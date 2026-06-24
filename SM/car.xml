@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/totem-automobili-euforia-giulia-v6/</loc>
+  <lastmod>2026-06-24T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/17-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/18-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/16-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/15.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/van-ou-camping-car/</loc>
+  <lastmod>2026-06-24T11:35:24+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/14-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/13.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/comment-choisir-van-location/</loc>
+  <lastmod>2026-06-24T11:28:34+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/12-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/11.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/tour-de-la-corse-en-van/</loc>
+  <lastmod>2026-06-24T11:18:45+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/10-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/9.jpg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/799374/bajaj-chetak-ev-scooter-could-work-in-the-usa/</loc>
   <lastmod>2026-06-23T18:58:00Z</lastmod>
   <priority>0.5</priority>
@@ -28,16 +54,4 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/4.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/799375/brembo-partners-with-ningbo-safe-on-joint-indian-manufacturing-venture/</loc>
-  <lastmod>2026-06-23T13:22:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/799315/pedro-acosta-will-test-2027-motogp-motorcycle-but-hes-going-to-ducati/</loc>
-  <lastmod>2026-06-23T12:52:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/porsche-en-crise/</loc>
-  <lastmod>2026-06-23T12:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/1.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/</loc>
 </data>
