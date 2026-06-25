@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/porsche-911-jamais-electrique-officiel/</loc>
+  <lastmod>2026-06-25T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/33.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/roadtrip-auvergne-en-van/</loc>
+  <lastmod>2026-06-25T10:47:02+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/28-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/27.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/aires-de-services-camping-car-gratuites-france/</loc>
+  <lastmod>2026-06-25T10:41:37+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/25-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/26.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/van-life-en-famille/</loc>
+  <lastmod>2026-06-25T10:36:36+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/23-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/24.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/roadtrip-aller-simple/</loc>
+  <lastmod>2026-06-25T09:58:28+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/image-4.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/image-5.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/image-6.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/pexels-14381379.jpeg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/features/799597/small-engine-repair-source-database-for-diy-wrenching-needs/</loc>
   <lastmod>2026-06-24T18:23:00Z</lastmod>
   <priority>0.5</priority>
@@ -22,31 +53,4 @@
   <loc>https://www.rideapart.com/news/799707/pedro-acosta-joins-marc-marquez-at-ducati-for-2027-motogp-season/</loc>
   <lastmod>2026-06-24T15:50:12Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/porsche-moins-de-voitures-plus-de-profits/</loc>
-  <lastmod>2026-06-24T15:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/22.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/honda-super-n-2026/</loc>
-  <lastmod>2026-06-24T14:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/20-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/21-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/19.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/</loc>
-  <loc>https://www.auto-actu.org/drive-actu-lallie-des-clients-de-drive-qui-veulent-payer-moins-cher/</loc>
-  <lastmod>2026-06-24T15:28:45+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-application-reduction-drive-supermarche-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/homme-comparaison-prix-voiture-drive-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/couple-economies-application-retrait-drive-fr-scaled.webp</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/marque-de-voitures-en-c-pour-jeunes-conducteurs-lesquelles-privilegier-selon-votre-budget/</loc>
-  <lastmod>2026-06-24T15:28:41+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-conducteur-citroen-c3-rue-urbaine-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-femme-volant-cupra-formentor-interieur-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeunes-amis-chevrolet-trax-parking-fr.webp</image:loc>
-  </image:image>
 </data>
