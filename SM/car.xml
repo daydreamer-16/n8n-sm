@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/799806/vespa-edizione-ottantesimo-limited-edition-scooter-and-helmet/</loc>
-  <lastmod>2026-06-25T16:49:02Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/3-conseils-pour-trouver-une-voiture-doccasion-a-brest/</loc>
+  <lastmod>2026-06-26T06:44:44+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/415900voiture-occasion-brestf890e3.jpg</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/415900voiture-occasion-brest6e22fc.jpg</image:loc>
+  </image:image>
   <loc>https://www.etoilecollections.fr/renault-scenic-3-1-5-dci-110-fiabilite/</loc>
   <lastmod>2026-06-25T16:46:48+00:00</lastmod>
   <image:image>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/06/renault-scenic-3-1.5-dci-110-fiabilite.jpg</image:loc>
   </image:image>
+  <loc>https://www.planete-auto.fr/devis-assurance-auto-quelles-informations-faut-il-preparer-avant-de-faire-une-demande/</loc>
+  <lastmod>2026-06-26T10:33:56+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Formulaire-pour-le-devis-dune-assurance-auto.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/06/Personne-remplissant-un-formulaire-de-devis-dune-assurance-auto.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/799806/vespa-edizione-ottantesimo-limited-edition-scooter-and-helmet/</loc>
+  <lastmod>2026-06-25T16:49:02Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.etoilecollections.fr/meilleures-plaquettes-de-frein-pour-moto/</loc>
   <lastmod>2026-06-25T16:20:31+00:00</lastmod>
   <image:image>
@@ -43,10 +55,4 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/31-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/06/32.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/799571/motogp-bans-holeshot-device-after-major-incident-but-was-warned-many-times/</loc>
-  <lastmod>2026-06-25T13:20:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/799592/new-kei-truck-startup-reo-wants-to-sell-you-utvs-for-highways/</loc>
-  <lastmod>2026-06-25T13:15:00Z</lastmod>
-  <priority>0.5</priority>
 </data>
