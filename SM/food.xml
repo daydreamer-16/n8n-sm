@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/fougasse-daigues-mortes/</loc>
+  <lastmod>2026-06-26T10:00:15+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-14.png</image:loc>
+  </image:image>
   <loc>https://chefdodo.com/les-specialites-culinaires-de-la-haute-saone/</loc>
   <lastmod>2026-06-25T23:08:51+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/abfdd1d3595350f302ea2e6001c4d743.png</image:loc>
   </image:image>
+  <loc>https://www.st-claire.eu/quels-legumes-avec-des-encornets</loc>
+  <lastmod>2026-06-24T12:26:00+00:00</lastmod>
   <loc>https://chefdodo.com/clafoutis-a-la-framboise/</loc>
   <lastmod>2026-06-24T10:00:22+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-13.png</image:loc>
   </image:image>
-  <loc>https://www.st-claire.eu/quels-legumes-avec-des-encornets</loc>
-  <lastmod>2026-06-24T12:26:00+00:00</lastmod>
   <loc>https://chefdodo.com/idees-de-buffet-froid-recettes-quantites-et-astuces-de-chef/</loc>
   <lastmod>2026-06-24T09:20:07+01:00</lastmod>
   <image:image>
@@ -35,10 +40,5 @@
   <lastmod>2026-06-22T10:00:04+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-12.png</image:loc>
-  </image:image>
-  <loc>https://chefdodo.com/panna-cotta-aux-fruits-rouges/</loc>
-  <lastmod>2026-06-21T10:00:06+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-11.png</image:loc>
   </image:image>
 </data>
