@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/recette-de-rognon-boeuf/</loc>
+  <lastmod>2026-06-29T10:00:12+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-16.png</image:loc>
+  </image:image>
   <loc>https://chefdodo.com/huitres-au-four/</loc>
   <lastmod>2026-06-28T09:59:44+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-15.png</image:loc>
-  </image:image>
-  <loc>https://chefdodo.com/fougasse-daigues-mortes/</loc>
-  <lastmod>2026-06-26T10:00:15+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-14.png</image:loc>
   </image:image>
   <loc>https://mapatisserie.fr/recette/divers/recette-pate-a-tartiner/</loc>
   <lastmod>2026-06-27T22:07:27+00:00</lastmod>
@@ -70,6 +70,11 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/recette-biscuit-madeleine-IMG_20150627_221854-275x204.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/recette-biscuit-madeleine-IMG_20150627_224422-e1542919659165-275x204.jpg</image:loc>
   </image:image>
+  <loc>https://chefdodo.com/fougasse-daigues-mortes/</loc>
+  <lastmod>2026-06-26T10:00:15+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/06/output1-14.png</image:loc>
+  </image:image>
   <loc>https://mapatisserie.fr/recette/cremes/recette-caramel-beurre-sale/</loc>
   <lastmod>2026-06-26T05:00:23+00:00</lastmod>
   <image:image>
@@ -100,7 +105,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/02/recette-praline-pecan-02.jpg</image:loc>
   </image:image>
   <loc>https://www.st-claire.eu/bache-pvc-oeillets</loc>
-  <lastmod>2026-06-24T17:33:59+00:00</lastmod>
-  <loc>https://www.st-claire.eu/les-meilleures-techniques-pour-apprendre-lart-culinaire-marin</loc>
   <lastmod>2026-06-24T17:33:59+00:00</lastmod>
 </data>
