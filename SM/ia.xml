@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/panne-fastly-site-web</loc>
+  <lastmod>2026-05-20T02:18:15+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/06/cloud-computing.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/nouvelle-directive-nis2</loc>
+  <lastmod>2026-05-20T02:18:01+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/05/nis2.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/05/nis2..jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/vulnerabilite-microsoft-36</loc>
+  <lastmod>2026-05-20T02:17:49+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/03/vulnerabilite-microsoft-365.jpg</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/les-operateurs-a-la-conquete-de-lia-comment-le-secteur-des-telecom-se-transforme</loc>
   <lastmod>2026-05-20T02:17:33+00:00</lastmod>
   <image:image>
@@ -42,23 +58,5 @@
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/10/istockphoto-1408775753-612x612-1.jpg</image:loc>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/10/istockphoto-1091245836-612x612-1.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/nouveau-projet-crypto-monnaie-franchit-barre-million-de-dollars-seulement-9-semaines</loc>
-  <lastmod>2026-05-20T02:16:48+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/08/unnamed.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/nordvpn-promo-noel-2</loc>
-  <lastmod>2026-05-20T02:16:33+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/12/affiliate-christmas-campaign-25-1260x840-1.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/12/NordVPN-promotion-noel.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/12/NordPass-Promo-Noel.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/migrer-vers-le-cloud</loc>
-  <lastmod>2026-05-20T02:16:28+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/06/Service-cloud.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/06/coresite-cloud.jpg</image:loc>
   </image:image>
 </data>
