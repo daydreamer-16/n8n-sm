@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/nvidia-cosmos-lia-video-qui-va-permettre-a-tous-les-robots-de-connaitre-notre-monde</loc>
+  <lastmod>2026-05-20T02:18:56+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/01/Nvidia-Cosmos.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/cloud-gaming-google-stadia</loc>
+  <lastmod>2026-05-20T02:18:55+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/09/istockphoto-1211406657-612x612-1.jpg</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2022/09/istockphoto-1306507626-612x612-1.jpg</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/baidu-lance-deuxieme-puce-ia</loc>
   <lastmod>2026-05-20T02:18:48+00:00</lastmod>
   <image:image>
@@ -41,20 +52,5 @@
   <lastmod>2026-05-20T02:17:33+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/03/publithings_seo_Photo_of_a_landscape_where_telecommunications_t_0996c781-64a3-4847-9598-28611d81144d.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/pc-pires-malwares-vente-encheres</loc>
-  <lastmod>2026-05-20T02:17:29+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2019/05/laptop-persistance-chaos-malware.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2019/05/persistance-of-chaos-laptop.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/nouveau-smartphone-voici-la-configuration-recommandee-pour-arreter-dy-toucher</loc>
-  <lastmod>2026-05-20T02:17:28+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/configuration-smartphone-supprimer-les-applis-inutiles.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/configuration-smartphone-unboxing-1.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/configuration-smartphone-trier-les-applis-1.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/configuration-smartphone-focus-mode-1.jpg</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2026/01/configuration-smartphone-protection-de-la-vie-privee.jpg</image:loc>
   </image:image>
 </data>
