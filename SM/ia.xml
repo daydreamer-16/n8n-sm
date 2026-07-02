@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/organiser-une-conference-sur-lia-le-guide-complet</loc>
+  <lastmod>2026-05-20T02:19:47+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/01/Pourquoi-et-comment-organiser-une-conference-sur-lIA.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/01/Les-etapes-pour-organiser-une-conference-reussie.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/chatgpt-espionnage</loc>
+  <lastmod>2026-05-20T02:19:23+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/06/chatgpt-espionnage-ia.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/python-bug-open-source</loc>
   <lastmod>2026-05-20T02:19:20+00:00</lastmod>
   <image:image>
@@ -44,15 +55,5 @@
   <lastmod>2026-05-20T02:18:37+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/03/nvidia-gr00t-n1.webp</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/malware-gta-6-macos</loc>
-  <lastmod>2026-05-20T02:18:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/04/publithings_seo_a_panicked_gamer_in_front_of_his_Mac_computer_t_13112997-5357-4228-a84e-d007b13d92ef.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/panne-fastly-site-web</loc>
-  <lastmod>2026-05-20T02:18:15+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/06/cloud-computing.jpg</image:loc>
   </image:image>
 </data>
