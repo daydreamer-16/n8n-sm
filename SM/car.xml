@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.auto-mechanic-info.com/comment-trouver-le-regime-moteur-a-130-km-h-le-plus-economique/</loc>
+  <lastmod>2026-07-02T05:34:24+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/conducteur-regime-moteur-130kmh-autoroute-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/tableau-bord-tachymetre-regime-economique-130kmh-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-consommation-carburant-autoroute-repos-fr.webp</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/800327/volkswagen-responds-to-ducati-sale-rumor/</loc>
   <lastmod>2026-07-01T16:19:33Z</lastmod>
   <priority>0.5</priority>
@@ -26,8 +33,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/800104/alaskas-dalton-highway-could-get-sold-to-developers/</loc>
   <lastmod>2026-06-30T13:14:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/800044/honda-powersports-reorganization-2026/</loc>
-  <lastmod>2026-06-30T12:57:00Z</lastmod>
   <priority>0.5</priority>
 </data>
