@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/metadonnees-utilite-big-data</loc>
+  <lastmod>2026-05-20T02:20:12+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2017/04/metadonnees-iceberg.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/nvidia-sallie-a-lucid-uber-mercedes-all-in-sur-les-voitures-autonomes</loc>
+  <lastmod>2026-05-20T02:19:50+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/10/voiture-autonome.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/organiser-une-conference-sur-lia-le-guide-complet</loc>
   <lastmod>2026-05-20T02:19:47+00:00</lastmod>
   <image:image>
@@ -45,15 +55,5 @@
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/08/baidu-puce-ai-voiture-autonome1.jpg</image:loc>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2021/08/baidu-puce-ai-voiture-autonome2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/onedrive-microsoft-tape-du-poing-sur-la-table-du-cloud-avec-cette-serie-de-nouveautes</loc>
-  <lastmod>2026-05-20T02:18:45+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/10/publithings_seo_a_man_presenting_the_microsoft_onedrive_logo_on_16c63354-109d-4149-9ad9-96f1114878fb.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/nvidia-annonce-la-nouvelle-ia-gr00t-les-robots-vont-apprendre-tous-les-metiers</loc>
-  <lastmod>2026-05-20T02:18:37+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/03/nvidia-gr00t-n1.webp</image:loc>
   </image:image>
 </data>
