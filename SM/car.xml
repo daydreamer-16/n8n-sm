@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.rideapart.com/news/800371/agv-pista-gp-rr-carbon-fiber-helmet-mono-white-north-america/</loc>
+  <lastmod>2026-07-04T12:13:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.auto-mechanic-info.com/moto-puissant-comment-garder-son-permis-sans-renoncer-aux-sensations/</loc>
   <lastmod>2026-07-03T16:20:48+00:00</lastmod>
   <image:image>
@@ -31,11 +34,4 @@
   <loc>https://www.rideapart.com/news/800238/brough-superior-dagger-s-specs-features-price/</loc>
   <lastmod>2026-07-02T11:03:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.auto-mechanic-info.com/comment-trouver-le-regime-moteur-a-130-km-h-le-plus-economique/</loc>
-  <lastmod>2026-07-02T05:34:24+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/conducteur-regime-moteur-130kmh-autoroute-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/tableau-bord-tachymetre-regime-economique-130kmh-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-consommation-carburant-autoroute-repos-fr.webp</image:loc>
-  </image:image>
 </data>
