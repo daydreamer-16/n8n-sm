@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/jus-de-pomme-chaud/</loc>
+  <lastmod>2026-07-05T09:59:52+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/07/output1-2.png</image:loc>
+  </image:image>
+  <loc>https://www.lateliergourmand.fr/voyager-seule-a-50-ans/</loc>
+  <lastmod>2026-07-05T06:45:00+00:00</lastmod>
   <loc>https://www.st-claire.eu/guide-voyage-plage-elafonissi-crete</loc>
   <lastmod>2026-07-04T05:54:00+00:00</lastmod>
   <loc>https://www.st-claire.eu/parmentier-canard-recette-gastronomique</loc>
   <lastmod>2026-07-04T03:24:41+00:00</lastmod>
   <image:image>
     <image:loc>https://www.st-claire.eu/wp-content/uploads/2025/01/parmentier_canard_gastronomique_1645.jpg</image:loc>
+  </image:image>
+  <loc>https://www.lateliergourmand.fr/recette-veau-olives-grand-mere/</loc>
+  <lastmod>2026-07-04T02:52:49+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2025/01/veau_olives_grand_mere_5401.jpg</image:loc>
   </image:image>
   <loc>https://www.lateliergourmand.fr/choisir-grece-ou-crete/</loc>
   <lastmod>2026-07-03T11:45:00+00:00</lastmod>
@@ -14,16 +26,68 @@
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/07/output1-1.png</image:loc>
   </image:image>
-  <loc>https://www.st-claire.eu/secrets-chambre-coucher-elegante-fonctionnelle</loc>
-  <lastmod>2026-07-02T15:10:11+00:00</lastmod>
-  <loc>https://www.st-claire.eu/degustations-vins-toulouse</loc>
-  <lastmod>2026-07-02T15:08:07+00:00</lastmod>
-  <loc>https://www.st-claire.eu/bache-pvc-oeillets</loc>
-  <lastmod>2026-07-02T15:07:18+00:00</lastmod>
-  <loc>https://www.st-claire.eu/caviste-developper-palais-diner</loc>
-  <lastmod>2026-07-02T15:06:46+00:00</lastmod>
-  <loc>https://www.st-claire.eu/meilleurs-magasins-rideaux-toulouse</loc>
-  <lastmod>2026-07-02T15:05:55+00:00</lastmod>
-  <loc>https://www.st-claire.eu/paysages-cultures-canada</loc>
-  <lastmod>2026-07-02T15:05:13+00:00</lastmod>
+  <loc>https://mapatisserie.fr/recette/pain/recette-pain-maison/</loc>
+  <lastmod>2026-07-04T23:51:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/recette-pain-maison-05.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/recette-pain-maison-02.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190723_073837.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/recette-pain-maison-07-275x275.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190329_170638-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190329_170741-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190329_172950-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_201804-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_190904-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_201707-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190331_210857-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/06/recette-pain-de-campagne-20200603_064312-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2020/03/recette-pain-20190723_073837-275x206.jpg</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/dessert/recette-clafoutis-cerise/</loc>
+  <lastmod>2026-07-04T23:48:05+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/clafoutis-cerises-03.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/clafoutis-cerises-03-275x275.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/06/recette-clafoutis-cerise-moelleux-20190610_185926-1-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/06/recette-clafoutis-cerise-moelleux-20190610_190200-1-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/06/recette-clafoutis-cerise-moelleux-20190610_191010-1-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/06/recette-clafoutis-cerise-moelleux-20190610_191224-1-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/06/recette-clafoutis-cerise-moelleux-20190610_190349-1-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/06/recette-clafoutis-cerise-moelleux-20190610_191708-1-e1560548840719-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2019/06/recette-clafoutis-cerise-moelleux-20190610_192532-1-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/04/clafoutis-cerises-04-275x275.webp</image:loc>
+  </image:image>
+  <loc>https://mapatisserie.fr/recette/dessert/recette-paris-brest/</loc>
+  <lastmod>2026-07-04T13:28:24+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/06/recette-paris-Brest-02-e1751145669788.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/06/recette-paris-Brest-01-275x275.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/02/recette-craquelin-03-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/02/recette-craquelin-06-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/02/recette-craquelin-07-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_205625-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_211535-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_212132-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_212211-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_212303-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_212833-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/03/recette-praline-amande-noisette-IMG_20150627_222421-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/03/recette-praline-amande-noisette-IMG_20150627_222509-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/03/recette-praline-amande-noisette-IMG_20150627_222803-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/03/recette-praline-amande-noisette-IMG_20150627_223111-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/09/recette-praline-maison-amande-noisette-20180524_153810-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/09/recette-praline-maison-amande-noisette-20180524_155635-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/creme-patissiere-creme-mousseline-IMG_20170115_193350-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/creme-patissiere-creme-mousseline-IMG_20170115_193536-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/creme-patissiere-creme-mousseline-IMG_20170115_193911-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/creme-patissiere-creme-mousseline-IMG_20170301_222012-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/creme-patissiere-creme-mousseline-IMG_20170115_194019-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/recette-creme-mousseline-20161028_0058197100759216187775575-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/creme-mousseline-010-275x206.webp</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/recette-creme-mousseline-praline-20161028_0103535824281208625075504-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/recette-paris-brest_20161028_0538452403025851937928900-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/paris-brest-choux-IMG_20160513_183556-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/recette-paris-brest-20161028_055633143759334381651770-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/06/Paris-Brest-20210606_200606-01-275x275.jpeg</image:loc>
+  </image:image>
 </data>
