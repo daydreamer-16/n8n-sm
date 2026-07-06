@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/urus-se-performante-lamborghini/</loc>
+  <lastmod>2026-07-06T12:01:07+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/16-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/17-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/18.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/grands-lacs-italiens-en-van/</loc>
+  <lastmod>2026-07-06T11:54:19+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/5-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/6.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/teletravail-en-van/</loc>
+  <lastmod>2026-07-06T11:07:04+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/4.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/meilleures-applications-van-life-2026/</loc>
+  <lastmod>2026-07-06T10:53:13+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/features/799847/keanu-reeves-and-gard-hollinger-sit-down-to-talk-arch-motorcycles-and-racing/</loc>
+  <lastmod>2026-07-06T10:00:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/permis-de-conduire-resultat-examen-que-faire-en-cas-derreur-sur-vos-informations/</loc>
+  <lastmod>2026-07-06T01:50:22+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-verification-permis-conduire-erreur-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-guichet-prefecture-correction-permis-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-correction-permis-conduire-en-ligne-fr.webp</image:loc>
+  </image:image>
   <loc>https://www.auto-mechanic-info.com/feux-diurnes-feux-de-jour-et-codes-comment-sy-retrouver-sur-sa-voiture/</loc>
   <lastmod>2026-07-05T19:00:12+00:00</lastmod>
   <image:image>
@@ -24,36 +59,5 @@
   <image:image>
     <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/f6cbcaa3-0130-4732-8b38-2fb3c20d44cd.png</image:loc>
     <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/66a18d6515d11.jpg</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/assurance-pour-voiture-sans-permis-citroen-ami-conseils-pour-bien-proteger-votre-vehicule/</loc>
-  <lastmod>2026-07-05T13:22:49+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-femme-voiture-electrique.png</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-g-voiture-electrique.png</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/assurance-automobile-pour-porsche-comment-bien-assurer-un-vehicule-dexception/</loc>
-  <lastmod>2026-07-05T13:22:36+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/generated_7028532727420174625.png</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/generated_900344851145969983.png</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/800419/loncin-electric-atv-concept-coming-soon/</loc>
-  <lastmod>2026-07-05T12:14:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.auto-mechanic-info.com/lelegance-automobile-dans-la-poche-les-coques-de-telephone-pour-les-passionnes-de-voitures/</loc>
-  <lastmod>2026-07-05T10:41:27+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/241811-2.jpg</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/241811-1-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/800371/agv-pista-gp-rr-carbon-fiber-helmet-mono-white-north-america/</loc>
-  <lastmod>2026-07-04T12:13:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.auto-mechanic-info.com/moto-puissant-comment-garder-son-permis-sans-renoncer-aux-sensations/</loc>
-  <lastmod>2026-07-03T16:20:48+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/motard-moto-puissante-route-montagne-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/motarde-casque-moto-sportive-parking-urbain-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/motards-equipement-carte-cafe-village-france-fr.webp</image:loc>
   </image:image>
 </data>
