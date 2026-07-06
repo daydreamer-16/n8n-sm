@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lebigdata.fr/vultr-gpu-amd-instinct-mi325x</loc>
+  <lastmod>2026-05-20T04:46:30+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/03/gpu-amd-03.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/03/gpu-amd.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/03/gpu-amd-01.png</image:loc>
+  </image:image>
+  <loc>https://www.lebigdata.fr/les-faux-temoignages-ia-tombent-sous-le-couperet-de-la-loi-la-ftc-intervient</loc>
+  <lastmod>2026-05-20T04:46:21+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/10/publithings_seo_A_young_woman_shopping_in_the_mall_holding_co_a45a05dd-c741-45c5-9c3f-d570fcb782be_2-1.png</image:loc>
+    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2024/10/brandignity_create_me_an_image_of_product_listing_ads_on_a_webs_e0a48a85-8f47-4dd4-927a-269be1eef34f-1.png</image:loc>
+  </image:image>
   <loc>https://www.lebigdata.fr/microsoft-security-copilot-gpt-4</loc>
   <lastmod>2026-05-20T04:46:09+00:00</lastmod>
   <image:image>
@@ -39,18 +52,5 @@
   <lastmod>2026-05-20T04:45:10+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/11/IA-PDG.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/google-et-bing-sur-la-touche-openai-sort-son-nouveau-navigateur</loc>
-  <lastmod>2026-05-20T04:45:09+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/10/nouveau-navigateur-openai.490Z.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/10/atlas-nouveau-navigateur-openai.611Z.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2025/10/openai-nouveau-navigateur.987Z.png</image:loc>
-  </image:image>
-  <loc>https://www.lebigdata.fr/chatgpt-panne</loc>
-  <lastmod>2026-05-20T04:45:01+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/11/publithings_seo_a_chatgpt_error_message_displayed_on_a_computer_024a319b-2ea0-4e22-8025-aefec320a6e1.png</image:loc>
-    <image:loc>https://www.lebigdata.fr/wp-content/uploads/2023/11/ChatGPT-outage.png</image:loc>
   </image:image>
 </data>
