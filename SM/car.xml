@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.roadstr.fr/blog/articles/porsche-4000-postes-supprimes/</loc>
-  <lastmod>2026-07-07T16:00:00+02:00</lastmod>
+  <loc>https://www.roadstr.fr/blog/articles/bentley-torcal-electrique/</loc>
+  <lastmod>2026-07-08T12:00:00+02:00</lastmod>
   <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/27.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/37.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/roadtrip-baviere-van/</loc>
+  <lastmod>2026-07-08T10:26:29+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/36-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/35.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/astuces-conso-van-camping-car/</loc>
+  <lastmod>2026-07-08T10:17:05+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/33-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/34.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/pourquoi-louer-van-plutot-que-hotel/</loc>
+  <lastmod>2026-07-08T10:09:14+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/32-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/31.jpg</image:loc>
+  </image:image>
+  <loc>https://www.etoilecollections.fr/nos-astuces-pour-organiser-le-transport-dune-voiture-de-collection-ou-dexception/</loc>
+  <lastmod>2026-07-08T06:42:04+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/07/transport-de-voitures-a-deux-niveaux-avec-de-nouveaux-suv.jpg</image:loc>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/07/nos-astuces-pour-organiser-le-transport-dune-voiture-de-collection-ou-dexception.jpg</image:loc>
   </image:image>
   <loc>https://www.rideapart.com/news/800879/ducati-ceo-claudio-domenicali-says-company-doesnt-need-vw/</loc>
   <lastmod>2026-07-07T15:00:05Z</lastmod>
@@ -19,21 +43,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/features/800776/yamaha-pg1-japan-abs-why-not-bring-it-to-the-us/</loc>
   <lastmod>2026-07-07T12:05:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/800766/lego-technic-ducati-desmo450-mx-kit-toy/</loc>
-  <lastmod>2026-07-07T11:24:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/800505/cfmoto-debuts-new-goes-atv-models-not-available-in-north-america/</loc>
-  <lastmod>2026-07-07T11:01:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.auto-mechanic-info.com/systeme-antipollution-defaillant-peugeot-207-entretien-preventif-pour-ne-plus-revoir-le-message-en-2026/</loc>
-  <lastmod>2026-07-07T04:13:09+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/technicien-inspection-systeme-antipollution-peugeot-207-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/dessous-peugeot-207-catalyseur-filtre-particules-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/message-antipollution-tableau-bord-peugeot-207-fr.webp</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/800478/polaris-donates-money-toward-conservation-and-national-forest-foundation/</loc>
-  <lastmod>2026-07-06T13:41:00Z</lastmod>
   <priority>0.5</priority>
 </data>
