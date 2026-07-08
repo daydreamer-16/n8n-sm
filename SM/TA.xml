@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/new-york-launches-language-mapping-tool/</loc>
+  <lastmod>2026-07-07T15:36:17+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/07/dreamstime_m_34824773.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/inside-dublins-next-phase-of-digital-transformation/</loc>
   <lastmod>2026-07-03T08:27:54+00:00</lastmod>
   <image:image>
@@ -50,11 +55,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/06/dreamstime_m_99773239.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/06/Mayor-of-Ghent.png</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/dublin-unveils-strategy-for-responsible-ai-adoption/</loc>
-  <lastmod>2026-06-23T16:41:39+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/06/dreamstime_m_456084756.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2022/02/Jamie-Cudden.jpg</image:loc>
   </image:image>
 </data>
