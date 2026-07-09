@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/dacia-striker-2026/</loc>
+  <lastmod>2026-07-09T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/48-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/49-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/47-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/46.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/roadtrip-bretagne-en-van/</loc>
+  <lastmod>2026-07-09T10:57:15+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/45-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/44.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/camping-ou-camping-car-cet-ete/</loc>
+  <lastmod>2026-07-09T10:51:56+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/43-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/42.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/dormir-legalement-en-van/</loc>
+  <lastmod>2026-07-09T10:45:47+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/40-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/41.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/surveillance-conducteur-voitures-neuves-gsr2/</loc>
   <lastmod>2026-07-08T16:00:00+02:00</lastmod>
   <image:image>
@@ -32,27 +58,5 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/36-1-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/35.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/astuces-conso-van-camping-car/</loc>
-  <lastmod>2026-07-08T10:17:05+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/33-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/34.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/pourquoi-louer-van-plutot-que-hotel/</loc>
-  <lastmod>2026-07-08T10:09:14+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/32-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/31.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/porsche-4000-postes-supprimes/</loc>
-  <lastmod>2026-07-07T16:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/27.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/fiat-multiplina-electrique/</loc>
-  <lastmod>2026-07-07T14:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/26.jpg</image:loc>
   </image:image>
 </data>
