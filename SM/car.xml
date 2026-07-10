@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/roadtrip-en-suisse-en-van/</loc>
+  <lastmod>2026-07-10T12:24:24+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/66-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/67.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/avantages-van-camping-car-vacances/</loc>
+  <lastmod>2026-07-10T12:16:04+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/65-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/64.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/volkswagen-plan-2030-reduction-modeles/</loc>
+  <lastmod>2026-07-10T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/63.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/panneau-solaire-van-wattage/</loc>
+  <lastmod>2026-07-10T11:47:09+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/54-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/55.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/pagani-huayra-70-derecho-goodwood/</loc>
   <lastmod>2026-07-09T16:24:32+02:00</lastmod>
   <image:image>
@@ -28,20 +51,5 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/49-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/47-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/46.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/features/800909/illinois-new-ebike-laws-go-into-effect-2027-explainer-breakdown/</loc>
-  <lastmod>2026-07-09T11:46:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/800916/tucano-urbano-elkid-childrens-helmet-specs-price-features/</loc>
-  <lastmod>2026-07-09T11:24:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/801003/mike-lee-votes-against-affordable-housing-because-no-public-land-sales/</loc>
-  <lastmod>2026-07-09T11:03:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/roadtrip-bretagne-en-van/</loc>
-  <lastmod>2026-07-09T10:57:15+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/45-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/44.jpg</image:loc>
   </image:image>
 </data>
