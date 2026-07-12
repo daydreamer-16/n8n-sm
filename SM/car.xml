@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/801325/new-honda-pioneer-1000-deluxe-is-so-much-better-than-last-year-heres-why-video/</loc>
-  <lastmod>2026-07-11T14:00:00Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/rally-de-voiture-le-guide-complet-pour-choisir-sa-premiere-auto/</loc>
+  <lastmod>2026-07-12T20:05:59+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/pilote-rallye-cockpit-preparation-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/equipe-mecanique-voiture-rallye-service-park-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/choix-premiere-voiture-rallye-showroom-fr.webp</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/audi-sport-quattro-type-859-hsr-manufaktur/</loc>
   <lastmod>2026-07-10T16:00:00+02:00</lastmod>
   <image:image>
@@ -17,6 +21,19 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/67.jpg</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/repasser-le-code-apres-5-ans-quand-on-conduit-deja-est-ce-risque/</loc>
+  <lastmod>2026-07-12T19:24:02+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-revision-code-route-bureau-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/conducteur-pensif-volant-reprise-code-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/homme-test-code-route-en-ligne-cuisine-fr-scaled.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/801186/ducati-limited-edition-panigale-v4s-motogp-wsbk-replica-auction/</loc>
+  <lastmod>2026-07-12T12:23:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/801325/new-honda-pioneer-1000-deluxe-is-so-much-better-than-last-year-heres-why-video/</loc>
+  <lastmod>2026-07-11T14:00:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.auto-actu.org/6-bluehdi-120-fiabilite-au-quotidien-pannes-couts-solutions/</loc>
   <lastmod>2026-07-10T14:48:12+00:00</lastmod>
   <image:image>
@@ -39,13 +56,4 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/60-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/59.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/801175/maverick-vinales-out-at-ktm-says-they-did-him-wrong/</loc>
-  <lastmod>2026-07-10T13:12:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/801152/snowmobile-sales-were-good-in-2025-but-rider-age-is-a-growing-concern/</loc>
-  <lastmod>2026-07-10T12:56:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/801057/qj-motor-active-aero-winglets-patent-superbike/</loc>
-  <lastmod>2026-07-10T12:46:00Z</lastmod>
-  <priority>0.5</priority>
 </data>
