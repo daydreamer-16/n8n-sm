@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/bmw-m3-electrique-nom-confirme/</loc>
+  <lastmod>2026-07-16T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/15-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/13-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/14-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/gagnez-du-temps-en-recuperant-les-donnees-du-chronotachygraphe/</loc>
+  <lastmod>2026-07-16T08:58:07+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/gagnez-du-temps-en-recuperant-les-donnees-du-chronotachygraphe.jpg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/801644/is-it-hard-to-fix-a-bricked-2020-harley-davidson-livewire-ev-motorcycle/</loc>
   <lastmod>2026-07-15T13:23:00Z</lastmod>
   <priority>0.5</priority>
@@ -29,12 +41,4 @@
   <loc>https://www.rideapart.com/news/801510/top-gear-richard-hammond-tests-new-norton-manx-r-superbike/</loc>
   <lastmod>2026-07-15T11:04:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/801519/harley-davidson-deadwood-specs-features-price/</loc>
-  <lastmod>2026-07-15T11:01:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.etoilecollections.fr/moteurs-dacia-a-eviter/</loc>
-  <lastmod>2026-07-15T10:51:31+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/01/moteurs-dacia-a-eviter.jpg</image:loc>
-  </image:image>
 </data>
