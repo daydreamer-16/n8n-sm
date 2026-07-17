@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.etoilecollections.fr/pare-chocs-endommage-reparer-ou-remplacer/</loc>
-  <lastmod>2026-07-16T18:37:20+00:00</lastmod>
+  <loc>https://www.auto-mechanic-info.com/plus-puissante-moto-comparatif-sensations-entre-600-1000-et-plus-de-200-ch/</loc>
+  <lastmod>2026-07-17T02:21:22+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/07/Pare-chocs-endommage-Reparer-ou-remplacer-.jpg</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/pilote-superbike-1000cc-virage-piste-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/comparatif-motos-600-1000-200ch-garage-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/motarde-hypermoto-route-montagne-fr.webp</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/articles/crise-volkswagen-100000-licenciements/</loc>
   <lastmod>2026-07-16T16:00:00+02:00</lastmod>
@@ -15,6 +17,19 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/16-1-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/17-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/autoroute-francaise-carte-et-travaux-prevus-en-2026-pour-anticiper-vos-trajets/</loc>
+  <lastmod>2026-07-17T01:31:28+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/echangeur-autoroute-france-vue-aerienne-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/ouvrier-chantier-autoroute-travaux-2026-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/gps-voiture-autoroute-carte-travaux-fr-scaled.webp</image:loc>
+  </image:image>
+  <loc>https://www.etoilecollections.fr/pare-chocs-endommage-reparer-ou-remplacer/</loc>
+  <lastmod>2026-07-16T18:37:20+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/07/Pare-chocs-endommage-Reparer-ou-remplacer-.jpg</image:loc>
   </image:image>
   <loc>https://www.rideapart.com/news/801790/triumph-speed-twin-1200-tfc-details-and-pricing-information/</loc>
   <lastmod>2026-07-16T13:33:00Z</lastmod>
@@ -32,13 +47,4 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/13-1-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/14-1.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/features/801640/waze-adds-ai-powered-motorcycle-mode-to-detect-potholes-i-guess-but-why/</loc>
-  <lastmod>2026-07-16T11:54:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/801750/ducati-ceo-claudio-domenicali-says-we-dont-comment-on-speculation-for-sale/</loc>
-  <lastmod>2026-07-16T11:44:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/801695/hjc-rpha12n-anti-venom-price-usa/</loc>
-  <lastmod>2026-07-16T11:19:00Z</lastmod>
-  <priority>0.5</priority>
 </data>
