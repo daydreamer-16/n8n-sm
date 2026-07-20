@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.auto-mechanic-info.com/limite-alcool-au-volant-et-jeunes-conducteurs-ce-qui-change-pour-vous/</loc>
-  <lastmod>2026-07-19T16:13:32+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-conducteur-volant-limite-alcool-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-femme-conductrice-cles-voiture-alcool-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/controle-alcoolemie-police-jeune-conducteur-fr.webp</image:loc>
-  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/lamborghini-temerario-spyder-sterrato/</loc>
   <lastmod>2026-07-17T14:00:00+02:00</lastmod>
   <image:image>
@@ -21,26 +14,33 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/18-1.jpg</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/</loc>
-  <loc>https://www.auto-actu.org/comment-eviter-les-bouchons-sur-la-route-de-thonon-aux-heures-de-pointe/</loc>
-  <lastmod>2026-07-19T17:50:48+00:00</lastmod>
+  <loc>https://www.auto-actu.org/giulia-quadrifoglio-dalfa-romeo-6-underground-mythe-de-cinema-ou-vraie-sportive-de-piste/</loc>
+  <lastmod>2026-07-20T22:13:49+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/embouteillage-route-thonon-heures-pointe-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/conducteur-gps-eviter-bouchons-thonon-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/vue-aerienne-carrefour-thonon-embouteillage-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/alfa-romeo-giulia-quadrifoglio-rue-pavee-rouge-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/alfa-romeo-giulia-quadrifoglio-circuit-virage-piste-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/alfa-romeo-giulia-quadrifoglio-interieur-cockpit-cuir-fr-scaled.webp</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/801943/diamond-atelier-da22-hyperbike-custom-motorcycle-goodwood-festival-lc8-ktm/</loc>
-  <lastmod>2026-07-19T11:51:00Z</lastmod>
+  <loc>https://www.rideapart.com/features/802232/superbike-factory-goes-into-administration-heres-what-to-know-for-riders/</loc>
+  <lastmod>2026-07-20T21:30:16Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/802038/rmef-is-auctioning-off-a-2008-harley-davidson-motorcycle-and-ford-f150-for-wildlife/</loc>
-  <lastmod>2026-07-18T11:09:00Z</lastmod>
+  <loc>https://www.auto-mechanic-info.com/mikado-racing-la-methode-pour-trouver-les-meilleures-pieces-competition/</loc>
+  <lastmod>2026-07-20T21:25:27+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/mecanicien-pieces-competition-garage-course-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/pieces-suspension-competition-salon-sport-auto-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/composants-boite-vitesses-competition-entrepot-pieces-fr.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/802068/lidl-is-selling-a-ridiculously-affordable-motorcycle-paddock-stand-but-theres-a-catch/</loc>
+  <lastmod>2026-07-20T13:20:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/801791/youtuber-and-hunter-chris-bee-is-a-fan-of-ev-utvs-and-efficiency/</loc>
-  <lastmod>2026-07-17T15:08:55Z</lastmod>
+  <loc>https://www.rideapart.com/features/802070/yamaha-mf1-is-not-a-honda-super-cub-but-you-can-buy-this-one/</loc>
+  <lastmod>2026-07-20T12:58:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/801927/british-motorcyclists-have-jail-sentences-extended-in-iran-for-espionage/</loc>
-  <lastmod>2026-07-17T13:33:00Z</lastmod>
+  <loc>https://www.rideapart.com/news/802047/powersport-dealerships-have-a-new-vehicle-affordability-problem/</loc>
+  <lastmod>2026-07-20T12:39:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/801897/utah-reps-and-trump-administration-attack-national-monuments/</loc>
-  <lastmod>2026-07-17T12:42:00Z</lastmod>
+  <loc>https://www.rideapart.com/news/802058/triumph-is-showcasing-its-bikes-at-silverstone-track-days-in-the-hands-of-experts/</loc>
+  <lastmod>2026-07-20T12:16:00Z</lastmod>
   <priority>0.5</priority>
 </data>
