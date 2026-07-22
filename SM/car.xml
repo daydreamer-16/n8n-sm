@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/mclaren-f1-gtr-pop-art-enchere/</loc>
+  <lastmod>2026-07-22T11:59:10+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/5-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/3-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/2-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/4-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/1-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/lamborghini-temerario-spyder-sterrato/</loc>
+  <lastmod>2026-07-22T11:56:52+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/19-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/20-1-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/21-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/22-2.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/road-trip-de-3-jours-en-ardenne-belge-litineraire-ideal/</loc>
   <lastmod>2026-07-21T18:16:50+02:00</lastmod>
   <image:image>
@@ -29,12 +46,4 @@
   <loc>https://www.rideapart.com/reviews/801319/triumph-street-triple-rx-handles-like-no-other-naked-middleweight-surprisingly-good-value/</loc>
   <lastmod>2026-07-21T11:01:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/</loc>
-  <loc>https://www.auto-actu.org/giulia-quadrifoglio-dalfa-romeo-6-underground-mythe-de-cinema-ou-vraie-sportive-de-piste/</loc>
-  <lastmod>2026-07-20T22:13:49+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/alfa-romeo-giulia-quadrifoglio-rue-pavee-rouge-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/alfa-romeo-giulia-quadrifoglio-circuit-virage-piste-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/alfa-romeo-giulia-quadrifoglio-interieur-cockpit-cuir-fr-scaled.webp</image:loc>
-  </image:image>
 </data>
