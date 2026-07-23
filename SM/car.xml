@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/entretien-voiture-de-sport-peu-utilisee/</loc>
+  <lastmod>2026-07-23T17:30:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/21-3-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/20-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/voitures-collection-valeur/</loc>
+  <lastmod>2026-07-23T17:12:01+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/18-2-1024x683.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/19-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/bmw-m2-xdrive-transmission-integrale/</loc>
+  <lastmod>2026-07-23T16:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/17-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/the-out-lap-food-truck-f1-luxe/</loc>
+  <lastmod>2026-07-23T14:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/16-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/802482/bajaj-is-working-on-an-electric-motorcycle-oversea-markets-receiving-first-orders/</loc>
+  <lastmod>2026-07-23T13:28:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/802458/brp-donates-money-to-tread-lightly-for-trail-access-and-conservation/</loc>
+  <lastmod>2026-07-23T12:43:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/802475/giant-custom-wooden-atv-build-ev-powered/</loc>
+  <lastmod>2026-07-23T12:16:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/802451/gm-preparing-for-1-billion-dollar-order-of-infantry-squad-vehicle-utv-pickup/</loc>
+  <lastmod>2026-07-23T12:02:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/aston-martin-vanquish-25/</loc>
   <lastmod>2026-07-23T12:00:00+02:00</lastmod>
   <image:image>
@@ -8,53 +42,7 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/13-2-1024x683.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/14-2.jpg</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/faire-ou-refaire-sa-carte-grise-comment-gagner-du-temps/</loc>
-  <lastmod>2026-07-23T10:19:31+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/548d217802ab533e1dea89624744a726-1.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/</loc>
-  <loc>https://www.auto-actu.org/transak-autos-demarches-administratives-simplifiees-ou-pas-vraiment/</loc>
-  <lastmod>2026-07-22T19:12:50+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/demarches-administratives-transaction-auto-bureau-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/transfert-carte-grise-concession-automobile-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/demarche-transfert-vehicule-smartphone-prefecture-fr-scaled.webp</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/pourquoi-la-honda-xlv750r-est-devenue-un-trail-collector-recherche/</loc>
-  <lastmod>2026-07-22T18:32:44+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/honda-xlv750r-trail-collector-montagne-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/honda-xlv750r-restauration-atelier-vintage-fr.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/honda-xlv750r-action-piste-foret-fr.webp</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/lamborghini-revuelto-impavido-japon/</loc>
-  <lastmod>2026-07-22T16:11:23+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/11-1-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/10-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/mclaren-f1-gtr-pop-art-enchere/</loc>
-  <lastmod>2026-07-22T16:03:21+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/5-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/3-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/2-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/4-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/1-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/pagani-huayra-roadster-boite-manuelle-unique/</loc>
-  <lastmod>2026-07-22T15:09:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/9-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/7-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/8-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/7-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/802346/automakers-dont-want-to-fix-bright-headlights/</loc>
-  <lastmod>2026-07-22T13:10:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/802354/fim-is-looking-for-motorcycle-manufacturers-to-spawn-next-gen-racing-talent/</loc>
-  <lastmod>2026-07-22T12:53:00Z</lastmod>
+  <loc>https://www.rideapart.com/news/802369/kove-625x-adventure-motorcycle-specs-features/</loc>
+  <lastmod>2026-07-23T11:48:00Z</lastmod>
   <priority>0.5</priority>
 </data>
