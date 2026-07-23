@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/the-hague-invites-hackers-to-test-city-systems/</loc>
+  <lastmod>2026-07-23T13:33:18+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/07/dreamstime_m_174686473.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/liverpool-airport-adds-bolt-micromobility-parking/</loc>
   <lastmod>2026-07-21T11:18:04+00:00</lastmod>
   <image:image>
@@ -44,11 +49,5 @@
   <lastmod>2026-07-10T08:50:11+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/07/image.png</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/peachtree-corners-targets-autonomous-mobility-commercialisation/</loc>
-  <lastmod>2026-07-08T12:25:12+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/07/dreamstime_m_251325557.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/07/Emily-Heintz-Curiosity-Lab-Headshot-2026-1-SMALL-scaled.jpg</image:loc>
   </image:image>
 </data>
