@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/circuit-malaisie-itineraire/</loc>
+  <lastmod>2026-07-23T07:04:00+00:00</lastmod>
+  <loc>https://www.st-claire.eu/recette-sauce-foie-gras</loc>
+  <lastmod>2026-07-23T02:56:06+00:00</lastmod>
+  <loc>https://www.lateliergourmand.fr/prix-alcool-espagne-rentabilite/</loc>
+  <lastmod>2026-07-23T02:48:39+00:00</lastmod>
   <loc>https://chefdodo.com/tartelette-pomme-compote/</loc>
   <lastmod>2026-07-22T10:00:01+01:00</lastmod>
   <image:image>
@@ -90,34 +96,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/04/IMG_20170413_191021.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/04/recette-charlotte-au-fraise_20170413_184724-e1493128433591.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/04/recette-charlotte-au-fraise_20170413_183134.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/divers/recette-craquelin/</loc>
-  <lastmod>2026-07-22T20:16:48+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/06/recette-craquelin-01.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/06/recette-craquelin-01-275x275.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/02/recette-craquelin-03-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/02/recette-craquelin-06-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/pate-a-choux-craquelin_20171011_222621282123719453059092-275x206.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/cremes/recette-creme-chantilly/</loc>
-  <lastmod>2026-07-22T20:16:29+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/04/recette-creme-chantilly-01.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/04/recette-creme-chantilly-01-275x275.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/07/recette-creme-chantilly-01-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/07/recette-creme-chantilly-02-275x206.webp</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/pates/recette-pate-a-choux/</loc>
-  <lastmod>2026-07-22T20:14:03+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/06/recette-pate-a-choux-02.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/06/recette-pate-a-choux-02-275x275.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_205625-275x204.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_211535-275x204.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_212132-275x204.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/02/recette-pate-choux-IMG_20151002_212303-275x204.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/01/pate-a-choux-craquelin_20171011_222621282123719453059092-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/02/recette-profiteroles-20210215_124904-e1613756803824-275x206.jpg</image:loc>
   </image:image>
 </data>
