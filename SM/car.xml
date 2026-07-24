@@ -1,52 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/collection-et-ecologie/</loc>
+  <lastmod>2026-07-24T16:39:15+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/26-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/red-bull-rb17-hypercar-circuit/</loc>
+  <lastmod>2026-07-24T16:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/23.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/bmw-m2-xdrive-transmission-integrale/</loc>
+  <lastmod>2026-07-24T15:11:24+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/17-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/alfa-romeo-junior-etats-unis/</loc>
+  <lastmod>2026-07-24T14:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/24-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/802590/pirelli-wants-to-recycle-old-tires-to-make-all-new-ones/</loc>
+  <lastmod>2026-07-24T13:25:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/802610/honda-acty-pickup-truck-with-matching-honda-monkey-in-back-for-sale/</loc>
+  <lastmod>2026-07-24T12:50:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/802489/2027-beta-rippers-program-announcement-details/</loc>
+  <lastmod>2026-07-24T12:19:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/802581/yamaha-npo-cefmof-sauna-boat-hydrogen/</loc>
+  <lastmod>2026-07-24T12:15:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/aston-martin-nouvelle-dette/</loc>
   <lastmod>2026-07-24T12:00:00+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/22-3.jpg</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/trakmy-le-traceur-gps-francais/</loc>
-  <lastmod>2026-07-24T11:08:21+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/25-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/</loc>
-  <loc>https://www.auto-actu.org/4-conseils-pour-bien-reparer-son-pare-brise-de-voiture/</loc>
-  <lastmod>2026-07-24T09:55:57+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/pare-brise-rek.jpg</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/pare-b-v.jpg</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/pourquoi-le-lift-est-devenu-indispensable-pour-les-demenagements-en-centre-ville-de-bruxelles/</loc>
-  <lastmod>2026-07-24T07:01:11+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/lift-demenagement-bruxelles-scaled.webp</image:loc>
-  </image:image>
-  <loc>https://www.auto-actu.org/demenagement-en-etage-eleve-a-bruxelles-les-bonnes-pratiques-pour-eviter-les-galeres/</loc>
-  <lastmod>2026-07-24T06:56:36+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/demenagement-etage-bruxelles-scaled.webp</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/entretien-voiture-de-sport-peu-utilisee/</loc>
-  <lastmod>2026-07-23T17:30:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/21-3-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/20-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/voitures-collection-valeur/</loc>
-  <lastmod>2026-07-23T17:12:01+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/18-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/19-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/bmw-m2-xdrive-transmission-integrale/</loc>
-  <lastmod>2026-07-23T16:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/17-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/the-out-lap-food-truck-f1-luxe/</loc>
-  <lastmod>2026-07-23T14:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/16-2.jpg</image:loc>
-  </image:image>
+  <loc>https://www.rideapart.com/news/802492/zxmoto-zhang-xue-donates-flood-victims/</loc>
+  <lastmod>2026-07-24T11:57:00Z</lastmod>
+  <priority>0.5</priority>
 </data>
