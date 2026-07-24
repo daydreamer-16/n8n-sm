@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/aston-martin-nouvelle-dette/</loc>
+  <lastmod>2026-07-24T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/22-3.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/trakmy-le-traceur-gps-francais/</loc>
+  <lastmod>2026-07-24T11:08:21+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/25-2.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/4-conseils-pour-bien-reparer-son-pare-brise-de-voiture/</loc>
+  <lastmod>2026-07-24T09:55:57+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/pare-brise-rek.jpg</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/pare-b-v.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/pourquoi-le-lift-est-devenu-indispensable-pour-les-demenagements-en-centre-ville-de-bruxelles/</loc>
+  <lastmod>2026-07-24T07:01:11+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/lift-demenagement-bruxelles-scaled.webp</image:loc>
+  </image:image>
+  <loc>https://www.auto-actu.org/demenagement-en-etage-eleve-a-bruxelles-les-bonnes-pratiques-pour-eviter-les-galeres/</loc>
+  <lastmod>2026-07-24T06:56:36+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/demenagement-etage-bruxelles-scaled.webp</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/entretien-voiture-de-sport-peu-utilisee/</loc>
   <lastmod>2026-07-23T17:30:00+02:00</lastmod>
   <image:image>
@@ -22,27 +49,4 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/16-2.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/802482/bajaj-is-working-on-an-electric-motorcycle-oversea-markets-receiving-first-orders/</loc>
-  <lastmod>2026-07-23T13:28:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/802458/brp-donates-money-to-tread-lightly-for-trail-access-and-conservation/</loc>
-  <lastmod>2026-07-23T12:43:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/802475/giant-custom-wooden-atv-build-ev-powered/</loc>
-  <lastmod>2026-07-23T12:16:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/802451/gm-preparing-for-1-billion-dollar-order-of-infantry-squad-vehicle-utv-pickup/</loc>
-  <lastmod>2026-07-23T12:02:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/aston-martin-vanquish-25/</loc>
-  <lastmod>2026-07-23T12:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/15-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/12-1-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/13-2-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/14-2.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/802369/kove-625x-adventure-motorcycle-specs-features/</loc>
-  <lastmod>2026-07-23T11:48:00Z</lastmod>
-  <priority>0.5</priority>
 </data>
