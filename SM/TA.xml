@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/veo-to-expand-tap-to-park-corrals/</loc>
+  <lastmod>2026-07-23T18:29:40+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/07/Corral-NYC.png</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-13.25.13.png</image:loc>
+  </image:image>
   <loc>https://cities-today.com/the-hague-invites-hackers-to-test-city-systems/</loc>
   <lastmod>2026-07-23T13:33:18+00:00</lastmod>
   <image:image>
@@ -44,10 +50,5 @@
   <lastmod>2026-07-13T19:36:23+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/07/dreamstime_m_82552881.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/former-prague-cio-joins-cities-today-institute/</loc>
-  <lastmod>2026-07-10T08:50:11+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/07/image.png</image:loc>
   </image:image>
 </data>
