@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.auto-mechanic-info.com/essai-routier-dune-1967-chevy-impala-automatic-sensations-et-limites/</loc>
+  <lastmod>2026-07-25T17:24:50+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/chevrolet-impala-1967-essai-routier-route-desertique-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/interieur-cockpit-chevrolet-impala-1967-automatique-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/journaliste-au-volant-impala-1967-essai-conduite-fr.webp</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/collection-et-ecologie/</loc>
   <lastmod>2026-07-24T16:39:15+02:00</lastmod>
   <image:image>
@@ -10,6 +17,17 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/23.jpg</image:loc>
   </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/clio-poid-et-assurance-auto-pourquoi-le-gabarit-fait-varier-la-prime/</loc>
+  <lastmod>2026-07-25T19:50:07+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/agent-assurance-renault-clio-gabarit-prime-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/contrat-assurance-auto-poids-gabarit-clio-fr.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/pesee-renault-clio-centre-controle-assurance-fr.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/802704/harley-davidson-q2-2026-financial-results-arent-terrible-which-is-nice/</loc>
+  <lastmod>2026-07-25T11:20:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/bmw-m2-xdrive-transmission-integrale/</loc>
   <lastmod>2026-07-24T15:11:24+02:00</lastmod>
   <image:image>
@@ -25,19 +43,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/802610/honda-acty-pickup-truck-with-matching-honda-monkey-in-back-for-sale/</loc>
   <lastmod>2026-07-24T12:50:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/802489/2027-beta-rippers-program-announcement-details/</loc>
-  <lastmod>2026-07-24T12:19:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/802581/yamaha-npo-cefmof-sauna-boat-hydrogen/</loc>
-  <lastmod>2026-07-24T12:15:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/aston-martin-nouvelle-dette/</loc>
-  <lastmod>2026-07-24T12:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/22-3.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/802492/zxmoto-zhang-xue-donates-flood-victims/</loc>
-  <lastmod>2026-07-24T11:57:00Z</lastmod>
   <priority>0.5</priority>
 </data>
