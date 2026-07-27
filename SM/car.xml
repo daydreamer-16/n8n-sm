@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/lynk-co-07-gt-break-hybride-europe/</loc>
+  <lastmod>2026-07-27T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/6-3.jpg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/802713/moto-guzzi-world-days-105th-birthday-renovated-museum-grand-opening/</loc>
   <lastmod>2026-07-26T12:34:00Z</lastmod>
   <priority>0.5</priority>
@@ -7,11 +12,6 @@
   <lastmod>2026-07-24T16:39:15+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/26-1.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/red-bull-rb17-hypercar-circuit/</loc>
-  <lastmod>2026-07-24T16:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/23.jpg</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/</loc>
   <loc>https://www.auto-actu.org/clio-poid-et-assurance-auto-pourquoi-le-gabarit-fait-varier-la-prime/</loc>
@@ -31,6 +31,11 @@
   <loc>https://www.rideapart.com/news/802704/harley-davidson-q2-2026-financial-results-arent-terrible-which-is-nice/</loc>
   <lastmod>2026-07-25T11:20:00Z</lastmod>
   <priority>0.5</priority>
+  <loc>https://www.roadstr.fr/blog/articles/red-bull-rb17-hypercar-circuit/</loc>
+  <lastmod>2026-07-24T16:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/23.jpg</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/bmw-m2-xdrive-transmission-integrale/</loc>
   <lastmod>2026-07-24T15:11:24+02:00</lastmod>
   <image:image>
@@ -41,7 +46,4 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/24-1.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/802590/pirelli-wants-to-recycle-old-tires-to-make-all-new-ones/</loc>
-  <lastmod>2026-07-24T13:25:00Z</lastmod>
-  <priority>0.5</priority>
 </data>
