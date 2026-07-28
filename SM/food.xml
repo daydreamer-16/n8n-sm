@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/4-jours-rome-itineraire-conseils</loc>
+  <lastmod>2026-07-28T08:21:00+00:00</lastmod>
+  <loc>https://www.lateliergourmand.fr/recette-parmentier-canard-pas-sec/</loc>
+  <lastmod>2026-07-28T02:55:31+00:00</lastmod>
   <loc>https://gourmetbag.fr/soiree-apero-locavore-en-rhone-alpes-meler-convivialite-et-terroir/</loc>
   <lastmod>2026-07-27T21:03:58+00:00</lastmod>
+  <loc>https://www.lateliergourmand.fr/street-food-indonesienne-bali-java/</loc>
+  <lastmod>2026-07-27T10:10:40+00:00</lastmod>
   <loc>https://chefdodo.com/cuisses-de-poulets-marinees/</loc>
   <lastmod>2026-07-27T10:00:13+01:00</lastmod>
   <image:image>
@@ -26,72 +32,6 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/03/IMG_20170328_130207_987.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/03/IMG_20170328_130207_987.jpg</image:loc>
   </image:image>
-  <loc>https://mapatisserie.fr/recette/entremets/recette-entremet-framboise/</loc>
-  <lastmod>2026-07-26T20:54:42+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/entremets-framboise-20180807_195537-01.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/entremets-framboise-20180807_195537-01-275x275.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-insert-framboise-20180715_173124-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/03/pate-fruit-framboise-IMG_20171004_231241-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-insert-framboise-20180715_173126-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-insert-framboise-20180715_175307-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_154420-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_133623-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_154920-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_160116-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20160522_160526-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_134146-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_134552-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_134719-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_134851-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_135051-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/recette-pain-genes-IMG_20170304_141011-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_234425-e1493646355917-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_234841-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_234853-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_234956-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_235033-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_235325-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170201_235648-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170202_000222-e1493646998205-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170206_194039-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/05/IMG_20170305_171604-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/08/entremets-framboise-20180807_195537-01-275x275.jpeg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/cremes/recette-creme-frangipane/</loc>
-  <lastmod>2026-07-26T20:54:39+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/02/creme-frangipane-01.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/frangipane-vs-creme-amande-01-275x275.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_145638-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_145758-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_150751-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_150003-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_150256-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_150533-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_150632-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_150701-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2021/07/recette-tarte-abricot-20210702_151108-275x206.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/cremes/recette-creme-citron/</loc>
-  <lastmod>2026-07-26T20:54:24+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/04/recette-creme-citron_20160812_194700-01.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/04/recette-creme-citron_20160812_194700-01-275x275.jpeg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/divers-recette/ou-vient-arome-de-vanille/</loc>
-  <lastmod>2026-07-26T15:23:22+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/gousse-de-vanille-Tubes-35G.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/gousse-de-vanille-Planifolia.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/gousse-de-vanille-Madagascar-3.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/gousse-de-vanille-Madagascar-2.png</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/gousse-de-vanille-Madagascar-4.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/gousse-de-vanille-Gamme-2022.png</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/gousse-de-vanille-Madagascar-1-e1650897488855.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/gousse-de-vanille-Perle1.png</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/extrait-vanille-3.png</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/vanille-en-poudre-1-e1650897400709.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2022/03/reutiliser-gousses-vanille.png</image:loc>
-  </image:image>
+  <loc>https://www.st-claire.eu/recette-confiture-mirabelles-grand-mere</loc>
+  <lastmod>2026-07-27T02:53:25+00:00</lastmod>
 </data>
