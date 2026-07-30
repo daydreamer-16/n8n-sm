@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/aeroport-prague-centre-ville</loc>
+  <lastmod>2026-07-30T05:26:00+00:00</lastmod>
+  <loc>https://www.lateliergourmand.fr/les-saumonards-la-plage-naturiste-de-lile-doleron/</loc>
+  <lastmod>2026-07-30T02:53:22+00:00</lastmod>
   <loc>https://chefdodo.com/filet-de-hareng/</loc>
   <lastmod>2026-07-29T09:59:54+01:00</lastmod>
   <image:image>
@@ -25,8 +29,4 @@
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/07/output1-15.png</image:loc>
   </image:image>
-  <loc>https://www.lateliergourmand.fr/lac-blanc-randonnee-guide/</loc>
-  <lastmod>2026-07-27T07:08:00+00:00</lastmod>
-  <loc>https://www.st-claire.eu/recette-confiture-mirabelles-grand-mere</loc>
-  <lastmod>2026-07-27T02:53:25+00:00</lastmod>
 </data>
