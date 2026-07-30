@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/loi-ripost-voitures-puissantes-jeunes-conducteurs/</loc>
+  <lastmod>2026-07-30T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/15-3.jpg</image:loc>
+  </image:image>
   <loc>https://www.rideapart.com/news/802720/patritalia-spa-supposedly-puts-in-bid-to-buy-ducati-from-volkswagen/</loc>
   <lastmod>2026-07-29T16:45:37Z</lastmod>
   <priority>0.5</priority>
@@ -36,8 +41,5 @@
   </image:image>
   <loc>https://www.rideapart.com/news/802870/touratech-aventuro-gravel-carbon-is-a-helmet-for-almost-every-situation/</loc>
   <lastmod>2026-07-29T11:42:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/802893/bandit9-liquid-metal-ducati-monster-821-custom-motorcycle/</loc>
-  <lastmod>2026-07-29T11:26:00Z</lastmod>
   <priority>0.5</priority>
 </data>
