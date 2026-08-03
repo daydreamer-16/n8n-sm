@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/803398/this-state-just-made-it-less-expensive-to-register-your-vintage-snowmobiles/</loc>
-  <lastmod>2026-08-02T13:51:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803430/harley-davidson-files-trademark-application-for-rmcr-cafe-racer-motorcycle/</loc>
-  <lastmod>2026-08-01T11:40:00Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/voiture-59-euros-par-mois-sans-apport-pour-etudiant-ou-premier-emploi/</loc>
+  <lastmod>2026-08-03T05:55:23+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/etudiante-voiture-location-pas-chere-campus-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/premier-emploi-contrat-location-voiture-59-euros-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/voiture-compacte-abordable-rue-urbaine-etudiant-fr.webp</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/shelby-cobra-daytona-22-millions-euros/</loc>
   <lastmod>2026-07-31T14:48:31+02:00</lastmod>
   <image:image>
@@ -17,6 +18,19 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/27-1.jpg</image:loc>
   </image:image>
   <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/guide-pratique-2026-pour-lire-s-1-carte-grise-sans-se-tromper/</loc>
+  <lastmod>2026-08-03T06:03:25+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-lecture-carte-grise-appartement-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/homme-verification-carte-grise-parking-voiture-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/gros-plan-carte-grise-bureau-champ-administratif-fr-scaled.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/803398/this-state-just-made-it-less-expensive-to-register-your-vintage-snowmobiles/</loc>
+  <lastmod>2026-08-02T13:51:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/803430/harley-davidson-files-trademark-application-for-rmcr-cafe-racer-motorcycle/</loc>
+  <lastmod>2026-08-01T11:40:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.auto-actu.org/linfo-en-temps-reel-sur-209-fr-change-t-elle-vraiment-votre-quotidien/</loc>
   <lastmod>2026-08-01T08:36:00+00:00</lastmod>
   <image:image>
@@ -32,11 +46,5 @@
   </image:image>
   <loc>https://www.rideapart.com/news/803153/honda-grom-gets-double-the-displacement-video/</loc>
   <lastmod>2026-07-31T13:05:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803287/2027-indian-motorcycle-scout-lineup-reduced-models/</loc>
-  <lastmod>2026-07-31T12:39:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803163/rieju-coaster-407-specs-features-details/</loc>
-  <lastmod>2026-07-31T12:13:00Z</lastmod>
   <priority>0.5</priority>
 </data>
