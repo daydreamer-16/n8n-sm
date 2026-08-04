@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.rideapart.com/news/803742/the-2027-polaris-rzr-pro-r-boost-is-the-most-powerful-utv-in-the-world/</loc>
+  <lastmod>2026-08-04T16:47:56Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/porsche-911-gt2-rs-enchere-record/</loc>
   <lastmod>2026-08-03T16:30:00+02:00</lastmod>
   <image:image>
@@ -19,25 +22,26 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/30-1024x573.jpg</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/29.jpg</image:loc>
   </image:image>
-  <loc>https://www.rideapart.com/news/803440/sena-motorcycle-communications-lifetime-warranty-policy/</loc>
-  <lastmod>2026-08-03T13:17:00Z</lastmod>
+  <loc>https://www.roadstr.fr/blog/articles/shelby-cobra-daytona-22-millions-euros/</loc>
+  <lastmod>2026-07-31T14:48:31+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/28-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/articles/ferrari-luce-objectif-ventes-2026/</loc>
+  <lastmod>2026-07-31T12:00:00+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/27-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/achat-dune-sportive-votre-carte-grise-minute-pour-avaler-lasphalte-sans-attendre/</loc>
+  <lastmod>2026-08-04T14:14:57+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/getfluence-67330-main-scaled.png</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/803629/isle-of-man-tt-sidecar-sustainability-review-says-changes-needed/</loc>
+  <lastmod>2026-08-04T13:42:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803418/is-mbw-working-on-an-m-1300-gs-all-signs-point-to-yes/</loc>
-  <lastmod>2026-08-03T12:57:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803306/givi-s120-handlebar-mount-usb-charger/</loc>
-  <lastmod>2026-08-03T12:42:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803423/gundam-strictg-kushitani-moto-capsule-collection-2026/</loc>
-  <lastmod>2026-08-03T12:21:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803424/bmw-half-yearly-report-motorcycles-more-profitable-than-cars/</loc>
-  <lastmod>2026-08-03T12:01:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803296/envo-utility-personal-transporter-modular-offroad-ev/</loc>
-  <lastmod>2026-08-03T11:41:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803438/honda-nx-500-price-just-dropped-us/</loc>
-  <lastmod>2026-08-03T11:17:00Z</lastmod>
+  <loc>https://www.rideapart.com/news/803606/2027-kawasaki-teryx-h2-2-seat-utv-is-unveiled-with-same-supercharged-engine/</loc>
+  <lastmod>2026-08-04T13:00:00Z</lastmod>
   <priority>0.5</priority>
 </data>
