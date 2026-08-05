@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/brownis-au-noix/</loc>
+  <lastmod>2026-08-05T10:00:07+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/08/output1-2.png</image:loc>
+  </image:image>
+  <loc>https://www.st-claire.eu/legumes-paupiettes-de-veau</loc>
+  <lastmod>2026-08-05T05:00:00+00:00</lastmod>
+  <loc>https://www.st-claire.eu/compote-pommes-grand-mere-recette</loc>
+  <lastmod>2026-08-05T03:26:01+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/08/infographie-compote-pommes-grand-mere-recette.webp</image:loc>
+  </image:image>
   <loc>https://www.lateliergourmand.fr/accompagnement-cabillaud/</loc>
   <lastmod>2026-08-04T06:59:00+00:00</lastmod>
   <loc>https://chefdodo.com/biscuit-chamallow-americain/</loc>
@@ -23,13 +35,4 @@
   </image:image>
   <loc>https://www.lateliergourmand.fr/reussir-repas-pour-10-personnes/</loc>
   <lastmod>2026-08-02T08:52:00+00:00</lastmod>
-  <loc>https://www.st-claire.eu/soupe-oignon-grand-mere-recette</loc>
-  <lastmod>2026-08-01T08:14:41+00:00</lastmod>
-  <loc>https://www.lateliergourmand.fr/recette-joues-boeuf-sans-vin/</loc>
-  <lastmod>2026-08-01T08:14:21+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2024/11/joues_de_boeuf_mijotees_5583.jpg</image:loc>
-  </image:image>
-  <loc>https://www.st-claire.eu/recette-gateau-cacao-moelleux-facile</loc>
-  <lastmod>2026-08-01T07:12:00+00:00</lastmod>
 </data>
