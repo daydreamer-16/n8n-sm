@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/803742/the-2027-polaris-rzr-pro-r-boost-is-the-most-powerful-utv-in-the-world/</loc>
-  <lastmod>2026-08-04T16:47:56Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/road-trip-en-france-comment-reperer-un-gonfleur-a-proximite-sur-votre-itineraire/</loc>
+  <lastmod>2026-08-05T06:17:16+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/gonfleur-portable-bord-route-france-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/borne-gonflage-aire-service-autoroute-france-fr.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/couple-road-trip-localiser-gonfleur-village-france-fr.webp</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/porsche-911-gt2-rs-enchere-record/</loc>
   <lastmod>2026-08-03T16:30:00+02:00</lastmod>
   <image:image>
@@ -16,23 +20,17 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/35.jpg</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/lotus-eletre-etats-unis/</loc>
-  <lastmod>2026-08-03T15:30:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/30-1024x573.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/29.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/shelby-cobra-daytona-22-millions-euros/</loc>
-  <lastmod>2026-07-31T14:48:31+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/28-1.jpg</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/ferrari-luce-objectif-ventes-2026/</loc>
-  <lastmod>2026-07-31T12:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/07/27-1.jpg</image:loc>
-  </image:image>
   <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/plus-puissante-moto-electrique-ou-en-est-vraiment-la-technologie-en-2026/</loc>
+  <lastmod>2026-08-05T07:24:03+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/moto-electrique-haute-performance-urbaine-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/pilote-moto-electrique-circuit-course-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/ingenieure-recherche-moto-electrique-atelier-fr-scaled.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/803742/the-2027-polaris-rzr-pro-r-boost-is-the-most-powerful-utv-in-the-world/</loc>
+  <lastmod>2026-08-04T16:47:56Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.auto-actu.org/achat-dune-sportive-votre-carte-grise-minute-pour-avaler-lasphalte-sans-attendre/</loc>
   <lastmod>2026-08-04T14:14:57+00:00</lastmod>
   <image:image>
@@ -43,5 +41,8 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/803606/2027-kawasaki-teryx-h2-2-seat-utv-is-unveiled-with-same-supercharged-engine/</loc>
   <lastmod>2026-08-04T13:00:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/news/803614/bmw-plans-layoffs-across-business-after-sales-declines/</loc>
+  <lastmod>2026-08-04T12:22:00Z</lastmod>
   <priority>0.5</priority>
 </data>
