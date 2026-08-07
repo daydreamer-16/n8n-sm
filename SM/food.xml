@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://gourmetbag.fr/vivre-marseille-coliving-fait-vous/</loc>
+  <lastmod>2026-08-07T14:51:29+00:00</lastmod>
+  <image:image>
+    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/07/vue-du-vieux-port-de-marseille-au-coucher-de-soleil.jpg</image:loc>
+  </image:image>
   <loc>https://chefdodo.com/mousse-rapide-au-chocolat/</loc>
   <lastmod>2026-08-07T10:00:06+01:00</lastmod>
   <image:image>
@@ -80,10 +85,5 @@
   <lastmod>2026-08-05T08:38:28+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/08/infographie-quartiers-eviter-chambery.webp</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/quartiers-eviter-cannes/</loc>
-  <lastmod>2026-08-05T08:38:26+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/08/infographie-quartiers-eviter-cannes.webp</image:loc>
   </image:image>
 </data>
