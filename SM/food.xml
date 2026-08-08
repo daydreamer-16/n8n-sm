@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/calories-pain-de-seigle/</loc>
+  <lastmod>2026-08-08T05:42:00+00:00</lastmod>
   <loc>https://gourmetbag.fr/vivre-marseille-coliving-fait-vous/</loc>
   <lastmod>2026-08-07T14:51:29+00:00</lastmod>
   <image:image>
@@ -80,10 +82,5 @@
   <lastmod>2026-08-05T08:55:06+00:00</lastmod>
   <image:image>
     <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/08/infographie-compote-pommes-grand-mere-recette-1.webp</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/quartiers-eviter-chambery/</loc>
-  <lastmod>2026-08-05T08:38:28+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/08/infographie-quartiers-eviter-chambery.webp</image:loc>
   </image:image>
 </data>
