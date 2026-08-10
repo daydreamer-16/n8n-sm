@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.rideapart.com/news/804200/ktm-gets-greenlight-to-see-why-motogp-engine-keeps-breaking/</loc>
-  <lastmod>2026-08-09T12:38:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/features/803909/how-to-build-a-zero-motorcycles-xe-electric-dirt-bike-video/</loc>
-  <lastmod>2026-08-08T14:00:00Z</lastmod>
-  <priority>0.5</priority>
+  <loc>https://www.auto-mechanic-info.com/essence-moins-chere-roanne-ces-horaires-ou-le-plein-vous-revient-moins-cher/</loc>
+  <lastmod>2026-08-10T07:06:44+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/plein-essence-station-service-roanne-heures-creuses-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/prix-carburant-panneau-station-service-roanne-femme-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/gros-plan-pompe-prix-essence-station-roanne-fr-scaled.webp</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/bmw-pub-spider-man-ecran-central/</loc>
   <lastmod>2026-08-07T16:00:00+02:00</lastmod>
   <image:image>
@@ -16,6 +17,20 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/43.jpg</image:loc>
   </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/acheter-une-caravane-occasion-en-toute-securite-entre-particuliers/</loc>
+  <lastmod>2026-08-10T07:37:39+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/inspection-caravane-occasion-particulier-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/verification-documents-caravane-occasion-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/conclusion-vente-caravane-occasion-particuliers-fr-scaled.webp</image:loc>
+  </image:image>
+  <loc>https://www.rideapart.com/news/804200/ktm-gets-greenlight-to-see-why-motogp-engine-keeps-breaking/</loc>
+  <lastmod>2026-08-09T12:38:00Z</lastmod>
+  <priority>0.5</priority>
+  <loc>https://www.rideapart.com/features/803909/how-to-build-a-zero-motorcycles-xe-electric-dirt-bike-video/</loc>
+  <lastmod>2026-08-08T14:00:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/804102/royal-enfield-one-ride-2026-details-information/</loc>
   <lastmod>2026-08-07T13:08:00Z</lastmod>
   <priority>0.5</priority>
@@ -24,19 +39,5 @@
   <priority>0.5</priority>
   <loc>https://www.rideapart.com/news/804089/ducati-made-in-italy-ministry-of-enterprises-agreement/</loc>
   <lastmod>2026-08-07T12:22:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.roadstr.fr/blog/articles/bugatti-destrier-hypercar-unique/</loc>
-  <lastmod>2026-08-07T12:00:00+02:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/44-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/46-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/45-1024x683.jpg</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/47.jpg</image:loc>
-  </image:image>
-  <loc>https://www.rideapart.com/news/804069/hungary-europe-danube-drought-unearthed-lost-wwii-motorcycle/</loc>
-  <lastmod>2026-08-07T11:53:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/803941/jay-leno-crashed-1940-indian-chief-restored/</loc>
-  <lastmod>2026-08-07T11:23:00Z</lastmod>
   <priority>0.5</priority>
 </data>
