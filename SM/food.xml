@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://gourmetbag.fr/vivre-marseille-coliving-fait-vous/</loc>
+  <lastmod>2026-08-13T13:04:41+00:00</lastmod>
+  <image:image>
+    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/07/vue-du-vieux-port-de-marseille-au-coucher-de-soleil.jpg</image:loc>
+  </image:image>
+  <loc>https://gourmetbag.fr/temps-dure-vol-vers-sri-lanka/</loc>
+  <lastmod>2026-08-13T12:12:26+00:00</lastmod>
+  <image:image>
+    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/08/aeroport-de-dubai-terminal-moderne-hall-principal.jpg</image:loc>
+  </image:image>
   <loc>https://www.st-claire.eu/fausse-meduse-mediterranee-physalie-danger</loc>
   <lastmod>2026-08-13T07:12:00+00:00</lastmod>
   <loc>https://www.st-claire.eu/aeroport-madere-atterrissage-dangereux</loc>
@@ -7,43 +17,20 @@
   <image:image>
     <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/08/infographie-aeroport-madere-atterrissage-dangereux.webp</image:loc>
   </image:image>
+  <loc>https://gourmetbag.fr/pays-plus-proche-maldives/</loc>
+  <lastmod>2026-08-12T13:00:57+00:00</lastmod>
   <loc>https://chefdodo.com/cake-aux-olives-et-thon/</loc>
   <lastmod>2026-08-12T10:00:19+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/08/output1-6.png</image:loc>
   </image:image>
-  <loc>https://chefdodo.com/comment-enlever-lodeur-de-friture-dans-une-cuisine/</loc>
-  <lastmod>2025-02-06T14:15:20+01:00</lastmod>
+  <loc>https://chefdodo.com/recette-tarte-aux-poires-et-aux-amandes/</loc>
+  <lastmod>2026-08-10T10:00:41+01:00</lastmod>
   <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2024/09/crop-anonymous-male-chef-in-black-gloves-with-deep-2023-11-27-05-06-16-utc-scaled.webp</image:loc>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/08/output1-5.png</image:loc>
   </image:image>
-  <loc>https://mapatisserie.fr/recette/macarons/recette-macaron-chocolat-lait-fruit-de-passion/</loc>
-  <lastmod>2026-08-12T16:54:36+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/macarons-chocolat-lait-fruit-passion_20171007_085826-017743141748017247823-scaled.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/07/photo-e1501168693134-275x275.jpeg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/09/tant-pour-tant-macarons_20160720_184542-e1474214504516-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/09/IMG_20151027_211804-275x204.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/09/IMG_20160720_190920-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/recette-macaron-pochage-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/09/recette-macaron-au-chocolat_20160720_194331-275x206.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/dessert/recette-sachertorte/</loc>
-  <lastmod>2026-08-12T16:44:26+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/10/recette-sachertorte-2.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2024/10/recette-sachertorte-1-275x275.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/IMG_20171004_211013-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/IMG_20171004_211029-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/IMG_20171004_211430-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/IMG_20171004_211838-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/IMG_20171004_212239-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/IMG_20171004_212740-275x206.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/cout-vie-wallis-et-futuna/</loc>
-  <lastmod>2026-08-12T08:09:00+00:00</lastmod>
   <loc>https://mapatisserie.fr/recette/classiques-faciles/canneles-bordelais/</loc>
-  <lastmod>2026-08-12T06:01:22+00:00</lastmod>
+  <lastmod>2026-08-13T21:23:27+00:00</lastmod>
   <image:image>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/09/canneles-bordelais-croute-caramelisee.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/09/canneles-bordelais-interieur-moelleux-275x275.webp</image:loc>
@@ -55,30 +42,22 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/09/canneles-bordelais-cuisson-cuivre-275x275.webp</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/09/canneles-bordelais-01-275x275.webp</image:loc>
   </image:image>
+  <loc>https://mapatisserie.fr/recette/macarons/recette-macaron-chocolat-lait-fruit-de-passion/</loc>
+  <lastmod>2026-08-13T21:20:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/macarons-chocolat-lait-fruit-passion_20171007_085826-017743141748017247823-scaled.jpeg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/10/macarons-chocolat-lait-fruit-passion_20171007_085747-018256099932713603541-275x275.jpeg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/07/photo-e1501168693134-275x275.jpeg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/09/tant-pour-tant-macarons_20160720_184542-e1474214504516-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/09/IMG_20151027_211804-275x204.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/09/IMG_20160720_190920-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/recette-macaron-pochage-275x206.jpg</image:loc>
+    <image:loc>https://mapatisserie.fr/wp-content/uploads/2016/09/recette-macaron-au-chocolat_20160720_194331-275x206.jpg</image:loc>
+  </image:image>
   <loc>https://mapatisserie.fr/recette/mousses/recette-mousse-chocolat-lait/</loc>
-  <lastmod>2026-08-11T20:18:06+00:00</lastmod>
+  <lastmod>2026-08-13T21:19:58+00:00</lastmod>
   <image:image>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/09/recette-mousse-chocolat-lait-IMG_20171005_213615.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/09/recette-mousse-chocolat-lait-IMG_20171005_213615-275x275.jpg</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/tartes/recette-tarte-fine-poires/</loc>
-  <lastmod>2026-08-11T20:16:27+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-poires-20181014_134537-01.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-poires-20181014_134548-01-275x275.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/10/recette-pate-feuilletee-maison-IMG_20160106_172202-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/10/recette-pate-feuilletee-maison-IMG_20160106_172649-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/10/recette-pate-feuilletee-maison-IMG_20160106_184428-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/10/recette-pate-feuilletee-maison-IMG_20160106_185114-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/10/recette-pate-feuilletee-maison-IMG_20160106_202156-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-aux-poires-20181014_092218-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-aux-poires-20181014_093533-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-aux-poires-20181014_093950-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-aux-poires-20181014_101137-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-aux-poires-20181014_101400-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-aux-poires-20181014_101615-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-aux-poires-20181014_105512-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-aux-poires-20181014_105641-275x206.jpg</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2018/11/tarte-fine-poires-20181014_134548-01-275x275.jpg</image:loc>
   </image:image>
 </data>
