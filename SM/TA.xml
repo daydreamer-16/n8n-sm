@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/how-coral-gables-put-ai-to-work/</loc>
+  <lastmod>2026-08-14T12:48:53+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/dreamstime_m_132253993.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/RRodulfo_Headshot_Medium.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/latin-americas-electric-bus-fleet-reaches-10000/</loc>
   <lastmod>2026-08-13T14:18:46+00:00</lastmod>
   <image:image>
@@ -48,10 +54,5 @@
   <lastmod>2026-08-06T13:10:31+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/08/Andrew-Savage-Economist-London-lg.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/raleigh-moves-ai-agents-into-city-services/</loc>
-  <lastmod>2026-08-05T13:56:11+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-08.53.14.png</image:loc>
   </image:image>
 </data>
