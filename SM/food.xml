@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/joue-de-porc-a-la-biere/</loc>
+  <lastmod>2026-08-16T09:59:58+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/08/output1-8.png</image:loc>
+  </image:image>
+  <loc>https://www.lateliergourmand.fr/visiter-turin-1-jour/</loc>
+  <lastmod>2026-08-16T08:49:00+00:00</lastmod>
   <loc>https://www.st-claire.eu/pico-do-arieiro-madere-randonnee</loc>
   <lastmod>2026-08-15T07:33:00+00:00</lastmod>
   <loc>https://www.st-claire.eu/blanquette-veau-grand-mere-recette</loc>
@@ -7,6 +14,8 @@
   <image:image>
     <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/08/infographie-blanquette-veau-grand-mere-recette.webp</image:loc>
   </image:image>
+  <loc>https://www.lateliergourmand.fr/potassium-aliments-eviter/</loc>
+  <lastmod>2026-08-15T03:09:11+00:00</lastmod>
   <loc>https://chefdodo.com/cookies-chocolat-recette/</loc>
   <lastmod>2026-08-14T10:00:13+01:00</lastmod>
   <image:image>
@@ -25,17 +34,5 @@
   <lastmod>2026-08-13T12:12:26+00:00</lastmod>
   <image:image>
     <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/08/aeroport-de-dubai-terminal-moderne-hall-principal.jpg</image:loc>
-  </image:image>
-  <loc>https://www.st-claire.eu/fausse-meduse-mediterranee-physalie-danger</loc>
-  <lastmod>2026-08-13T07:12:00+00:00</lastmod>
-  <loc>https://www.st-claire.eu/aeroport-madere-atterrissage-dangereux</loc>
-  <lastmod>2026-08-13T03:15:04+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/08/infographie-aeroport-madere-atterrissage-dangereux.webp</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/quartier-eviter-saint-nazaire/</loc>
-  <lastmod>2026-08-13T03:06:14+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/08/infographie-quartier-eviter-saint-nazaire.webp</image:loc>
   </image:image>
 </data>
