@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/shin-pei-tsay-named-boston-cio/</loc>
+  <lastmod>2026-08-15T14:23:35+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/0Y4A9268-2-scaled-1.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/how-coral-gables-put-ai-to-work/</loc>
   <lastmod>2026-08-14T12:48:53+00:00</lastmod>
   <image:image>
@@ -49,10 +54,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-08.43.56.png</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-08.40.33.png</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/lime-cuts-emissions-as-ridership-grows/</loc>
-  <lastmod>2026-08-06T13:10:31+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/Andrew-Savage-Economist-London-lg.jpg</image:loc>
   </image:image>
 </data>
