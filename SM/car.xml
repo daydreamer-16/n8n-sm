@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/location-courte-moyenne-ou-longue-duree-comment-choisir-selon-son-besoin/</loc>
+  <lastmod>2026-08-19T11:51:05+02:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/df06d245fb8fdb4eec0bdb8bc3111f03-1.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/395a8e80832308146873c560efcbd4ec-1.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/b6e8ce5207896b81e0cc7cb69f0677a8-1.jpeg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/08/8a77f94d8dcc738435816cb49572ea94-1.jpeg</image:loc>
+  </image:image>
   <loc>https://www.auto-mechanic-info.com/agera-koenigsegg-prix-combien-vaut-vraiment-ce-monstre-de-1-000-ch/</loc>
   <lastmod>2026-08-18T19:03:07+00:00</lastmod>
   <image:image>
@@ -11,6 +19,14 @@
   <lastmod>2026-08-18T15:37:06+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2024/06/markus-spiske-SexsfEv744M-unsplash.jpg</image:loc>
+  </image:image>
+  <loc>https://www.roadstr.fr/blog/</loc>
+  <loc>https://www.auto-actu.org/208-vti-pour-jeune-conducteur-bonne-idee-ou-risque-cache/</loc>
+  <lastmod>2026-08-18T22:43:09+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/jeune-conducteur-peugeot-208-vti-volant-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/jeune-femme-peugeot-208-vti-rue-residentielle-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-actu.org/wp-content/uploads/peugeot-208-vti-route-campagne-conduite-fr-scaled.webp</image:loc>
   </image:image>
   <loc>https://www.rideapart.com/news/805226/custom-yamaha-tmax-gets-mansory-custom-treatment/</loc>
   <lastmod>2026-08-18T13:39:00Z</lastmod>
@@ -27,15 +43,4 @@
   <loc>https://www.rideapart.com/features/805097/yoshimura-tornado-s1-auction-details-specs/</loc>
   <lastmod>2026-08-18T11:34:00Z</lastmod>
   <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/805020/kids-atv-recall-qeaset-hoverheart-xwa19/</loc>
-  <lastmod>2026-08-18T11:13:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/805013/triumph-tf-450-cylinder-head-recall/</loc>
-  <lastmod>2026-08-18T11:02:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.etoilecollections.fr/moteur-eco-g-120-fiabilite/</loc>
-  <lastmod>2026-08-16T17:26:08+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/08/moteur-eco-g-120-fiabilite.jpg</image:loc>
-  </image:image>
 </data>
