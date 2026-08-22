@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/tapas-espagnoles-recettes-authentiques/</loc>
+  <lastmod>2026-08-22T07:22:00+00:00</lastmod>
   <loc>https://chefdodo.com/lasagne-au-saumon-et-epinard/</loc>
   <lastmod>2026-08-21T10:00:13+01:00</lastmod>
   <image:image>
@@ -30,9 +32,4 @@
   </image:image>
   <loc>https://www.lateliergourmand.fr/aruba-dangereux-securite-voyage-conseils/</loc>
   <lastmod>2026-08-18T07:34:00+00:00</lastmod>
-  <loc>https://chefdodo.com/saucisse-de-morteau-lentilles/</loc>
-  <lastmod>2026-08-17T10:00:10+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/08/output1-9.png</image:loc>
-  </image:image>
 </data>
