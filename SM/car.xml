@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.auto-mechanic-info.com/hauteur-trafic-2-erreurs-frequentes-des-nouveaux-proprietaires-et-comment-les-eviter/</loc>
-  <lastmod>2026-08-22T08:21:27+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/proprietaire-analyse-donnees-trafic-bureau-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/proprietaire-plan-trafic-coworking-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/inspection-compteur-trafic-entree-commerce-fr-scaled.webp</image:loc>
-  </image:image>
+  <loc>https://www.rideapart.com/news/805584/sturgis-saw-a-25-decrease-in-crashes-this-year-while-drug-arrests-rose/</loc>
+  <lastmod>2026-08-22T11:24:00Z</lastmod>
+  <priority>0.5</priority>
   <loc>https://www.roadstr.fr/blog/articles/gordon-murray-s1-hommage-mclaren-f1/</loc>
   <lastmod>2026-08-21T16:00:00+02:00</lastmod>
   <image:image>
@@ -27,6 +23,13 @@
     <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-conversion-vitesse-mph-kph-bord-route-fr-scaled.webp</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/bureau-compteur-vitesse-conversion-mph-kph-fr-scaled.webp</image:loc>
   </image:image>
+  <loc>https://www.auto-mechanic-info.com/hauteur-trafic-2-erreurs-frequentes-des-nouveaux-proprietaires-et-comment-les-eviter/</loc>
+  <lastmod>2026-08-22T08:21:27+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/proprietaire-analyse-donnees-trafic-bureau-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/proprietaire-plan-trafic-coworking-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/inspection-compteur-trafic-entree-commerce-fr-scaled.webp</image:loc>
+  </image:image>
   <loc>https://www.auto-actu.org/avis-moteur-1-5-bluehdi-130-problemes-connus-et-solutions-possibles/</loc>
   <lastmod>2026-08-21T15:14:39+00:00</lastmod>
   <image:image>
@@ -46,8 +49,5 @@
   </image:image>
   <loc>https://www.rideapart.com/news/805626/livewire-slashes-one-motorcycle-price-by-over-half-ev/</loc>
   <lastmod>2026-08-21T12:47:00Z</lastmod>
-  <priority>0.5</priority>
-  <loc>https://www.rideapart.com/news/805340/yungblud-crashes-harley-davidson-and-breaks-leg-at-sturgis-rally/</loc>
-  <lastmod>2026-08-21T12:15:00Z</lastmod>
   <priority>0.5</priority>
 </data>
