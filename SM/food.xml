@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/tarte-pomme-compote/</loc>
+  <lastmod>2026-08-23T10:00:05+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/08/output1-12.png</image:loc>
+  </image:image>
+  <loc>https://www.st-claire.eu/recette-sauce-biggy-burger-maison</loc>
+  <lastmod>2026-08-23T05:52:00+00:00</lastmod>
+  <loc>https://www.lateliergourmand.fr/liberte-allaiter-routine-flexible/</loc>
+  <lastmod>2026-08-22T08:23:56+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/08/liberte-allaiter-routine-flexible-2.webp</image:loc>
+    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/08/liberte-allaiter-routine-flexible-3.webp</image:loc>
+  </image:image>
   <loc>https://www.lateliergourmand.fr/tapas-espagnoles-recettes-authentiques/</loc>
   <lastmod>2026-08-22T07:22:00+00:00</lastmod>
   <loc>https://chefdodo.com/lasagne-au-saumon-et-epinard/</loc>
@@ -20,16 +33,4 @@
   </image:image>
   <loc>https://www.st-claire.eu/animaux-dangereux-effrayants-fidji</loc>
   <lastmod>2026-08-19T06:07:00+00:00</lastmod>
-  <loc>https://gourmetbag.fr/pays-aucun-cours-eau/</loc>
-  <lastmod>2026-08-19T02:09:11+00:00</lastmod>
-  <image:image>
-    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/08/image-8.jpg</image:loc>
-  </image:image>
-  <loc>https://gourmetbag.fr/meilleure-bouteille-isotherme/</loc>
-  <lastmod>2026-08-18T08:46:30+00:00</lastmod>
-  <image:image>
-    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/08/image-6.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/aruba-dangereux-securite-voyage-conseils/</loc>
-  <lastmod>2026-08-18T07:34:00+00:00</lastmod>
 </data>
