@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/indianapolis-selects-new-technology-chief/</loc>
+  <lastmod>2026-09-01T12:39:34+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/kate-kotan.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/us-cities-offered-new-cybersecurity-support/</loc>
   <lastmod>2026-08-26T12:10:24+00:00</lastmod>
   <image:image>
@@ -48,10 +53,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/08/dreamstime_m_284573590.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/08/Image_20260811_134701_033.jpeg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/bolt-adds-ride-hailing-to-chatgpt/</loc>
-  <lastmod>2026-08-10T17:44:18+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/dreamstime_m_265587658.jpg</image:loc>
   </image:image>
 </data>
