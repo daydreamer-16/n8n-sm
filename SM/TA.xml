@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
   <loc>https://cities-today.com/indianapolis-selects-new-technology-chief/</loc>
-  <lastmod>2026-09-01T12:39:34+00:00</lastmod>
+  <lastmod>2026-09-03T15:12:42+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/09/kate-kotan.jpg</image:loc>
+  </image:image>
+  <loc>https://cities-today.com/how-kansas-citys-ai-agents-are-transforming-people-management/</loc>
+  <lastmod>2026-09-03T14:37:17+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/far-chinberdiev-OOkAJ6Am_4-unsplash.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/LB-headshot.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/D.-Schuman.png</image:loc>
+  </image:image>
+  <loc>https://cities-today.com/e-scooter-data-maps-wheelchair-accessibility/</loc>
+  <lastmod>2026-09-03T13:21:51+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/dreamstime_m_27695863.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-09.14.08.png</image:loc>
   </image:image>
   <loc>https://cities-today.com/us-cities-offered-new-cybersecurity-support/</loc>
   <lastmod>2026-08-26T12:10:24+00:00</lastmod>
@@ -41,17 +54,5 @@
   <lastmod>2026-08-17T10:13:52+00:00</lastmod>
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/08/0Y4A9268-2-scaled-1.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/how-coral-gables-put-ai-to-work/</loc>
-  <lastmod>2026-08-14T12:48:53+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/dreamstime_m_132253993.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/RRodulfo_Headshot_Medium.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/athens-barcelona-and-stockholm-advance-climate-action-with-ai/</loc>
-  <lastmod>2026-08-12T13:19:42+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/dreamstime_m_284573590.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/08/Image_20260811_134701_033.jpeg</image:loc>
   </image:image>
 </data>
