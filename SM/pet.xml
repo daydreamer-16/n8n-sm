@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202062/partent-acheter-tacos-reviennent-8-chats</loc>
+  <lastmod>2026-09-15T11:36:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-15T11:36:00+02:00</news:publication_date>
+    <news:title>Ils partent acheter des tacos et reviennent avec 8 chats</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/taco-et-ses-sept-chatons-recueillis-le-soir-meme-de-leur-naissance-6a9ac1584fe3c.jpg</image:loc>
+    <image:caption>Taco et ses sept chatons, recueillis le soir même de leur naissance</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/201935/abandonne-sac-transport-piste-cyclable-triste-sort-chat-bouleverse-toute-ville</loc>
   <lastmod>2026-09-15T09:32:00+02:00</lastmod>
   <news:news>
@@ -125,19 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/iscuit-la-chatte-au-nez-agrandi-par-une-infection-fongique-6a9ab5b810206.jpg</image:loc>
     <image:caption>iscuit, la chatte au nez agrandi par une infection fongique</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/201998/deux-personnes-deposent-mysterieux-sac-devant-refuge-sauveteurs-tremblent-louvrant-video</loc>
-  <lastmod>2026-09-14T07:07:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-14T07:07:00+02:00</news:publication_date>
-    <news:title>Deux personnes déposent un mystérieux sac devant le refuge : les sauveteurs tremblent en l'ouvrant</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/refuge-pour-animaux-6a9a7404e40ab.jpg</image:loc>
-    <image:caption>Refuge pour animaux&amp;nbsp;</image:caption>
   </image:image>
 </data>
