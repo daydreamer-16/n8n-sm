@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/201935/abandonne-sac-transport-piste-cyclable-triste-sort-chat-bouleverse-toute-ville</loc>
+  <lastmod>2026-09-15T09:32:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-15T09:32:00+02:00</news:publication_date>
+    <news:title>Abandonné dans un sac de transport sur une piste cyclable : le triste sort de ce chat bouleverse toute la ville</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/abandon-de-chat-6a97edf4a38d7.jpg</image:loc>
+    <image:caption>Abandon de chat&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/chats/conseils/181272/les-meilleurs-noms-de-chats-inspires-de-l-univers-disney</loc>
   <lastmod>2026-09-15T08:03:56+02:00</lastmod>
   <news:news>
@@ -125,19 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/refuge-pour-animaux-6a9a7404e40ab.jpg</image:loc>
     <image:caption>Refuge pour animaux&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202002/refusant-deuthanasier-chiot-bichon-maltais-veterinaire-prend-grande-decision-va-chambouler-vie</loc>
-  <lastmod>2026-09-13T18:23:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-13T18:23:00+02:00</news:publication_date>
-    <news:title>Refusant d'euthanasier un chiot bichon maltais, un vétérinaire prend une grande décision qui va chambouler sa vie</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chiot-bichon-maltais-6a9a8cc469bb1.jpg</image:loc>
-    <image:caption>Un chiot Bichon Maltais</image:caption>
   </image:image>
 </data>
