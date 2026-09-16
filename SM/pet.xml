@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202089/chien-jaune-tete-pattes-sauveteurs-pensent-halluciner-voyant-entrer-refuge</loc>
+  <lastmod>2026-09-16T18:33:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-16T18:33:00+02:00</news:publication_date>
+    <news:title>Ce chien est jaune de la tête aux pattes : les sauveteurs pensent halluciner en le voyant entrer au refuge</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-jaune-6a9e69febef8c.jpg</image:loc>
+    <image:caption>Un chien jaune&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202087/suit-chat-errant-decouvre-incroyable-secret-derriere-batiment-abandonne-video</loc>
+  <lastmod>2026-09-16T16:01:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-16T16:01:00+02:00</news:publication_date>
+    <news:title>Elle suit un chat errant et découvre son incroyable secret derrière un bâtiment abandonné</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-errant-6a9e62d56faf6.jpg</image:loc>
+    <image:caption>Un chat errant</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202114/incapables-dignorer-dizaine-chats-errants-jardin-prennent-decision-exemplaire</loc>
+  <lastmod>2026-09-16T14:15:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-16T14:15:00+02:00</news:publication_date>
+    <news:title>Incapables d'ignorer la dizaine de chats errants dans leur jardin, ils prennent une décision exemplaire</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chats-errants-dans-un-jardin-6a9e815756005.jpg</image:loc>
+    <image:caption>Des chats errants dans un jardin</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202117/ancienne-station-depuration-calais-transformee-devient-paradis-aquatique-chiens</loc>
   <lastmod>2026-09-16T11:36:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/pita-la-chienne-6a993ae8eaffc.jpg</image:loc>
     <image:caption>Pita la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202003/chienne-perdu-chiots-fait-5-rencontres-vont-tout-changer</loc>
-  <lastmod>2026-09-15T16:32:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-15T16:32:00+02:00</news:publication_date>
-    <news:title>Cette chienne a perdu ses chiots : elle fait 5 rencontres qui vont tout changer</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/annie-la-chienne-6a9a8ddc60cad.jpg</image:loc>
-    <image:caption>Annie la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202001/pleine-sortie-kayak-entend-cris-loin-quil-decouvre-leau-donne-sueurs-froides-video</loc>
-  <lastmod>2026-09-15T13:58:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-15T13:58:00+02:00</news:publication_date>
-    <news:title>En pleine sortie kayak, il entend des cris : ce qu’il découvre dans l’eau donne des sueurs froides</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sortie-kayak-6a9a866b9b6fe.jpg</image:loc>
-    <image:caption>Sortie kayak&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202062/partent-acheter-tacos-reviennent-8-chats</loc>
-  <lastmod>2026-09-15T11:36:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-15T11:36:00+02:00</news:publication_date>
-    <news:title>Ils partent acheter des tacos et reviennent avec 8 chats</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/taco-et-ses-sept-chatons-recueillis-le-soir-meme-de-leur-naissance-6a9ac1584fe3c.jpg</image:loc>
-    <image:caption>Taco et ses sept chatons, recueillis le soir même de leur naissance</image:caption>
   </image:image>
 </data>
