@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202117/ancienne-station-depuration-calais-transformee-devient-paradis-aquatique-chiens</loc>
+  <lastmod>2026-09-16T11:36:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-16T11:36:00+02:00</news:publication_date>
+    <news:title>Une ancienne station d'épuration du Pas-de-Calais est transformée : elle devient un paradis aquatique pour les chiens</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-qui-joue-dans-une-piscine-6a9e86060d67b.jpg</image:loc>
+    <image:caption>un chien qui joue dans une piscine</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202113/abandonne-sac-bord-dune-route-chat-recoit-travail-tres-special-part-maire</loc>
+  <lastmod>2026-09-16T09:28:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-16T09:28:00+02:00</news:publication_date>
+    <news:title>Abandonné dans un sac au bord d'une route, ce chat reçoit un travail très spécial de la part du maire</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-sur-un-bureau-6a9e807a899e8.jpg</image:loc>
+    <image:caption>Un chat sur un bureau</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseil/comment-brosser-les-dents-du-chien-473.html</loc>
+  <lastmod>2026-09-16T08:03:52+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2010-02-16T14:49:00+01:00</news:publication_date>
+    <news:title>Troubles urinaires nocturnes du chien</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/brosser-les-dents-chein-tartre-02.jpg</image:loc>
+    <image:caption>brosser les dents du chien tartre</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chats/conseil/cas-griffe-incarnee-chez-chat-16468.html</loc>
+  <lastmod>2026-09-16T08:03:51+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2019-11-15T16:00:00+01:00</news:publication_date>
+    <news:title>Que faire en cas de griffe incarnée chez le chat ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/griffe-incarnee-chat-644a82e7e6d53.jpg</image:loc>
+    <image:caption>une patte de chat avec une griffe incarnée</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/180391/mon-chien-peut-il-manger-des-noix-de-cajou</loc>
+  <lastmod>2026-09-16T08:03:51+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-07-22T11:41:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger des noix de cajou ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/hand-haelt-hund-cashewkerne-hin-64f6e6cc594b0.jpg</image:loc>
+    <image:caption>Les noix de cajou sont-elles toxiques pour mon chien ?</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202115/rentree-classes-chiens-repartent-garderie-internautes-sous-charme</loc>
+  <lastmod>2026-09-16T07:03:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-16T07:03:00+02:00</news:publication_date>
+    <news:title>Rentrée des classes : des chiens repartent à la garderie, les internautes sous le charme</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-6a9e827781e21.jpg</image:loc>
+    <image:caption>Golden Retriever</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/201989/toutou-choisi-maison-preferee-sait-parfaitement-comment-entrer-video</loc>
   <lastmod>2026-09-15T18:35:00+02:00</lastmod>
   <news:news>
@@ -55,89 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/taco-et-ses-sept-chatons-recueillis-le-soir-meme-de-leur-naissance-6a9ac1584fe3c.jpg</image:loc>
     <image:caption>Taco et ses sept chatons, recueillis le soir même de leur naissance</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/201935/abandonne-sac-transport-piste-cyclable-triste-sort-chat-bouleverse-toute-ville</loc>
-  <lastmod>2026-09-15T09:32:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-15T09:32:00+02:00</news:publication_date>
-    <news:title>Abandonné dans un sac de transport sur une piste cyclable : le triste sort de ce chat bouleverse toute la ville</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/abandon-de-chat-6a97edf4a38d7.jpg</image:loc>
-    <image:caption>Abandon de chat&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chats/conseils/181272/les-meilleurs-noms-de-chats-inspires-de-l-univers-disney</loc>
-  <lastmod>2026-09-15T08:03:56+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-12-17T14:57:00+01:00</news:publication_date>
-    <news:title>Les meilleurs noms de chats inspirés de l’univers Disney</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chatons-66c5e3dc5246f.jpg</image:loc>
-    <image:caption>Trouvez le nom de votre futur chat parmi les inspirations Disney</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chats/conseils/170490/mon-chat-peut-il-manger-des-oeufs-crus-cuits-ou-avec-la-coquille</loc>
-  <lastmod>2026-09-15T08:03:48+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2023-06-26T16:05:00+02:00</news:publication_date>
-    <news:title>Mon chat peut-il manger des oeufs ? Crus, cuits ou avec la coquille ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-avec-des-oeufs-64995abde1d82.jpg</image:loc>
-    <image:caption>Est-ce une bonne idée de donner des oeufs à son chat ?</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/201895/revait-dadopter-chien-petit-compagnon-transforme-athlete-gagne-jeux-olympiques-video</loc>
-  <lastmod>2026-09-15T07:01:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-15T07:01:00+02:00</news:publication_date>
-    <news:title>Elle rêvait d’adopter un chien : son petit compagnon se transforme en athlète et gagne les Jeux Olympiques (vidéo)</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-aquarium-6a97dd3098b77.jpg</image:loc>
-    <image:caption>Un aquarium&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202005/policier-decouvre-chiot-abandonne-aire-dautoroute-coup-foudre-capture-video</loc>
-  <lastmod>2026-09-14T18:34:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-14T18:34:00+02:00</news:publication_date>
-    <news:title>Un policier découvre un chiot abandonné sur une aire d'autoroute : leur coup de foudre est  capturé en vidéo</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-retrouve-dans-une-cage-6a9a92279907a.jpg</image:loc>
-    <image:caption>Chien retrouvé dans une cage</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/201987/86-chiens-2-chatons-sauves-dun-elevage-premier-reflexe-dit-long-passe</loc>
-  <lastmod>2026-09-14T16:28:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-14T16:28:00+02:00</news:publication_date>
-    <news:title>86 chiens et 2 chatons sauvés d'un élevage : leur premier réflexe en dit long sur leur passé</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-sauve-6a992309d7bda.jpg</image:loc>
-    <image:caption>Chien sauvé&amp;nbsp;</image:caption>
   </image:image>
 </data>
