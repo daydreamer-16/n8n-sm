@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202148/chiens-dassistance-demouvantes-retrouvailles-familles-daccueil-juste-avant-remise-diplomes</loc>
+  <lastmod>2026-09-17T11:28:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-17T11:28:00+02:00</news:publication_date>
+    <news:title>Chiens d'assistance : d'émouvantes retrouvailles avec leurs familles d'accueil juste avant la remise des diplômes</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6a9eb2669a9c9-6a9eb2669a9f6.jpg</image:loc>
+    <image:caption>Chiens d'assistance : d'émouvantes retrouvailles avec leurs familles d'accueil juste avant la remise des diplômes</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202102/chaton-tete-enorme-radio-revele-verite</loc>
+  <lastmod>2026-09-17T09:02:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-17T09:02:00+02:00</news:publication_date>
+    <news:title>Ce chaton a une tête énorme : la radio révèle la vérité</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/le-chaton-surnomme-megamind-a-cause-de-sa-tete-gonflee-a-rapidement-seduit-le-personnel-du-refuge-6a9e781fc4a9c.jpg</image:loc>
+    <image:caption>Le chaton, surnommé "Megamind" à cause de sa tête gonflée, a rapidement séduit le personnel du refuge</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseil/comment-brosser-les-dents-du-chien-473.html</loc>
+  <lastmod>2026-09-17T08:04:05+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2010-02-16T14:49:00+01:00</news:publication_date>
+    <news:title>Troubles urinaires nocturnes du chien</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/brosser-les-dents-chein-tartre-02.jpg</image:loc>
+    <image:caption>brosser les dents du chien tartre</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202078/facteur-sarrete-pres-dune-autoroute-decouverte-fosse-bouleverse-tournee-entiere</loc>
+  <lastmod>2026-09-17T07:15:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-17T07:15:00+02:00</news:publication_date>
+    <news:title>Le facteur s’arrête près d’une autoroute : sa découverte dans un fossé bouleverse toute sa tournée</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-fosse-pres-de-l-autoroute-6a9ac5be44626.jpg</image:loc>
+    <image:caption>Un fossé près de l'autoroute&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202089/chien-jaune-tete-pattes-sauveteurs-pensent-halluciner-voyant-entrer-refuge</loc>
   <lastmod>2026-09-16T18:33:00+02:00</lastmod>
   <news:news>
@@ -70,20 +126,6 @@
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-sur-un-bureau-6a9e807a899e8.jpg</image:loc>
     <image:caption>Un chat sur un bureau</image:caption>
   </image:image>
-  <loc>https://wamiz.com/chiens/conseil/comment-brosser-les-dents-du-chien-473.html</loc>
-  <lastmod>2026-09-16T08:03:52+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2010-02-16T14:49:00+01:00</news:publication_date>
-    <news:title>Troubles urinaires nocturnes du chien</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/brosser-les-dents-chein-tartre-02.jpg</image:loc>
-    <image:caption>brosser les dents du chien tartre</image:caption>
-  </image:image>
   <loc>https://wamiz.com/chats/conseil/cas-griffe-incarnee-chez-chat-16468.html</loc>
   <lastmod>2026-09-16T08:03:51+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/griffe-incarnee-chat-644a82e7e6d53.jpg</image:loc>
     <image:caption>une patte de chat avec une griffe incarnée</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/180391/mon-chien-peut-il-manger-des-noix-de-cajou</loc>
-  <lastmod>2026-09-16T08:03:51+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-07-22T11:41:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger des noix de cajou ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/hand-haelt-hund-cashewkerne-hin-64f6e6cc594b0.jpg</image:loc>
-    <image:caption>Les noix de cajou sont-elles toxiques pour mon chien ?</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202115/rentree-classes-chiens-repartent-garderie-internautes-sous-charme</loc>
-  <lastmod>2026-09-16T07:03:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-16T07:03:00+02:00</news:publication_date>
-    <news:title>Rentrée des classes : des chiens repartent à la garderie, les internautes sous le charme</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-6a9e827781e21.jpg</image:loc>
-    <image:caption>Golden Retriever</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/201989/toutou-choisi-maison-preferee-sait-parfaitement-comment-entrer-video</loc>
-  <lastmod>2026-09-15T18:35:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-15T18:35:00+02:00</news:publication_date>
-    <news:title>Cette chienne vient tapoter la porte des voisins tous les jours : elle a une raison précise</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/pita-la-chienne-6a993ae8eaffc.jpg</image:loc>
-    <image:caption>Pita la chienne&amp;nbsp;</image:caption>
   </image:image>
 </data>
