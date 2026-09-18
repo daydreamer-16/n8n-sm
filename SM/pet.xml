@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202172/famille-daccueil-sauve-7-chatons-ressemblance-pose-defi-inattendu-sauveteurs-video</loc>
+  <lastmod>2026-09-18T18:39:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-18T18:39:00+02:00</news:publication_date>
+    <news:title>Une famille d'accueil sauve 7 chatons : leur ressemblance pose un défi inattendu aux sauveteurs</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sept-chatons-roux-6a9fd13615384.jpg</image:loc>
+    <image:caption>Sept chatons roux&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202179/chat-retrouve-chariot-course-puce-revele-limpensable</loc>
+  <lastmod>2026-09-18T16:30:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-18T16:30:00+02:00</news:publication_date>
+    <news:title>Un chat est retrouvé dans un chariot de course : sa puce révèle l’impensable</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-abandonne-6aa012adaf92e.jpg</image:loc>
+    <image:caption>Chat abandonné</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202178/mere-atteinte-dun-cancer-affirme-personne-gardait-chien-refuse-rendre</loc>
+  <lastmod>2026-09-18T13:56:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-18T13:56:00+02:00</news:publication_date>
+    <news:title>Une mère atteinte d'un cancer affirme que la personne qui gardait son chien a refusé de le lui rendre</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-dans-les-bras-d-une-femme-6aa009923aea1.jpg</image:loc>
+    <image:caption>Un chien dans les bras d'une femme</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202522/lanimal-ville-revient-26-septembre-2026-boulogne-billancourt</loc>
+  <lastmod>2026-09-18T13:00:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-18T13:00:00+02:00</news:publication_date>
+    <news:title>« L’Animal en ville » revient le 26 septembre 2026 à Boulogne-Billancourt</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-et-chat-6aabbcd189e55.jpg</image:loc>
+    <image:caption>Un chien et chat</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202171/bruits-etranges-pres-dune-voiture-passager-clandestin-parcouru-120-km-cache-moteur-video</loc>
   <lastmod>2026-09-18T11:32:00+02:00</lastmod>
   <news:news>
@@ -83,61 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/la-chienne-jolie-6a9e77d04a3bf.jpg</image:loc>
     <image:caption>La chienne Jolie&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202509/voici-5-races-chats-preferees-francais-2025-selon-barometre-loof</loc>
-  <lastmod>2026-09-17T15:02:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-17T15:02:00+02:00</news:publication_date>
-    <news:title>Voici les 5 races de chats préférées des Français en 2025 selon le baromètre du LOOF</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-tigre-pres-d-une-fenetre-6aabb86a19e2c.jpg</image:loc>
-    <image:caption>un chat tigré près d'une fenêtre</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202090/toutou-refuse-quitter-lendroit-vu-humain-derniere-fois-sauveteuse-plus-tetue-video</loc>
-  <lastmod>2026-09-17T14:06:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-17T14:06:00+02:00</news:publication_date>
-    <news:title>Ce chien refuse de quitter l'endroit où il a vu son humain pour la dernière fois : sa sauveteuse est plus têtue que lui</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-abandonne-6a9e72a7c3bd2.jpg</image:loc>
-    <image:caption>Chien abandonné&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202148/chiens-dassistance-demouvantes-retrouvailles-familles-daccueil-juste-avant-remise-diplomes</loc>
-  <lastmod>2026-09-17T11:28:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-17T11:28:00+02:00</news:publication_date>
-    <news:title>Chiens d'assistance : d'émouvantes retrouvailles avec leurs familles d'accueil juste avant la remise des diplômes</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6a9eb2669a9c9-6a9eb2669a9f6.jpg</image:loc>
-    <image:caption>Chiens d'assistance : d'émouvantes retrouvailles avec leurs familles d'accueil juste avant la remise des diplômes</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202102/chaton-tete-enorme-radio-revele-verite</loc>
-  <lastmod>2026-09-17T09:02:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-17T09:02:00+02:00</news:publication_date>
-    <news:title>Ce chaton a une tête énorme : la radio révèle la vérité</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/le-chaton-surnomme-megamind-a-cause-de-sa-tete-gonflee-a-rapidement-seduit-le-personnel-du-refuge-6a9e781fc4a9c.jpg</image:loc>
-    <image:caption>Le chaton, surnommé "Megamind" à cause de sa tête gonflée, a rapidement séduit le personnel du refuge</image:caption>
   </image:image>
 </data>
