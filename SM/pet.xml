@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202183/lescapade-nocturne-chat-tourne-mal-pompiers-mal-croire-yeux</loc>
+  <lastmod>2026-09-19T10:57:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-19T10:57:00+02:00</news:publication_date>
+    <news:title>L'escapade nocturne de ce chat tourne mal : les pompiers ont du mal à en croire leurs yeux</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-pompiers-6aa10e6445d1a.jpg</image:loc>
+    <image:caption>Des pompiers&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202188/famille-daccueil-deux-chatons-passionnes-documentaires-true-crime</loc>
+  <lastmod>2026-09-19T08:35:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-19T08:35:00+02:00</news:publication_date>
+    <news:title>En famille d’accueil, ces deux chatons se sont passionnés pour des documentaires « True Crime »</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chats-6aa1238062f22.jpg</image:loc>
+    <image:caption>Chats</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202172/famille-daccueil-sauve-7-chatons-ressemblance-pose-defi-inattendu-sauveteurs-video</loc>
   <lastmod>2026-09-18T18:39:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/louie-le-canard-6a9fc0710fef8.jpg</image:loc>
     <image:caption>Louie le canard&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202563/michelle-barack-obama-deuil-annoncent-mort-chienne-sunny</loc>
-  <lastmod>2026-09-17T17:13:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-17T17:13:00+02:00</news:publication_date>
-    <news:title>Michelle et Barack Obama en deuil :  ils annoncent la mort de leur chienne Sunny</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sunny-obama-6aabdb7e4860b.jpg</image:loc>
-    <image:caption>Sunny Obama</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202101/pepite-refuge-sauveteurs-recherchent-solution-chien-senior-perdu-maitre-reperes</loc>
-  <lastmod>2026-09-17T16:06:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-17T16:06:00+02:00</news:publication_date>
-    <news:title>« La pépite du refuge » : les sauveteurs recherchent une solution pour ce chien senior qui a perdu son maître et ses repères</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/la-chienne-jolie-6a9e77d04a3bf.jpg</image:loc>
-    <image:caption>La chienne Jolie&amp;nbsp;</image:caption>
   </image:image>
 </data>
