@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202185/retraite-trouve-chat-hurlant-douleur-jardin-radiographie-revele-horreur-absolue</loc>
+  <lastmod>2026-09-20T10:34:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-20T10:34:00+02:00</news:publication_date>
+    <news:title>Un retraité trouve son chat hurlant de douleur dans le jardin : la radiographie révèle l'horreur absolue !</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/roentgenbild-eines-katzenkopfes-6aa11485aa3dd.jpg</image:loc>
+    <image:caption>Radiographie de la tête d'un chat</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202184/allemagne-promene-pres-voies-ferrees-trouve-panier-decouvre-double-surprise-tragique</loc>
+  <lastmod>2026-09-20T08:48:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-20T08:48:00+02:00</news:publication_date>
+    <news:title>Elle se promène près des voies ferrées, trouve un panier et découvre une double surprise tragique</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/passantin-entdeckt-einen-korb-am-bahndamm-6aa111a2d9cd3.jpg</image:loc>
+    <image:caption>Une passante découvre un panier près des voies ferrées</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179979/peut-on-aller-a-jardiland-avec-son-chien</loc>
+  <lastmod>2026-09-20T08:03:55+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-07-09T16:00:00+02:00</news:publication_date>
+    <news:title>Peut-on aller à Jardiland avec son chien ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/enseigne-jardiland-668bdfc53ce54.jpg</image:loc>
+    <image:caption>Emmener son chien à Jardiland, est-ce possible ?</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202186/apres-8-ans-fidelite-toutou-abandonne-retrouve-pire-liste-puisse-exister-video</loc>
   <lastmod>2026-09-19T19:35:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-abandonne-6aa012adaf92e.jpg</image:loc>
     <image:caption>Chat abandonné</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202178/mere-atteinte-dun-cancer-affirme-personne-gardait-chien-refuse-rendre</loc>
-  <lastmod>2026-09-18T13:56:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-18T13:56:00+02:00</news:publication_date>
-    <news:title>Une mère atteinte d'un cancer affirme que la personne qui gardait son chien a refusé de le lui rendre</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-dans-les-bras-d-une-femme-6aa009923aea1.jpg</image:loc>
-    <image:caption>Un chien dans les bras d'une femme</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202522/lanimal-ville-revient-26-septembre-2026-boulogne-billancourt</loc>
-  <lastmod>2026-09-18T13:00:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-18T13:00:00+02:00</news:publication_date>
-    <news:title>« L’Animal en ville » revient le 26 septembre 2026 à Boulogne-Billancourt</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-et-chat-6aabbcd189e55.jpg</image:loc>
-    <image:caption>Un chien et chat</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202171/bruits-etranges-pres-dune-voiture-passager-clandestin-parcouru-120-km-cache-moteur-video</loc>
-  <lastmod>2026-09-18T11:32:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-18T11:32:00+02:00</news:publication_date>
-    <news:title>Bruits étranges près d'une voiture : ce passager clandestin a parcouru 120 km caché dans le moteur</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/moteur-de-voiture-6a9fc85f474ac.jpg</image:loc>
-    <image:caption>Moteur de voiture&amp;nbsp;</image:caption>
   </image:image>
 </data>
