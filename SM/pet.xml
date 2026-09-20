@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202215/chat-ragdoll-choisit-endroit-improbable-allaiter-chatons-cest-trop-mignon</loc>
+  <lastmod>2026-09-20T19:23:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-20T19:23:00+02:00</news:publication_date>
+    <news:title>Un chat Ragdoll choisit un endroit improbable pour allaiter ses chatons (et c’est trop mignon)</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6aa1553fa3d34-6aa1553fa3d58.jpg</image:loc>
+    <image:caption>Un chat Ragdoll choisit un endroit improbable pour allaiter ses chatons (et c’est trop mignon)</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202187/decouvre-chaton-pres-bacs-dons-nouveau-prenom-emeut-216k-personnes-video</loc>
+  <lastmod>2026-09-20T16:58:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-20T16:58:00+02:00</news:publication_date>
+    <news:title>Elle découvre un chaton près des bacs de dons : son nouveau prénom émeut 216K personnes</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chaton-6aa120e54a94b.jpg</image:loc>
+    <image:caption>Un chaton&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202216/bloque-vegetation-depuis-48h-chien-retrouve-homme-deux-chez</loc>
+  <lastmod>2026-09-20T13:06:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-20T13:06:00+02:00</news:publication_date>
+    <news:title>Bloqué dans la végétation depuis 48h : un chien retrouve un homme à deux pas de chez lui</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-dans-les-hautes-herbes-6aa160227688e.jpg</image:loc>
+    <image:caption>un chien dans les hautes herbes</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202185/retraite-trouve-chat-hurlant-douleur-jardin-radiographie-revele-horreur-absolue</loc>
   <lastmod>2026-09-20T10:34:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-pompiers-6aa10e6445d1a.jpg</image:loc>
     <image:caption>Des pompiers&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202188/famille-daccueil-deux-chatons-passionnes-documentaires-true-crime</loc>
-  <lastmod>2026-09-19T08:35:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-19T08:35:00+02:00</news:publication_date>
-    <news:title>En famille d’accueil, ces deux chatons se sont passionnés pour des documentaires « True Crime »</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chats-6aa1238062f22.jpg</image:loc>
-    <image:caption>Chats</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202172/famille-daccueil-sauve-7-chatons-ressemblance-pose-defi-inattendu-sauveteurs-video</loc>
-  <lastmod>2026-09-18T18:39:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-18T18:39:00+02:00</news:publication_date>
-    <news:title>Une famille d'accueil sauve 7 chatons : leur ressemblance pose un défi inattendu aux sauveteurs</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sept-chatons-roux-6a9fd13615384.jpg</image:loc>
-    <image:caption>Sept chatons roux&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202179/chat-retrouve-chariot-course-puce-revele-limpensable</loc>
-  <lastmod>2026-09-18T16:30:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-18T16:30:00+02:00</news:publication_date>
-    <news:title>Un chat est retrouvé dans un chariot de course : sa puce révèle l’impensable</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-abandonne-6aa012adaf92e.jpg</image:loc>
-    <image:caption>Chat abandonné</image:caption>
   </image:image>
 </data>
