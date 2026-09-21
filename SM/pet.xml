@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202301/nourrit-famille-chats-jardin-terrible-piege-menace-chaton-glace-sang</loc>
+  <lastmod>2026-09-21T18:24:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-21T18:24:00+02:00</news:publication_date>
+    <news:title>Il nourrit une famille de chats dans son jardin : le terrible piège qui menace le chaton lui glace le sang</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/famille-de-chats-6aa3adcd7372a.jpg</image:loc>
+    <image:caption>Famille de chats&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202311/chat-tombe-malade-repetition-veterinaire-trouve-35-objets-estomac</loc>
+  <lastmod>2026-09-21T16:04:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-21T16:04:00+02:00</news:publication_date>
+    <news:title>Un chat tombe malade à répétition :  le vétérinaire trouve 35 objets dans son estomac</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/louie-le-chat-qui-cachait-une-etonnante-collection-d-elastiques-a-cheveux-dans-son-estomac-6aa3bb612f967.jpg</image:loc>
+    <image:caption>Louie, le chat qui cachait une étonnante collection d'élastiques à cheveux dans son estomac.</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202239/decouvre-bouteille-deau-mot-lallee-maison-faut-longtemps-resoudre-mystere</loc>
+  <lastmod>2026-09-21T13:34:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-21T13:34:00+02:00</news:publication_date>
+    <news:title>Elle découvre une bouteille d'eau et un mot : il ne lui faut pas longtemps pour résoudre ce mystère</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bouteille-d-eau-et-mot-6aa2725f8ffd4.jpg</image:loc>
+    <image:caption>Bouteille d'eau et mot&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202238/automobiliste-alertee-ombre-choquee-sapprochant</loc>
   <lastmod>2026-09-21T11:41:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-dans-les-hautes-herbes-6aa160227688e.jpg</image:loc>
     <image:caption>un chien dans les hautes herbes</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202185/retraite-trouve-chat-hurlant-douleur-jardin-radiographie-revele-horreur-absolue</loc>
-  <lastmod>2026-09-20T10:34:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-20T10:34:00+02:00</news:publication_date>
-    <news:title>Un retraité trouve son chat hurlant de douleur dans le jardin : la radiographie révèle l'horreur absolue !</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/roentgenbild-eines-katzenkopfes-6aa11485aa3dd.jpg</image:loc>
-    <image:caption>Radiographie de la tête d'un chat</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202184/allemagne-promene-pres-voies-ferrees-trouve-panier-decouvre-double-surprise-tragique</loc>
-  <lastmod>2026-09-20T08:48:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-20T08:48:00+02:00</news:publication_date>
-    <news:title>Elle se promène près des voies ferrées, trouve un panier et découvre une double surprise tragique</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/passantin-entdeckt-einen-korb-am-bahndamm-6aa111a2d9cd3.jpg</image:loc>
-    <image:caption>Une passante découvre un panier près des voies ferrées</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179979/peut-on-aller-a-jardiland-avec-son-chien</loc>
-  <lastmod>2026-09-20T08:03:55+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-07-09T16:00:00+02:00</news:publication_date>
-    <news:title>Peut-on aller à Jardiland avec son chien ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/enseigne-jardiland-668bdfc53ce54.jpg</image:loc>
-    <image:caption>Emmener son chien à Jardiland, est-ce possible ?</image:caption>
   </image:image>
 </data>
