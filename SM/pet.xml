@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202312/chien-refuge-sattache-instantanement-humains-personne-veut-donner-chance-raison-triste</loc>
+  <lastmod>2026-09-22T11:05:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-22T11:05:00+02:00</news:publication_date>
+    <news:title>Ce chien de refuge s’attache instantanément aux humains, mais personne ne veut lui donner sa chance pour une raison triste</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/macey-la-chienne-6aa3bbd2e5bb2.jpg</image:loc>
+    <image:caption>Macey la chienne&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202309/chat-oreilles-ecrasees-secouru-profil-atypique-va-chambouler-sauveteurs</loc>
+  <lastmod>2026-09-22T09:42:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-22T09:42:00+02:00</news:publication_date>
+    <news:title>Un chat aux oreilles écrasées est secouru : son profil atypique va chambouler les sauveteurs</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-aux-oreilles-couchees-6aa3ba040bbd8.jpg</image:loc>
+    <image:caption>Chat aux oreilles couchées</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202303/sauveteur-arrive-refuge-forme-sous-panneau-rien-deposer-fait-mauvaise-blague-video</loc>
+  <lastmod>2026-09-22T07:48:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-22T07:48:00+02:00</news:publication_date>
+    <news:title>Le sauveteur arrive au refuge : la forme sous le panneau « Ne rien pas déposer ici » lui fait une mauvaise blague</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/grille-de-refuge-6aa3b667b87a0.jpg</image:loc>
+    <image:caption>Grille de refuge&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202301/nourrit-famille-chats-jardin-terrible-piege-menace-chaton-glace-sang</loc>
   <lastmod>2026-09-21T18:24:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/panier-a-linge-6aa2634257c18.jpg</image:loc>
     <image:caption>Panier à linge&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202215/chat-ragdoll-choisit-endroit-improbable-allaiter-chatons-cest-trop-mignon</loc>
-  <lastmod>2026-09-20T19:23:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-20T19:23:00+02:00</news:publication_date>
-    <news:title>Un chat Ragdoll choisit un endroit improbable pour allaiter ses chatons (et c’est trop mignon)</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6aa1553fa3d34-6aa1553fa3d58.jpg</image:loc>
-    <image:caption>Un chat Ragdoll choisit un endroit improbable pour allaiter ses chatons (et c’est trop mignon)</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202187/decouvre-chaton-pres-bacs-dons-nouveau-prenom-emeut-216k-personnes-video</loc>
-  <lastmod>2026-09-20T16:58:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-20T16:58:00+02:00</news:publication_date>
-    <news:title>Elle découvre un chaton près des bacs de dons : son nouveau prénom émeut 216K personnes</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chaton-6aa120e54a94b.jpg</image:loc>
-    <image:caption>Un chaton&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202216/bloque-vegetation-depuis-48h-chien-retrouve-homme-deux-chez</loc>
-  <lastmod>2026-09-20T13:06:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-20T13:06:00+02:00</news:publication_date>
-    <news:title>Bloqué dans la végétation depuis 48h : un chien retrouve un homme à deux pas de chez lui</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-dans-les-hautes-herbes-6aa160227688e.jpg</image:loc>
-    <image:caption>un chien dans les hautes herbes</image:caption>
   </image:image>
 </data>
