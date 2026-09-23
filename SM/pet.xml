@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202234/lancement-controle-geant-aucun-foyer-echappera-verifications-prochaines-semaines</loc>
+  <lastmod>2026-09-23T11:32:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-23T11:32:00+02:00</news:publication_date>
+    <news:title>Lancement d'un contrôle géant : aucun foyer n'échappera aux vérifications dans les prochaines semaines !</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/zwei-kontrolleure-an-der-haustuer-6aa25d2302048.jpg</image:loc>
+    <image:caption>Deux contrôleurs devant une porte d'entrée</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202240/font-adieux-chat-19-ans-1-an-demi-plus-tard-verite-siderante-video</loc>
+  <lastmod>2026-09-23T09:28:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-23T09:28:00+02:00</news:publication_date>
+    <news:title>Ils font leurs adieux à leur chat de 19 ans : 1 an et demi plus tard la vérité est sidérante</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/annie-la-chatte-6aa2799d8c5bf.jpg</image:loc>
+    <image:caption>Annie la chatte&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202241/cest-exactement-veux-chat-atypique-attire-regards-internautes</loc>
+  <lastmod>2026-09-23T06:57:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-23T06:57:00+02:00</news:publication_date>
+    <news:title>« C'est exactement lui que je veux » : un chat atypique attire les regards des internautes</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-roux-6aa281966b70a.jpg</image:loc>
+    <image:caption>Chat roux&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202462/bloque-vegetation-depuis-48h-chien-retrouve-homme-deux-chez</loc>
   <lastmod>2026-09-22T18:07:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/grille-de-refuge-6aa3b667b87a0.jpg</image:loc>
     <image:caption>Grille de refuge&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202301/nourrit-famille-chats-jardin-terrible-piege-menace-chaton-glace-sang</loc>
-  <lastmod>2026-09-21T18:24:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-21T18:24:00+02:00</news:publication_date>
-    <news:title>Il nourrit une famille de chats dans son jardin : le terrible piège qui menace le chaton lui glace le sang</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/famille-de-chats-6aa3adcd7372a.jpg</image:loc>
-    <image:caption>Famille de chats&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202311/chat-tombe-malade-repetition-veterinaire-trouve-35-objets-estomac</loc>
-  <lastmod>2026-09-21T16:04:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-21T16:04:00+02:00</news:publication_date>
-    <news:title>Un chat tombe malade à répétition :  le vétérinaire trouve 35 objets dans son estomac</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/louie-le-chat-qui-cachait-une-etonnante-collection-d-elastiques-a-cheveux-dans-son-estomac-6aa3bb612f967.jpg</image:loc>
-    <image:caption>Louie, le chat qui cachait une étonnante collection d'élastiques à cheveux dans son estomac.</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202239/decouvre-bouteille-deau-mot-lallee-maison-faut-longtemps-resoudre-mystere</loc>
-  <lastmod>2026-09-21T13:34:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-21T13:34:00+02:00</news:publication_date>
-    <news:title>Elle découvre une bouteille d'eau et un mot : il ne lui faut pas longtemps pour résoudre ce mystère</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bouteille-d-eau-et-mot-6aa2725f8ffd4.jpg</image:loc>
-    <image:caption>Bouteille d'eau et mot&amp;nbsp;</image:caption>
   </image:image>
 </data>
