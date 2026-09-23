@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202302/automne-pourquoi-veterinaires-recommandent-verifier-pattes-chien-apres-chaque-balade</loc>
+  <lastmod>2026-09-23T18:40:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-23T18:40:00+02:00</news:publication_date>
+    <news:title>Automne : pourquoi les vétérinaires recommandent de vérifier les pattes de votre chien après chaque balade</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/apres-chaque-promenade-automnale-un-rapide-controle-des-pattes-peut-eviter-bien-des-complications-6aa3b1e0a72dd.jpg</image:loc>
+    <image:caption>Après chaque promenade automnale, un rapide contrôle des pattes peut éviter bien des complications.</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202244/quand-chats-parlent-secrets-scientifiques-miaulements</loc>
+  <lastmod>2026-09-23T17:09:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-23T17:09:00+02:00</news:publication_date>
+    <news:title>Le miaulement du chat utilise la fréquence des pleurs de bébé pour agir sur le cerveau</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-et-son-humain-6aa2a1bf8ea60.jpg</image:loc>
+    <image:caption>Un chat et son humain</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202814/automne-si-profitiez-30-secondes-verifier-peau-chien</loc>
+  <lastmod>2026-09-23T16:05:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-23T16:05:00+02:00</news:publication_date>
+    <news:title>Automne : et si vous profitiez de 30 secondes pour vérifier la peau de votre chien ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-en-automne-6ab3d7d146e61.jpg</image:loc>
+    <image:caption>Chien en automne</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202774/age-2-mois-demi-petit-berger-entame-destin-hors-commun-rejoint-pompiers</loc>
+  <lastmod>2026-09-23T15:10:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-23T15:10:00+02:00</news:publication_date>
+    <news:title>Âgé de 2 mois et demi, ce petit berger entame un destin hors du commun : il rejoint les pompiers</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6ab2389dd99e7-6ab2389dd9a14.jpg</image:loc>
+    <image:caption>Âgé de 2 mois et demi, ce petit berger entame un destin hors du commun : il rejoint les pompiers</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202233/beurre-savon-suffi-intervention-plusieurs-heures-sauver-chien-allemagne</loc>
+  <lastmod>2026-09-23T13:23:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-23T13:23:00+02:00</news:publication_date>
+    <news:title>Beurre et savon n'ont pas suffi : une intervention de plusieurs heures pour sauver un chien en Allemagne</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/feuerwehr-rettet-hund-aus-zaun-6aa25aec64b19.jpg</image:loc>
+    <image:caption>Les pompiers sauvent un chien coincé dans un portail</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202234/lancement-controle-geant-aucun-foyer-echappera-verifications-prochaines-semaines</loc>
   <lastmod>2026-09-23T11:32:00+02:00</lastmod>
   <news:news>
@@ -69,75 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-apeure-6aa3c12834e46.jpg</image:loc>
     <image:caption>Chien apeuré&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202657/brad-pitt-vie-tout-simplement-meilleure-chien</loc>
-  <lastmod>2026-09-22T15:13:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-22T15:13:00+02:00</news:publication_date>
-    <news:title>Brad Pitt : « la vie est tout simplement meilleure avec un chien »</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/brad-pitt-heart-of-beast-6ab0f6b9bacad.jpg</image:loc>
-    <image:caption>Brad Pitt «&amp;nbsp;Heart of Beast&amp;nbsp;»</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202323/pendant-randonnee-sauvent-chaton-abandonne-quelques-heures-plus-tard-realisent-enorme-erreur</loc>
-  <lastmod>2026-09-22T13:43:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-22T13:43:00+02:00</news:publication_date>
-    <news:title>Pendant leur randonnée, ils sauvent un chaton abandonné : quelques heures plus tard, ils réalisent leur énorme erreur</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chaton-6aa3c00d1fa96.jpg</image:loc>
-    <image:caption>Un chaton&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202312/chien-refuge-sattache-instantanement-humains-personne-veut-donner-chance-raison-triste</loc>
-  <lastmod>2026-09-22T11:05:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-22T11:05:00+02:00</news:publication_date>
-    <news:title>Ce chien de refuge s’attache instantanément aux humains, mais personne ne veut lui donner sa chance pour une raison triste</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/macey-la-chienne-6aa3bbd2e5bb2.jpg</image:loc>
-    <image:caption>Macey la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202309/chat-oreilles-ecrasees-secouru-profil-atypique-va-chambouler-sauveteurs</loc>
-  <lastmod>2026-09-22T09:42:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-22T09:42:00+02:00</news:publication_date>
-    <news:title>Un chat aux oreilles écrasées est secouru : son profil atypique va chambouler les sauveteurs</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-aux-oreilles-couchees-6aa3ba040bbd8.jpg</image:loc>
-    <image:caption>Chat aux oreilles couchées</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202303/sauveteur-arrive-refuge-forme-sous-panneau-rien-deposer-fait-mauvaise-blague-video</loc>
-  <lastmod>2026-09-22T07:48:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-22T07:48:00+02:00</news:publication_date>
-    <news:title>Le sauveteur arrive au refuge : la forme sous le panneau « Ne rien pas déposer ici » lui fait une mauvaise blague</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/grille-de-refuge-6aa3b667b87a0.jpg</image:loc>
-    <image:caption>Grille de refuge&amp;nbsp;</image:caption>
   </image:image>
 </data>
