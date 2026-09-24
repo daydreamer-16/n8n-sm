@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202435/cest-delinquante-connue-chienne-fait-tourner-bourrique-pension-animaux-cest-tres-drole</loc>
+  <lastmod>2026-09-24T11:21:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-24T11:21:00+02:00</news:publication_date>
+    <news:title>« C'est une délinquante connue  » : une chienne fait tourner en bourrique une pension pour animaux (et c’est très drôle)</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-chienne-a-fait-evader-d-autres-chiens-d-une-garderie-6aa7b368b0864.jpg</image:loc>
+    <image:caption>Une chienne a fait évader d'autres chiens d'une garderie</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202433/nounou-part-promenade-deux-chiens-secret-ecourter-balade-fait-rire-25-2k-internautes-video</loc>
+  <lastmod>2026-09-24T09:12:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-24T09:12:00+02:00</news:publication_date>
+    <news:title>Ces deux Teckels feignent l'épuisement dehors : une simple phrase de leur promeneuse les démasque</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/deux-chiens-teckels-6aa7adfec9edc.jpg</image:loc>
+    <image:caption>Deux chiens Teckels&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202430/pleine-campagne-veterinaire-entend-cris-sortir-dun-trou-sauve-chiot-piege</loc>
+  <lastmod>2026-09-24T06:41:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-24T06:41:00+02:00</news:publication_date>
+    <news:title>En pleine campagne, une vétérinaire entend des cris sortir d'un trou et sauve un chiot piégé</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/le-trou-dans-lequel-se-trouvait-le-chien-6aa7a78435b2b.jpg</image:loc>
+    <image:caption>Le trou dans lequel se trouvait le chien</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202302/automne-pourquoi-veterinaires-recommandent-verifier-pattes-chien-apres-chaque-balade</loc>
   <lastmod>2026-09-23T18:40:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/annie-la-chatte-6aa2799d8c5bf.jpg</image:loc>
     <image:caption>Annie la chatte&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202241/cest-exactement-veux-chat-atypique-attire-regards-internautes</loc>
-  <lastmod>2026-09-23T06:57:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-23T06:57:00+02:00</news:publication_date>
-    <news:title>« C'est exactement lui que je veux » : un chat atypique attire les regards des internautes</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-roux-6aa281966b70a.jpg</image:loc>
-    <image:caption>Chat roux&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202462/bloque-vegetation-depuis-48h-chien-retrouve-homme-deux-chez</loc>
-  <lastmod>2026-09-22T18:07:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-22T18:07:00+02:00</news:publication_date>
-    <news:title>Bloqué dans la végétation depuis 48h : un chien retrouve un homme à deux pas de chez lui</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-cherche-la-piste-d-un-homme-perdu-6aa7e5a3a67cc.jpg</image:loc>
-    <image:caption>un chien cherche la piste d'un homme perdu</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202329/chienne-apeuree-arrive-refuge-agent-fait-possible-venir-aide</loc>
-  <lastmod>2026-09-22T16:27:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-22T16:27:00+02:00</news:publication_date>
-    <news:title>Une chienne apeurée arrive au refuge : un agent fait son possible pour lui venir en aide</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-apeure-6aa3c12834e46.jpg</image:loc>
-    <image:caption>Chien apeuré&amp;nbsp;</image:caption>
   </image:image>
 </data>
