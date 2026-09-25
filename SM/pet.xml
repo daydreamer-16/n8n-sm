@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202429/cinq-chatons-abandonnes-arrivent-refuge-detail-bouleverse-soigneurs-video</loc>
+  <lastmod>2026-09-25T11:04:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-25T11:04:00+02:00</news:publication_date>
+    <news:title>Cinq chatons abandonnés arrivent au refuge : un détail bouleverse les sauveteurs</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/cinq-chatons-6aa7a17d02318.jpg</image:loc>
+    <image:caption>Cinq chatons&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202464/minuscule-chaton-trouve-carton-mois-plus-tard-mene-vie-dure-copain-chien</loc>
+  <lastmod>2026-09-25T09:32:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-25T09:32:00+02:00</news:publication_date>
+    <news:title>Un minuscule chaton est trouvé dans un carton : des mois plus tard, il mène la vie dure à son copain chien</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-petit-chaton-6aa7f07804ee8.jpg</image:loc>
+    <image:caption>Un petit chaton</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202463/chien-glisse-sous-canape-salon-5-minutes-plus-tard-pompiers-doivent-intervenir</loc>
+  <lastmod>2026-09-25T07:04:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-25T07:04:00+02:00</news:publication_date>
+    <news:title>Un chien se glisse sous le canapé du salon : 5 minutes plus tard, les pompiers doivent intervenir</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-devant-un-canape-6aa7e714c0599.jpg</image:loc>
+    <image:caption>un chien devant un canapé</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202507/chiot-3-mois-demi-integre-rangs-police-nouveaux-equipiers-sous-charme</loc>
   <lastmod>2026-09-24T18:41:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/le-trou-dans-lequel-se-trouvait-le-chien-6aa7a78435b2b.jpg</image:loc>
     <image:caption>Le trou dans lequel se trouvait le chien</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202302/automne-pourquoi-veterinaires-recommandent-verifier-pattes-chien-apres-chaque-balade</loc>
-  <lastmod>2026-09-23T18:40:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-23T18:40:00+02:00</news:publication_date>
-    <news:title>Automne : pourquoi les vétérinaires recommandent de vérifier les pattes de votre chien après chaque balade</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/apres-chaque-promenade-automnale-un-rapide-controle-des-pattes-peut-eviter-bien-des-complications-6aa3b1e0a72dd.jpg</image:loc>
-    <image:caption>Après chaque promenade automnale, un rapide contrôle des pattes peut éviter bien des complications.</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202244/quand-chats-parlent-secrets-scientifiques-miaulements</loc>
-  <lastmod>2026-09-23T17:09:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-23T17:09:00+02:00</news:publication_date>
-    <news:title>Le miaulement du chat utilise la fréquence des pleurs de bébé pour agir sur le cerveau</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-et-son-humain-6aa2a1bf8ea60.jpg</image:loc>
-    <image:caption>Un chat et son humain</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202814/automne-si-profitiez-30-secondes-verifier-peau-chien</loc>
-  <lastmod>2026-09-23T16:05:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-23T16:05:00+02:00</news:publication_date>
-    <news:title>Automne : et si vous profitiez de 30 secondes pour vérifier la peau de votre chien ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-en-automne-6ab3d7d146e61.jpg</image:loc>
-    <image:caption>Chien en automne</image:caption>
   </image:image>
 </data>
