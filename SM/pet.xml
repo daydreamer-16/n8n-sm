@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202489/actrice-annonce-mort-subite-chien-internautes-sous-choc</loc>
+  <lastmod>2026-09-27T11:11:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-27T11:11:00+02:00</news:publication_date>
+    <news:title>Une actrice annonce la mort subite de son chien : les internautes sont sous le choc</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/le-chien-d-ireland-baldwin-6aaa96bfd2648.jpg</image:loc>
+    <image:caption>Le chien d'Ireland Baldwin</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202484/maman-chienne-deja-6-chiots-proteger-geste-envers-chiot-errant-bouleversant-video</loc>
+  <lastmod>2026-09-27T08:37:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-27T08:37:00+02:00</news:publication_date>
+    <news:title>Cette maman chien avait déjà 6 petits à protéger : son geste envers ce chiot errant est bouleversant</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/famille-de-chiens-6aaa5125a02ec.jpg</image:loc>
+    <image:caption>Famille de chiens&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202889/parcourt-620-km-velo-chienne-remorque-surprendre-grand-pere</loc>
   <lastmod>2026-09-26T20:03:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-vieille-caravane-sur-un-terrain-6aa7b3dc877cc.jpg</image:loc>
     <image:caption>Une vieille caravane sur un terrain</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202431/pensait-faire-sortie-tranquille-bois-10-paires-dyeux-braquent-video</loc>
-  <lastmod>2026-09-25T15:53:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-25T15:53:00+02:00</news:publication_date>
-    <news:title>Elle pensait faire une sortie tranquille dans les bois : 10 paires d'yeux se braquent sur elle (vidéo)</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/voiture-dans-les-bois-6aa7a81f66e22.jpg</image:loc>
-    <image:caption>Voiture dans les bois&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202432/police-limmigration-arrete-famille-chienne-risque-leuthanasie-etats-unis</loc>
-  <lastmod>2026-09-25T13:36:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-25T13:36:00+02:00</news:publication_date>
-    <news:title>La police de l’immigration arrête sa famille : une chienne risque l’euthanasie aux Etats-Unis</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-chienne-abandonnee-6aa7a84631e26.jpg</image:loc>
-    <image:caption>Une chienne abandonnée</image:caption>
   </image:image>
 </data>
