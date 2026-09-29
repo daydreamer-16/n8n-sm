@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202508/affiches-recompense-appel-anonyme-chaton-vole-coeur-dune-chasse-lhomme</loc>
+  <lastmod>2026-09-29T18:07:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-29T18:07:00+02:00</news:publication_date>
+    <news:title>Affiches, récompense et appel anonyme : un chaton volé au coeur d’une chasse à l’homme</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-dans-une-epicerie-6aabb846c80ec.jpg</image:loc>
+    <image:caption>Chat dans une épicerie&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202499/cambrioleur-sintroduit-maison-comportement-chien-laisse-tout-monde-voix-video</loc>
+  <lastmod>2026-09-29T16:25:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-29T16:25:00+02:00</news:publication_date>
+    <news:title>Ce Golden Retriever de 41 kg croise un cambrioleur chez lui : il lui apporte son jouet</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/nash-le-golden-retriever-6aaba4357aa50.jpg</image:loc>
+    <image:caption>Nash le Golden Retriever&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202498/pensions-recevait-injection-allergies-erreur-irreversible-bouleverse-tout-video</loc>
+  <lastmod>2026-09-29T13:59:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-29T13:59:00+02:00</news:publication_date>
+    <news:title>« Nous pensions qu’elle recevait une injection pour ses allergies » : une erreur irréversible bouleverse tout</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/lilly-la-chienne-6aab9b395c461.jpg</image:loc>
+    <image:caption>Lilly la chienne&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202475/chien-disparait-pendant-2-jours-pompiers-trouvent-piste-60-cm-sous-terre-video</loc>
   <lastmod>2026-09-29T11:34:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jeu-de-l-ete-wamiz-6ab3ce4bdb654.jpg</image:loc>
     <image:caption>Jeu de l'été wamiz</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202976/woofest-nice-2026-10-11-octobre-cite-anges-prepare-week-end-completement-wouf</loc>
-  <lastmod>2026-09-28T14:59:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-28T14:59:00+02:00</news:publication_date>
-    <news:title>Woofest Nice 2026 : les 10 et 11 octobre, la cité des Anges se prépare à un week-end complètement wouf</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/woofest-6aba16843b132.jpg</image:loc>
-    <image:caption>Woofest</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202500/tente-prendre-bain-moment-detente-interrompu-golden-retriever</loc>
-  <lastmod>2026-09-28T14:09:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-28T14:09:00+02:00</news:publication_date>
-    <news:title>Elle tente de prendre un bain : son moment de détente est interrompu par son Golden Retriever</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-golden-retriever-va-dans-l-eau-6aaba6e2e2760.jpg</image:loc>
-    <image:caption>Un Golden Retriever va dans l'eau&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202483/chat-errant-retrouve-malade-rue-famille-ignore-tous-appels-refuge-video</loc>
-  <lastmod>2026-09-28T11:10:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-28T11:10:00+02:00</news:publication_date>
-    <news:title>Chat errant retrouvé malade dans la rue : sa famille ignore tous les appels du refuge</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/ciao-le-chat-6aaa4bcdee9ca.jpg</image:loc>
-    <image:caption>Ciao le chat&amp;nbsp;</image:caption>
   </image:image>
 </data>
