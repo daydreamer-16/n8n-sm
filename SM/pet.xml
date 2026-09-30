@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202626/entend-bruit-etrange-magasin-message-redige-carton-fait-courir-urgence</loc>
+  <lastmod>2026-09-30T18:12:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-30T18:12:00+02:00</news:publication_date>
+    <news:title>Elle entend un bruit étrange dans un magasin : le message rédigé sur un carton la fait courir en urgence</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-cartons-6aad01a95ddc5.jpg</image:loc>
+    <image:caption>Des cartons&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203124/40-chiens-sattablent-cour-dun-grand-musee-celebre-chef-etoile-dresse-couvert</loc>
+  <lastmod>2026-09-30T16:31:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-30T16:31:00+02:00</news:publication_date>
+    <news:title>40 chiens s'attablent dans la cour d'un grand musée : un célèbre chef étoilé leur dresse le couvert</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chiens-prets-a-se-regaler-6abcfb02a7a3a.jpg</image:loc>
+    <image:caption>des chiens prêts à se régaler</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202625/chat-11-ans-enfin-vaincu-cancer-habitants-quartier-creent-cadeau-original-jardin</loc>
+  <lastmod>2026-09-30T15:35:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-30T15:35:00+02:00</news:publication_date>
+    <news:title>Ce chat de 11 ans a vaincu son cancer : les habitants du quartier lui créent un cadeau original dans son jardin</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/poppy-la-chatte-6aacfcf93743a.jpg</image:loc>
+    <image:caption>Poppy la chatte&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203120/lamour-pre-2026-apporte-chien-ferme-reaction-lagriculteur-douche-froide</loc>
+  <lastmod>2026-09-30T14:29:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-30T14:29:00+02:00</news:publication_date>
+    <news:title>L'amour est dans le pré 2026 : Elle apporte son chien à la ferme, la réaction de l'agriculteur est une douche froide</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-devant-une-ferme-6abce037a82c4.jpg</image:loc>
+    <image:caption>un chien devant une ferme</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202635/aider-chien-decide-consulter-specialiste-pro-demande-dacheter-canard-jaune</loc>
+  <lastmod>2026-09-30T13:34:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-30T13:34:00+02:00</news:publication_date>
+    <news:title>Pour aider un chien, elle décide de consulter une spécialiste : la pro lui demande d’acheter un canard jaune</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6aad3cfeadb6b-6aad3cfeadb91.jpg</image:loc>
+    <image:caption>Chien avec une peluche canard</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202646/scientifiques-analysent-reaction-chats-appeles-nom-tout-joue-quelques-millimetres-pres</loc>
   <lastmod>2026-09-30T11:31:00+02:00</lastmod>
   <news:news>
@@ -69,75 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/nash-le-golden-retriever-6aaba4357aa50.jpg</image:loc>
     <image:caption>Nash le Golden Retriever&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202498/pensions-recevait-injection-allergies-erreur-irreversible-bouleverse-tout-video</loc>
-  <lastmod>2026-09-29T13:59:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-29T13:59:00+02:00</news:publication_date>
-    <news:title>« Nous pensions qu’elle recevait une injection pour ses allergies » : une erreur irréversible bouleverse tout</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/lilly-la-chienne-6aab9b395c461.jpg</image:loc>
-    <image:caption>Lilly la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202475/chien-disparait-pendant-2-jours-pompiers-trouvent-piste-60-cm-sous-terre-video</loc>
-  <lastmod>2026-09-29T11:34:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-29T11:34:00+02:00</news:publication_date>
-    <news:title>Ce chien disparait pendant 2 jours : les pompiers trouvent une piste 60 cm sous terre</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-pompiers-6aa91bd7602d6.jpg</image:loc>
-    <image:caption>Des pompiers&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202380/litiere-ultra-moderne-distributeur-croquettes-booste-lia-gps-3-innovations-mova-adoptees-lequipe-wamiz</loc>
-  <lastmod>2026-09-29T10:01:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-29T10:01:00+02:00</news:publication_date>
-    <news:title>Litière ultra-moderne, distributeur de croquettes automatique, GPS : les 3 innovations MOVA adoptées par l'équipe Wamiz</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-chienne-devant-le-distributeur-de-croquettes-mova-6aa3f1f8e4d81.jpg</image:loc>
-    <image:caption>Une chienne devant le distributeur de croquettes Mova</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202472/chien-geant-90-kg-retrouve-coince-salle-bains-sait-exactement-appeler-situation-video</loc>
-  <lastmod>2026-09-29T09:47:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-29T09:47:00+02:00</news:publication_date>
-    <news:title>Ce chien géant de 90 kg se retrouve coincé dans la salle de bains : il sait exactement qui appeler dans cette situation</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bowser-le-chien-6aa9155533cb1.jpg</image:loc>
-    <image:caption>Bowser le chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202473/chien-dhonneur-vole-vedette-maries-lors-ceremonie</loc>
-  <lastmod>2026-09-29T07:02:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-29T07:02:00+02:00</news:publication_date>
-    <news:title>Chien d’honneur, il vole la vedette aux mariés lors de la cérémonie</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6aa918eb617db-6aa918eb61805.jpg</image:loc>
-    <image:caption>Mariage</image:caption>
   </image:image>
 </data>
