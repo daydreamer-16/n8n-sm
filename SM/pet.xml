@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202646/scientifiques-analysent-reaction-chats-appeles-nom-tout-joue-quelques-millimetres-pres</loc>
+  <lastmod>2026-09-30T11:31:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-30T11:31:00+02:00</news:publication_date>
+    <news:title>Des scientifiques analysent la réaction des chats appelés par leur nom : tout se joue à quelques millimètres près</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-sur-un-canape-6ab0ddc1a7641.jpg</image:loc>
+    <image:caption>un chat sur un canapé</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202647/bains-lozone-soins-balneo-nouveau-havre-bien-etre-ouvre-portes-chiens-saint-malo</loc>
+  <lastmod>2026-09-30T09:41:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-30T09:41:00+02:00</news:publication_date>
+    <news:title>Bains à l'ozone et soins balnéo : un nouveau havre de bien-être ouvre ses portes aux chiens à Saint-Malo</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-aux-thermes-6ab0e030e185d.jpg</image:loc>
+    <image:caption>un chien aux thermes</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202634/excede-aboiements-voisin-adopte-coq-chante-jour-nuit</loc>
+  <lastmod>2026-09-30T06:45:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-09-30T06:45:00+02:00</news:publication_date>
+    <news:title>Excédé par les aboiements de son voisin, il adopte un coq qui chante jour et nuit</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-qui-aboie-dans-un-jardin-6aad33e217066.jpg</image:loc>
+    <image:caption>un chien qui aboie dans un jardin</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202508/affiches-recompense-appel-anonyme-chaton-vole-coeur-dune-chasse-lhomme</loc>
   <lastmod>2026-09-29T18:07:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6aa918eb617db-6aa918eb61805.jpg</image:loc>
     <image:caption>Mariage</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202501/chien-attend-seul-devant-station-service-vie-prend-autre-tournant-grace-enfant-6-ans-video</loc>
-  <lastmod>2026-09-28T18:47:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-28T18:47:00+02:00</news:publication_date>
-    <news:title>Ce chien attend seul devant une station-service : sa vie prend un autre tournant grâce à un enfant de 6 ans (vidéo)</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-enfant-et-un-chien-6aabaa55c0328.jpg</image:loc>
-    <image:caption>Un enfant et un chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202492/chaton-glisse-meuble-peut-plus-ressortir-790k-personnes-perdent-miette-sauvetage-video</loc>
-  <lastmod>2026-09-28T16:34:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-28T16:34:00+02:00</news:publication_date>
-    <news:title>Ce chaton glisse dans un meuble et ne peut plus ressortir : 790K personnes ne perdent pas une miette du sauvetage</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chaton-coince-dans-un-meuble-6aab94dc9974e.jpg</image:loc>
-    <image:caption>Chaton coincé dans un meuble&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202798/decouvrez-grands-gagnants-jeu-lete-wamiz</loc>
-  <lastmod>2026-09-28T16:01:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-09-28T16:01:00+02:00</news:publication_date>
-    <news:title>Découvrez les grands gagnants de notre Jeu de l’été Wamiz !</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jeu-de-l-ete-wamiz-6ab3ce4bdb654.jpg</image:loc>
-    <image:caption>Jeu de l'été wamiz</image:caption>
   </image:image>
 </data>
