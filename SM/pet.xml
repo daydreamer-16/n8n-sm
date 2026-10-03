@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202775/chien-policier-sarrete-net-devant-porte-policiers-trouvent-reserve-inattendue</loc>
+  <lastmod>2026-10-03T10:15:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-03T10:15:00+02:00</news:publication_date>
+    <news:title>Ce chien policier s'arrête net devant une porte : les policiers y trouvent une réserve inattendue</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-policier-dans-le-hall-d-un-immeuble-6ab2399968023.jpg</image:loc>
+    <image:caption>un chien policier dans le hall d'un immeuble</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202773/randonneurs-pensent-secourir-chaton-detresse-decouvrent-lun-felins-plus-rares-france</loc>
+  <lastmod>2026-10-03T08:41:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-03T08:41:00+02:00</news:publication_date>
+    <news:title>Des randonneurs pensent secourir un chaton en détresse et découvrent l'un des félins les plus rares de France</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-en-foret-6ab231b89fcbf.jpg</image:loc>
+    <image:caption>Un chat en forêt</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202644/voisins-voient-animal-sauvage-1-7kg-poils-moins-plus-tard-decouvrent-ame-detresse-video</loc>
   <lastmod>2026-10-02T18:32:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-qui-dort-6ab0ec772df75.jpg</image:loc>
     <image:caption>Un chat qui dort</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202636/offre-manger-chien-errant-toutou-autre-idee-tete-video</loc>
-  <lastmod>2026-10-01T14:09:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-01T14:09:00+02:00</news:publication_date>
-    <news:title>Il offre à manger à un chien errant : le toutou a une autre idée en tête</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/gus-le-chien-6aad498d29835.jpg</image:loc>
-    <image:caption>Gus le chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202632/chienne-tripode-tapote-panier-sequence-etonne-internautes</loc>
-  <lastmod>2026-10-01T12:08:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-01T12:08:00+02:00</news:publication_date>
-    <news:title>Une chienne tripode tapote son panier : la séquence étonne les internautes</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chienne-tripode-6aad0ea841e67.jpg</image:loc>
-    <image:caption>Chienne tripode&amp;nbsp;</image:caption>
   </image:image>
 </data>
