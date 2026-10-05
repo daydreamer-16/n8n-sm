@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/202859/napprochez-plus-riviere-refuge-lance-alerte-urgente-proteger-chiens</loc>
+  <lastmod>2026-10-05T18:12:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-05T18:12:00+02:00</news:publication_date>
+    <news:title>« N'approchez plus de la rivière » : un refuge lance une alerte urgente pour protéger vos chiens</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-qui-se-promene-dans-la-nature-6ab4e1336918d.jpg</image:loc>
+    <image:caption>Un chien qui se promène dans la nature</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202797/chien-recueilli-refuge-appel-va-bouleverser-suite-sejour</loc>
+  <lastmod>2026-10-05T16:03:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-05T16:03:00+02:00</news:publication_date>
+    <news:title>Un chien est recueilli par un refuge : un appel va bouleverser la suite de son séjour</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-pomeranien-6ab3ca607e057.jpg</image:loc>
+    <image:caption>Chien Poméranien</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202791/controle-routine-frontiere-chien-fait-basculer-fouille-fait-prise-15-millions-deuros</loc>
+  <lastmod>2026-10-05T13:37:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-05T13:37:00+02:00</news:publication_date>
+    <news:title>Contrôle de routine à la frontière : le chien fait basculer la fouille et fait une prise à 15 millions d'euros</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-des-douanes-6ab382f7930e5.jpg</image:loc>
+    <image:caption>un chien des douanes</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202792/chatte-errante-accouche-arrivant-refuge-sauveteurs-hallucinent-devant-portee-exceptionnelle</loc>
   <lastmod>2026-10-05T11:14:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-dans-la-foret-6ab38161e8dda.jpg</image:loc>
     <image:caption>Un chien dans la forêt</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202781/apres-terrible-drame-maman-chatte-peut-enfin-detendre-grace-attention-particuliere</loc>
-  <lastmod>2026-10-04T11:03:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-04T11:03:00+02:00</news:publication_date>
-    <news:title>Après un terrible drame, cette maman chat peut enfin se détendre grâce à une attention particulière</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/cassava-la-chatte-6ab2917bd487e.jpg</image:loc>
-    <image:caption>Cassava la chatte&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202780/chat-disparait-suite-dun-accident-voiture-six-ans-plus-tard-puce-electronique-va-jouer-role-precieux</loc>
-  <lastmod>2026-10-04T08:36:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-04T08:36:00+02:00</news:publication_date>
-    <news:title>Ce chat disparaît à la suite d'un accident de voiture : six ans plus tard, sa puce électronique va jouer un rôle précieux</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/pandora-la-chatte-6ab28c8318627.jpg</image:loc>
-    <image:caption>Pandora la chatte&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/163160/syndrome-du-chiot-nageur-causes-symptomes-et-traitements</loc>
-  <lastmod>2026-10-04T08:02:59+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2022-11-03T16:30:16+01:00</news:publication_date>
-    <news:title>Syndrome du chiot nageur : causes, symptômes et traitements</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/636272c0a3320540784014.jpg</image:loc>
-    <image:caption>Un chiot qui souffre du. syndrome du chiot nageur</image:caption>
   </image:image>
 </data>
