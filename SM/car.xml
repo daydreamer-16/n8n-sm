@@ -26,8 +26,16 @@
   <image:image>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/09/Code-Defaut-P1A9C-Peugeot.jpg</image:loc>
   </image:image>
+  <loc>https://www.planete-auto.fr/place-handicape-duree-de-stationnement-autorisee-et-stationnement-abusif/</loc>
+  <lastmod>2026-10-05T21:06:28+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/stationner-sur-place-handicape.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/place-handicape.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/voiture-de-police.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/place-handicape-privee.webp</image:loc>
+  </image:image>
   <loc>https://www.planete-auto.fr/assurance-auto-pourquoi-votre-kilometrage-annuel-pese-sur-la-prime-et-ce-que-coute-une-erreur/</loc>
-  <lastmod>2026-10-05T10:12:24+00:00</lastmod>
+  <lastmod>2026-10-05T16:34:44+00:00</lastmod>
   <image:image>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Assurance-auto.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Killometrage-dun-vehicule.webp</image:loc>
@@ -50,11 +58,5 @@
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/09/police-routiere.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/09/controle-routier.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/09/controle.webp</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/assurance-auto-les-criteres-cles-pour-choisir-le-contrat-le-plus-adapte/</loc>
-  <lastmod>2026-09-15T12:44:11+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/09/Client-qui-veut-signer-une-assurance-auto.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/09/Assurance-auto.webp</image:loc>
   </image:image>
 </data>
