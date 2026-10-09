@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203411/parking-desert-refuge-deux-coeurs-fragiles-attendent-quon-remarque-video</loc>
+  <lastmod>2026-10-09T20:35:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-09T20:35:00+02:00</news:publication_date>
+    <news:title>Sur le parking désert du refuge, deux âmes sensibles attendent qu’on les remarque en pleurant (vidéo)</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/parking-d-un-refuge-6ac7573998201.jpg</image:loc>
+    <image:caption>Parking d'un refuge&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202986/disparue-depuis-six-ans-apres-accident-voiture-chatte-retrouvee-jour-60-ans-maitresse</loc>
+  <lastmod>2026-10-09T18:56:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-09T18:56:00+02:00</news:publication_date>
+    <news:title>Disparue depuis six ans après un accident de voiture, une chatte est retrouvée le jour des 60 ans de sa maîtresse</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/pandora-chatte-british-shorthair-noire-a-retrouve-sa-famille-six-ans-apres-un-accident-de-voiture-6aba2c5a2fe7c.jpg</image:loc>
+    <image:caption>Pandora, chatte British Shorthair noire, a retrouvé sa famille six ans après un accident de voiture</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202980/chien-tombe-lac-entraine-maitre-piege-mortel-inconnu-fonce-hesiter</loc>
+  <lastmod>2026-10-09T16:36:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-09T16:36:00+02:00</news:publication_date>
+    <news:title>Ce chien tombe dans un lac et entraîne son maître dans un piège mortel : un inconnu fonce sans hésiter</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-lac-gele-6aba22a86a204.jpg</image:loc>
+    <image:caption>Un lac gelé&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203316/balade-chats-agria-24-25-octobre-2026-prenez-photo-chat-bonne-cause</loc>
+  <lastmod>2026-10-09T15:03:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-09T15:03:00+02:00</news:publication_date>
+    <news:title>« La Balade des chats Agria » : du 24 au 25 octobre 2026. prenez une photo de votre chat pour la bonne cause !</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/agria-6ac3a2ea1a4e3.jpg</image:loc>
+    <image:caption>Agria</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/202978/tout-monde-sarrache-calendrier-pompiers-amoureux-animaux-saluent-noble-mission-video</loc>
+  <lastmod>2026-10-09T14:33:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-09T14:33:00+02:00</news:publication_date>
+    <news:title>Ces pompiers australiens posent avec des animaux sans abri : les ventes financent des refuges</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/calendrier-des-pompiers-6aba1a086080f.jpg</image:loc>
+    <image:caption>Calendrier des pompiers&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202984/cloue-lit-dhopital-homme-fait-pacte-golden-retriever-realise-limpossible</loc>
   <lastmod>2026-10-09T12:09:00+02:00</lastmod>
   <news:news>
@@ -69,75 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-femme-qui-tient-un-chat-dans-ses-bras-6aba2b11b1029.jpg</image:loc>
     <image:caption>Une femme qui tient un chat dans ses bras</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202983/chien-creuse-joyeusement-jardin-quil-deterre-oblige-maitre-appeler-gendarmes</loc>
-  <lastmod>2026-10-08T14:45:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-08T14:45:00+02:00</news:publication_date>
-    <news:title>Son chien creuse joyeusement dans le jardin : ce qu'il déterre oblige son maître à appeler les gendarmes</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-dans-un-jardin-6aba29a8333bc.jpg</image:loc>
-    <image:caption>Un chien dans un jardin</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202933/personne-voulait-adopter-toutou-refuge-2-ans-plus-tard-cest-heros-sauve-vies-video</loc>
-  <lastmod>2026-10-08T12:00:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-08T12:00:00+02:00</news:publication_date>
-    <news:title>Personne ne voulait adopter ce toutou de refuge : 2 ans plus tard c'est un héros qui sauve des vies</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/roma-la-chienne-6ab62db3b8483.jpg</image:loc>
-    <image:caption>Roma la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202931/voit-sac-voler-route-sarrete-linterieur-deux-ames-danger-battent-survivre</loc>
-  <lastmod>2026-10-08T09:43:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-08T09:43:00+02:00</news:publication_date>
-    <news:title>Elle voit un sac voler sur la route et s’arrête : à l'intérieur deux âmes en danger se battent pour survivre</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/autoroute-6ab6281aa08f6.jpg</image:loc>
-    <image:caption>Autoroute&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202930/apres-avoir-secouru-quatre-chatons-patrouille-gendarmes-lancent-rappel-ferme-proprietaires</loc>
-  <lastmod>2026-10-08T07:02:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-08T07:02:00+02:00</news:publication_date>
-    <news:title>Après avoir secouru quatre chatons en patrouille, ces gendarmes lancent un rappel ferme aux propriétaires</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/les-quatre-chatons-decouverts-par-les-gendarmes-de-la-marne-ont-chacun-trouve-une-famille-6ab626060cfe0.jpg</image:loc>
-    <image:caption>Les quatre chatons découverts par les gendarmes de la Marne ont chacun trouvé une famille</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202929/etoiles-apparaissent-tous-jours-fourrure-chat-transformation-fascine-milliers-dinternautes-video</loc>
-  <lastmod>2026-10-07T18:10:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-07T18:10:00+02:00</news:publication_date>
-    <news:title>Des « étoiles » apparaissent tous les jours sur la fourrure du chat : sa transformation fascine des milliers d'internautes</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-noir-avec-du-vitiligo-6ab620bce5717.jpg</image:loc>
-    <image:caption>Un chat noir avec du vitiligo&amp;nbsp;</image:caption>
   </image:image>
 </data>
