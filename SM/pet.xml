@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203038/chien-sensible-soleil-refuge-fait-possible-trouver-foyer</loc>
+  <lastmod>2026-10-10T17:05:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-10T17:05:00+02:00</news:publication_date>
+    <news:title>Ce chien est sensible au soleil : son refuge fait son possible pour lui trouver un foyer</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-ne-supporte-pas-le-soleil-6aba61dc6af1b.jpg</image:loc>
+    <image:caption>Un chien ne supporte pas le soleil</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203007/pompiers-appeles-eteindre-feu-chien-decide-dintervenir-but-bien-precis</loc>
+  <lastmod>2026-10-10T14:49:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-10T14:49:00+02:00</news:publication_date>
+    <news:title>Les pompiers sont appelés pour éteindre un feu : un chien décide d’intervenir dans un but bien précis</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/pompier-et-chien-6aba3ca8a0bb0.jpg</image:loc>
+    <image:caption>Pompier et chien</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/202979/mecaniciens-trouvent-chiot-fond-dun-pneu-38-metamorphose-totale</loc>
   <lastmod>2026-10-10T12:09:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/calendrier-des-pompiers-6aba1a086080f.jpg</image:loc>
     <image:caption>Calendrier des pompiers&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202984/cloue-lit-dhopital-homme-fait-pacte-golden-retriever-realise-limpossible</loc>
-  <lastmod>2026-10-09T12:09:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-09T12:09:00+02:00</news:publication_date>
-    <news:title>Cloué sur un lit d'hôpital, cet homme fait un pacte avec son Golden Retriever et réalise l'impossible</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-homme-et-son-chien-sur-une-plage-6aba2a63c4ef1.jpg</image:loc>
-    <image:caption>Un homme et son chien sur une plage</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202932/expulsee-etats-unis-abandonne-chat-boite-mot-bouleversant</loc>
-  <lastmod>2026-10-09T09:49:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-09T09:49:00+02:00</news:publication_date>
-    <news:title>Expulsée des Etats-Unis, elle abandonne son chat dans une boite avec un mot bouleversant</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/mia-la-chatte-deposee-devant-un-refuge-new-yorkais-avec-un-mot-de-sa-proprietaire-6ab62b6cbecb5.jpg</image:loc>
-    <image:caption>Mia, la chatte déposée devant un refuge new-yorkais avec un mot de sa propriétaire.</image:caption>
   </image:image>
 </data>
