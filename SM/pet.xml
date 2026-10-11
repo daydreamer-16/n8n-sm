@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203075/restent-scotches-reaction-fascinante-chats-devant-serie-sealook-netflix-amuse-web</loc>
+  <lastmod>2026-10-11T11:27:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-11T11:27:00+02:00</news:publication_date>
+    <news:title>« Ils restent scotchés » : la réaction fascinante des chats devant la série "Sealook" sur Netflix amuse le web</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-devant-la-tv-6abb6f3f70dfb.jpg</image:loc>
+    <image:caption>un chat devant la tv</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203076/speleologues-benevoles-interviennent-pendant-3-jours-sauver-chat-tombe-trou</loc>
+  <lastmod>2026-10-11T08:57:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-11T08:57:00+02:00</news:publication_date>
+    <news:title>Des spéléologues bénévoles interviennent pendant 3 jours pour sauver un chat tombé dans un trou</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/le-trou-dans-lequel-etait-coince-le-chat-6abb703d744e2.jpg</image:loc>
+    <image:caption>Le trou dans lequel était coincé le chat</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203038/chien-sensible-soleil-refuge-fait-possible-trouver-foyer</loc>
   <lastmod>2026-10-10T17:05:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-lac-gele-6aba22a86a204.jpg</image:loc>
     <image:caption>Un lac gelé&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203316/balade-chats-agria-24-25-octobre-2026-prenez-photo-chat-bonne-cause</loc>
-  <lastmod>2026-10-09T15:03:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-09T15:03:00+02:00</news:publication_date>
-    <news:title>« La Balade des chats Agria » : du 24 au 25 octobre 2026. prenez une photo de votre chat pour la bonne cause !</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/agria-6ac3a2ea1a4e3.jpg</image:loc>
-    <image:caption>Agria</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/202978/tout-monde-sarrache-calendrier-pompiers-amoureux-animaux-saluent-noble-mission-video</loc>
-  <lastmod>2026-10-09T14:33:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-09T14:33:00+02:00</news:publication_date>
-    <news:title>Ces pompiers australiens posent avec des animaux sans abri : les ventes financent des refuges</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/calendrier-des-pompiers-6aba1a086080f.jpg</image:loc>
-    <image:caption>Calendrier des pompiers&amp;nbsp;</image:caption>
   </image:image>
 </data>
