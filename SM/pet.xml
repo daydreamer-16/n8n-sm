@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203159/trouve-roule-boule-colis-amazon-chat-age-malade-attend-toujours-foyer</loc>
+  <lastmod>2026-10-14T18:14:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-14T18:14:00+02:00</news:publication_date>
+    <news:title>Trouvé roulé en boule sur un colis Amazon, ce chat âgé et malade attend toujours un foyer</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/maribel-le-chat-decouvert-sur-un-colis-amazon-se-remet-doucement-a-l-ecart-du-refuge-6abe18aea591c.jpg</image:loc>
+    <image:caption>Maribel, le chat découvert sur un colis Amazon, se remet doucement à l'écart du refuge.</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203197/chien-fidele-alerte-police-sauve-maitre-blesse</loc>
+  <lastmod>2026-10-14T16:33:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-14T16:33:00+02:00</news:publication_date>
+    <news:title>Un chien fidèle alerte la police et sauve son maître blessé</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-dans-la-rue-6abfac166024b.jpg</image:loc>
+    <image:caption>Chien dans la rue</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203216/sauveteurs-pensent-trouver-chien-blesse-logement-84-chiens-2-chats-attendent-entasses-linterieur-video</loc>
+  <lastmod>2026-10-14T14:07:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-14T14:07:00+02:00</news:publication_date>
+    <news:title>Les sauveteurs pensent trouver un chien blessé dans un logement : 84 chiens et 2 chats les attendent entassés à l'intérieur</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chiens-springels-anglais-6ac3550ff024d.jpg</image:loc>
+    <image:caption>Chiens Springels anglais</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203215/gare-parking-dun-supermarche-remue-entre-buissons-fait-peur-vie</loc>
   <lastmod>2026-10-14T11:47:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chiot-qui-dort-69d8ee0db5e8f.jpg</image:loc>
     <image:caption>Un chiot qui dort</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203117/employe-etrange-pressentiment-sortant-dun-chantier-5-ans-plus-tard-vision-devient-realite-video</loc>
-  <lastmod>2026-10-13T13:55:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-13T13:55:00+02:00</news:publication_date>
-    <news:title>Un employé a un étrange pressentiment en sortant d'un chantier : 5 ans plus tard, sa vision devient réalité</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/entrepot-de-chantier-6abccfeb25d18.jpg</image:loc>
-    <image:caption>Entrepôt de chantier&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203116/chien-senior-retourne-refuge-5-ans-apres-adoption-roule-21-heures-rencontrer-ame-soeur-video</loc>
-  <lastmod>2026-10-13T11:31:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-13T11:31:00+02:00</news:publication_date>
-    <news:title>Ce chien senior retourne au refuge 5 ans après son adoption : il roule 21 heures pour rencontrer son âme sœur</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/max-chien-de-refuge-6abcc7a0b22b5.jpg</image:loc>
-    <image:caption>Max chien de refuge&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203135/chien-baigne-pendant-canicule-facture-sortie-plage-fait-halluciner</loc>
-  <lastmod>2026-10-13T09:21:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-13T09:21:00+02:00</news:publication_date>
-    <news:title>Son chien se baigne pendant la canicule : la facture en sortie de plage le fait halluciner</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-baignade-6abd00a23f7a5.jpg</image:loc>
-    <image:caption>Chien baignade&amp;nbsp;</image:caption>
   </image:image>
 </data>
