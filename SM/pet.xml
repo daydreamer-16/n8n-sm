@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203166/trois-enfants-portes-disparus-secouriste-flair-hors-norme-depeche-place</loc>
+  <lastmod>2026-10-15T11:09:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-15T11:09:00+02:00</news:publication_date>
+    <news:title>Trois enfants sont portés disparus : un secouriste avec un flair hors norme est dépêché sur place</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-secouriste-6abe59bd3c3e4.jpg</image:loc>
+    <image:caption>chien secouriste&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203160/jete-conteneur-ordures-enterre-toutou-sauve-in-extremis-pompiers-bat-survivre</loc>
+  <lastmod>2026-10-15T09:41:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-15T09:41:00+02:00</news:publication_date>
+    <news:title>Jeté dans un conteneur à ordures et enterré : ce toutou sauvé in extremis par les pompiers se bat pour survivre</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/intervention-des-pompiers-6abe1bc23df54.jpg</image:loc>
+    <image:caption>Intervention des pompiers&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203163/chienne-sourde-pressentiment-voyant-entrer-visiteur-roue-destin-tourne-bon-video</loc>
+  <lastmod>2026-10-15T06:58:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-15T06:58:00+02:00</news:publication_date>
+    <news:title>Cette chienne sourde a un pressentiment en voyant entrer un visiteur : la roue du destin tourne pour de bon</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/aulani-la-chienne-6abe222dc8164.jpg</image:loc>
+    <image:caption>Aulani la chienne</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203159/trouve-roule-boule-colis-amazon-chat-age-malade-attend-toujours-foyer</loc>
   <lastmod>2026-10-14T18:14:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/zugeklebter-ikea-karton-6ac35af170883.jpg</image:loc>
     <image:caption>Un carton IKEA fermé avec du ruban adhésif</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203118/chat-retire-collerette-bandages-famille-trouve-solution-plus-originale-lookee-soigner-plaie</loc>
-  <lastmod>2026-10-13T18:28:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-13T18:28:00+02:00</news:publication_date>
-    <news:title>Ce chat retire sa collerette et ses bandages : sa famille trouve la solution la plus originale et lookée pour soigner sa plaie</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/le-chat-sir-purr-6abcd4ea38aca.jpg</image:loc>
-    <image:caption>Le chat Sir Purr</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203119/chaton-malade-trouve-rue-an-plus-tard-metamorphose</loc>
-  <lastmod>2026-10-13T16:09:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-13T16:09:00+02:00</news:publication_date>
-    <news:title>Un chaton malade est trouvé dans la rue : un an plus tard, il est métamorphosé</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/grayson-un-petit-chat-6abcddfea1505.jpg</image:loc>
-    <image:caption>Grayson, un petit chat</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/196962/sommeil-chiot-comment-laider-faire-nuits</loc>
-  <lastmod>2026-10-13T15:03:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-13T15:03:00+02:00</news:publication_date>
-    <news:title>Sommeil du chiot : comment l'aider à faire ses nuits ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chiot-qui-dort-69d8ee0db5e8f.jpg</image:loc>
-    <image:caption>Un chiot qui dort</image:caption>
   </image:image>
 </data>
