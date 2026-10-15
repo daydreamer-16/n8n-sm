@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203165/distraite-photo-chien-femme-fait-voler-sac-rue</loc>
+  <lastmod>2026-10-15T18:04:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-15T18:04:00+02:00</news:publication_date>
+    <news:title>Distraite par une photo de chien, une femme se fait voler son sac dans la rue</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-disparu-6abe2b77e3dd4.jpg</image:loc>
+    <image:caption>Chien disparu</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203158/ouvriers-stoppent-broyeur-industriel-apres-avoir-entendu-cris-decouverte-glace-sang-video</loc>
+  <lastmod>2026-10-15T15:57:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-15T15:57:00+02:00</news:publication_date>
+    <news:title>Des ouvriers stoppent un broyeur industriel après avoir entendu des cris : leur découverte glace le sang</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/broyeur-industriel-6abe1333aabb7.jpg</image:loc>
+    <image:caption>Broyeur industriel&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203157/suivez-chat-touristes-obeissent-message-dune-etrange-affiche-devant-972k-internautes-meduses-video</loc>
+  <lastmod>2026-10-15T13:53:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-15T13:53:00+02:00</news:publication_date>
+    <news:title>« Suivez le chat » : des touristes obéissent au message d'une étrange affiche devant 972K internautes médusés</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/affiche-de-chat-6abe0d8c83e81.jpg</image:loc>
+    <image:caption>Affiche de chat&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203166/trois-enfants-portes-disparus-secouriste-flair-hors-norme-depeche-place</loc>
   <lastmod>2026-10-15T11:09:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/buissons-pres-d-un-supermarche-6ac34df8e6131.jpg</image:loc>
     <image:caption>Buissons près d'un supermarché&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203225/construis-vie-dont-jai-envie-enseignante-demissionne-devenir-promeneuse-chiens</loc>
-  <lastmod>2026-10-14T09:30:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-14T09:30:00+02:00</news:publication_date>
-    <news:title>« Je construis la vie dont j'ai envie » : une enseignante démissionne pour devenir promeneuse de chiens</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-femme-qui-promene-des-chiens-6ac360737f276.jpg</image:loc>
-    <image:caption>une femme qui promène des chiens</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseil/marrons-glands-pommes-pins-dangers-chien-11277.html</loc>
-  <lastmod>2026-10-14T08:04:01+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2021-10-26T15:30:00+02:00</news:publication_date>
-    <news:title>Marrons, glands, pommes de pins… Quels dangers pour mon chien en automne ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-feuilles-d-automne-6530f07f81c79.jpg</image:loc>
-    <image:caption>chien feuilles d'automne</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203221/abord-decouverte-fait-sourire-refuge-quelques-secondes-plus-tard-ambiance-bascule</loc>
-  <lastmod>2026-10-14T07:08:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-14T07:08:00+02:00</news:publication_date>
-    <news:title>D'abord accueillie avec le sourire par le refuge, cette découverte fait basculer l'ambiance en quelques secondes</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/zugeklebter-ikea-karton-6ac35af170883.jpg</image:loc>
-    <image:caption>Un carton IKEA fermé avec du ruban adhésif</image:caption>
   </image:image>
 </data>
