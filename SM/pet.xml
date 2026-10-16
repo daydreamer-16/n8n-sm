@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203222/premiere-fois-deux-chats-diagnostiques-syndrome-marfan</loc>
+  <lastmod>2026-10-16T18:36:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-16T18:36:00+02:00</news:publication_date>
+    <news:title>Pour la première fois, deux chats sont diagnostiqués du syndrome de Marfan</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-roux-6ac35ba4c676e.jpg</image:loc>
+    <image:caption>Chat roux</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203169/caisse-abandonnee-devant-boutique-solidaire-devait-etre-don-referme-bien-lourd-secret</loc>
+  <lastmod>2026-10-16T16:32:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-16T16:32:00+02:00</news:publication_date>
+    <news:title>Caisse abandonnée devant une boutique solidaire : ce qui devait être un don referme un bien lourd secret</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/don-devant-une-boutique-6abf58d638373.jpg</image:loc>
+    <image:caption>Don devant une boutique&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203174/chienne-malade-monte-garde-pres-dun-sac-dos-sauveteurs-bouleverses-quil-linterieur-video</loc>
+  <lastmod>2026-10-16T14:03:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-16T14:03:00+02:00</news:publication_date>
+    <news:title>Cette chienne malade monte la garde près d'un sac à dos : les sauveteurs sont bouleversés par ce qu'il y a à l'intérieur</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-et-sac-a-dos-6abf6ea7170c2.jpg</image:loc>
+    <image:caption>Chien et sac à dos&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203171/acheteur-pense-visiter-maison-vide-decouvre-secret-quabrite-logement-depuis-1-an-video</loc>
   <lastmod>2026-10-16T11:37:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-secouriste-6abe59bd3c3e4.jpg</image:loc>
     <image:caption>chien secouriste&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203160/jete-conteneur-ordures-enterre-toutou-sauve-in-extremis-pompiers-bat-survivre</loc>
-  <lastmod>2026-10-15T09:41:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-15T09:41:00+02:00</news:publication_date>
-    <news:title>Jeté dans un conteneur à ordures et enterré : ce toutou sauvé in extremis par les pompiers se bat pour survivre</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/intervention-des-pompiers-6abe1bc23df54.jpg</image:loc>
-    <image:caption>Intervention des pompiers&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203163/chienne-sourde-pressentiment-voyant-entrer-visiteur-roue-destin-tourne-bon-video</loc>
-  <lastmod>2026-10-15T06:58:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-15T06:58:00+02:00</news:publication_date>
-    <news:title>Cette chienne sourde a un pressentiment en voyant entrer un visiteur : la roue du destin tourne pour de bon</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/aulani-la-chienne-6abe222dc8164.jpg</image:loc>
-    <image:caption>Aulani la chienne</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203159/trouve-roule-boule-colis-amazon-chat-age-malade-attend-toujours-foyer</loc>
-  <lastmod>2026-10-14T18:14:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-14T18:14:00+02:00</news:publication_date>
-    <news:title>Trouvé roulé en boule sur un colis Amazon, ce chat âgé et malade attend toujours un foyer</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/maribel-le-chat-decouvert-sur-un-colis-amazon-se-remet-doucement-a-l-ecart-du-refuge-6abe18aea591c.jpg</image:loc>
-    <image:caption>Maribel, le chat découvert sur un colis Amazon, se remet doucement à l'écart du refuge.</image:caption>
   </image:image>
 </data>
