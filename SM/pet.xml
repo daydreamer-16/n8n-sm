@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203171/acheteur-pense-visiter-maison-vide-decouvre-secret-quabrite-logement-depuis-1-an-video</loc>
+  <lastmod>2026-10-16T11:37:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-16T11:37:00+02:00</news:publication_date>
+    <news:title>Un acheteur pense visiter une maison vide : il découvre le secret qu'abrite ce logement depuis 1 an</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/maison-insalubre-6abf6862da1a4.jpg</image:loc>
+    <image:caption>Maison insalubre&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203170/chien-renifle-constamment-dos-grand-pere-detecte-pire-avant-lanalyse-medecins</loc>
+  <lastmod>2026-10-16T09:24:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-16T09:24:00+02:00</news:publication_date>
+    <news:title>Ce chien renifle constamment le dos de son grand-père : il détecte le pire avant l'analyse des médecins</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/lola-la-chienne-6abf5e0728523.jpg</image:loc>
+    <image:caption>Lola la chienne&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203186/faute-sang-felin-compatible-chaton-recoit-transfusion-sang-chien-survivre</loc>
+  <lastmod>2026-10-16T07:13:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-16T07:13:00+02:00</news:publication_date>
+    <news:title>Faute de sang félin compatible, un chaton reçoit une transfusion de sang de chien pour survivre</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/wind-chill-le-chaton-au-groupe-sanguin-rare-sauve-par-une-transfusion-inter-especes-6abfa09824362.jpg</image:loc>
+    <image:caption>Wind Chill, le chaton au groupe sanguin rare sauvé par une transfusion inter-espèces.</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203165/distraite-photo-chien-femme-fait-voler-sac-rue</loc>
   <lastmod>2026-10-15T18:04:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/maribel-le-chat-decouvert-sur-un-colis-amazon-se-remet-doucement-a-l-ecart-du-refuge-6abe18aea591c.jpg</image:loc>
     <image:caption>Maribel, le chat découvert sur un colis Amazon, se remet doucement à l'écart du refuge.</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203197/chien-fidele-alerte-police-sauve-maitre-blesse</loc>
-  <lastmod>2026-10-14T16:33:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-14T16:33:00+02:00</news:publication_date>
-    <news:title>Un chien fidèle alerte la police et sauve son maître blessé</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-dans-la-rue-6abfac166024b.jpg</image:loc>
-    <image:caption>Chien dans la rue</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203216/sauveteurs-pensent-trouver-chien-blesse-logement-84-chiens-2-chats-attendent-entasses-linterieur-video</loc>
-  <lastmod>2026-10-14T14:07:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-14T14:07:00+02:00</news:publication_date>
-    <news:title>Les sauveteurs pensent trouver un chien blessé dans un logement : 84 chiens et 2 chats les attendent entassés à l'intérieur</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chiens-springels-anglais-6ac3550ff024d.jpg</image:loc>
-    <image:caption>Chiens Springels anglais</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203215/gare-parking-dun-supermarche-remue-entre-buissons-fait-peur-vie</loc>
-  <lastmod>2026-10-14T11:47:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-14T11:47:00+02:00</news:publication_date>
-    <news:title>Elle se gare sur le parking d'un supermarché : ce qui remue entre les buissons lui fait la peur de sa vie</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/buissons-pres-d-un-supermarche-6ac34df8e6131.jpg</image:loc>
-    <image:caption>Buissons près d'un supermarché&amp;nbsp;</image:caption>
   </image:image>
 </data>
