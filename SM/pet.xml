@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203323/chaton-coeur-trop-grand-doit-etre-euthanasie-prouve-tout-monde-faiblesse-force-video</loc>
+  <lastmod>2026-10-17T10:44:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-17T10:44:00+02:00</news:publication_date>
+    <news:title>Ce chaton né avec un cœur trop grand doit être euthanasié : il prouve à tout le monde que sa faiblesse est une force</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/big-heart-le-chaton-6ac4a9961d359.jpg</image:loc>
+    <image:caption>Big Heart le chaton&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203331/journee-toutou-passe-absolument-comme-lavait-prevue-1-3m-dinternautes-pleurent-rire-video</loc>
+  <lastmod>2026-10-17T08:08:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-17T08:08:00+02:00</news:publication_date>
+    <news:title>La journée de ce toutou ne se passe absolument pas comme il l'avait prévue : 1,3M d'internautes pleurent de rire</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bouledogue-francais-6ac4fefa5f2b2.jpg</image:loc>
+    <image:caption>Bouledogue français&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203222/premiere-fois-deux-chats-diagnostiques-syndrome-marfan</loc>
   <lastmod>2026-10-16T18:36:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/broyeur-industriel-6abe1333aabb7.jpg</image:loc>
     <image:caption>Broyeur industriel&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203157/suivez-chat-touristes-obeissent-message-dune-etrange-affiche-devant-972k-internautes-meduses-video</loc>
-  <lastmod>2026-10-15T13:53:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-15T13:53:00+02:00</news:publication_date>
-    <news:title>« Suivez le chat » : des touristes obéissent au message d'une étrange affiche devant 972K internautes médusés</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/affiche-de-chat-6abe0d8c83e81.jpg</image:loc>
-    <image:caption>Affiche de chat&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203166/trois-enfants-portes-disparus-secouriste-flair-hors-norme-depeche-place</loc>
-  <lastmod>2026-10-15T11:09:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-15T11:09:00+02:00</news:publication_date>
-    <news:title>Trois enfants sont portés disparus : un secouriste avec un flair hors norme est dépêché sur place</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-secouriste-6abe59bd3c3e4.jpg</image:loc>
-    <image:caption>chien secouriste&amp;nbsp;</image:caption>
   </image:image>
 </data>
