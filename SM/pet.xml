@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203322/chaton-gris-elon-musk-revele-bloque-robotaxis-nuit</loc>
+  <lastmod>2026-10-17T18:03:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-17T18:03:00+02:00</news:publication_date>
+    <news:title>Robotaxis bloqués la nuit : Elon Musk révèle  le détail qui lui pose problème</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-gris-dans-la-rue-6ac4a7a41b878.jpg</image:loc>
+    <image:caption>un chat gris dans la rue</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203324/chien-tremble-chagrin-apres-avoir-perdu-chiots-larrivee-dun-petit-intrus-aide-panser-blessures-video</loc>
+  <lastmod>2026-10-17T16:02:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-17T16:02:00+02:00</news:publication_date>
+    <news:title>Ce chien tremble de chagrin après avoir perdu ses chiots : l'arrivée d'un nouvel habitant aide à panser ses blessures</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/cupcake-la-chienne-6ac4aed0e4b1f.jpg</image:loc>
+    <image:caption>Cupcake la chienne&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203327/chat-decouvre-lapins-internautes-decident-mettre-garde-proprietaire</loc>
+  <lastmod>2026-10-17T12:47:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-17T12:47:00+02:00</news:publication_date>
+    <news:title>Un chat découvre des lapins : les internautes décident de mettre en garde le propriétaire</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-et-lapins-6ac4bd95577d9.jpg</image:loc>
+    <image:caption>Chat et lapins</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203323/chaton-coeur-trop-grand-doit-etre-euthanasie-prouve-tout-monde-faiblesse-force-video</loc>
   <lastmod>2026-10-17T10:44:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/lola-la-chienne-6abf5e0728523.jpg</image:loc>
     <image:caption>Lola la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203186/faute-sang-felin-compatible-chaton-recoit-transfusion-sang-chien-survivre</loc>
-  <lastmod>2026-10-16T07:13:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-16T07:13:00+02:00</news:publication_date>
-    <news:title>Faute de sang félin compatible, un chaton reçoit une transfusion de sang de chien pour survivre</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/wind-chill-le-chaton-au-groupe-sanguin-rare-sauve-par-une-transfusion-inter-especes-6abfa09824362.jpg</image:loc>
-    <image:caption>Wind Chill, le chaton au groupe sanguin rare sauvé par une transfusion inter-espèces.</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203165/distraite-photo-chien-femme-fait-voler-sac-rue</loc>
-  <lastmod>2026-10-15T18:04:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-15T18:04:00+02:00</news:publication_date>
-    <news:title>Distraite par une photo de chien, une femme se fait voler son sac dans la rue</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-disparu-6abe2b77e3dd4.jpg</image:loc>
-    <image:caption>Chien disparu</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203158/ouvriers-stoppent-broyeur-industriel-apres-avoir-entendu-cris-decouverte-glace-sang-video</loc>
-  <lastmod>2026-10-15T15:57:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-15T15:57:00+02:00</news:publication_date>
-    <news:title>Des ouvriers stoppent un broyeur industriel après avoir entendu des cris : leur découverte glace le sang</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/broyeur-industriel-6abe1333aabb7.jpg</image:loc>
-    <image:caption>Broyeur industriel&amp;nbsp;</image:caption>
   </image:image>
 </data>
