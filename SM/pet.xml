@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203320/ancienne-militaire-legue-1-35-million-deuros-refuges-grace-chat</loc>
+  <lastmod>2026-10-18T20:06:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-18T20:06:00+02:00</news:publication_date>
+    <news:title>Une ancienne militaire lègue 1,35 million d'euros aux refuges grâce à son chat</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-devant-une-fenetre-6ac4a57347d6d.jpg</image:loc>
+    <image:caption>Un chat devant une fenêtre</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203214/chien-arrive-refuge-couvert-plaies-poils-transformation-3-mois-bouleverse-sauveteurs-video</loc>
+  <lastmod>2026-10-18T18:09:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-18T18:09:00+02:00</news:publication_date>
+    <news:title>Ce chien arrive au refuge couvert de plaies et sans poils : sa transformation en 3 mois bouleverse les sauveteurs</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/shiloh-la-chienne-6ac347d1d8df8.jpg</image:loc>
+    <image:caption>Shiloh la chienne&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203223/mobilises-masse-reseaux-sociaux-voisins-permettent-chien-perdu-rentrer-chez</loc>
+  <lastmod>2026-10-18T18:01:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-18T18:01:00+02:00</news:publication_date>
+    <news:title>Mobilisés en masse sur les réseaux sociaux, des voisins permettent à un chien perdu de rentrer chez lui</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-dans-la-nature-6ac35f40c8f28.jpg</image:loc>
+    <image:caption>un chien dans la nature</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203220/couple-fait-rencontre-inattendue-lors-dune-promenade-3-vies-changent-toujours-apres-moment</loc>
+  <lastmod>2026-10-18T16:34:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-18T16:34:00+02:00</news:publication_date>
+    <news:title>Un couple fait une rencontre inattendue lors d’une promenade : 3 vies changent pour toujours après ce moment</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/callie-la-chatte-6ac35aacafe80.jpg</image:loc>
+    <image:caption>Callie la chatte&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203285/chatte-trouvee-rue-agee-6-mois-doit-deja-faire-face-perte-bebes</loc>
+  <lastmod>2026-10-18T13:55:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-18T13:55:00+02:00</news:publication_date>
+    <news:title>Une chatte est trouvée dans la rue : âgée de 6 mois, elle doit déjà faire face à la perte de ses bébés</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-avec-des-beaux-yeux-6ac37636e6500.png</image:loc>
+    <image:caption>chat avec des beaux yeux</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203224/chatte-disparait-pendant-vacances-espagne-maitre-retrouve-miraculeusement-1-150-km</loc>
   <lastmod>2026-10-18T08:28:00+02:00</lastmod>
   <news:news>
@@ -69,75 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-et-lapins-6ac4bd95577d9.jpg</image:loc>
     <image:caption>Chat et lapins</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203323/chaton-coeur-trop-grand-doit-etre-euthanasie-prouve-tout-monde-faiblesse-force-video</loc>
-  <lastmod>2026-10-17T10:44:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-17T10:44:00+02:00</news:publication_date>
-    <news:title>Ce chaton né avec un cœur trop grand doit être euthanasié : il prouve à tout le monde que sa faiblesse est une force</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/big-heart-le-chaton-6ac4a9961d359.jpg</image:loc>
-    <image:caption>Big Heart le chaton&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203331/journee-toutou-passe-absolument-comme-lavait-prevue-1-3m-dinternautes-pleurent-rire-video</loc>
-  <lastmod>2026-10-17T08:08:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-17T08:08:00+02:00</news:publication_date>
-    <news:title>La journée de ce toutou ne se passe absolument pas comme il l'avait prévue : 1,3M d'internautes pleurent de rire</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bouledogue-francais-6ac4fefa5f2b2.jpg</image:loc>
-    <image:caption>Bouledogue français&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203222/premiere-fois-deux-chats-diagnostiques-syndrome-marfan</loc>
-  <lastmod>2026-10-16T18:36:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-16T18:36:00+02:00</news:publication_date>
-    <news:title>Pour la première fois, deux chats sont diagnostiqués du syndrome de Marfan</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-roux-6ac35ba4c676e.jpg</image:loc>
-    <image:caption>Chat roux</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203169/caisse-abandonnee-devant-boutique-solidaire-devait-etre-don-referme-bien-lourd-secret</loc>
-  <lastmod>2026-10-16T16:32:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-16T16:32:00+02:00</news:publication_date>
-    <news:title>Caisse abandonnée devant une boutique solidaire : ce qui devait être un don referme un bien lourd secret</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/don-devant-une-boutique-6abf58d638373.jpg</image:loc>
-    <image:caption>Don devant une boutique&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203174/chienne-malade-monte-garde-pres-dun-sac-dos-sauveteurs-bouleverses-quil-linterieur-video</loc>
-  <lastmod>2026-10-16T14:03:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-16T14:03:00+02:00</news:publication_date>
-    <news:title>Cette chienne malade monte la garde près d'un sac à dos : les sauveteurs sont bouleversés par ce qu'il y a à l'intérieur</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-et-sac-a-dos-6abf6ea7170c2.jpg</image:loc>
-    <image:caption>Chien et sac à dos&amp;nbsp;</image:caption>
   </image:image>
 </data>
