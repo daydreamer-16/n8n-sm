@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://chefdodo.com/tartelettes-maison-ou-fonds-prets-a-garnir-le-comparatif-temps-cout-et-resultat/</loc>
+  <lastmod>2026-10-19T10:24:18+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/10/4a5890ef-50f0-4a25-b27b-f480ee42cc23.png</image:loc>
+  </image:image>
+  <loc>https://chefdodo.com/feuillete-au-pesto/</loc>
+  <lastmod>2026-10-19T10:00:01+01:00</lastmod>
+  <image:image>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/10/output1-10.png</image:loc>
+  </image:image>
   <loc>https://chefdodo.com/cuisse-de-poulet-marine/</loc>
   <lastmod>2026-10-18T09:59:50+01:00</lastmod>
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/10/output1-9.png</image:loc>
-  </image:image>
-  <loc>https://chefdodo.com/gateau-poire-chocolat-amande/</loc>
-  <lastmod>2026-10-16T09:59:47+01:00</lastmod>
-  <image:image>
-    <image:loc>https://chefdodo.com/wp-content/uploads/2026/10/output1-8.png</image:loc>
   </image:image>
   <loc>https://www.st-claire.eu/manger-kaki-variete-maturite-geste</loc>
   <lastmod>2026-10-18T06:39:00+00:00</lastmod>
@@ -112,21 +117,5 @@
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170114_102941-275x206.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2017/01/IMG_20170115_180006-275x206.jpg</image:loc>
     <image:loc>https://mapatisserie.fr/wp-content/uploads/2026/01/recette-croissant-03-e1769455250836-275x206.webp</image:loc>
-  </image:image>
-  <loc>https://mapatisserie.fr/recette/dessert/recette-gaufres-croustillantes/</loc>
-  <lastmod>2026-10-17T13:13:52+00:00</lastmod>
-  <image:image>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-03.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-06-275x275.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-09-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-10-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-11-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-12-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-14-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-15-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-13-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-14-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-16-275x206.webp</image:loc>
-    <image:loc>https://mapatisserie.fr/wp-content/uploads/2025/02/gaufres-croustillantes-maison-fete-foraine-08-275x206.webp</image:loc>
   </image:image>
 </data>
