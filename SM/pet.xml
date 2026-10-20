@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203335/attention-automne-danger-sous-estime-guette-chiens-champs-allemagne</loc>
+  <lastmod>2026-10-20T11:54:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-20T11:54:00+02:00</news:publication_date>
+    <news:title>Attention : en automne, un danger sous-estimé guette les chiens dans les champs</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/hund-im-maisfeld-6ac5fc3d4097e.png</image:loc>
+    <image:caption>Renifler est autorisé, mais rien de plus !</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203338/apres-10-ans-famille-deux-chiens-abandonnes-sauveteurs-esperent-miracle-video</loc>
+  <lastmod>2026-10-20T09:45:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-20T09:45:00+02:00</news:publication_date>
+    <news:title>Après 10 ans dans la même famille, ces deux chiens sont abandonnés : les sauveteurs font une grande promesse</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/les-chiennes-nikki-et-philly-6ac60843cb454.jpg</image:loc>
+    <image:caption>Les chiennes Nikki et Philly&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203351/etats-unis-decouvrez-chien-prefere-americains</loc>
+  <lastmod>2026-10-20T07:13:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-20T07:13:00+02:00</news:publication_date>
+    <news:title>États-Unis : découvrez le chien préféré des américains</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-bouledogue-francais-6ac63bddbfdf8.jpg</image:loc>
+    <image:caption>Un bouledogue français</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203340/policiers-decouvrent-chat-gravement-blesse-pleine-nuit-deux-ans-plus-tard-retrouvent-devant-justice</loc>
   <lastmod>2026-10-19T20:01:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/creme-la-chienne-6ac4b4a9eb357.jpg</image:loc>
     <image:caption>Creme la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203321/parc-canin-3-000-m2-entierement-cloture-ouvre-hauteurs-lyon</loc>
-  <lastmod>2026-10-19T06:39:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-19T06:39:00+02:00</news:publication_date>
-    <news:title>Un parc canin de 3 000 m² entièrement clôturé ouvre sur les hauteurs de Lyon</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6ac4a66479e07-6ac4a66479e2f.jpg</image:loc>
-    <image:caption>Un parc canin de 3 000 m² entièrement clôturé ouvre sur les hauteurs de Lyon</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203320/ancienne-militaire-legue-1-35-million-deuros-refuges-grace-chat</loc>
-  <lastmod>2026-10-18T20:06:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-18T20:06:00+02:00</news:publication_date>
-    <news:title>Une ancienne militaire lègue 1,35 million d'euros aux refuges grâce à son chat</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-devant-une-fenetre-6ac4a57347d6d.jpg</image:loc>
-    <image:caption>Un chat devant une fenêtre</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203214/chien-arrive-refuge-couvert-plaies-poils-transformation-3-mois-bouleverse-sauveteurs-video</loc>
-  <lastmod>2026-10-18T18:09:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-18T18:09:00+02:00</news:publication_date>
-    <news:title>Ce chien arrive au refuge couvert de plaies et sans poils : sa transformation en 3 mois bouleverse les sauveteurs</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/shiloh-la-chienne-6ac347d1d8df8.jpg</image:loc>
-    <image:caption>Shiloh la chienne&amp;nbsp;</image:caption>
   </image:image>
 </data>
