@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203405/apres-11-ans-aupres-maitresse-vie-toutou-bascule-jour-lendemain</loc>
+  <lastmod>2026-10-20T19:40:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-20T19:40:00+02:00</news:publication_date>
+    <news:title>Sa famille se sépare de lui après 11 ans de vie commune : ce toutou perdu brise le cœur des sauveteurs</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/petit-chien-de-11-ans-6ac74d9af3300.jpg</image:loc>
+    <image:caption>Petit chien de 11 ans&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203403/abandonnes-centre-recyclage-7-chiots-deviennent-plus-grand-mystere-refuge</loc>
+  <lastmod>2026-10-20T16:55:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-20T16:55:00+02:00</news:publication_date>
+    <news:title>Abandonnés dans un centre de recyclage, ces 7 chiots deviennent le plus grand mystère du refuge</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/7-chiots-6ac7486215077.jpg</image:loc>
+    <image:caption>7 chiots&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203404/recupere-chat-malade-refuge-puis-lit-mot-bouleversant-dune-femme-agee-dossier</loc>
+  <lastmod>2026-10-20T14:38:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-20T14:38:00+02:00</news:publication_date>
+    <news:title>Elle récupère un chat malade au refuge, puis lit le mot bouleversant d'une femme âgée dans son dossier</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/merlin-chat-tigre-age-a-ete-opere-des-dents-et-attend-desormais-une-famille-6ac749529a317.jpg</image:loc>
+    <image:caption>Merlin, chat tigré âgé, a été opéré des dents et attend désormais une famille</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203335/attention-automne-danger-sous-estime-guette-chiens-champs-allemagne</loc>
   <lastmod>2026-10-20T11:54:00+02:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/portee-de-chiots-6ac5ffc00ee92.jpg</image:loc>
     <image:caption>Portée de chiots&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203334/chien-seul-milieu-route-aboie-policiers-agit-heros-sauver-humain-detresse-video</loc>
-  <lastmod>2026-10-19T10:28:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-19T10:28:00+02:00</news:publication_date>
-    <news:title>Ce chien seul au milieu de la route aboie sur les policiers : il agit en héros pour sauver son humain en détresse</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-sur-la-route-6ac5fb37b9316.jpg</image:loc>
-    <image:caption>Chien sur la route&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179975/est-ce-que-je-peux-emmener-mon-chien-chez-leclerc</loc>
-  <lastmod>2026-10-19T08:03:48+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-07-08T16:01:00+02:00</news:publication_date>
-    <news:title>Est-ce que je peux emmener mon chien chez Leclerc ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-supermarche-leclerc-668bda0de8c48.jpg</image:loc>
-    <image:caption>Les chiens sont-ils bienvenus à Leclerc ?</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203326/chien-perdu-foyer-apres-5-ans-bonheur-quil-fait-box-chaque-jour-brise-coeur-sauveteurs-video</loc>
-  <lastmod>2026-10-19T07:52:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-19T07:52:00+02:00</news:publication_date>
-    <news:title>Ce chien a perdu son foyer après 5 ans de bonheur : ce qu'il fait dans son box chaque jour brise le cœur des sauveteurs</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/creme-la-chienne-6ac4b4a9eb357.jpg</image:loc>
-    <image:caption>Creme la chienne&amp;nbsp;</image:caption>
   </image:image>
 </data>
