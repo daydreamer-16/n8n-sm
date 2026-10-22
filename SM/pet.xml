@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203446/chien-pensait-avoir-trouve-famille-vie-deux-ans-plus-tard-tout-seffondre-video</loc>
+  <lastmod>2026-10-22T17:23:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-22T17:23:00+02:00</news:publication_date>
+    <news:title>Ce chien pensait avoir trouvé sa famille pour la vie : deux ans plus tard, tout s’effondre (vidéo)</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/channie-la-chienne-6ac8986872fcc.jpg</image:loc>
+    <image:caption>Channie la chienne&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203451/famille-promet-venir-chercher-chien-fourriere-2-mois-plus-tard-sauveteurs-prennent-grave-decision</loc>
+  <lastmod>2026-10-22T14:29:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-22T14:29:00+02:00</news:publication_date>
+    <news:title>Une famille promet de venir chercher son chien à la fourrière : 2 mois plus tard, les sauveteurs prennent une grave décision</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/paco-le-chien-6ac8a5215301d.jpg</image:loc>
+    <image:caption>Paco le chien&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203478/chienne-refuse-cesser-fixer-clients-dairbnb-tant-quils-donnent-veut</loc>
   <lastmod>2026-10-22T12:04:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6ac790a887f40-6ac790a887f6c.jpg</image:loc>
     <image:caption>Chien refuge</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203413/couple-achete-maison-decouvre-43-chats-vivent-deja</loc>
-  <lastmod>2026-10-21T09:54:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-21T09:54:00+02:00</news:publication_date>
-    <news:title>Un couple achète une maison et découvre que 43 chats y vivent déjà</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chats-dans-le-jardin-d-une-maison-6ac78f165156e.jpg</image:loc>
-    <image:caption>Des chats dans le jardin d'une maison</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203410/chatons-orphelins-vont-laquarium-sortie-insolite-but-pedagogique</loc>
-  <lastmod>2026-10-21T07:20:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-21T07:20:00+02:00</news:publication_date>
-    <news:title>Des chatons orphelins vont à l’aquarium : une sortie insolite qui a un but pédagogique</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-et-aquarium-6ac756f95b056.jpg</image:loc>
-    <image:caption>Chat et aquarium</image:caption>
   </image:image>
 </data>
