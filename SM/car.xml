@@ -14,18 +14,20 @@
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/10/image-10-1001x1024.png</image:loc>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/10/pexels-34277923.jpeg</image:loc>
   </image:image>
-  <loc>https://www.auto-mechanic-info.com/schema-sous-capot-megane-3-pour-localiser-rapidement-chaque-fusible/</loc>
-  <lastmod>2026-10-13T08:13:31+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-consultant-fuse-diagram-megane.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-pointant-fuse-chart-megane.webp</image:loc>
-  </image:image>
   <loc>https://www.auto-actu.org/exces-de-vitesse-bareme-des-amendes-et-retraits-de-points-en-2026/</loc>
   <lastmod>2026-10-12T04:02:00+00:00</lastmod>
   <image:image>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/compteur-vitesse-exces-amende-fr-scaled.jpg</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/gendarme-radar-controle-vitesse-fr-scaled.jpg</image:loc>
     <image:loc>https://www.auto-actu.org/wp-content/uploads/amende-exces-vitesse-retrait-points-fr-scaled.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/voiture-sans-permis-doccasion-pas-chere-quel-prix-prevoir/</loc>
+  <lastmod>2026-09-27T04:58:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/voiture-sans-permis-occasion-rue-residentielle-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-inspection-voiture-sans-permis-occasion-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/interieur-tableau-de-bord-voiture-sans-permis-fr-scaled.webp</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/jeune-conducteur-voiture-sans-permis-village-fr-scaled.webp</image:loc>
   </image:image>
   <loc>https://www.auto-actu.org/vendeurs-de-voitures-doccasion-dans-loise-notre-top-10-a-connaitre/</loc>
   <lastmod>2026-09-15T13:59:26+00:00</lastmod>
@@ -46,6 +48,12 @@
   <lastmod>2026-09-15T08:28:50+00:00</lastmod>
   <image:image>
     <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/09/Code-Defaut-P1A9C-Peugeot.jpg</image:loc>
+  </image:image>
+  <loc>https://www.planete-auto.fr/assurance-essence-entretien-ce-que-coute-vraiment-une-moto-chaque-annee/</loc>
+  <lastmod>2026-10-23T08:12:53+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Assurance-Moto.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Personne-faisant-lentretien-dune-moto.webp</image:loc>
   </image:image>
   <loc>https://www.planete-auto.fr/plaque-d-immatriculation-sur-mesure-ce-que-la-loi-vous-laisse-vraiment-choisir/</loc>
   <lastmod>2026-10-21T10:21:59+00:00</lastmod>
@@ -70,13 +78,5 @@
   <image:image>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Assurance-Auto-petits-rouleurs.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Personne-sigant-une-assurance-auto-petit-rouleur.webp</image:loc>
-  </image:image>
-  <loc>https://www.planete-auto.fr/place-handicape-duree-de-stationnement-autorisee-et-stationnement-abusif/</loc>
-  <lastmod>2026-10-11T17:41:29+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/stationner-sur-place-handicape.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/place-handicape.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/voiture-de-police.webp</image:loc>
-    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/place-handicape-privee.webp</image:loc>
   </image:image>
 </data>
