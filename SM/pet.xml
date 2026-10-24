@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203556/enseignante-decouvre-chien-assis-fond-classe-reaction-memorable</loc>
+  <lastmod>2026-10-24T10:26:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-24T10:26:00+02:00</news:publication_date>
+    <news:title>Une enseignante découvre un chien assis au fond de sa classe, et a une réaction mémorable</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-a-l-ecole-6acc9892cf9cf.jpg</image:loc>
+    <image:caption>un chien à l'école</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203569/chaton-trouve-seul-chantier-benevoles-demenent-offrir-belle-vie</loc>
+  <lastmod>2026-10-24T07:53:00+02:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-24T07:53:00+02:00</news:publication_date>
+    <news:title>Un chaton est trouvé seul sur un chantier : des bénévoles se démènent pour lui offrir une belle vie</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-dans-la-rue-6acca3c363af0.jpg</image:loc>
+    <image:caption>Chat dans la rue</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203553/26-chats-chatons-enfermes-boites-milieu-dechets-lassociation-ouvre-enquete</loc>
   <lastmod>2026-10-23T18:36:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/channie-la-chienne-6ac8986872fcc.jpg</image:loc>
     <image:caption>Channie la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203451/famille-promet-venir-chercher-chien-fourriere-2-mois-plus-tard-sauveteurs-prennent-grave-decision</loc>
-  <lastmod>2026-10-22T14:29:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-22T14:29:00+02:00</news:publication_date>
-    <news:title>Une famille promet de venir chercher son chien à la fourrière : 2 mois plus tard, les sauveteurs prennent une grave décision</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/paco-le-chien-6ac8a5215301d.jpg</image:loc>
-    <image:caption>Paco le chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203478/chienne-refuse-cesser-fixer-clients-dairbnb-tant-quils-donnent-veut</loc>
-  <lastmod>2026-10-22T12:04:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-22T12:04:00+02:00</news:publication_date>
-    <news:title>Une chienne refuse de cesser de fixer les clients d'Airbnb tant qu'ils ne lui donnent pas ce qu'elle veut</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-en-train-de-jouer-6ac8bcf175baa.jpg</image:loc>
-    <image:caption>Un chien en train de jouer</image:caption>
   </image:image>
 </data>
