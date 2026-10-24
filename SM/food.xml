@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://gourmetbag.fr/gerer-intolerances-alimentaires-voyage-etranger/</loc>
+  <lastmod>2026-10-24T08:27:47+00:00</lastmod>
   <loc>https://www.st-claire.eu/londres-securite-quartiers-risques-touristes</loc>
   <lastmod>2026-10-24T07:28:00+00:00</lastmod>
   <image:image>
@@ -10,6 +12,14 @@
   <image:image>
     <image:loc>https://chefdodo.com/wp-content/uploads/2026/10/output1-12.png</image:loc>
   </image:image>
+  <loc>https://chefdodo.com/feastables-mrbeast-le-chocolat-au-lait-qui-cartonne/</loc>
+  <lastmod>2026-10-21T13:10:42+01:00</lastmod>
+  <image:image>
+    <image:loc>https://images.pexels.com/photos/5469117/pexels-photo-5469117.jpeg</image:loc>
+    <image:loc>https://chefdodo.com/wp-content/uploads/2026/10/c2647aae-a6e9-4394-84f9-e3fb616f38bf.png</image:loc>
+  </image:image>
+  <loc>https://gourmetbag.fr/meilleurs-vins-decouvrir-lors-voyage-france/</loc>
+  <lastmod>2026-10-23T08:29:20+00:00</lastmod>
   <loc>https://www.lateliergourmand.fr/burger-king-halal-france-verifier-certificat/</loc>
   <lastmod>2026-10-23T07:32:00+00:00</lastmod>
   <image:image>
@@ -31,20 +41,5 @@
   <lastmod>2026-10-22T09:49:51+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/10/infographie-cadeaux-personnalises-papa-meilleures-idees.webp</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/escapade-angers-lieux-incontournables/</loc>
-  <lastmod>2026-10-22T09:25:19+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/10/infographie-escapade-angers-lieux-incontournables.webp</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/5-types-linge-maison/</loc>
-  <lastmod>2026-10-22T09:02:50+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/10/infographie-5-types-linge-maison.webp</image:loc>
-  </image:image>
-  <loc>https://gourmetbag.fr/preparer-brunch-emporter-pique-nique/</loc>
-  <lastmod>2026-10-22T08:42:30+00:00</lastmod>
-  <image:image>
-    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/10/image-33.jpg</image:loc>
   </image:image>
 </data>
