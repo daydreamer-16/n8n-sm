@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203593/robert-niro-18-petits-chiens-star-films-gangsters-cache-meute-maison</loc>
+  <lastmod>2026-10-25T11:06:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-25T11:06:00+01:00</news:publication_date>
+    <news:title>Robert De Niro et ses 18 petits chiens : la star des films de gangsters cache une meute à la maison</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/l-acteur-robert-de-niro-est-un-amoureux-des-chiens-6acccdc4e1fdd.jpg</image:loc>
+    <image:caption>L'acteur Robert de Niro est un amoureux des chiens</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203592/municipalite-vote-budget-10-000-euros-faire-soigner-petit-chat-errant</loc>
+  <lastmod>2026-10-25T08:55:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-25T08:55:00+01:00</news:publication_date>
+    <news:title>Une municipalité vote un budget de 10 000 euros pour faire soigner un petit chat errant</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-dans-un-panier-6acccb005caa2.jpg</image:loc>
+    <image:caption>un chat dans un panier</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203591/goeland-sempare-chat-sous-yeux-quelques-jours-plus-tard-cest-lincroyable-soulagement</loc>
   <lastmod>2026-10-24T17:51:00+02:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/cleo-la-chatte-6acc949e7cd00.jpg</image:loc>
     <image:caption>Cleo la chatte&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204061/ariana-grande-deuil-chanteuse-pleure-disparition-chienne-coco</loc>
-  <lastmod>2026-10-23T15:10:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-23T15:10:00+02:00</news:publication_date>
-    <news:title>Ariana Grande en deuil : la chanteuse pleure la disparition de sa chienne Coco</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/ariana-grande-6ad8784c15309.jpg</image:loc>
-    <image:caption>Ariana Grande</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203557/chaton-abandonne-chemin-bat-vivre-ange-gardiens-prouvent-quils-lont-jamais-oublie-video</loc>
-  <lastmod>2026-10-23T14:02:00+02:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-23T14:02:00+02:00</news:publication_date>
-    <news:title>Ce chaton abandonné sur un chemin se bat pour vivre : ses anges-gardiens prouvent qu'ils ne l'ont jamais oublié</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chaton-abandonne-6acc993bcf480.jpg</image:loc>
-    <image:caption>Chaton abandonné&amp;nbsp;</image:caption>
   </image:image>
 </data>
