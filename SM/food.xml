@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/recette-teq-paf-dosages-gestes-moderation</loc>
+  <lastmod>2026-10-26T08:49:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/10/infographie-recette-teq-paf-dosages-gestes-moderation.webp</image:loc>
+  </image:image>
   <loc>https://gourmetbag.fr/origine-couscous-deguster-authentiquement/</loc>
   <lastmod>2026-10-25T09:28:39+00:00</lastmod>
   <image:image>
@@ -41,10 +46,5 @@
   <lastmod>2026-10-23T09:51:25+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/10/infographie-villes-nature-decouverte-nouveaux-lieux.webp</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/sports-rapides-paris-rapides/</loc>
-  <lastmod>2026-10-23T09:26:51+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/10/infographie-sports-rapides-paris-rapides.webp</image:loc>
   </image:image>
 </data>
