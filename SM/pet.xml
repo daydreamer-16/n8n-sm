@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203676/chien-rencontre-quatre-chatons-famille-daccueil-956k-internautes-fondent-devant-instinct-maternel-video</loc>
+  <lastmod>2026-10-27T11:04:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-27T11:04:00+01:00</news:publication_date>
+    <news:title>Ce chien rencontre quatre chatons en famille d’accueil : 956K internautes fondent devant son instinct maternel</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-brave-chienne-6acf473724a8f.jpg</image:loc>
+    <image:caption>Une brave chienne&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203693/voila-quoi-sert-internet-video-dun-golden-retriever-fait-carton-tiktok</loc>
+  <lastmod>2026-10-27T09:44:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-27T09:44:00+01:00</news:publication_date>
+    <news:title>« Voilà à quoi sert Internet » : une vidéo d’un Golden Retriever fait un carton sur TikTok</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-6acf885d1bf6c.jpg</image:loc>
+    <image:caption>Golden Retriever</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203671/chienne-borgne-abandonnee-jungle-thailandaise-geste-surprend-clinique</loc>
+  <lastmod>2026-10-27T07:04:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-27T07:04:00+01:00</news:publication_date>
+    <news:title>Chienne borgne abandonnée dans la jungle thaïlandaise : son geste surprend la clinique</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-blesse-6acf32f8c8453.jpg</image:loc>
+    <image:caption>un chien blessé</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203602/inondations-chili-tentent-sauver-5-fois-chien-emporte-courant-destin-autre-plan-video</loc>
   <lastmod>2026-10-26T18:36:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-homme-et-son-chien-6accd2d5e35f9.jpg</image:loc>
     <image:caption>un homme et son chien</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseil/acheter-chiot-staffie-5-erreurs-surtout-commettre-20047.html</loc>
-  <lastmod>2026-10-26T07:02:11+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2021-06-02T16:26:00+02:00</news:publication_date>
-    <news:title>Acheter un chiot Staffie : 5 erreurs à ne surtout pas commettre</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chiot-staffie-fb-60b7427309763.jpg</image:loc>
-    <image:caption>chiot staffie</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203605/depart-maitresse-ehpad-chat-confie-refuge-mensonge-revele-grace-puce-didentification</loc>
-  <lastmod>2026-10-25T20:04:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-25T20:04:00+01:00</news:publication_date>
-    <news:title>Au départ de sa maîtresse en EHPAD, ce chat est confié à un refuge : le mensonge est révélé grâce à la puce d’identification</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/tsunade-la-chatte-6acded4eb0ec5.jpg</image:loc>
-    <image:caption>Tsunade la chatte&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203609/abandonnent-chien-6h-apres-adoption-raison-evoquee-lunaire</loc>
-  <lastmod>2026-10-25T16:58:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-25T16:58:00+01:00</news:publication_date>
-    <news:title>Ils abandonnent leur chien 6 heures après son adoption : la raison évoquée est lunaire</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/umy-la-chienne-6acdf3ffbe79a.jpg</image:loc>
-    <image:caption>Umy la chienne&amp;nbsp;</image:caption>
   </image:image>
 </data>
