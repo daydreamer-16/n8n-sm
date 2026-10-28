@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204234/neuf-chiots-enfermes-carton-pres-dun-cimetiere-refuge-besoin-aide</loc>
+  <lastmod>2026-10-28T12:03:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-28T12:03:00+01:00</news:publication_date>
+    <news:title>Neuf chiots enfermés dans un carton près d'un cimetière : le refuge a besoin de votre aide</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chiots-abandonnes-pres-d-une-poubelle-6adf2dad81f33.jpg</image:loc>
+    <image:caption>des chiots abandonnés près d'une poubelle</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203708/couple-nourrit-chat-errant-pendant-1-an-apres-identification-lincroyable-verite-eclate</loc>
+  <lastmod>2026-10-28T10:07:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-28T10:07:00+01:00</news:publication_date>
+    <news:title>Un couple nourrit un chat errant pendant 1 an : après identification, l'incroyable vérité éclate</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-dans-une-maison-6ad0a62d5d3f5.jpg</image:loc>
+    <image:caption>un chat dans une maison</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203670/sauveteurs-prevoient-sterilisation-dune-chienne-surprise-quils-trouvent-devant-bloc-fait-annuler-loperation</loc>
+  <lastmod>2026-10-28T07:24:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-28T07:24:00+01:00</news:publication_date>
+    <news:title>Les sauveteurs prévoient la stérilisation d'une chienne : la surprise qu'ils découvrent avant le bloc annule l'opération</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/prune-la-chienne-6acf2f70ec195.jpg</image:loc>
+    <image:caption>Prune la chienne&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203673/famille-demenage-abandonne-chat-derriere-3-ans-plus-tard-attend-toujours-retour-video</loc>
   <lastmod>2026-10-27T17:53:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-blesse-6acf32f8c8453.jpg</image:loc>
     <image:caption>un chien blessé</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203602/inondations-chili-tentent-sauver-5-fois-chien-emporte-courant-destin-autre-plan-video</loc>
-  <lastmod>2026-10-26T18:36:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-26T18:36:00+01:00</news:publication_date>
-    <news:title>Inondations au Chili : ils tentent de sauver 5 fois un chien emporté par le courant mais le destin a un autre plan</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/inondations-6acde16ff2880.jpg</image:loc>
-    <image:caption>Inondations</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203603/adopte-famille-avant-detre-jete-dehors-chat-revient-refuge-etat-alarmant-video</loc>
-  <lastmod>2026-10-26T16:37:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-26T16:37:00+01:00</news:publication_date>
-    <news:title>Adopté par une famille avant d'être « jeté dehors », ce chat revient au refuge dans un état alarmant</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/baly-le-chat-6acde77dd121a.jpg</image:loc>
-    <image:caption>Baly le chat&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203604/chienne-golden-retriever-joue-canetons-internautes-tombent-sous-charme</loc>
-  <lastmod>2026-10-26T14:08:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-26T14:08:00+01:00</news:publication_date>
-    <news:title>Une chienne Golden Retriever joue avec des canetons : les internautes tombent sous le charme</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-et-canetons-6acdeca2416f0.jpg</image:loc>
-    <image:caption>Golden Retriever et canetons</image:caption>
   </image:image>
 </data>
