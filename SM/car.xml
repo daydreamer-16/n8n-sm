@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/rouler-serein-cet-hiver-comment-bien-preparer-sa-voiture-avec-pneus-online/</loc>
+  <lastmod>2026-10-28T02:45:05+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/10/e90ed28c37be1d39379ed6ff0c168fa3_html_ea41fff1-1.jpg</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/10/e90ed28c37be1d39379ed6ff0c168fa3_html_3ada7d2c-1.jpg</image:loc>
+  </image:image>
+  <loc>https://www.auto-mechanic-info.com/tout-savoir-sur-la-honda-xr-600-l-un-classique-de-lautomobile-japonaise/</loc>
+  <lastmod>2026-10-27T07:47:39+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/moto-honda-xr-600-l-campagne.png</image:loc>
+    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/moto-honda-xr-600-l-traction.png</image:loc>
+  </image:image>
   <loc>https://www.roadstr.fr/blog/articles/comparateur-meilleurs-sites-pieces-auto-moto/</loc>
   <lastmod>2026-10-22T17:52:18+02:00</lastmod>
   <image:image>
@@ -18,12 +30,6 @@
   <lastmod>2026-10-13T10:28:13+02:00</lastmod>
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/10/d655540726ab5923555350ea702bf1ed-1.png</image:loc>
-  </image:image>
-  <loc>https://www.auto-mechanic-info.com/schema-sous-capot-megane-3-pour-localiser-rapidement-chaque-fusible/</loc>
-  <lastmod>2026-10-13T08:13:31+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/homme-consultant-fuse-diagram-megane.webp</image:loc>
-    <image:loc>https://www.auto-mechanic-info.com/wp-content/uploads/femme-pointant-fuse-chart-megane.webp</image:loc>
   </image:image>
   <loc>https://www.auto-actu.org/exces-de-vitesse-bareme-des-amendes-et-retraits-de-points-en-2026/</loc>
   <lastmod>2026-10-12T04:02:00+00:00</lastmod>
@@ -46,19 +52,15 @@
   <image:image>
     <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/09/image.png</image:loc>
   </image:image>
-  <loc>https://www.roadstr.fr/blog/</loc>
-  <loc>https://www.auto-actu.org/quels-points-verifier-avant-dacheter-une-peugeot-208-doccasion/</loc>
-  <lastmod>2026-10-27T10:30:19+00:00</lastmod>
+  <loc>https://www.etoilecollections.fr/code-defaut-p1a9c-peugeot/</loc>
+  <lastmod>2026-09-15T08:28:50+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/inspection-carrosserie-peugeot-208-occasion-fr-scaled.jpg</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/verification-moteur-peugeot-208-occasion-fr-scaled.jpg</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/controle-arriere-peugeot-208-achat-occasion-fr-scaled.jpg</image:loc>
+    <image:loc>https://www.etoilecollections.fr/wp-content/uploads/2026/09/Code-Defaut-P1A9C-Peugeot.jpg</image:loc>
   </image:image>
-  <loc>https://www.auto-actu.org/gps-sur-scooter-pour-jeune-conducteur-atout-rassurant-pour-les-parents/</loc>
-  <lastmod>2026-10-27T07:45:51+00:00</lastmod>
+  <loc>https://www.planete-auto.fr/batterie-de-voiture-fatiguee-quatre-signaux-a-reperer-et-deux-tests-pour-eviter-la-panne/</loc>
+  <lastmod>2026-10-27T17:24:04+00:00</lastmod>
   <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/jeune-conducteur-scooter-gps-guidon-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/mere-application-suivi-gps-scooter-maison-fr-scaled.webp</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/gros-plan-gps-tracker-guidon-scooter-ville-fr-scaled.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Mecanicien-testant-une-batterie-de-voiture.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Batterie-de-voiture.webp</image:loc>
   </image:image>
 </data>
