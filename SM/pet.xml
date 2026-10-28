@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203746/chien-gourmand-sapproche-materiel-peche-oublie-situation-vire-cauchemar</loc>
+  <lastmod>2026-10-28T20:06:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-28T20:06:00+01:00</news:publication_date>
+    <news:title>Un chien gourmand s’approche de matériel de pêche oublié : la situation vire au cauchemar</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-lors-d-une-balade-avec-son-maitre-6ad0c6b9ee077.jpg</image:loc>
+    <image:caption>un chien lors d'une balade avec son maitre</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203706/chien-retrouve-neuf-balles-corps-famille-decide-offrir-nouvelle-vie</loc>
+  <lastmod>2026-10-28T18:04:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-28T18:04:00+01:00</news:publication_date>
+    <news:title>Un chien est retrouvé avec neuf balles dans le corps : une famille décide de lui offrir une nouvelle vie</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-chez-le-veterinaire-6ad0989d4e301.jpg</image:loc>
+    <image:caption>Chien chez le vétérinaire</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204351/chiens-chats-decouvrez-classement-2026-races-preferees-francais</loc>
+  <lastmod>2026-10-28T15:56:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-28T15:56:00+01:00</news:publication_date>
+    <news:title>Chiens et chats : découvrez le classement 2026 des races préférées des Français</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-et-chat-6ae1f1afc476e.jpg</image:loc>
+    <image:caption>Chien et chat</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203705/avalanche-emporte-deux-alpinistes-chien-50h-plus-tard-miracle-produit-video</loc>
+  <lastmod>2026-10-28T15:48:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-28T15:48:00+01:00</news:publication_date>
+    <news:title>Une avalanche emporte deux alpinistes et leur chien : 50H plus tard, le miracle se produit (vidéo)</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-avalanche-6ad094d23ef17.jpg</image:loc>
+    <image:caption>Une avalanche&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203707/touriste-trouve-chaton-errant-parking-crete-puis-lance-mission-impossible</loc>
+  <lastmod>2026-10-28T13:05:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-28T13:05:00+01:00</news:publication_date>
+    <news:title>Une touriste trouve un chaton errant sur un parking en Crète puis lance une mission impossible</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bubble-le-chat-ramene-de-crete-6ad0a01e33674.jpg</image:loc>
+    <image:caption>Bubble le chat ramené de Crète</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204234/neuf-chiots-enfermes-carton-pres-dun-cimetiere-refuge-besoin-aide</loc>
   <lastmod>2026-10-28T12:03:00+01:00</lastmod>
   <news:news>
@@ -69,75 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-loup-allonge-6acf361ed3463.jpg</image:loc>
     <image:caption>un chien loup allongé</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204307/nutrition-canine-chien-va-bientot-mieux-manger</loc>
-  <lastmod>2026-10-27T15:13:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-27T15:13:00+01:00</news:publication_date>
-    <news:title>Nutrition canine : votre chien va-t-il bientôt mieux manger que vous ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-qui-mange-6ae0a58e862f2.jpg</image:loc>
-    <image:caption>un chien qui mange</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203675/trouve-famille-chats-fond-jardin-simple-coup-fil-permet-changer-6-vies-video</loc>
-  <lastmod>2026-10-27T13:25:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-27T13:25:00+01:00</news:publication_date>
-    <news:title>Elle trouve une famille de chats au fond du jardin : un simple coup de fil permet de changer 6 vies précieuses</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/portee-de-chats-6acf410675ec3.jpg</image:loc>
-    <image:caption>Portée de chats&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203676/chien-rencontre-quatre-chatons-famille-daccueil-956k-internautes-fondent-devant-instinct-maternel-video</loc>
-  <lastmod>2026-10-27T11:04:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-27T11:04:00+01:00</news:publication_date>
-    <news:title>Ce chien rencontre quatre chatons en famille d’accueil : 956K internautes fondent devant son instinct maternel</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-brave-chienne-6acf473724a8f.jpg</image:loc>
-    <image:caption>Une brave chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203693/voila-quoi-sert-internet-video-dun-golden-retriever-fait-carton-tiktok</loc>
-  <lastmod>2026-10-27T09:44:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-27T09:44:00+01:00</news:publication_date>
-    <news:title>« Voilà à quoi sert Internet » : une vidéo d’un Golden Retriever fait un carton sur TikTok</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-6acf885d1bf6c.jpg</image:loc>
-    <image:caption>Golden Retriever</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203671/chienne-borgne-abandonnee-jungle-thailandaise-geste-surprend-clinique</loc>
-  <lastmod>2026-10-27T07:04:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-27T07:04:00+01:00</news:publication_date>
-    <news:title>Chienne borgne abandonnée dans la jungle thaïlandaise : son geste surprend la clinique</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-blesse-6acf32f8c8453.jpg</image:loc>
-    <image:caption>un chien blessé</image:caption>
   </image:image>
 </data>
