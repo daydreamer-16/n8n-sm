@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203793/attrapez-vrai-jeu-inedit-permet-collectionner-chats-quartier</loc>
+  <lastmod>2026-10-30T18:04:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-30T18:04:00+01:00</news:publication_date>
+    <news:title>« Ne les attrapez pas pour de vrai » : ce jeu inédit permet de collectionner les chats de son quartier</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-en-train-de-se-faire-photographier-6ad1e753b0161.jpg</image:loc>
+    <image:caption>un chat en train de se faire photographier</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203784/sens-rue-chienne-survit-mois-parc-yellowstone</loc>
+  <lastmod>2026-10-30T16:39:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-30T16:39:00+01:00</news:publication_date>
+    <news:title>« Elle a le sens de la rue » : une chienne survit un mois dans le parc de Yellowstone</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jack-russel-dans-un-parc-6ad1ddff9d653.jpg</image:loc>
+    <image:caption>Jack Russel dans un parc</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203786/chienne-attire-maitresse-vers-sac-plastique-terre-louvre-decouvre-nouveau</loc>
+  <lastmod>2026-10-30T14:08:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-30T14:08:00+01:00</news:publication_date>
+    <news:title>Une chienne attire sa maîtresse vers un sac en plastique par terre : elle l’ouvre et découvre un nouveau-né</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-en-pleine-balade-avec-son-humaine-6ad1e1a48a513.jpg</image:loc>
+    <image:caption>Un chien en pleine balade avec son humaine</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203785/labradoodle-vomit-mange-plus-radio-revele-centaine-dobjets-ventre</loc>
   <lastmod>2026-10-30T11:35:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-maltraite-6ad0c9816ce6c.jpg</image:loc>
     <image:caption>Chien maltraité</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203704/fait-choix-difficile-chatons-errants-quartier-destin-prouve-cetait-bonne-decision-video</loc>
-  <lastmod>2026-10-29T11:35:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-29T11:35:00+01:00</news:publication_date>
-    <news:title>Elle fait un choix difficile pour les chatons errants de son quartier : le destin lui prouve que c'était la bonne décision</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chatons-6ad08e722e1d3.jpg</image:loc>
-    <image:caption>Des chatons&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203747/deux-tiers-chats-dorment-cote-gauche-chercheurs-revelent-raison-bien-precise</loc>
-  <lastmod>2026-10-29T09:28:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-29T09:28:00+01:00</news:publication_date>
-    <news:title>Deux tiers des chats dorment sur le côté gauche : des chercheurs révèlent une raison bien précise</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-qui-dort-6ad0c7fe21d42.jpg</image:loc>
-    <image:caption>un chat qui dort</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203748/chien-policier-marque-lentree-dune-cave-albi-derriere-porte-prise-enorme</loc>
-  <lastmod>2026-10-29T07:08:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-29T07:08:00+01:00</news:publication_date>
-    <news:title>Un chien policier marque l’entrée d’une cave à Albi : derrière la porte, la prise est énorme</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-policier-en-train-de-flairer-une-piste-6ad0c8adf1ca4.jpg</image:loc>
-    <image:caption>un chien policier en train de flairer une piste</image:caption>
   </image:image>
 </data>
