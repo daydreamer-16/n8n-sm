@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203845/policier-secroule-terre-chien-realise-manoeuvre-reanimation-bluffante</loc>
+  <lastmod>2026-10-31T10:31:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-31T10:31:00+01:00</news:publication_date>
+    <news:title>Un policier s'écroule par terre : son chien réalise une manœuvre de réanimation bluffante</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-qui-pratique-un-massage-cardiaque-6ad216fd6ba9c.jpg</image:loc>
+    <image:caption>un chien qui pratique un massage cardiaque</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203847/enseignante-fait-venir-chien-5-ans-college-apaiser-inquietudes-eleves</loc>
+  <lastmod>2026-10-31T08:11:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-10-31T08:11:00+01:00</news:publication_date>
+    <news:title>Une enseignante fait venir un chien de 5 ans au collège pour apaiser les inquiétudes de ses élèves</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-au-college-pour-accompagner-les-enfants-6ad2191f416aa.jpg</image:loc>
+    <image:caption>Un chien au collège pour accompagner les enfants</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203793/attrapez-vrai-jeu-inedit-permet-collectionner-chats-quartier</loc>
   <lastmod>2026-10-30T18:04:00+01:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/abandon-de-chaton-6ad08746ce1d6.jpg</image:loc>
     <image:caption>Abandon de chaton</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204302/chaine-tv-finlandaise-propose-regarder-non-stop-chiots</loc>
-  <lastmod>2026-10-29T15:32:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-29T15:32:00+01:00</news:publication_date>
-    <news:title>Cette chaîne de TV finlandaise propose de regarder non-stop des chiots</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chiots-en-live-6ae070a13e9b0.jpg</image:loc>
-    <image:caption>Chiots en live</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203749/chien-retrouve-plus-5kg-trop-transformation-incroyable</loc>
-  <lastmod>2026-10-29T14:28:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-29T14:28:00+01:00</news:publication_date>
-    <news:title>Un chien est retrouvé dans plus de 5kg en trop : sa transformation est incroyable</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-maltraite-6ad0c9816ce6c.jpg</image:loc>
-    <image:caption>Chien maltraité</image:caption>
   </image:image>
 </data>
