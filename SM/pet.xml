@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203945/cruelle-attaque-adolescents-contre-chien-defense-effroi-total</loc>
+  <lastmod>2026-11-02T19:31:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-02T19:31:00+01:00</news:publication_date>
+    <news:title>Cruelle attaque d'adolescents contre un chien sans défense : l'effroi est total !</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jugendliche-auf-e-scootern-6ad739bea9a3f.jpg</image:loc>
+    <image:caption>Des adolescents en trottinette électrique</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203864/husky-decouvre-nouveau-quartier-adopte-rituel-matinal-adorable</loc>
+  <lastmod>2026-11-02T16:53:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-02T16:53:00+01:00</news:publication_date>
+    <news:title>Cette Husky découvre son nouveau quartier : elle adopte un rituel matinal adorable</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6ad5de57af003-6ad5de57af052.jpg</image:loc>
+    <image:caption>husky</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203857/deux-cyclistes-decouvrent-forme-abandonnee-fosse-7-9m-personnes-sous-choc-video</loc>
+  <lastmod>2026-11-02T14:42:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-02T14:42:00+01:00</news:publication_date>
+    <news:title>Deux cyclistes découvrent une forme abandonnée dans un fossé : 7,9M de personnes sont sous le choc (vidéo)</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-cycliste-6ad5cdb97103c.jpg</image:loc>
+    <image:caption>Un cycliste&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203859/chien-contraint-vivre-lobscurite-totale-apprend-enfin-vivre-lumiere</loc>
   <lastmod>2026-11-02T11:41:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/tayco-le-chien-6ad5c42f06655.jpg</image:loc>
     <image:caption>Tayco le chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203863/chien-apercoit-requin-vagues-quil-fait-ensuite-choque-temoins</loc>
-  <lastmod>2026-11-01T14:56:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-01T14:56:00+01:00</news:publication_date>
-    <news:title>Un chien aperçoit un requin dans les vagues : ce qu'il fait ensuite choque les témoins</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-a-bord-d-un-bateau-6ad5dbf97fb85.jpg</image:loc>
-    <image:caption>un chien à bord d'un bateau</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203860/chien-squelettique-retrouve-fond-dun-canal-font-lien-sos-envoyes-depuis-2-mois-demi-video</loc>
-  <lastmod>2026-11-01T12:19:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-01T12:19:00+01:00</news:publication_date>
-    <news:title>Ce chien squelettique est retrouvé au fond d’un canal : ils font le lien avec des SOS envoyés depuis 2 mois et demi</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-squelettique-6ad5d40600fd4.jpg</image:loc>
-    <image:caption>Chien squelettique&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203865/intriguee-remorque-jardin-souleve-bache-fait-decouverte-inattendue</loc>
-  <lastmod>2026-11-01T10:30:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-01T10:30:00+01:00</news:publication_date>
-    <news:title>Intriguée par une remorque dans son jardin, elle soulève une bâche et fait une découverte inattendue</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chatons-dans-une-remorque-6ad5e00682401.jpg</image:loc>
-    <image:caption>Des chatons dans une remorque</image:caption>
   </image:image>
 </data>
