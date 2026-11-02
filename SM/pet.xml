@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203859/chien-contraint-vivre-lobscurite-totale-apprend-enfin-vivre-lumiere</loc>
+  <lastmod>2026-11-02T11:41:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-02T11:41:00+01:00</news:publication_date>
+    <news:title>Un chien contraint de vivre dans l'obscurité totale apprend enfin à vivre dans la lumière</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-qui-a-toujours-vecu-dans-l-obscurite-cherche-sa-famille-6ad5d0f5cd6f5.jpg</image:loc>
+    <image:caption>un chien qui a toujours vécu dans l'obscurité cherche sa famille</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203862/ebeniste-utilise-chutes-bois-fabriquer-vraies-maisons-isolees-chats-errants</loc>
+  <lastmod>2026-11-02T09:30:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-02T09:30:00+01:00</news:publication_date>
+    <news:title>Un ébéniste utilise ses chutes de bois pour fabriquer de vraies maisons isolées aux chats errants</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-ebeniste-fabrique-une-maison-pour-chats-6ad5dab52e806.jpg</image:loc>
+    <image:caption>un ébéniste fabrique une maison pour chats</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chats/conseils/184471/faire-si-chat-adopte-refuge-association-malade</loc>
+  <lastmod>2026-11-02T07:02:13+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2025-02-20T11:01:00+01:00</news:publication_date>
+    <news:title>Que faire si mon chat adopté en refuge ou association est malade ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-refuge-malade-67769b4b3e030.jpg</image:loc>
+    <image:caption>chat refuge malade</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/181238/les-meilleurs-noms-japonais-pour-un-chien</loc>
+  <lastmod>2026-11-02T07:02:12+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2025-09-05T11:57:00+02:00</news:publication_date>
+    <news:title>Les meilleurs noms japonais pour un chien</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chiens-japonais-66c4884436fa0.jpg</image:loc>
+    <image:caption>Des chiots de race japonaise</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203781/chienne-jugee-maudite-anciens-proprietaires-lenferment-font-vivre-pires-horreurs</loc>
+  <lastmod>2026-11-02T07:02:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-02T07:02:00+01:00</news:publication_date>
+    <news:title>Cette chienne est jugée « maudite » par ses anciens propriétaires : ils l'enferment et lui font vivre les pires horreurs</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/topaze-la-chienne-6ad1cd56e60a4.jpg</image:loc>
+    <image:caption>Topaze la chienne&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203858/chatte-15-ans-deposee-refuge-raison-abandon-particulierement-triste</loc>
   <lastmod>2026-11-01T19:59:00+01:00</lastmod>
   <news:news>
@@ -69,75 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chatons-dans-une-remorque-6ad5e00682401.jpg</image:loc>
     <image:caption>Des chatons dans une remorque</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203861/chien-jete-benne-ordures-museau-scotche-refuge-ouvre-enquete-voisins-mobilisent</loc>
-  <lastmod>2026-11-01T08:10:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-01T08:10:00+01:00</news:publication_date>
-    <news:title>Chienne prisonnière d’une benne à ordures : personne ne l’entend, sa gueule est scotchée</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/hope-la-chienne-6ad5d7d8c8cb7.jpg</image:loc>
-    <image:caption>Hope la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203782/chien-sechappe-cesse-voisin-remet-rapport-cinq-pages-toutes-betises-chien-video</loc>
-  <lastmod>2026-10-31T17:37:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-31T17:37:00+01:00</news:publication_date>
-    <news:title>Son chien s’échappe sans cesse : un voisin lui remet un rapport de cinq pages sur toutes ses bêtises de la semaine</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bear-le-chien-6ad1d5c8a12cf.jpg</image:loc>
-    <image:caption>Bear le chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203846/protection-marine-chienne-labrador-distinguee-travail</loc>
-  <lastmod>2026-10-31T15:21:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-31T15:21:00+01:00</news:publication_date>
-    <news:title>Protection marine : une chienne Labrador distinguée pour son travail</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/labrador-noir-6ad2181592a21.jpg</image:loc>
-    <image:caption>Labrador noir</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204084/halloween-periode-danger-chats-noirs</loc>
-  <lastmod>2026-10-31T14:04:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-31T14:04:00+01:00</news:publication_date>
-    <news:title>Halloween : période de danger pour les chats noirs ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-noir-6ad9ddc7ade0d.jpg</image:loc>
-    <image:caption>Chat noir</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203804/berger-allemand-egare-rend-commissariat-demander-laide</loc>
-  <lastmod>2026-10-31T12:26:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-10-31T12:26:00+01:00</news:publication_date>
-    <news:title>Un Berger Allemand égaré se rend au commissariat pour demander de l'aide</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-berger-allemand-6ad1e9c9d7c9d.jpg</image:loc>
-    <image:caption>Un Berger allemand</image:caption>
   </image:image>
 </data>
