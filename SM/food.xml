@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/baba-au-rhum-ancienne-petri-a-la-main-sirop-simple</loc>
+  <lastmod>2026-11-03T07:48:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/10/infographie-baba-au-rhum-ancienne-petri-a-la-main-sirop-simple.webp</image:loc>
+  </image:image>
+  <loc>https://www.st-claire.eu/lyon-apprendre-a-faire-de-ses-mains-de-la-table-a-latelier</loc>
+  <lastmod>2026-11-02T09:56:09+00:00</lastmod>
   <loc>https://gourmetbag.fr/meilleure-saison-voyage-culinaire-espagne/</loc>
   <lastmod>2026-11-02T09:55:43+00:00</lastmod>
   <image:image>
@@ -41,17 +48,5 @@
   <lastmod>2026-10-31T08:43:00+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/10/infographie-guide-pratique-roya-saint-florent-acces-eau-parking.webp</image:loc>
-  </image:image>
-  <loc>https://gourmetbag.fr/fruits-mer-gouter-bord-mer-mediterranee/</loc>
-  <lastmod>2026-10-31T06:27:25+00:00</lastmod>
-  <image:image>
-    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/10/fruits-mer-gouter-bord-mer-mediterranee-1.jpg</image:loc>
-    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/10/fruits-mer-gouter-bord-mer-mediterranee-2.jpg</image:loc>
-  </image:image>
-  <loc>https://gourmetbag.fr/organiser-degustation-produits-terroir-chez-soi/</loc>
-  <lastmod>2026-10-30T13:14:18+00:00</lastmod>
-  <image:image>
-    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/10/organiser-degustation-produits-terroir-chez-soi-1.jpg</image:loc>
-    <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/10/organiser-degustation-produits-terroir-chez-soi-2.jpg</image:loc>
   </image:image>
 </data>
