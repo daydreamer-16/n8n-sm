@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/203932/chatons-bonne-sante-donner-association-sonne-lalerte-face-mensonge-preoccupant</loc>
+  <lastmod>2026-11-03T19:51:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-03T19:51:00+01:00</news:publication_date>
+    <news:title>« Chatons en bonne santé à donner » : une association sonne l'alerte face à un mensonge préoccupant</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/deux-chatons-6ad714b13919a.jpg</image:loc>
+    <image:caption>Deux chatons&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203993/abandonnee-parc-portee-chatte-sauve-neuf-chatons-avant-pouvoir-enfin-penser</loc>
+  <lastmod>2026-11-03T16:57:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-03T16:57:00+01:00</news:publication_date>
+    <news:title>Abandonnée dans un parc avec sa portée, cette chatte sauve neuf chatons avant de pouvoir enfin penser à elle</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chatons-abandonnes-6ad75fd0b8b9a.jpg</image:loc>
+    <image:caption>Chatons abandonnés</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/203935/chienne-disparue-apres-avalanche-alaska-retrouvee-vivante-apres-50-heures-grace-airtag</loc>
+  <lastmod>2026-11-03T14:31:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-03T14:31:00+01:00</news:publication_date>
+    <news:title>Cette chienne disparue après une avalanche en Alaska est retrouvée vivante après 50 heures grâce à un AirTag</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-chienne-en-alaska-6ad720c79a7b1.jpg</image:loc>
+    <image:caption>une chienne en Alaska</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/196623/methode-education-chiots-zigzag-pourquoi-experts-plebiscitent</loc>
+  <lastmod>2026-11-03T13:04:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-03T13:04:00+01:00</news:publication_date>
+    <news:title>La méthode d'éducation Zigzag : pourquoi les experts l’adorent !</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-puppy-playing-on-the-grass-69ccc37fd3e8c.png</image:loc>
+    <image:caption>Chiot Golden Retriever jouant dans l'herbe</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203938/suit-bruits-etranges-jusqua-benne-trouve-minuscule-ame-vivant-boite-couches</loc>
   <lastmod>2026-11-03T12:02:00+01:00</lastmod>
   <news:news>
@@ -83,61 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-cycliste-6ad5cdb97103c.jpg</image:loc>
     <image:caption>Un cycliste&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203859/chien-contraint-vivre-lobscurite-totale-apprend-enfin-vivre-lumiere</loc>
-  <lastmod>2026-11-02T11:41:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-02T11:41:00+01:00</news:publication_date>
-    <news:title>Un chien contraint de vivre dans l'obscurité totale apprend enfin à vivre dans la lumière</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-qui-a-toujours-vecu-dans-l-obscurite-cherche-sa-famille-6ad5d0f5cd6f5.jpg</image:loc>
-    <image:caption>un chien qui a toujours vécu dans l'obscurité cherche sa famille</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203862/ebeniste-utilise-chutes-bois-fabriquer-vraies-maisons-isolees-chats-errants</loc>
-  <lastmod>2026-11-02T09:30:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-02T09:30:00+01:00</news:publication_date>
-    <news:title>Un ébéniste utilise ses chutes de bois pour fabriquer de vraies maisons isolées aux chats errants</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-ebeniste-fabrique-une-maison-pour-chats-6ad5dab52e806.jpg</image:loc>
-    <image:caption>un ébéniste fabrique une maison pour chats</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chats/conseils/184471/faire-si-chat-adopte-refuge-association-malade</loc>
-  <lastmod>2026-11-02T07:02:13+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2025-02-20T11:01:00+01:00</news:publication_date>
-    <news:title>Que faire si mon chat adopté en refuge ou association est malade ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-refuge-malade-67769b4b3e030.jpg</image:loc>
-    <image:caption>chat refuge malade</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/181238/les-meilleurs-noms-japonais-pour-un-chien</loc>
-  <lastmod>2026-11-02T07:02:12+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2025-09-05T11:57:00+02:00</news:publication_date>
-    <news:title>Les meilleurs noms japonais pour un chien</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chiens-japonais-66c4884436fa0.jpg</image:loc>
-    <image:caption>Des chiots de race japonaise</image:caption>
   </image:image>
 </data>
