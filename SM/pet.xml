@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204058/habitants-benevoles-sunissent-fabriquer-refuges-mesure-chats-abri</loc>
+  <lastmod>2026-11-04T18:07:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-04T18:07:00+01:00</news:publication_date>
+    <news:title>Des habitants et des bénévoles s'unissent pour fabriquer des refuges sur mesure aux chats sans abri</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-dans-une-cabane-pour-l-hiver-6ad86ce674277.jpg</image:loc>
+    <image:caption>un chat dans une cabane pour l'hiver</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204057/chien-chasse-retrouve-coince-falaise-9-pompiers-declenchent-operation-impressionnante</loc>
+  <lastmod>2026-11-04T16:33:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-04T16:33:00+01:00</news:publication_date>
+    <news:title>Un chien de chasse se retrouve coincé sur une falaise : 9 pompiers déclenchent une opération impressionnante</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-de-chasse-et-un-sauveteur-6ad86b2ec51cc.jpg</image:loc>
+    <image:caption>un chien de chasse et un sauveteur</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204060/maltraitance-animale-chien-enchaine-depuis-1-an-surprend-sauveteurs-linstant-brisent-liens</loc>
+  <lastmod>2026-11-04T14:05:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-04T14:05:00+01:00</news:publication_date>
+    <news:title>Maltraitance animale : un chien enchaîné depuis 1 an surprend les sauveteurs dès l'instant où ils brisent ses liens</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-enchaine-6ad873cf12e8a.jpg</image:loc>
+    <image:caption>Chien enchaîné&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/203937/golden-retriever-fait-fondre-internet-tache-naissance-forme-coeur</loc>
   <lastmod>2026-11-04T11:44:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-puppy-playing-on-the-grass-69ccc37fd3e8c.png</image:loc>
     <image:caption>Chiot Golden Retriever jouant dans l'herbe</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203938/suit-bruits-etranges-jusqua-benne-trouve-minuscule-ame-vivant-boite-couches</loc>
-  <lastmod>2026-11-03T12:02:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-03T12:02:00+01:00</news:publication_date>
-    <news:title>Elle suit des « bruits étranges » jusqu'à une benne et trouve une minuscule âme vivant dans une boîte à couches</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-abandonne-6ad7306210e13.jpg</image:loc>
-    <image:caption>Un chien abandonné</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203933/apres-mort-chat-couple-souhaite-plus-adopter-double-rencontre-fait-douter</loc>
-  <lastmod>2026-11-03T09:29:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-03T09:29:00+01:00</news:publication_date>
-    <news:title>Après la mort de leur chat, ce couple ne souhaite plus adopter : une double rencontre les fait douter</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/tatouage-de-slash-6ad7197becdb2.jpg</image:loc>
-    <image:caption>Tatouage de Slash&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203934/chaton-3-semaines-mange-papier-survivre-rue-sauveteurs-battent-sauver</loc>
-  <lastmod>2026-11-03T06:49:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-03T06:49:00+01:00</news:publication_date>
-    <news:title>Chaton de trois semaines sauvé par une passante : la clinique découvre ce qui remplissait son estomac</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/meskina-le-chaton-6ad71eaa36e53.jpg</image:loc>
-    <image:caption>Meskina le chaton</image:caption>
   </image:image>
 </data>
