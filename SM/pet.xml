@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204062/coince-pendant-48-heures-canalisation-chien-sauve-grace-mobilisation-collective</loc>
+  <lastmod>2026-11-05T11:34:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-05T11:34:00+01:00</news:publication_date>
+    <news:title>Coincé pendant 48H dans une canalisation, ce chien est sauvé grâce à une mobilisation collective</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sauvetage-d-un-chien-6ad878b96d294.jpg</image:loc>
+    <image:caption>Sauvetage d'un chien&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204056/conducteur-sarrete-urgence-lautoroute-boule-noire-essaie-survivre-milieu-danger</loc>
+  <lastmod>2026-11-05T09:46:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-05T09:46:00+01:00</news:publication_date>
+    <news:title>Un conducteur s'arrête en urgence sur l'autoroute : une boule noire essaie de survivre au milieu du danger</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-autoroute-6ad865f7b3f69.jpg</image:loc>
+    <image:caption>Une autoroute&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204059/famille-chats-abandonnes-parc-prenant-decision-delicate-benevoles-font-double-sauvetage</loc>
+  <lastmod>2026-11-05T07:04:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-05T07:04:00+01:00</news:publication_date>
+    <news:title>Famille de chats abandonnés dans un parc : en prenant une décision délicate, les bénévoles font un double sauvetage</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sac-de-transport-6ad86ecad019d.jpg</image:loc>
+    <image:caption>Sac de transport&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chats/conseils/162116/quand-un-chat-vous-choisit-il-montre-ces-5-signes-daffection</loc>
+  <lastmod>2026-11-05T07:01:51+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2022-10-02T14:27:00+02:00</news:publication_date>
+    <news:title>Quand un chat vous choisit, il montre ces 5 signes d'affection</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/5d81373906d4c373287914.jpg</image:loc>
+    <image:caption>Quand un chat vous choisit, il montre ces 5 signes d'affection</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/166214/chien-mourant-quelques-jours-mourir-signes</loc>
+  <lastmod>2026-11-05T07:01:51+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2023-01-24T16:05:00+01:00</news:publication_date>
+    <news:title>Chien mourant : que font les chiens quelques jours avant de mourir, quels sont les signes ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/63c928db3f849674620473.jpg</image:loc>
+    <image:caption>Comment savoir si mon chien va mourir ?</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204058/habitants-benevoles-sunissent-fabriquer-refuges-mesure-chats-abri</loc>
   <lastmod>2026-11-04T18:07:00+01:00</lastmod>
   <news:news>
@@ -56,88 +126,18 @@
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-6ad72f7054377.jpg</image:loc>
     <image:caption>Golden Retriever</image:caption>
   </image:image>
-  <loc>https://wamiz.com/actu/203936/formule-voeu-haute-voix-concernant-chaton-quelques-heures-plus-tard-mal-croire-arrivant-chez</loc>
-  <lastmod>2026-11-04T09:27:00+01:00</lastmod>
+  <loc>https://wamiz.com/actu/204472/pro-plan-r-proteinandenergy-parfait-pour-votre-chien-actif</loc>
+  <lastmod>2026-11-04T11:41:00+01:00</lastmod>
   <news:news>
     <news:publication>
       <news:name>Wamiz</news:name>
       <news:language>fr-FR</news:language>
     </news:publication>
-    <news:publication_date>2026-11-04T09:27:00+01:00</news:publication_date>
-    <news:title>Elle fait un vœu concernant un chaton : quelques heures plus tard, elle a du mal à  y croire en arrivant chez elle</news:title>
+    <news:publication_date>2026-11-04T11:41:00+01:00</news:publication_date>
+    <news:title>PRO PLAN® Protein&amp;Energy : Parfait pour votre chien actif</news:title>
   </news:news>
   <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/garage-de-maison-6ad72920ae50c.jpg</image:loc>
-    <image:caption>Garage de maison&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203944/protecteurs-animaux-appeles-recuperer-chat-grincheux-place-stupeur</loc>
-  <lastmod>2026-11-04T07:09:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-04T07:09:00+01:00</news:publication_date>
-    <news:title>Des bénévoles sont envoyés chercher un chat grognon : ils restent sans voix à leur arrivée</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/gerettete-wildkatze-6ad7331fee61a.jpg</image:loc>
-    <image:caption>Chat sauvage secouru</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203932/chatons-bonne-sante-donner-association-sonne-lalerte-face-mensonge-preoccupant</loc>
-  <lastmod>2026-11-03T19:51:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-03T19:51:00+01:00</news:publication_date>
-    <news:title>« Chatons en bonne santé à donner » : une association sonne l'alerte face à un mensonge préoccupant</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/deux-chatons-6ad714b13919a.jpg</image:loc>
-    <image:caption>Deux chatons&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203993/abandonnee-parc-portee-chatte-sauve-neuf-chatons-avant-pouvoir-enfin-penser</loc>
-  <lastmod>2026-11-03T16:57:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-03T16:57:00+01:00</news:publication_date>
-    <news:title>Abandonnée dans un parc avec sa portée, cette chatte sauve neuf chatons avant de pouvoir enfin penser à elle</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chatons-abandonnes-6ad75fd0b8b9a.jpg</image:loc>
-    <image:caption>Chatons abandonnés</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/203935/chienne-disparue-apres-avalanche-alaska-retrouvee-vivante-apres-50-heures-grace-airtag</loc>
-  <lastmod>2026-11-03T14:31:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-03T14:31:00+01:00</news:publication_date>
-    <news:title>Cette chienne disparue après une avalanche en Alaska est retrouvée vivante après 50 heures grâce à un AirTag</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-chienne-en-alaska-6ad720c79a7b1.jpg</image:loc>
-    <image:caption>une chienne en Alaska</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/196623/methode-education-chiots-zigzag-pourquoi-experts-plebiscitent</loc>
-  <lastmod>2026-11-03T13:04:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-03T13:04:00+01:00</news:publication_date>
-    <news:title>La méthode d'éducation Zigzag : pourquoi les experts l’adorent !</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-puppy-playing-on-the-grass-69ccc37fd3e8c.png</image:loc>
-    <image:caption>Chiot Golden Retriever jouant dans l'herbe</image:caption>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/test-produit-purina-6aeb07dc9150a.png</image:loc>
+    <image:caption>test produit purina</image:caption>
   </image:image>
 </data>
