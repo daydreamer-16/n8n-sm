@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204175/meghan-markle-lance-gamme-dart-vivre-chien-pula-premier-testeur-officiel</loc>
+  <lastmod>2026-11-06T18:14:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-06T18:14:00+01:00</news:publication_date>
+    <news:title>Meghan Markle lance un jouet pour chien dans sa collection de Noël : son chien Pula est le premier testeur officiel</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-de-meghan-markle-6adb1cec84a35.jpg</image:loc>
+    <image:caption>Chien de Meghan Markle</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204178/physicien-risque-voir-etude-rejetee-trouve-solution-geniale-nommant-chat-coauteur</loc>
+  <lastmod>2026-11-06T16:11:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-06T16:11:00+01:00</news:publication_date>
+    <news:title>Un physicien risque de voir son étude rejetée : il trouve une solution géniale en nommant son chat coauteur</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-devant-une-machine-a-ecrire-6adb330fada0b.jpg</image:loc>
+    <image:caption>un chat devant une machine à écrire</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204077/pendant-vacances-repere-forme-leau-port-39-1m-personnes-mettent-crier-voyant-sauter-video</loc>
+  <lastmod>2026-11-06T14:37:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-06T14:37:00+01:00</news:publication_date>
+    <news:title>Pendant ses vacances, elle repère une forme dans l'eau d'un port : 39,1M de personnes se mettent à crier en la voyant sauter</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sauvetage-dans-un-port-6ad9b6bed661f.jpg</image:loc>
+    <image:caption>Sauvetage dans un port&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204078/chat-blanc-traverse-route-sous-yeux-cetait-fait-animal-tres-rare-video</loc>
   <lastmod>2026-11-06T11:49:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/staffordshire-terrier-6ad9cc47e96f8.jpg</image:loc>
     <image:caption>Staffordshire Terrier</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204062/coince-pendant-48-heures-canalisation-chien-sauve-grace-mobilisation-collective</loc>
-  <lastmod>2026-11-05T11:34:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-05T11:34:00+01:00</news:publication_date>
-    <news:title>Coincé pendant 48H dans une canalisation, ce chien est sauvé grâce à une mobilisation collective</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sauvetage-d-un-chien-6ad878b96d294.jpg</image:loc>
-    <image:caption>Sauvetage d'un chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204056/conducteur-sarrete-urgence-lautoroute-boule-noire-essaie-survivre-milieu-danger</loc>
-  <lastmod>2026-11-05T09:46:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-05T09:46:00+01:00</news:publication_date>
-    <news:title>Un conducteur s'arrête en urgence sur l'autoroute : une boule noire essaie de survivre au milieu du danger</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-autoroute-6ad865f7b3f69.jpg</image:loc>
-    <image:caption>Une autoroute&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204059/famille-chats-abandonnes-parc-prenant-decision-delicate-benevoles-font-double-sauvetage</loc>
-  <lastmod>2026-11-05T07:04:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-05T07:04:00+01:00</news:publication_date>
-    <news:title>Famille de chats abandonnés dans un parc : en prenant une décision délicate, les bénévoles font un double sauvetage</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sac-de-transport-6ad86ecad019d.jpg</image:loc>
-    <image:caption>Sac de transport&amp;nbsp;</image:caption>
   </image:image>
 </data>
