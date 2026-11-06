@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/how-brussels-zagreb-and-utrecht-are-reclaiming-streets-from-cars/</loc>
+  <lastmod>2026-11-06T12:31:36+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/11/image001.png</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/11/image002.png</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/11/image004.png</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/11/image003.png</image:loc>
+  </image:image>
   <loc>https://cities-today.com/ai-powered-virtual-hosts-bring-new-experiences-to-sports-stadiums/</loc>
   <lastmod>2026-11-05T14:52:33+00:00</lastmod>
   <image:image>
@@ -52,12 +60,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/08/dreamstime_m_67963514.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/08/JBehnke-High-Res-scaled.jpg</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/how-kansas-citys-ai-agents-are-transforming-people-management/</loc>
-  <lastmod>2026-10-21T15:40:37+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/far-chinberdiev-OOkAJ6Am_4-unsplash.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/LB-headshot.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/09/D.-Schuman.png</image:loc>
   </image:image>
 </data>
