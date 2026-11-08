@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204173/chat-refuge-reconforte-enfouissant-visage-chaussures-ancien-maitre</loc>
+  <lastmod>2026-11-08T10:54:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-08T10:54:00+01:00</news:publication_date>
+    <news:title>Un chat de refuge se réconforte en enfouissant son visage dans les chaussures de son ancien maître</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-qui-se-reconforte-avec-une-chaussure-6adb115c868b6.jpg</image:loc>
+    <image:caption>Un chat qui se réconforte avec une chaussure</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204172/cris-bord-route-cycliste-interrompt-entrainement-sauver-vie-oubliee-video</loc>
+  <lastmod>2026-11-08T08:39:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-08T08:39:00+01:00</news:publication_date>
+    <news:title>Cris au bord de la route : une cycliste interrompt son entraînement pour sauver une vie oubliée</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sortie-a-velo-6adb108cc9f5c.jpg</image:loc>
+    <image:caption>Sortie à vélo&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chats/conseil/chat-joue-caca-13619.html</loc>
+  <lastmod>2026-11-08T07:01:58+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2018-10-12T14:45:00+02:00</news:publication_date>
+    <news:title>Pourquoi mon chat joue-t-il avec son caca ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-caca-bande-fb-5bc05fb711487.jpg</image:loc>
+    <image:caption>chat caca litière</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseil/chien-perd-poils-queue-16891.html</loc>
+  <lastmod>2026-11-08T07:01:57+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2020-01-24T17:00:00+01:00</news:publication_date>
+    <news:title>Mon chien perd ses poils sur sa queue : pourquoi et que faire ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-gratte-fb-5e2b0826e1cbe.jpg</image:loc>
+    <image:caption>chien se gratte</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204174/18-chiots-refuge-adoptes-vie-personne-veut-donner-chance-meres-video</loc>
   <lastmod>2026-11-07T19:11:00+01:00</lastmod>
   <news:news>
@@ -83,61 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-poinsettia.jpg</image:loc>
     <image:caption>Chat Poinsettia, plantes toxiques</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseil/reagir-chien-refuse-marcher-pluie-9201.html</loc>
-  <lastmod>2026-11-07T07:01:54+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2020-10-02T17:00:00+02:00</news:publication_date>
-    <news:title>Mon chien ne veut pas sortir quand il pleut : que faire ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/homme-marchant-avec-son-chien-dans-la-rue-pavee-660e440d603df.jpg</image:loc>
-    <image:caption>Pas toujours facile de motiver son chien quand il pleut !</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chats/conseil/chat-monte-table-empecher-15604.html</loc>
-  <lastmod>2026-11-07T07:01:54+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2023-02-06T15:01:00+01:00</news:publication_date>
-    <news:title>Pourquoi mon chat monte-t-il sur la table, et comment l'en empêcher ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/63e113a9d4a19063204526.jpg</image:loc>
-    <image:caption>Comment empêcher son chat de grimper sur la table ?</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204175/meghan-markle-lance-gamme-dart-vivre-chien-pula-premier-testeur-officiel</loc>
-  <lastmod>2026-11-06T18:14:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-06T18:14:00+01:00</news:publication_date>
-    <news:title>Meghan Markle lance un jouet pour chien dans sa collection de Noël : son chien Pula est le premier testeur officiel</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-de-meghan-markle-6adb1cec84a35.jpg</image:loc>
-    <image:caption>Chien de Meghan Markle</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204178/physicien-risque-voir-etude-rejetee-trouve-solution-geniale-nommant-chat-coauteur</loc>
-  <lastmod>2026-11-06T16:11:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-06T16:11:00+01:00</news:publication_date>
-    <news:title>Un physicien risque de voir son étude rejetée : il trouve une solution géniale en nommant son chat coauteur</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-devant-une-machine-a-ecrire-6adb330fada0b.jpg</image:loc>
-    <image:caption>un chat devant une machine à écrire</image:caption>
   </image:image>
 </data>
