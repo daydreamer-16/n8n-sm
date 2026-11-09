@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204308/renonce-robe-mariee-2-000-financer-loperation-dune-chienne-refuge</loc>
+  <lastmod>2026-11-09T18:46:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-09T18:46:00+01:00</news:publication_date>
+    <news:title>Elle renonce à sa robe de mariée à 2 000 $ pour financer l'opération d'une chienne de refuge</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-noir-et-blanc-6ae0acf4f1dcc.jpg</image:loc>
+    <image:caption>Un chien noir et blanc</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204278/coincee-mur-chatte-sauvee-in-extremis-association</loc>
+  <lastmod>2026-11-09T16:29:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-09T16:29:00+01:00</news:publication_date>
+    <news:title>Coincée dans un mur, une chatte est sauvée in extremis par une association</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-chatte-a-ete-trouvee-entre-deux-murs-6adf592f7ce4f.jpg</image:loc>
+    <image:caption>Une chatte a été trouvée entre deux murs</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204230/chiens-errants-veillent-devant-maison-grand-pere-prefere-apres-deces</loc>
+  <lastmod>2026-11-09T14:16:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-09T14:16:00+01:00</news:publication_date>
+    <news:title>Des chiens errants veillent devant la maison de leur grand-père préféré après son décès</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chiens-errants-avec-un-grand-pere-6adf1ca7ccdc4.jpg</image:loc>
+    <image:caption>des chiens errants avec un grand-père</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204231/chienne-fragile-cernee-vautours-ignore-vie-point-basculer</loc>
   <lastmod>2026-11-09T11:56:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-refuge-6adb5cca9ba96.jpg</image:loc>
     <image:caption>Chien refuge</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204171/chien-squelettique-abandonne-poteau-devant-refuge-sauveteurs-mal-retenir-larmes-video</loc>
-  <lastmod>2026-11-08T14:05:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-08T14:05:00+01:00</news:publication_date>
-    <news:title>Ce chien squelettique est attaché à un poteau devant le refuge : les sauveteurs ont du mal à retenir leurs larmes</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/henry-le-chien-6adb09370d7d6.jpg</image:loc>
-    <image:caption>Henry le chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204173/chat-refuge-reconforte-enfouissant-visage-chaussures-ancien-maitre</loc>
-  <lastmod>2026-11-08T10:54:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-08T10:54:00+01:00</news:publication_date>
-    <news:title>Un chat de refuge se réconforte en enfouissant son visage dans les chaussures de son ancien maître</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-qui-se-reconforte-avec-une-chaussure-6adb115c868b6.jpg</image:loc>
-    <image:caption>Un chat qui se réconforte avec une chaussure</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204172/cris-bord-route-cycliste-interrompt-entrainement-sauver-vie-oubliee-video</loc>
-  <lastmod>2026-11-08T08:39:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-08T08:39:00+01:00</news:publication_date>
-    <news:title>Cris au bord de la route : une cycliste interrompt son entraînement pour sauver une vie oubliée</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sortie-a-velo-6adb108cc9f5c.jpg</image:loc>
-    <image:caption>Sortie à vélo&amp;nbsp;</image:caption>
   </image:image>
 </data>
