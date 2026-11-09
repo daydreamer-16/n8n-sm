@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204231/chienne-fragile-cernee-vautours-ignore-vie-point-basculer</loc>
+  <lastmod>2026-11-09T11:56:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-09T11:56:00+01:00</news:publication_date>
+    <news:title>Une chienne fragile, cernée par des vautours, ignore que sa vie est sur le point de basculer</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jasmin-la-chienne-6adf1f8df4224.jpg</image:loc>
+    <image:caption>Jasmin la chienne</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204229/trouve-ca-hilarant-homme-fait-demande-mariage-temoin-decide-sincruster</loc>
+  <lastmod>2026-11-09T09:47:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-09T09:47:00+01:00</news:publication_date>
+    <news:title>« On a trouvé ça hilarant » : un homme fait sa demande en mariage, un « témoin »  décide de s’incruster</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/demande-en-mariage-6adf19f58feec.jpg</image:loc>
+    <image:caption>Demande en mariage</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-09T07:02:17+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/184296/chienne-portee-puis-donner-vendre-chiots</loc>
+  <lastmod>2026-11-09T07:02:17+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2025-02-04T11:24:00+01:00</news:publication_date>
+    <news:title>Ma chienne a eu une portée : puis-je donner ou vendre ses chiots ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/don-de-chiot-6763f7b3de7c4.jpg</image:loc>
+    <image:caption>Don de chiot</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204233/tumeur-lestomac-chienne-lendoscopie-revele-pomme-terre-entiere</loc>
+  <lastmod>2026-11-09T06:56:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-09T06:56:00+01:00</news:publication_date>
+    <news:title>Une « tumeur » dans l'estomac de sa chienne : l'endoscopie révèle une pomme de terre entière</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-echographie-de-chien-6adf25043b313.jpg</image:loc>
+    <image:caption>Une échographie de chien</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204232/voiture-trouvent-golden-retriever-nhesitent-seconde-laider</loc>
   <lastmod>2026-11-08T18:41:00+01:00</lastmod>
   <news:news>
@@ -69,75 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sortie-a-velo-6adb108cc9f5c.jpg</image:loc>
     <image:caption>Sortie à vélo&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chats/conseil/chat-joue-caca-13619.html</loc>
-  <lastmod>2026-11-08T07:01:58+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2018-10-12T14:45:00+02:00</news:publication_date>
-    <news:title>Pourquoi mon chat joue-t-il avec son caca ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-caca-bande-fb-5bc05fb711487.jpg</image:loc>
-    <image:caption>chat caca litière</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseil/chien-perd-poils-queue-16891.html</loc>
-  <lastmod>2026-11-08T07:01:57+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2020-01-24T17:00:00+01:00</news:publication_date>
-    <news:title>Mon chien perd ses poils sur sa queue : pourquoi et que faire ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-gratte-fb-5e2b0826e1cbe.jpg</image:loc>
-    <image:caption>chien se gratte</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204174/18-chiots-refuge-adoptes-vie-personne-veut-donner-chance-meres-video</loc>
-  <lastmod>2026-11-07T19:11:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-07T19:11:00+01:00</news:publication_date>
-    <news:title>18 chiots de refuge sont adoptés pour la vie : personne ne veut donner cette chance à leurs mères</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/kila-la-chienne-6adb190e8c4c4.jpg</image:loc>
-    <image:caption>Kila la chienne&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204176/morceau-bois-bord-route-quand-met-bouger-sort-voiture-pleurant-video</loc>
-  <lastmod>2026-11-07T16:36:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-07T16:36:00+01:00</news:publication_date>
-    <news:title>Morceau de bois sur le bord de la route : quand il se met à bouger elle sort de sa voiture en pleurant</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/fosse-en-bord-de-route-6adb1dda00dfa.jpg</image:loc>
-    <image:caption>Fossé en bord de route&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204180/chaton-noir-miracule-apres-avoir-frole-pire-lautoroute</loc>
-  <lastmod>2026-11-07T14:16:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-07T14:16:00+01:00</news:publication_date>
-    <news:title>Un chaton noir miraculé après avoir frôlé le pire sur l'autoroute</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-noir-6adb51bfc5917.jpg</image:loc>
-    <image:caption>chat noir</image:caption>
   </image:image>
 </data>
