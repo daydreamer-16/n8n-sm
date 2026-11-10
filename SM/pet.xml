@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204303/lewis-hamilton-offre-chien-enfants-kim-kardashian</loc>
+  <lastmod>2026-11-10T11:40:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-10T11:40:00+01:00</news:publication_date>
+    <news:title>Lewis Hamilton : il offre un chien aux enfants de Kim Kardashian</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/lewis-hamilton-et-kim-kardashian-6ae07c783bf43.jpg</image:loc>
+    <image:caption>Lewis Hamilton et &amp;nbsp;Kim Kardashian</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204300/refuge-sous-choc-morte-matin-bras-directrice-refuge</loc>
+  <lastmod>2026-11-10T09:13:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-10T09:13:00+01:00</news:publication_date>
+    <news:title>Un refuge sous le choc : "Je suis morte ce matin. Sans toi, dans les bras d'une inconnue"</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/einkaufskorb-mit-strick-daran-6ae0640387d86.jpg</image:loc>
+    <image:caption>La vue de ce panier de courses est particulièrement bouleversante.</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204299/cauchemar-pendant-promenade-hommes-encerclent-jeune-femme-chien-reaction-totalement-inattendue</loc>
+  <lastmod>2026-11-10T07:03:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-10T07:03:00+01:00</news:publication_date>
+    <news:title>Cauchemar en promenade : 3 hommes encerclent une jeune femme, son chien a une réaction totalement inattendue !</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/frau-mit-hund-beim-abend-gassi-6ae0624ce65b3.jpg</image:loc>
+    <image:caption>Une femme promène son chien en soirée</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-10T07:01:55+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204308/renonce-robe-mariee-2-000-financer-loperation-dune-chienne-refuge</loc>
   <lastmod>2026-11-09T18:46:00+01:00</lastmod>
   <news:news>
@@ -70,20 +126,6 @@
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/demande-en-mariage-6adf19f58feec.jpg</image:loc>
     <image:caption>Demande en mariage</image:caption>
   </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-09T07:02:17+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
   <loc>https://wamiz.com/chiens/conseils/184296/chienne-portee-puis-donner-vendre-chiots</loc>
   <lastmod>2026-11-09T07:02:17+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/don-de-chiot-6763f7b3de7c4.jpg</image:loc>
     <image:caption>Don de chiot</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204233/tumeur-lestomac-chienne-lendoscopie-revele-pomme-terre-entiere</loc>
-  <lastmod>2026-11-09T06:56:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-09T06:56:00+01:00</news:publication_date>
-    <news:title>Une « tumeur » dans l'estomac de sa chienne : l'endoscopie révèle une pomme de terre entière</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-echographie-de-chien-6adf25043b313.jpg</image:loc>
-    <image:caption>Une échographie de chien</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204232/voiture-trouvent-golden-retriever-nhesitent-seconde-laider</loc>
-  <lastmod>2026-11-08T18:41:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-08T18:41:00+01:00</news:publication_date>
-    <news:title>En voiture, ils trouvent une Golden Retriever : ils n’hésitent pas une seconde à l’aider</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retriever-6adf213129332.jpg</image:loc>
-    <image:caption>Golden Retriever</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204201/enfant-vient-lire-livres-refuge-chien-va-avoir-reaction-incroyable</loc>
-  <lastmod>2026-11-08T16:27:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-08T16:27:00+01:00</news:publication_date>
-    <news:title>Un enfant vient lire des livres dans un refuge : un chien va avoir une réaction incroyable</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-refuge-6adb5cca9ba96.jpg</image:loc>
-    <image:caption>Chien refuge</image:caption>
   </image:image>
 </data>
