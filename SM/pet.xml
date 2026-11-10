@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204349/coup-foudre-quatre-pattes-chiot-berger-allemand-emeut-toile-enlacant-jambes-dun-enfant</loc>
+  <lastmod>2026-11-10T18:11:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-10T18:11:00+01:00</news:publication_date>
+    <news:title>Coup de foudre à quatre pattes : un chiot berger allemand émeut la Toile en enlaçant les jambes d’un enfant</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-jeune-chiot-se-prend-d-affection-pour-un-enfant-6ae1d92e9b9cf.jpg</image:loc>
+    <image:caption>Un jeune chiot se prend d'affection pour un enfant</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204301/femme-emmene-chien-parc-centaines-pigeons-viennent-saluer-video</loc>
+  <lastmod>2026-11-10T16:33:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-10T16:33:00+01:00</news:publication_date>
+    <news:title>Une femme emmène son chien au parc :  des centaines de pigeons viennent le saluer</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-entoure-de-pigeons-6ae068fe0c1ee.jpg</image:loc>
+    <image:caption>un chien entouré de pigeons</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204309/chatte-handicapee-arrive-refuge-metamorphose-agents</loc>
+  <lastmod>2026-11-10T14:03:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-10T14:03:00+01:00</news:publication_date>
+    <news:title>Une chatte handicapée arrive dans un refuge : elle se métamorphose avec les agents</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chatte-handicapee-6ae0aea1a2031.jpg</image:loc>
+    <image:caption>Chatte handicapée</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204303/lewis-hamilton-offre-chien-enfants-kim-kardashian</loc>
   <lastmod>2026-11-10T11:40:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chiens-errants-avec-un-grand-pere-6adf1ca7ccdc4.jpg</image:loc>
     <image:caption>des chiens errants avec un grand-père</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204231/chienne-fragile-cernee-vautours-ignore-vie-point-basculer</loc>
-  <lastmod>2026-11-09T11:56:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-09T11:56:00+01:00</news:publication_date>
-    <news:title>Une chienne fragile, cernée par des vautours, ignore que sa vie est sur le point de basculer</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jasmin-la-chienne-6adf1f8df4224.jpg</image:loc>
-    <image:caption>Jasmin la chienne</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204229/trouve-ca-hilarant-homme-fait-demande-mariage-temoin-decide-sincruster</loc>
-  <lastmod>2026-11-09T09:47:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-09T09:47:00+01:00</news:publication_date>
-    <news:title>« On a trouvé ça hilarant » : un homme fait sa demande en mariage, un « témoin »  décide de s’incruster</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/demande-en-mariage-6adf19f58feec.jpg</image:loc>
-    <image:caption>Demande en mariage</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/184296/chienne-portee-puis-donner-vendre-chiots</loc>
-  <lastmod>2026-11-09T07:02:17+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2025-02-04T11:24:00+01:00</news:publication_date>
-    <news:title>Ma chienne a eu une portée : puis-je donner ou vendre ses chiots ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/don-de-chiot-6763f7b3de7c4.jpg</image:loc>
-    <image:caption>Don de chiot</image:caption>
   </image:image>
 </data>
