@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/boeuf-bourguignon-fondant-recette-pas-a-pas-cocotte</loc>
+  <lastmod>2026-11-11T07:40:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/10/infographie-boeuf-bourguignon-fondant-recette-pas-a-pas-cocotte.webp</image:loc>
+  </image:image>
   <loc>https://gourmetbag.fr/deconseille-aller-maldives/</loc>
   <lastmod>2026-11-10T08:03:15+00:00</lastmod>
   <image:image>
@@ -44,10 +49,5 @@
   <lastmod>2026-11-07T10:50:25+00:00</lastmod>
   <image:image>
     <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/11/infographie-repenser-plats-preferes-quotidien-meilleure-sante.webp</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/machine-cafe-professionnelle-achat-ou-location/</loc>
-  <lastmod>2026-11-07T10:31:36+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/11/infographie-machine-cafe-professionnelle-achat-ou-location.webp</image:loc>
   </image:image>
 </data>
