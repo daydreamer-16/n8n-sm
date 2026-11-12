@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204374/un-detenu-refuse-de-regagner-sa-cellule-pour-une-raison-bouleversante-revoir-son-vieux-chien</loc>
+  <lastmod>2026-11-12T18:32:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-12T18:32:00+01:00</news:publication_date>
+    <news:title>Un détenu refuse de regagner sa cellule pour une raison bouleversante : revoir son vieux chien</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-vieux-chien-malade-6ae85318d446d.jpg</image:loc>
+    <image:caption>un vieux chien malade</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204373/ce-springer-anglais-renifle-une-salamandre-avec-sa-truffe-le-drame-survient-en-15-minutes</loc>
+  <lastmod>2026-11-12T16:40:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-12T16:40:00+01:00</news:publication_date>
+    <news:title>Ce springer anglais renifle une salamandre avec sa truffe : le drame survient en 15 minutes</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-salamandre-de-feu-6ae851e92497b.jpg</image:loc>
+    <image:caption>une salamandre de feu</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204370/chat-grincheux-supporte-calins-veterinaires-decouvrent-quils-font-fausse-route-depuis-debut-video</loc>
+  <lastmod>2026-11-12T14:02:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-12T14:02:00+01:00</news:publication_date>
+    <news:title>Ce chat grincheux « ne supporte pas » les câlins : les vétérinaires découvrent qu'ils font fausse route depuis le début</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/margaret-la-chatte-6ae995b5f1f7b.jpg</image:loc>
+    <image:caption>Margaret la chatte&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204364/levasion-portee-chiots-golden-retriever-prend-poudre-descampette-aurores</loc>
   <lastmod>2026-11-12T11:23:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-noir-6ae319d45b43b.jpg</image:loc>
     <image:caption>Chat noir</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204353/trouve-mourant-chaton-transforme-grace-lamour-solidarite-soigneurs</loc>
-  <lastmod>2026-11-11T13:21:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-11T13:21:00+01:00</news:publication_date>
-    <news:title>Trouvé mourant, ce chaton se transforme grâce à l’amour et la solidarité de soigneurs</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/transformation-chat-6ae1fd47b5c99.jpg</image:loc>
-    <image:caption>Transformation chat</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204348/recuperee-sous-trombes-deau-chatte-moins-trois-ans-surprend-veterinaire</loc>
-  <lastmod>2026-11-11T10:43:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-11T10:43:00+01:00</news:publication_date>
-    <news:title>Récupérée sous des trombes d'eau, cette chatte de moins de trois ans surprend le vétérinaire</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-chatte-secourue-6ae1bebb918cc.jpg</image:loc>
-    <image:caption>Une chatte secourue</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204347/chien-venait-chaque-semaine-jardin-quon-sache-pourquoi-mot-collier-repondu</loc>
-  <lastmod>2026-11-11T07:54:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-11T07:54:00+01:00</news:publication_date>
-    <news:title>Ce chien venait chaque semaine dans leur jardin sans qu’on sache pourquoi : un mot dans son collier a répondu</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-berger-allemand-devant-une-fenetre-6ae1ba5fb30fd.jpg</image:loc>
-    <image:caption>un chien berger allemand devant une fenêtre</image:caption>
   </image:image>
 </data>
