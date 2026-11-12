@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204364/levasion-portee-chiots-golden-retriever-prend-poudre-descampette-aurores</loc>
+  <lastmod>2026-11-12T11:23:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-12T11:23:00+01:00</news:publication_date>
+    <news:title>Les as de l'évasion : une portée de chiots Golden Retriever prend la poudre d'escampette aux aurores</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chiens-golden-retriever-6ae4717c23ecb.jpg</image:loc>
+    <image:caption>Chiens Golden Retriever</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204363/apercu-seul-talus-dautoroute-automobiliste-decouvre-chien-attache-arbre</loc>
+  <lastmod>2026-11-12T09:44:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-12T09:44:00+01:00</news:publication_date>
+    <news:title>Aperçu seul sur un talus d’autoroute : une automobiliste découvre un chien attaché à un arbre</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-attache-a-un-arbre-6ae46a2c62736.jpg</image:loc>
+    <image:caption>Chien attaché à un arbre&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204362/piege-canalisation-inondee-sous-magasin-chien-sauve-apres-plusieurs-jours-dangoisse</loc>
+  <lastmod>2026-11-12T07:04:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-12T07:04:00+01:00</news:publication_date>
+    <news:title>Piégé dans une canalisation inondée sous un magasin, un chien sauvé après plusieurs jours d'angoisse</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sauvetage-d-un-chien-6ae4631792266.jpg</image:loc>
+    <image:caption>Sauvetage d'un chien</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-12T07:02:01+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204360/rencontre-tout-douceur-entre-cheval-minuscule-chiot-teckel-fait-fondre-toile</loc>
   <lastmod>2026-11-11T19:09:00+01:00</lastmod>
   <news:news>
@@ -83,61 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-berger-allemand-devant-une-fenetre-6ae1ba5fb30fd.jpg</image:loc>
     <image:caption>un chien berger allemand devant une fenêtre</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-11T07:02:30+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204349/coup-foudre-quatre-pattes-chiot-berger-allemand-emeut-toile-enlacant-jambes-dun-enfant</loc>
-  <lastmod>2026-11-10T18:11:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-10T18:11:00+01:00</news:publication_date>
-    <news:title>Coup de foudre à quatre pattes : un chiot berger allemand émeut la Toile en enlaçant les jambes d’un enfant</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-jeune-chiot-se-prend-d-affection-pour-un-enfant-6ae1d92e9b9cf.jpg</image:loc>
-    <image:caption>Un jeune chiot se prend d'affection pour un enfant</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204301/femme-emmene-chien-parc-centaines-pigeons-viennent-saluer-video</loc>
-  <lastmod>2026-11-10T16:33:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-10T16:33:00+01:00</news:publication_date>
-    <news:title>Une femme emmène son chien au parc :  des centaines de pigeons viennent le saluer</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-entoure-de-pigeons-6ae068fe0c1ee.jpg</image:loc>
-    <image:caption>un chien entouré de pigeons</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204309/chatte-handicapee-arrive-refuge-metamorphose-agents</loc>
-  <lastmod>2026-11-10T14:03:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-10T14:03:00+01:00</news:publication_date>
-    <news:title>Une chatte handicapée arrive dans un refuge : elle se métamorphose avec les agents</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chatte-handicapee-6ae0aea1a2031.jpg</image:loc>
-    <image:caption>Chatte handicapée</image:caption>
   </image:image>
 </data>
