@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204375/abandonnee-carton-scotche-derriere-poubelle-chatte-attend-famille-depuis-pres-dun-an</loc>
+  <lastmod>2026-11-13T11:31:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-13T11:31:00+01:00</news:publication_date>
+    <news:title>Abandonnée dans un carton scotché derrière une poubelle, cette chatte attend sa famille depuis près d'un an</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/lady-une-chatte-qui-attend-un-foyer-6ae8684a45f97.jpg</image:loc>
+    <image:caption>Lady, une chatte qui attend un foyer</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204372/un-vieux-chien-de-14-ans-devient-la-mascotte-dune-ecole-maternelle</loc>
+  <lastmod>2026-11-13T09:30:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-13T09:30:00+01:00</news:publication_date>
+    <news:title>Un vieux chien de 14 ans devient la mascotte d’une école maternelle </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/nino-chien-en-maternelle-6ae84bf0665b3.jpg</image:loc>
+    <image:caption>Nino, chien en maternelle&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204371/avec-une-simple-boite-de-patee-pour-chat-lidee-folle-qui-a-revolutionne-lhistoire-des-transports</loc>
+  <lastmod>2026-11-13T07:19:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-13T07:19:00+01:00</news:publication_date>
+    <news:title>Avec une simple boîte de pâtée pour chat : l'idée folle qui a révolutionné l'histoire des transports</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-boite-pour-chat-pres-d-un-bateau-6ae84897e3ff6.jpg</image:loc>
+    <image:caption>Une boite pour chat près d'un bateau</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-13T07:02:33+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204374/un-detenu-refuse-de-regagner-sa-cellule-pour-une-raison-bouleversante-revoir-son-vieux-chien</loc>
   <lastmod>2026-11-12T18:32:00+01:00</lastmod>
   <news:news>
@@ -83,61 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/sauvetage-d-un-chien-6ae4631792266.jpg</image:loc>
     <image:caption>Sauvetage d'un chien</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-12T07:02:01+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204360/rencontre-tout-douceur-entre-cheval-minuscule-chiot-teckel-fait-fondre-toile</loc>
-  <lastmod>2026-11-11T19:09:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-11T19:09:00+01:00</news:publication_date>
-    <news:title>La rencontre tout en douceur entre un cheval et un minuscule chiot teckel fait fondre la Toile</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/6ae34ff5e7cec-6ae34ff5e7d20.jpg</image:loc>
-    <image:caption>La rencontre tout en douceur entre un cheval et un minuscule chiot teckel fait fondre la Toile</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204358/filme-train-jeter-colis-chat-livreur-presente-excuses</loc>
-  <lastmod>2026-11-11T17:22:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-11T17:22:00+01:00</news:publication_date>
-    <news:title>Filmé en train de jeter un colis sur un chat, un livreur présente ses excuses</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-noir-6ae31f328aeda.jpg</image:loc>
-    <image:caption>Chat noir</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204357/royaume-uni-enfermee-pres-dun-mois-apres-mort-proprietaire-chatte-survit-miraculeusement</loc>
-  <lastmod>2026-11-11T15:04:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-11T15:04:00+01:00</news:publication_date>
-    <news:title>Royaume-Uni : enfermée près d'un mois après la mort de son propriétaire, une chatte survit miraculeusement</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-noir-6ae319d45b43b.jpg</image:loc>
-    <image:caption>Chat noir</image:caption>
   </image:image>
 </data>
