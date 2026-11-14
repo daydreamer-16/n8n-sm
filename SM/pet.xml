@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204515/des-promeneurs-trouvent-quatre-chatons-le-temps-presse-pour-les-aider</loc>
+  <lastmod>2026-11-14T18:34:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-14T18:34:00+01:00</news:publication_date>
+    <news:title>Des promeneurs trouvent quatre chatons : le temps presse pour les aider</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-chatons-trouves-pres-d-un-canal-6aec801cc507d.jpg</image:loc>
+    <image:caption>Des chatons trouvés près d'un canal</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204425/de-la-rue-a-la-quietude-dun-foyer-la-nuit-ou-une-chatte-gestante-a-donne-la-vie-en-toute-securite</loc>
+  <lastmod>2026-11-14T15:56:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-14T15:56:00+01:00</news:publication_date>
+    <news:title>De la rue à la quiétude d'un foyer : la nuit où une chatte gestante a donné la vie en toute sécurité</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chatte-et-sa-famille-6ae9b9c386fbf.jpg</image:loc>
+    <image:caption>Chatte et sa famille</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204420/apres-401-jours-de-refuge-timothy-le-chien-fete-comme-un-prince-pour-son-adoption</loc>
+  <lastmod>2026-11-14T13:36:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-14T13:36:00+01:00</news:publication_date>
+    <news:title>Après 401 jours de refuge, Timothy le chien fêté comme un prince pour son adoption</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/timothy-a-trouve-sa-famille-6ae9a8bab80ab.jpg</image:loc>
+    <image:caption>Timothy a trouvé sa famille</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204418/abandonne-quatre-fois-en-moins-dun-an-184k-internautes-se-mobilisent-pour-changer-le-destin-de-ce-chiot-video</loc>
   <lastmod>2026-11-14T10:58:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jeu-concours-calendrier-de-l-avent-lk-6af5d3f867809.jpg</image:loc>
     <image:caption>Jeu concours calendrier de l'avent LK</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204375/abandonnee-carton-scotche-derriere-poubelle-chatte-attend-famille-depuis-pres-dun-an</loc>
-  <lastmod>2026-11-13T11:31:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-13T11:31:00+01:00</news:publication_date>
-    <news:title>Abandonnée dans un carton scotché derrière une poubelle, cette chatte attend sa famille depuis près d'un an</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/lady-une-chatte-qui-attend-un-foyer-6ae8684a45f97.jpg</image:loc>
-    <image:caption>Lady, une chatte qui attend un foyer</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204372/un-vieux-chien-de-14-ans-devient-la-mascotte-dune-ecole-maternelle</loc>
-  <lastmod>2026-11-13T09:30:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-13T09:30:00+01:00</news:publication_date>
-    <news:title>Un vieux chien de 14 ans devient la mascotte d’une école maternelle </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/nino-chien-en-maternelle-6ae84bf0665b3.jpg</image:loc>
-    <image:caption>Nino, chien en maternelle&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204371/avec-une-simple-boite-de-patee-pour-chat-lidee-folle-qui-a-revolutionne-lhistoire-des-transports</loc>
-  <lastmod>2026-11-13T07:19:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-13T07:19:00+01:00</news:publication_date>
-    <news:title>Avec une simple boîte de pâtée pour chat : l'idée folle qui a révolutionné l'histoire des transports</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-boite-pour-chat-pres-d-un-bateau-6ae84897e3ff6.jpg</image:loc>
-    <image:caption>Une boite pour chat près d'un bateau</image:caption>
   </image:image>
 </data>
