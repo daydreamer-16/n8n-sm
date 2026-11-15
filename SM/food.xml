@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.st-claire.eu/gencives-fragilisees-alimentation-a-limiter-niveau-de-preuve</loc>
+  <lastmod>2026-11-15T08:28:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.st-claire.eu/wp-content/uploads/2026/11/infographie-gencives-fragilisees-alimentation-a-limiter-niveau-de-preuve.webp</image:loc>
+  </image:image>
   <loc>https://www.lateliergourmand.fr/stades-intelligents-experience-fans-durabilite-sport/</loc>
   <lastmod>2026-11-14T10:01:19+00:00</lastmod>
   <image:image>
@@ -41,10 +46,5 @@
   <lastmod>2026-11-12T11:32:11+00:00</lastmod>
   <image:image>
     <image:loc>https://gourmetbag.fr/wp-content/uploads/2026/11/ml-font-100-g-lait-coco-1.jpg</image:loc>
-  </image:image>
-  <loc>https://www.lateliergourmand.fr/gestion-operations-ameliorer-satisfaction-employes-restauration/</loc>
-  <lastmod>2026-11-12T11:11:15+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/11/infographie-gestion-operations-ameliorer-satisfaction-employes-restauration.webp</image:loc>
   </image:image>
 </data>
