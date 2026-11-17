@@ -1,41 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
-  <loc>https://www.healthline.com/health-news/eli-lilly-new-drug-retatrutide-shows-greater-weight-loss-results</loc>
+  <loc>https://www.healthline.com/health-news/relieve-coffee-anxiety-l-theanine</loc>
   <news:news>
     <news:publication>
       <news:name>Healthline</news:name>
       <news:language>en</news:language>
     </news:publication>
-    <news:publication_date>2026-5-26</news:publication_date>
-    <news:title>Lilly's New Drug Yields Dramatic Weight Loss, Rivaling Bariatric Surgery, GLP-1s</news:title>
+    <news:publication_date>2026-11-17</news:publication_date>
+    <news:title>Mind Games: My ‘Secret’ to Enjoying Coffee Without Anxiety</news:title>
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.healthline.com/health-news/watermelon-may-help-lower-heart-disease-risk</loc>
+  <loc>https://www.healthline.com/health-news/new-guidelines-recommend-routine-prostate-cancer-screening</loc>
   <news:news>
     <news:publication>
       <news:name>Healthline</news:name>
       <news:language>en</news:language>
     </news:publication>
-    <news:publication_date>2026-5-25</news:publication_date>
-    <news:title>Eating More Watermelon May Help Prevent Heart Disease</news:title>
+    <news:publication_date>2026-11-16</news:publication_date>
+    <news:title>New Guidelines Recommend Routine Prostate Cancer Screening for Men Over 50</news:title>
     <news:keywords/>
     <news:stock_tickers/>
   </news:news>
-  <loc>https://www.naturitas.es</loc>
-  <lastmod>2026-05-26T18:58:50.588Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/tortitas-sin-gluten-con-frutas-y-cacao</loc>
-  <lastmod>2026-05-21T08:00:00Z</lastmod>
-  <loc>https://www.naturitas.es/blog/recetas/lasana-de-trigo-sarraceno-y-calabacin</loc>
-  <lastmod>2026-05-20T10:00:00Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/microbiota-y-energia-en-primavera-como-influyen-en-tu-bienestar-diario</loc>
-  <lastmod>2026-05-20T08:00:00Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/todo-lo-que-necesitas-saber-sobre-la-histamina-y-su-relacion-con-las-alergias</loc>
-  <lastmod>2026-05-20T06:22:30Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/concentracion-y-bienestar-mental-como-potenciar-tu-enfoque-de-manera-natural</loc>
-  <lastmod>2026-05-13T08:00:02Z</lastmod>
-  <loc>https://www.naturitas.es/blog/salud-y-bienestar/solares-y-cuidado-de-la-piel-protegerse-de-manera-natural-y-consciente</loc>
-  <lastmod>2026-05-12T08:00:15Z</lastmod>
-  <loc>https://www.naturitas.es/blog/postres-y-dulces/brownie-de-pistacho-sin-gluten</loc>
-  <lastmod>2026-05-07T08:00:01Z</lastmod>
+  <loc>https://www.healthline.com/health-news/u-s-loses-measles-elimination-status-after-26-years</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Healthline</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-16</news:publication_date>
+    <news:title>U.S. to Lose Measles Elimination Status After 26 Years. Here’s Why</news:title>
+    <news:keywords/>
+    <news:stock_tickers/>
+  </news:news>
 </data>
