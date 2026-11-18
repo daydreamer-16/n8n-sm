@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204492/4-chatons-appellent-a-laide-au-bord-dun-etang-tout-le-monde-les-ignore-sauf-une-personne</loc>
+  <lastmod>2026-11-18T10:05:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-18T10:05:00+01:00</news:publication_date>
+    <news:title>4 chatons appellent à l'aide au bord d'un étang : tout le monde les ignore sauf une personne </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bord-d-un-etang-6aec5c50c60da.jpg</image:loc>
+    <image:caption>Bord d'un étang&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204481/une-chienne-inconnue-franchit-un-portail-ferme-et-sinvite-chez-une-femme-qui-se-sentait-seule-ce-jour-la</loc>
+  <lastmod>2026-11-18T07:34:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-18T07:34:00+01:00</news:publication_date>
+    <news:title>Une chienne inconnue franchit un portail fermé et s’invite chez une femme qui se sentait seule ce jour-là</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-arrive-chez-une-femme-6aec47e545553.jpg</image:loc>
+    <image:caption>un chien arrive chez une femme</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-18T07:02:45+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204422/elle-pensait-recuperer-un-colis-pour-halloween-linterieur-revele-une-livraison-tres-inattendue-et-poilue</loc>
   <lastmod>2026-11-17T17:04:00+01:00</lastmod>
   <news:news>
@@ -70,20 +112,6 @@
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/furby-le-chien-6ae9a73049232.jpg</image:loc>
     <image:caption>Furby le chien&amp;nbsp;</image:caption>
   </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-17T07:02:03+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
   <loc>https://wamiz.com/actu/204483/des-ouvriers-trouvent-22-chiens-errants-un-veritable-defi-logistique-pour-le-refuge-local</loc>
   <lastmod>2026-11-16T19:36:00+01:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-errant-dans-la-rue-6aec5e7e0c300.jpg</image:loc>
     <image:caption>un chat errant dans la rue</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204500/le-doberman-ne-quitte-plus-le-berceau-du-bebe-son-alerte-sauve-le-nourrisson</loc>
-  <lastmod>2026-11-16T15:02:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-16T15:02:00+01:00</news:publication_date>
-    <news:title>Le Doberman ne quitte plus le berceau du bébé : son alerte sauve le nourrisson</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-pres-du-berceau-d-un-bebe-6aec5f6323ec3.jpg</image:loc>
-    <image:caption>un chien près du berceau d'un bébé</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204571/un-chien-senior-arrive-au-refuge-ils-hallucinent-devant-le-personnage-de-dessin-anime-connu-sous-leurs-yeux</loc>
-  <lastmod>2026-11-16T13:15:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-16T13:15:00+01:00</news:publication_date>
-    <news:title>Un chien senior arrive au refuge : ils hallucinent devant le personnage de dessin animé connu sous leurs yeux</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/bert-le-chien-6aedf34f599f4.jpg</image:loc>
-    <image:caption>Bert le chien&amp;nbsp;</image:caption>
   </image:image>
 </data>
