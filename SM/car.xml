@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/tapis-clio-5/</loc>
+  <lastmod>2026-11-19T13:41:44+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/11/a70ce321f40ce23d116d6e4278458ccb.jpg</image:loc>
+  </image:image>
   <loc>https://www.etoilecollections.fr/fiabilite-moteur-2-0-ecoboost-ford/</loc>
   <lastmod>2026-11-16T13:17:45+00:00</lastmod>
   <image:image>
@@ -57,11 +62,5 @@
   <image:image>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/11/Housse-de-voiture-sur-un-vehicule.png</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/11/Housse-de-voiture-sur-une-Tesla.png</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/boite-de-vitesses-renault-jr5-jh3-tl4-pf6-pannes-solution/</loc>
-  <lastmod>2026-11-13T10:46:40+01:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/11/boite-vitesse-renault-reconditionnee.png</image:loc>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/11/unsplash-4ohCZfaizmo.jpg</image:loc>
   </image:image>
 </data>
