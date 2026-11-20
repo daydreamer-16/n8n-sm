@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://cities-today.com/how-students-are-helping-google-to-rethink-city-services/</loc>
+  <lastmod>2026-11-20T02:38:40+00:00</lastmod>
+  <image:image>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/11/10_30_Google-Dev-8.jpg</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/11/Professional-Profile-Photo.png</image:loc>
+    <image:loc>https://cities-today.com/wp-content/uploads/2026/11/10_30_Google-Dev-3.jpg</image:loc>
+  </image:image>
   <loc>https://cities-today.com/munich-opens-autonomous-bus-trials-to-passengers/</loc>
   <lastmod>2026-11-19T02:24:15+00:00</lastmod>
   <image:image>
@@ -51,11 +58,5 @@
   <image:image>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/10/dreamstime_m_115163171.jpg</image:loc>
     <image:loc>https://cities-today.com/wp-content/uploads/2026/10/Nadeem-Ullah.png</image:loc>
-  </image:image>
-  <loc>https://cities-today.com/google-targets-city-backlogs-with-new-ai-agents/</loc>
-  <lastmod>2026-10-28T12:42:10+00:00</lastmod>
-  <image:image>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/10/dreamstime_m_153788911.jpg</image:loc>
-    <image:loc>https://cities-today.com/wp-content/uploads/2026/10/1544730765508.jpeg</image:loc>
   </image:image>
 </data>
