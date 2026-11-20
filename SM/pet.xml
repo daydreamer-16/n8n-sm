@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204709/un-shih-tzu-decide-de-fuguer-pour-se-faire-adopter-par-les-voisins-la-raison-est-hilarante</loc>
+  <lastmod>2026-11-20T10:07:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-20T10:07:00+01:00</news:publication_date>
+    <news:title>Un Shih-Tzu décide de fuguer pour se faire « adopter » par les voisins : la raison est hilarante </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-shih-tzu-6af1cc8e2632f.png</image:loc>
+    <image:caption>Chien Shih-Tzu</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204664/sarthe-lincroyable-naissance-de-14-chiots-golden-retriever-lors-dune-cesarienne-hors-norme</loc>
+  <lastmod>2026-11-20T07:29:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-20T07:29:00+01:00</news:publication_date>
+    <news:title>Sarthe : l'incroyable naissance de 14 chiots Golden Retriever lors d’une césarienne hors norme</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retrievers-6af1a1a072b19.png</image:loc>
+    <image:caption>14 bébés Golden Retrievers</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-20T07:02:09+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204584/un-chaton-bengal-achete-pour-son-physique-atterrit-au-refuge-a-6-mois-abandonne-par-un-maitre-depasse</loc>
   <lastmod>2026-11-19T18:38:00+01:00</lastmod>
   <news:news>
@@ -84,20 +126,6 @@
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-spitz-6aeb0aee6c17c.jpg</image:loc>
     <image:caption>Un spitz</image:caption>
   </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-19T07:01:57+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
   <loc>https://wamiz.com/actu/204468/pendant-la-balade-quotidienne-de-leur-chien-ils-remarquent-un-detail-au-sol-leur-vie-bascule</loc>
   <lastmod>2026-11-18T17:16:00+01:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-qui-renifle-une-boite-abandonnee-6aeaec0f1992c.jpg</image:loc>
     <image:caption>un chien qui renifle une boite abandonnée</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204467/6-chats-sont-retrouves-malades-dans-la-rue-quelques-semaines-plus-tard-ils-defient-tous-les-pronostics-video</loc>
-  <lastmod>2026-11-18T14:37:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-18T14:37:00+01:00</news:publication_date>
-    <news:title>6 chats sont retrouvés malades dans la rue : quelques semaines plus tard ils défient tous les pronostics (vidéo) </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/5-chatons-6aeae7e04db99.jpg</image:loc>
-    <image:caption>5 chatons&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204507/labandon-version-lachete-une-clinique-veterinaire-denonce-le-terrible-commis-devant-leur-etablissement</loc>
-  <lastmod>2026-11-18T12:49:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-18T12:49:00+01:00</news:publication_date>
-    <news:title>« L’abandon, version lâcheté » : une clinique vétérinaire dénonce le terrible acte commis devant leur établissement</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/clinique-veterinaire-6aec608c95d8d.jpg</image:loc>
-    <image:caption>Clinique vétérinaire&amp;nbsp;</image:caption>
   </image:image>
 </data>
