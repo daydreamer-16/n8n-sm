@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204782/ce-chien-errant-se-mefie-de-tout-le-monde-au-refuge-il-a-suffi-dun-simple-geste-pour-lui-faire-baisser-la-garde</loc>
+  <lastmod>2026-11-21T10:23:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-21T10:23:00+01:00</news:publication_date>
+    <news:title>Ce chien errant se méfie de tout le monde au refuge : il suffit d'un simple geste pour lui faire baisser la garde </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/valkyrie-la-chienne-6af1e79d4a66b.jpg</image:loc>
+    <image:caption>Valkyrie la chienne&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204583/il-pensait-terminer-sa-journee-de-travail-un-sac-oublie-dans-un-chariot-lui-donne-quelques-heures-sup-video</loc>
+  <lastmod>2026-11-21T08:13:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-21T08:13:00+01:00</news:publication_date>
+    <news:title>Il pensait terminer sa journée de travail : un sac oublié dans un chariot lui donne quelques heures sup' (vidéo) </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chariot-de-supermarche-6af19088b582a.jpg</image:loc>
+    <image:caption>Un chariot de supermarché&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-21T07:02:03+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204582/abandonne-au-milieu-de-la-ferraille-ce-minuscule-chaton-trouve-une-famille-tres-inattendue-video</loc>
   <lastmod>2026-11-20T17:34:00+01:00</lastmod>
   <news:news>
@@ -70,20 +112,6 @@
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retrievers-6af1a1a072b19.png</image:loc>
     <image:caption>14 bébés Golden Retrievers</image:caption>
   </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-20T07:02:09+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
   <loc>https://wamiz.com/actu/204584/un-chaton-bengal-achete-pour-son-physique-atterrit-au-refuge-a-6-mois-abandonne-par-un-maitre-depasse</loc>
   <lastmod>2026-11-19T18:38:00+01:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-aeroport-6aeafda55cfe2.jpg</image:loc>
     <image:caption>Un aéroport&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204470/un-couple-demande-a-rencontrer-le-chat-le-plus-age-du-refuge-ce-quils-vivent-fascine-56k-internautes-video</loc>
-  <lastmod>2026-11-19T14:37:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-19T14:37:00+01:00</news:publication_date>
-    <news:title>Un couple demande à rencontrer le chat le plus âgé du refuge : ce qu'ils vivent fascine 56K internautes </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/beatrice-la-chatte-6aeaf8a3c0a32.jpg</image:loc>
-    <image:caption>Beatrice la chatte&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204476/les-chats-petent-ils-une-etude-scientifique-en-devoile-plus-sur-ce-tabou-felin</loc>
-  <lastmod>2026-11-19T12:40:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-19T12:40:00+01:00</news:publication_date>
-    <news:title>Les chats pètent-ils ? Une étude scientifique en dévoile plus sur ce tabou félin</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chatons-6aeb3beb91cbb.jpg</image:loc>
-    <image:caption>Chatons</image:caption>
   </image:image>
 </data>
