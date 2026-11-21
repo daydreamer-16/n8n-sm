@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204813/apres-14-ans-dattente-au-refuge-un-chien-senior-profite-dune-journee-de-reve</loc>
+  <lastmod>2026-11-21T17:40:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-21T17:40:00+01:00</news:publication_date>
+    <news:title>Après 14 ans d’attente au refuge, un chien senior profite d’une journée de rêve </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-de-refuge-6af590e64a484.png</image:loc>
+    <image:caption>Chien de refuge</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204792/isolee-dans-un-sous-sol-pendant-huit-ans-une-chienne-attend-la-famille-aimante-quelle-na-jamais-eue</loc>
+  <lastmod>2026-11-21T15:28:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-21T15:28:00+01:00</news:publication_date>
+    <news:title>Isolée dans un sous-sol pendant huit ans, une chienne attend la famille aimante qu’elle n’a jamais eue</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/pattes-chien-6af32511509c2.png</image:loc>
+    <image:caption>pattes chien</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204788/une-operation-historique-plus-de-800-chiens-sauves-dun-elevage-insalubre-dans-lindre-par-la-spa</loc>
+  <lastmod>2026-11-21T12:58:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-21T12:58:00+01:00</news:publication_date>
+    <news:title>« Une opération historique » : plus de 800 chiens sauvés d’un élevage insalubre dans l’Indre par la SPA</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-secouru-par-la-spa-6af2f0f757030.png</image:loc>
+    <image:caption>Un chien secouru par la SPA</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204782/ce-chien-errant-se-mefie-de-tout-le-monde-au-refuge-il-a-suffi-dun-simple-geste-pour-lui-faire-baisser-la-garde</loc>
   <lastmod>2026-11-21T10:23:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-shih-tzu-6af1cc8e2632f.png</image:loc>
     <image:caption>Chien Shih-Tzu</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204664/sarthe-lincroyable-naissance-de-14-chiots-golden-retriever-lors-dune-cesarienne-hors-norme</loc>
-  <lastmod>2026-11-20T07:29:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-20T07:29:00+01:00</news:publication_date>
-    <news:title>Sarthe : l'incroyable naissance de 14 chiots Golden Retriever lors d’une césarienne hors norme</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/golden-retrievers-6af1a1a072b19.png</image:loc>
-    <image:caption>14 bébés Golden Retrievers</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204584/un-chaton-bengal-achete-pour-son-physique-atterrit-au-refuge-a-6-mois-abandonne-par-un-maitre-depasse</loc>
-  <lastmod>2026-11-19T18:38:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-19T18:38:00+01:00</news:publication_date>
-    <news:title>Un chaton Bengal acheté pour son physique atterrit au refuge à 6 mois, abandonné par un maître dépassé</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jax-un-magnifique-chat-bengal-6af19149cb1f8.jpg</image:loc>
-    <image:caption>Jax, un magnifique chat bengal</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204471/il-rate-son-avion-cette-attente-imprevue-lui-offre-la-meilleure-recompense-avant-de-rentrer-chez-lui-video</loc>
-  <lastmod>2026-11-19T17:05:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-19T17:05:00+01:00</news:publication_date>
-    <news:title>Il rate son avion : cette attente imprévue lui offre la meilleure récompense avant de rentrer chez lui</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-aeroport-6aeafda55cfe2.jpg</image:loc>
-    <image:caption>Un aéroport&amp;nbsp;</image:caption>
   </image:image>
 </data>
