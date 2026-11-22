@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204787/ce-chien-senfuit-des-que-sa-nouvelle-famille-sapproche-de-lui-ils-lui-offrent-le-cadeau-qui-solutionne-tout</loc>
+  <lastmod>2026-11-22T10:53:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-22T10:53:00+01:00</news:publication_date>
+    <news:title>Ce chien s'enfuit dès que sa nouvelle famille s'approche de lui : ils lui offrent le cadeau qui solutionne tout </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/yuki-le-chien-6af2e9b889532.jpg</image:loc>
+    <image:caption>Yuki le chien</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204786/inondations-au-nouveau-mexique-une-entreprise-de-rafting-sauve-45-chiens-et-leurs-familles-pris-au-piege</loc>
+  <lastmod>2026-11-22T08:27:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-22T08:27:00+01:00</news:publication_date>
+    <news:title>Inondations au Nouveau-Mexique : une entreprise de rafting sauve 45 chiens et leurs familles piégés par les eaux </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/inondations-6af2e17834539.jpg</image:loc>
+    <image:caption>Inondations au Nouveau-Mexique&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-22T07:01:58+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204813/apres-14-ans-dattente-au-refuge-un-chien-senior-profite-dune-journee-de-reve</loc>
   <lastmod>2026-11-21T17:40:00+01:00</lastmod>
   <news:news>
@@ -70,20 +112,6 @@
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chariot-de-supermarche-6af19088b582a.jpg</image:loc>
     <image:caption>Un chariot de supermarché&amp;nbsp;</image:caption>
   </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-21T07:02:03+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
   <loc>https://wamiz.com/actu/204582/abandonne-au-milieu-de-la-ferraille-ce-minuscule-chaton-trouve-une-famille-tres-inattendue-video</loc>
   <lastmod>2026-11-20T17:34:00+01:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-hangar-a-outils-6af181ff87a35.jpg</image:loc>
     <image:caption>Un hangar à outils&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204585/une-enseignante-emmene-son-chat-au-college-trois-fois-par-semaine-pour-apaiser-ses-eleves</loc>
-  <lastmod>2026-11-20T12:28:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-20T12:28:00+01:00</news:publication_date>
-    <news:title>Une enseignante emmène son chat au collège trois fois par semaine pour apaiser ses élèves</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-dans-un-college-pour-apaiser-les-eleves-6af192f50aab8.jpg</image:loc>
-    <image:caption>un chat dans un collège pour apaiser les élèves</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204709/un-shih-tzu-decide-de-fuguer-pour-se-faire-adopter-par-les-voisins-la-raison-est-hilarante</loc>
-  <lastmod>2026-11-20T10:07:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-20T10:07:00+01:00</news:publication_date>
-    <news:title>Un Shih-Tzu décide de fuguer pour se faire « adopter » par les voisins : la raison est hilarante </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-shih-tzu-6af1cc8e2632f.png</image:loc>
-    <image:caption>Chien Shih-Tzu</image:caption>
   </image:image>
 </data>
