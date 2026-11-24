@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204854/cette-valise-suspecte-attire-le-regard-dun-passant-deux-ames-en-peine-etouffent-a-linterieur-video</loc>
+  <lastmod>2026-11-24T16:50:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-24T16:50:00+01:00</news:publication_date>
+    <news:title>Cette valise suspecte attire le regard d'un passant : deux âmes en peine étouffent à l'intérieur</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-valise-abandonnee-6afabf98a0349.jpg</image:loc>
+    <image:caption>Une valise abandonnée</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204847/ce-chat-errant-laisse-des-traces-apres-son-passage-les-indices-revelent-quil-est-recherche-depuis-18-mois</loc>
+  <lastmod>2026-11-24T14:37:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-24T14:37:00+01:00</news:publication_date>
+    <news:title>Ce chat errant laisse des « traces » après son passage : les indices révèlent qu'il est recherché depuis 18 mois </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/salem-le-chat-6afab4c1179a2.jpg</image:loc>
+    <image:caption>Salem le chat&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204838/un-petit-intrus-seme-la-pagaille-sur-un-terrain-de-foot-les-supporters-ne-peuvent-plus-sarreter-de-rire-video</loc>
   <lastmod>2026-11-24T11:57:00+01:00</lastmod>
   <news:news>
@@ -111,33 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/ares-le-chien-6af57b9ae95c3.jpg</image:loc>
     <image:caption>Ares le chien&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204823/terrifiee-par-le-moindre-bruit-une-chienne-de-refuge-sort-enfin-de-sa-coquille-grace-a-une-benevole</loc>
-  <lastmod>2026-11-23T10:05:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-23T10:05:00+01:00</news:publication_date>
-    <news:title>Terrifiée par le moindre bruit, une chienne de refuge sort enfin de sa coquille grâce à une bénévole </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/lola-chienne-en-refuge-6af5c180688e5.png</image:loc>
-    <image:caption>Lola Chienne en refuge</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204802/votre-chat-miaule-en-vous-fixant-une-etude-revele-ce-quil-attend-de-vous</loc>
-  <lastmod>2026-11-23T07:26:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-23T07:26:00+01:00</news:publication_date>
-    <news:title>Votre chat miaule en vous fixant ? Une étude révèle ce qu’il attend de vous</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chat-qui-miaule-dans-une-maison-6af57d1b941aa.jpg</image:loc>
-    <image:caption>un chat qui miaule dans une maison</image:caption>
   </image:image>
 </data>
