@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/205302/grand-jeu-de-noel-retrouvez-les-paires-et-tentez-de-gagner-lune-des-11-litieres-autonettoyantes-mova</loc>
+  <lastmod>2026-11-25T10:35:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-25T10:35:00+01:00</news:publication_date>
+    <news:title>Grand Jeu de Noël : retrouvez les paires et tentez de gagner l’une des 11 litières autonettoyantes MOVA !</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jeu-de-noel-wamiz-6b069ebd158ab.png</image:loc>
+    <image:caption>jeu de noel Wamiz</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204855/cage-abandonnee-dans-lallee-du-refuge-le-mot-ecrit-a-la-main-bouleverse-les-sauveteurs-video</loc>
+  <lastmod>2026-11-25T09:54:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-25T09:54:00+01:00</news:publication_date>
+    <news:title>Cage abandonnée dans l'allée du refuge : le mot écrit à la main bouleverse les sauveteurs</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/six-chiots-abandonnes-dans-une-cage-6afac8a6ec4cc.jpg</image:loc>
+    <image:caption>Six chiots abandonnés dans une cage</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204972/ballottes-dun-foyer-a-lautre-deux-chats-trouvent-enfin-le-bonheur</loc>
+  <lastmod>2026-11-25T07:46:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-25T07:46:00+01:00</news:publication_date>
+    <news:title>Ballottés d'un foyer à l'autre, deux chats trouvent enfin le bonheur</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-sphynx-6afb0d7eb13a0.png</image:loc>
+    <image:caption>Chat Sphynx&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-25T07:02:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204854/cette-valise-suspecte-attire-le-regard-dun-passant-deux-ames-en-peine-etouffent-a-linterieur-video</loc>
   <lastmod>2026-11-24T16:50:00+01:00</lastmod>
   <news:news>
@@ -70,20 +126,6 @@
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chien-et-robe-de-mariee-6af5baa6afb50.jpg</image:loc>
     <image:caption>Chien et robe de mariée&amp;nbsp;</image:caption>
   </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-24T07:02:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
   <loc>https://wamiz.com/actu/204804/un-veterinaire-reconnait-un-chien-errant-sur-facebook-et-resout-un-mystere-vieux-de-9-mois</loc>
   <lastmod>2026-11-23T18:02:00+01:00</lastmod>
   <news:news>
@@ -97,47 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chien-perdu-retrouve-sur-facebook-6af5814954041.jpg</image:loc>
     <image:caption>un chien perdu retrouvé sur Facebook</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204805/ils-decouvrent-une-boite-abandonnee-avec-une-maman-chat-et-ses-petits-24h-plus-tard-ils-ont-une-nouvelle-surprise</loc>
-  <lastmod>2026-11-23T16:39:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-23T16:39:00+01:00</news:publication_date>
-    <news:title>Ils découvrent une boîte abandonnée avec une maman chat et ses petits : 24H plus tard ils ont une nouvelle surprise (vidéo) </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-carton-abandonne-6af58725d8d21.jpg</image:loc>
-    <image:caption>Un carton abandonné&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204812/trois-ados-decouvrent-un-chaton-abandonne-dans-la-rue-leur-determination-permet-douvrir-la-bonne-porte</loc>
-  <lastmod>2026-11-23T14:51:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-23T14:51:00+01:00</news:publication_date>
-    <news:title>Trois ados découvrent un chaton abandonné dans la rue : leur détermination frappe à la bonne porte </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/jinx-le-petit-chaton-gris-6af5917fa74b3.jpg</image:loc>
-    <image:caption>Jinx le petit chaton gris&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204800/un-soldat-perd-son-chien-dassistance-de-14-ans-la-rencontre-avec-son-sosie-fait-renaitre-lespoir</loc>
-  <lastmod>2026-11-23T12:34:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-23T12:34:00+01:00</news:publication_date>
-    <news:title>Un soldat perd son chien d'assistance de 14 ans : la rencontre avec son sosie fait renaître l'espoir </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/ares-le-chien-6af57b9ae95c3.jpg</image:loc>
-    <image:caption>Ares le chien&amp;nbsp;</image:caption>
   </image:image>
 </data>
