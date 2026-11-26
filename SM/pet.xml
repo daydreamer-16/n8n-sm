@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://wamiz.com/actu/204991/vivre-gratuitement-sur-une-ile-grecque-en-soccupant-de-chats-loffre-insolite-dune-association-a-syros</loc>
+  <lastmod>2026-11-26T12:10:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-26T12:10:00+01:00</news:publication_date>
+    <news:title>Vivre gratuitement sur une île grecque en s'occupant de chats : l'offre insolite d'une association à Syros</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-sur-une-ile-6afc2051b5e31.png</image:loc>
+    <image:caption>Chat sur une île</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204983/cinq-chiots-abandonnes-a-trois-endroits-differents-de-la-ville-la-police-remonte-une-piste-grace-a-un-signalement-video</loc>
+  <lastmod>2026-11-26T09:35:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-26T09:35:00+01:00</news:publication_date>
+    <news:title>Cinq chiots abandonnés à trois endroits différents de la ville : la police remonte une piste grâce à un signalement (vidéo) </news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-chiot-abandonne-6afc14881a3a4.jpg</image:loc>
+    <image:caption>Un chiot abandonné&amp;nbsp;</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/actu/204982/deux-chiens-devalent-une-falaise-de-100-metres-lintervention-des-pompiers-vire-au-miracle</loc>
+  <lastmod>2026-11-26T07:36:00+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2026-11-26T07:36:00+01:00</news:publication_date>
+    <news:title>Deux chiens dévalent une falaise de 100 mètres : l'intervention des pompiers vire au miracle</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/des-pompiers-viennent-au-secours-de-chiens-6afc128735158.jpg</image:loc>
+    <image:caption>des pompiers viennent au secours de chiens</image:caption>
+  </image:image>
+  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
+  <lastmod>2026-11-26T07:01:55+01:00</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>Wamiz</news:name>
+      <news:language>fr-FR</news:language>
+    </news:publication>
+    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
+    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
+  </news:news>
+  <image:image>
+    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
+    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
+  </image:image>
   <loc>https://wamiz.com/actu/204973/les-chiens-donnent-lalerte-pres-dun-tuyau-leur-vigilance-sauve-la-vie-dun-mammifere-loin-de-son-terrier</loc>
   <lastmod>2026-11-25T17:06:00+01:00</lastmod>
   <news:news>
@@ -83,61 +139,5 @@
   <image:image>
     <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/chat-sphynx-6afb0d7eb13a0.png</image:loc>
     <image:caption>Chat Sphynx&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/chiens/conseils/179020/mon-chien-peut-il-manger-du-kiwi</loc>
-  <lastmod>2026-11-25T07:02:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2024-06-05T15:16:00+02:00</news:publication_date>
-    <news:title>Mon chien peut-il manger du kiwi ?</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/633d7a23bd95f484053690.png</image:loc>
-    <image:caption>Peut-on donner des kiwis à un chiot ?&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204854/cette-valise-suspecte-attire-le-regard-dun-passant-deux-ames-en-peine-etouffent-a-linterieur-video</loc>
-  <lastmod>2026-11-24T16:50:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-24T16:50:00+01:00</news:publication_date>
-    <news:title>Cette valise suspecte attire le regard d'un passant : deux âmes en peine étouffent à l'intérieur</news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/une-valise-abandonnee-6afabf98a0349.jpg</image:loc>
-    <image:caption>Une valise abandonnée</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204847/ce-chat-errant-laisse-des-traces-apres-son-passage-les-indices-revelent-quil-est-recherche-depuis-18-mois</loc>
-  <lastmod>2026-11-24T14:37:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-24T14:37:00+01:00</news:publication_date>
-    <news:title>Ce chat errant laisse des « traces » après son passage : les indices révèlent qu'il est recherché depuis 18 mois </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/salem-le-chat-6afab4c1179a2.jpg</image:loc>
-    <image:caption>Salem le chat&amp;nbsp;</image:caption>
-  </image:image>
-  <loc>https://wamiz.com/actu/204838/un-petit-intrus-seme-la-pagaille-sur-un-terrain-de-foot-les-supporters-ne-peuvent-plus-sarreter-de-rire-video</loc>
-  <lastmod>2026-11-24T11:57:00+01:00</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>Wamiz</news:name>
-      <news:language>fr-FR</news:language>
-    </news:publication>
-    <news:publication_date>2026-11-24T11:57:00+01:00</news:publication_date>
-    <news:title>Un petit intrus sème la pagaille sur le terrain de foot : les supporters ne peuvent plus s'arrêter de rire (vidéo) </news:title>
-  </news:news>
-  <image:image>
-    <image:loc>https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/article/main-picture/un-stade-de-foot-6af6d6113a77f.jpg</image:loc>
-    <image:caption>Un stade de foot&amp;nbsp;</image:caption>
   </image:image>
 </data>
