@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.lateliergourmand.fr/recette-blanquette-veau-ancienne-viande-fondante-sauce-lisse/</loc>
+  <lastmod>2026-11-26T07:20:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.lateliergourmand.fr/wp-content/uploads/2026/11/infographie-recette-blanquette-veau-ancienne-viande-fondante-sauce-lisse.webp</image:loc>
+  </image:image>
   <loc>https://www.st-claire.eu/meringue-trop-liquide-sauver-ou-refaire</loc>
   <lastmod>2026-11-25T07:48:00+00:00</lastmod>
   <image:image>
@@ -30,6 +35,4 @@
   <lastmod>2026-11-23T06:40:32+00:00</lastmod>
   <loc>https://www.st-claire.eu/applis-fitness-efficaces</loc>
   <lastmod>2026-11-23T06:33:36+00:00</lastmod>
-  <loc>https://www.st-claire.eu/fabrication-du-cidre</loc>
-  <lastmod>2026-11-23T06:26:32+00:00</lastmod>
 </data>
