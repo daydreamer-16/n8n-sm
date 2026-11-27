@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data>
+  <loc>https://www.roadstr.fr/blog/articles/alcool-au-volant-en-voiture-de-location-sanctions-assurance-et-consequences-pour-le-conducteur/</loc>
+  <lastmod>2026-11-27T21:31:35+01:00</lastmod>
+  <image:image>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/11/alcool-volant-seuils-sanctions-2026-1024x683.png</image:loc>
+    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/11/alcool-volant-seuils-sanctions-2026.png</image:loc>
+  </image:image>
   <loc>https://www.auto-moto-pneu.net/assurer-un-vehicule-leger-sans-payer-trop-cher-cest-possible/</loc>
   <lastmod>2026-11-26T15:39:42+00:00</lastmod>
   <image:image>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/femme-comparaison-assurance-vehicule-leger-fr.jpg</image:loc>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/homme-assurance-voiture-legere-comparateur-fr.jpg</image:loc>
     <image:loc>https://www.auto-moto-pneu.net/wp-content/uploads/carte-verte-assurance-vehicule-leger-boite-a-gants-fr.jpg</image:loc>
-  </image:image>
-  <loc>https://www.auto-actu.org/se-reconvertir-dans-la-mecanique-auto-sans-retourner-sur-les-bancs-du-lycee/</loc>
-  <lastmod>2026-11-26T05:02:00+00:00</lastmod>
-  <image:image>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/reconversion-mecanique-automobile-atelier-formation-fr-scaled.jpg</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/femme-reconversion-formation-mecanique-centre-professionnel-fr-scaled.jpg</image:loc>
-    <image:loc>https://www.auto-actu.org/wp-content/uploads/groupe-adultes-formation-mecanique-auto-pont-elevateur-fr-scaled.jpg</image:loc>
   </image:image>
   <loc>https://www.etoilecollections.fr/les-points-a-connaitre-sur-la-fiabilite-des-vehicules-byd/</loc>
   <lastmod>2026-11-25T21:44:16+00:00</lastmod>
@@ -37,11 +36,6 @@
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/11/412.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/11/288-GTO.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/11/F40.webp</image:loc>
-  </image:image>
-  <loc>https://www.roadstr.fr/blog/articles/tapis-clio-5/</loc>
-  <lastmod>2026-11-19T13:41:44+01:00</lastmod>
-  <image:image>
-    <image:loc>https://www.roadstr.fr/blog/wp-content/uploads/2026/11/a70ce321f40ce23d116d6e4278458ccb.jpg</image:loc>
   </image:image>
   <loc>https://www.planete-auto.fr/comment-ferrari-a-reinvente-ses-voitures-de-sport-au-fil-des-annees-70/</loc>
   <lastmod>2026-11-18T18:32:52+00:00</lastmod>
@@ -72,5 +66,11 @@
   <image:image>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/11/Vehicule-sur-une-remorque-en-circulation.webp</image:loc>
     <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/11/Depanneur-mettant-un-vehicule-sur-une-remorque.webp</image:loc>
+  </image:image>
+  <loc>https://www.planete-auto.fr/batterie-de-voiture-fatiguee-quatre-signaux-a-reperer-et-deux-tests-pour-eviter-la-panne/</loc>
+  <lastmod>2026-11-17T10:51:00+00:00</lastmod>
+  <image:image>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Mecanicien-testant-une-batterie-de-voiture.webp</image:loc>
+    <image:loc>https://www.planete-auto.fr/wp-content/uploads/2026/10/Batterie-de-voiture.webp</image:loc>
   </image:image>
 </data>
